@@ -1,3 +1,5 @@
+This is the last Thursday of this assignment and the Edubeam team should check in today. I would be working from home today. Too many activities going on at the family house in Adenta that I need to monitor, mainly the plumbers changing all the old pipes in the house. 
+
 Wotk on the PBIM seems to have slowed down. Sometimes I feel as though the work load on the Enterprise Architect and the R&D director is much with their small team, the platform developed, the lifestyle cartographer, the R&D specialist and the lab liaison. Just 6 people managing the main digital space and organization tech. I guess they also have AI agents to assist. 
 
 The project needs to be completed as soon as possible though. The payment gateway is still down, the courses need to be caught up with and the Buzzjuice Socials needs its revamp as soon as possible. The PBIM and the payment gateway at least need to resolved before the end of the year.
@@ -9,4 +11,12 @@ Maybe the Koware Group could establish a recovery team with outreach officers, s
 The Edubeam team needs to follow up on this and check the required conditions to do recovery presentations on behalf of any recovery organizations at their locaction. What organizations actually exist where they are and how could the Koware Group collaborate with them. 
 
 Makes me wonder if they have been able to locate a Koware asylum if they are in the future. Hopefully Koware still exists in that time. 
+
+Momaa left home this morning wearing red and white checkered ntama, Ghanaian woven cloth and a white duku. She said she was going for women's fellowship, I later found out that it was a women's fellowship birthday party. Popaa woke up around 11am looking hungry. I wasn't sure if we should start or wait for Momaa, so we waited. It was only at 2pm when she wasn't back that we sat to eat. Popaa too the oats and I just went for the peanut buttered bread and a cup of tea. The peanut butter was so dry I check on some strategies to soften it. Momaa came home soon after we finished and cleared up the table. 
+
+I spent most of the day editing the Classies Chronicles propol, in fact, the whole day. I sat in the lounge tapping away on my phone whilst my parents watched television. 
+
+The plumbers alerted us that there was a leak at the salon, right next to the lounge. We couldn't hear anything until we opened to door to cobwebs and a running toilet with no shut off tap. Who knows what they did to get the toilet running in there and spilling all over the floor. No one has been in the salon area for months. I think they just wanted to find a way to poke their heads in there to see what was there. 
+
+We had dinner soon after the plumbing issue started. Popaa left for a church meeting soon after dinner and Momaa and myself sat in the lounge with the television on whilst I continued with updating the Classies Chronicles episode proposal. I am just about done not so time to process it and see what becomes of it. 
 
