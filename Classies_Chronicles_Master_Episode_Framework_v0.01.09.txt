@@ -1,0 +1,1166 @@
+CLASSIES CHRONICLES
+MASTER EPISODE FRAMEWORK
+Season 00 — Foundation Phase
+Revision: v0.01.09
+Prepared: Thursday, 29 October 2026
+Status: Refactored Functional Candidate — Pending Human Approval
+Supersedes: Proposed Episode Framework v0.01.05 and consolidates feasible recommendations from the 2026-10-29 ChatGPT and GitHub reviews.
+
+======================================================================
+0. DOCUMENT CONTROL AND IMPLEMENTATION STATUS
+======================================================================
+
+Purpose
+-------
+This document defines the operational, narrative, editorial, continuity,
+research, visual and publication framework for producing a Classies
+Chronicles episode across ten working days (two Monday–Friday weeks).
+
+It is a working production specification. It does not approve changes to
+Koware Group operations, EduBeam technology, the Millennium Timezone,
+personal records, or any external system. Human approval is required before
+a proposed change becomes canon or an operational instruction.
+
+Versioning
+----------
+v0.01.05 — Original proposal.
+v0.01.06 — Intermediate review stage (if present in repository history).
+v0.01.07 — ChatGPT review candidate, 29 October 2026.
+v0.01.08 — GitHub review candidate, 29 October 2026.
+v0.01.09 — Consolidated functional candidate in this document.
+
+Approval fields to complete at repository commit:
+- Approved by:
+- Approval date/time (UTC):
+- Commit hash:
+- Effective episode/production date:
+- Change authority:
+
+No approval details are presumed or fabricated here.
+
+======================================================================
+1. EXECUTIVE SUMMARY
+======================================================================
+
+Classies Chronicles is an interconnected chronicle and storytelling
+universe combining:
+
+- Personal daily chronicles and character development.
+- Biblical study and reflection through Eternal Dreamfall.
+- Practical Health & Safety learning.
+- Verified historical and current news.
+- Clearly labelled fictional future/probe scenarios.
+- Koware Group's organisational life, research and development.
+- EduBeam temporal research and its technical/ethical consequences.
+- Community engagement, service cards and interactive learning.
+- Text, graphic, comic, video and (later) audio adaptations.
+
+The central improvement is to make every ten-day episode a coherent story
+rather than ten repetitions of a daily routine.
+
+For the current Foundation Phase story, the narrative spine is:
+
+1. An active EduBeam research mission is already underway.
+2. An anomalous signal appears in the mission/return-channel records.
+3. The signal cannot initially be authenticated.
+4. The team investigates without treating incomplete information as
+   authorisation.
+5. The anomaly is compared with earlier continuity, including the
+   9 July 2026 Singapore EduBeam event.
+6. Operational, personal and community consequences accumulate.
+7. Enka leads a formal safety and return decision.
+8. The warning “DO NOT RETURN” becomes explicit.
+9. The episode closes with the mission suspended and the warning unresolved.
+
+The warning's sender, motive, authenticity and relationship to Singapore
+must remain unknown until a later approved story development.
+
+Foundational principle:
+Rescue without responsibility is not rescue.
+Transmission without verification is not communication.
+The ability to proceed is not the same as the right to proceed.
+
+======================================================================
+2. NARRATIVE AND PRODUCTION HIERARCHY
+======================================================================
+
+Universe:              Classies Chronicles
+Annual planning:       Five seasons (planning baseline)
+Season:                Approximately two months
+Phase:                 Approximately two weeks / thematic-temporal movement
+Episode:               Ten working days, normally two Monday–Friday weeks
+Daily Chronicle:       One daily instalment
+Scene:                 A discrete narrative sequence
+Interactive layer:    Service cards, questions, challenges and discussions
+Media adaptations:     Cover, comic page, short video, audio/podcast, etc.
+
+The ten working days are a production structure, not a claim that all
+fictional events occur over precisely ten consecutive story days. Production
+time and fictional time are independent. A ten-day production may describe
+a few hours, several days, or events separated by years.
+
+Annual/seasonal planning baseline:
+- Five seasons per year.
+- Four broad movements within each season:
+  1. Present → Future.
+  2. Return to Present.
+  3. Present → Past.
+  4. Return to Present.
+- Each movement is a planning phase, not a mandatory fixed number of
+  episodes.
+- The episode's actual temporal coordinates are controlled by verified
+  Millennium Timezone outputs and approved story continuity, not by this
+  high-level pattern.
+
+Do not force every episode to include every location or every timeline.
+Use only locations that serve the episode's story and verified coordinates.
+
+======================================================================
+3. CANON, CONTINUITY AND FACT CONTROL
+======================================================================
+
+3.1 Principal character and identity
+------------------------------------
+- Enka is the principal character and narrative anchor of the Foundation
+  Phase.
+- His daily life, faith, decisions, leadership, memories and responsibilities
+  provide the audience's human point of entry.
+- Cu/Q is a later continuity alias associated with Kuala Lumpur material.
+  It must not replace Enka or be used as a retrospective retcon unless a
+  later approved canon entry explicitly establishes that relationship.
+
+3.2 Core locations
+------------------
+- Adenta, Accra: Enka's home and personal environment.
+- Amrahia, Accra: Koware Group headquarters and R&D setting, as established
+  in the current story archive.
+- Las Vegas, Nevada: historical reference location in the 29 October
+  chronicle's displayed Millennium Timezone result.
+- Kuala Lumpur, Malaysia: probe/research destination in the 29 October
+  chronicle's displayed result.
+- Singapore: important continuity location for the 9 July 2026 EduBeam
+  seed event.
+- Other places: use when supported by diary records, mission objectives,
+  verified research or approved canon.
+
+Do not treat Las Vegas as automatically being the teleportation destination
+or Kuala Lumpur as automatically being the historical reference. The
+actual endpoint results determine the coordinates for each production run.
+
+3.3 Temporal coordinate source of truth
+---------------------------------------
+The Millennium Timezone is the authoritative source for its own endpoint
+outputs. Retrieve and record, rather than infer, the historical and probe
+results for the relevant production date.
+
+Historical endpoint:
+https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
+
+Probe endpoint:
+https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=probe
+
+For every retrieval, archive:
+- Retrieval date/time in UTC.
+- Exact endpoint used.
+- Exact raw response or captured output.
+- Parsed timestamp exactly as returned.
+- Location associated with that endpoint, if supplied by the system.
+- Any parsing or interpretation notes.
+
+Do not normalise unusual years, dates, time formats or timezones merely
+because they look unconventional. Preserve the raw value and explain it
+only when the system or an approved continuity note supports an explanation.
+
+Important separation of two previously discussed time values:
+- The Thursday 29 October 2026 Chronicle reports a Millennium Timezone
+  historical reference of 20 July 2003, 06:08:15 UTC, and probe endpoint
+  of 22 December 2222, 09:36:58 UTC.
+- The previously discussed value 2167-04-30T01:13:07Z came from the
+  Sabbatical Date/Palmier probe discussion. It is not to be silently
+  substituted for the Millennium Timezone probe result.
+- Keep these as separate system records unless a verified technical
+  investigation establishes that they share a source or function.
+
+3.4 Current archive anchor
+--------------------------
+The repository contains the Thursday 29 October 2026 daily Chronicle
+“ The Light That Found Its Way Home ”, published under the file name:
+“Classies Chronicles, Episode 0.00.10-The Signal Before Sunrise”.
+
+It establishes, among other things:
+- Adenta → Amrahia as the present-day frame.
+- The 20 July 2003 Las Vegas historical reference.
+- The 22 December 2222 Kuala Lumpur probe destination.
+- The four-person team remains deployed.
+- Communications are intermittent.
+- Return conditions have not been approved because equipment readings
+  contain an inconsistency.
+- The team has been instructed to hold, conserve charge and await verified
+  information.
+- An unexplained return-channel signal appears without a confirmed origin.
+- The episode's spiritual anchor is Colossians 1:13 (NIV) as recorded in
+  that Chronicle.
+- The practical safety principle is to stop and verify incomplete
+  safety-critical instructions.
+- Neighbour concerns about unusual activity are now part of the story.
+
+This is existing published continuity. Preserve its events and wording
+where needed. Do not rewrite the archived instalment as though it never
+happened. The filename's “0.00.10” numbering is an archive identifier;
+do not silently rename it to S00E01 or assume that it maps to Day 10.
+Resolve the canonical episode/part numbering in the episode metadata ledger.
+
+3.5 The Singapore seed event
+----------------------------
+The 9 July 2026 Singapore EduBeam event is a continuity anchor identified
+in both reviews. It should be used as an earlier anomaly/pattern reference.
+Do not invent technical details about that event. Retrieve the relevant
+archive or mission record before writing specifics. The current episode may
+show that the new signal resembles an earlier pattern, but resemblance is
+not proof of a common source.
+
+3.6 Canon status labels
+-----------------------
+Every material fact in the production desk must carry one of these labels:
+
+CANON — explicitly established in approved project records or published
+        episodes.
+VERIFIED REAL-WORLD — supported by a reliable source and dated.
+SYSTEM OUTPUT — captured directly from a named live/system endpoint.
+PROPOSED — suggested but not yet approved.
+FICTIONAL SCENARIO — invented for narrative purposes and labelled as such.
+UNKNOWN — not yet established; do not fill by assumption.
+SUPERSEDED — retained for history but no longer current.
+
+AI-generated proposals do not automatically become canon. A new character,
+role, technical capability, mission result, relationship or historical fact
+must not be promoted to CANON without the appropriate project approval.
+
+======================================================================
+4. CORE STORY ENGINE — S00 FOUNDATION ARC
+======================================================================
+
+Working story title:
+THE SIGNAL BEFORE SUNRISE
+
+Central dramatic question:
+What should a team do when a mission is active, an apparently meaningful
+signal arrives, and nobody can verify whether following it will protect
+the team or expose it to greater danger?
+
+Three connected narrative layers:
+A. Personal — Enka's routine, memories, relationships, faith and leadership.
+B. Operational — Koware, Blue Crown R&D, the four-person mission team,
+   equipment, procedures and organisational accountability.
+C. Mystery — the signal, its origin, the return route, the Singapore pattern
+   and the “DO NOT RETURN” warning.
+
+The four daily beats:
+- Spiritual/thematic beat.
+- Operational/technical beat.
+- Human/personal beat.
+- Mystery/continuity beat.
+
+Not every beat requires equal page space every day. They must, however,
+collectively move the story forward. Avoid repeating the same alarm,
+commute, briefing and equipment adjustment in full unless the repetition
+reveals a change or consequence.
+
+Mystery discipline:
+- Do not reveal the signal's sender prematurely.
+- Do not decide whether it is benevolent, hostile, corrupted or accidental.
+- Do not establish that the return route is compromised unless evidence
+  appears in the story.
+- Do not resolve the warning at the end of this arc.
+- End on a meaningful narrative milestone, not an incomplete production
+  task.
+
+======================================================================
+5. TEN-WORKING-DAY EPISODE PLAN
+======================================================================
+
+WEEK ONE — DISCOVERY AND VERIFICATION
+
+DAY 1 — MONDAY: BEFORE THE SIGNAL
+Purpose: Establish the people, mission, setting and first anomaly.
+- Open before sunrise at Enka's Adenta home.
+- Introduce the day's Bible-plan passage and YouVersion verse only after
+  checking the correct date-specific sources.
+- Establish the day's reflective motif.
+- Show selected domestic, fitness and preparation details; do not narrate
+  every routine mechanically.
+- During the commute, use one relevant current-news item and a human
+  interaction if they advance the theme.
+- At Amrahia, R&D detects a weak or incomplete signal anomaly in the logs.
+- The signal has no authenticated origin and is not yet actionable.
+- Enka directs the team to preserve logs and avoid safety-critical action
+  based on the fragment.
+Closing question: Why has the system recorded a transmission nobody
+authorised?
+
+DAY 2 — TUESDAY: VERIFICATION PROTOCOL
+Purpose: Turn curiosity into disciplined investigation.
+- Review equipment logs, transmission records, environmental readings,
+  return-channel activity and timestamps.
+- Compare records without assuming that matching timestamps prove a source.
+- Establish a chain of custody for raw telemetry.
+- The lab specialist reports what is known, unknown and inconsistent.
+- The deployed team receives a concise, verified status update where
+  communications permit.
+- Neighbour observations may begin to surface, but keep the human response
+  proportionate and credible.
+- Apply the practical rule: stop, verify, obtain reliable confirmation.
+Closing question: Is the signal coming from the mission team, the lab,
+or another source?
+
+DAY 3 — WEDNESDAY: BEYOND THE SIGNAL
+Purpose: Shift the audience's perspective to the deployed team.
+- Introduce the four team members through actions and responsibilities.
+- Differentiate the roles without inventing personal names or biographies
+  not present in the organisational/personnel records.
+- Show the probe environment using the verified destination and clearly
+  labelled fictional future details.
+- The team encounters a relevant environmental, logistical or technical
+  challenge.
+- A communication fragment is received, but its completeness and origin
+  remain uncertain.
+- Team members disagree naturally about whether to continue.
+- They choose a safe pause and status check rather than treating a fragment
+  as authorisation.
+Closing question: How can the team distinguish a delayed instruction from
+a corrupted or unauthorised one?
+
+DAY 4 — THURSDAY: THREE TIMELINES
+Purpose: Connect past, present and probe context without confusing fact.
+- Compare the historical reference, current Accra and probe destination.
+- Use historical reporting from the actual reference date and location.
+- Use current reporting for the actual current date.
+- Label future/probe reporting as fictional scenario material unless
+  authentic evidence is available (which it ordinarily will not be).
+- Explore a shared theme such as infrastructure dependence, public safety,
+  environmental pressure, communication or technology governance.
+- Review the Singapore 9 July 2026 event from its archived records.
+- Treat pattern similarity as a clue, not proof.
+Closing question: Is the current anomaly repeating an earlier pattern?
+
+DAY 5 — FRIDAY: THE NEIGHBOURS KNOW
+Purpose: Expand the consequences beyond the laboratory.
+- A resident raises a credible question about unusual light, traffic,
+  equipment or activity.
+- The liaison responds politely, truthfully and within confidentiality
+  limits; do not fabricate public assurances or disclose restricted details.
+- Management records the concern and assigns a proportionate follow-up.
+- Show how research affects trust, privacy, safety and community confidence.
+- The deployed team sends a status update, if supported by the mission log.
+- Friday review records evidence, unresolved risks and next week's priorities.
+- Close with a new signal fragment or discrepancy that raises the stakes,
+  not a complete explanation.
+Closing question: What responsibility does the organisation owe the people
+living beside its research facility?
+
+WEEK TWO — PATTERN, CONSEQUENCE AND DECISION
+
+DAY 6 — MONDAY: THE PATTERN RETURNS
+Purpose: Reopen the investigation with a wider evidence base.
+- Begin with a concise recap, not a full repetition of Week One.
+- Monday briefing reviews the mission, signal log and open risks.
+- Revisit the Singapore seed event using archived evidence.
+- Compare anomaly characteristics: timing, format, channel, missing fields
+  and equipment state.
+- State clearly which similarities are verified and which are tentative.
+- The field team reports an operational consequence of remaining deployed.
+- Enka requests a documented risk assessment before any return decision.
+Closing question: Are the anomalies connected, or are the investigators
+seeing a pattern because they expect one?
+
+DAY 7 — TUESDAY: THE COST OF WAITING
+Purpose: Make the mission's human and practical cost visible.
+- Show the team's energy/charge management using established EduBeam rules.
+- Show food, shelter, weather, local encounters or resource constraints
+  only when relevant to the destination and mission.
+- Explore fatigue, uncertainty, disagreement and trust without melodrama.
+- R&D assesses whether communication can be improved without risking the
+  return channel.
+- The team documents observations that remain useful to Koware even if the
+  mission is suspended.
+- Introduce a service-card lesson only if it emerges naturally.
+Closing question: How long can the team safely remain deployed?
+
+DAY 8 — WEDNESDAY: THE EARLIER WARNING
+Purpose: Bring the Singapore continuity closer to the present mystery.
+- Review the original 9 July 2026 event and any later archived references.
+- Identify what is actually documented and what remains missing.
+- A new signal characteristic may resemble the earlier event, but do not
+  assign a common sender or intention.
+- The field team and lab independently verify their respective records.
+- The Corporate Manager prepares a decision briefing.
+- Enka considers the duty of care owed to the four personnel.
+Closing question: What if the warning is not telling them where to go,
+but what not to do?
+
+DAY 9 — THURSDAY: THE RETURN DECISION
+Purpose: The leadership and safety high point.
+- Convene a formal decision briefing.
+- Present mission status, remaining charge, communications reliability,
+  environmental conditions, equipment discrepancies, available procedures,
+  mission value and uncertainty.
+- Consider options: continue, suspend/hold, controlled return, wait for
+  verified communication, or invoke an established emergency procedure.
+- Do not invent a safe option where none has been demonstrated.
+- Enka leads a documented decision that prioritises personnel safety.
+- The decision is to hold, stop and verify until the required conditions
+  are met; it is not a casual or improvised return.
+- Record dissent, evidence, assumptions, approval authority and review time.
+Closing question: What if the safest decision cannot yet be carried out?
+
+DAY 10 — FRIDAY: DO NOT RETURN
+Purpose: Deliver the climax and preserve the mystery.
+- The signal appears again, clearer than before.
+- The captured message reads: “DO NOT RETURN.”
+- The source remains unauthenticated.
+- The team cannot determine whether it is a genuine warning, corrupted
+  system output, external transmission or temporal anomaly.
+- The mission remains suspended; do not stage a convenient rescue or
+  return merely to provide closure.
+- Enka confirms the safety hold and requires continued evidence logging.
+- The final scene connects the personal, operational and mystery layers.
+- Close with the unanswered questions: Who sent it? Why? Is it connected
+  to Singapore? Is the return channel compromised? Is the warning intended
+  to protect the team or prevent its return?
+- Provide a clear bridge to the next episode/arc.
+
+End-state:
+The audience understands the danger and the leadership decision. The
+mission is not resolved. The mystery is deliberately open.
+
+======================================================================
+6. DAILY CHRONICLE PRODUCTION PIPELINE
+======================================================================
+
+The six-stage Eternal Dreamfall pipeline is an internal editorial workflow.
+It produces ONE coherent daily Chronicle, not six separate published
+stories.
+
+STAGE 1 — ETERNAL DREAMFALL MOTIF
+Source: Five-year Bible Reading Plan.
+- The plan begins from the first full week of 2025.
+- Sunday is the first day of the week.
+- Identify the exact date's assigned reading from the repository file.
+- Verify the date/week calculation; do not infer a daily passage where the
+  plan specifies a weekly corpus.
+- Research relevant context and produce a concise spiritual/thematic motif.
+Output: dated reading reference, passage(s), context notes and motif.
+
+STAGE 2 — ETERNAL DREAMFALL CHRONICLE
+Source: YouVersion Verse of the Day.
+- Retrieve the actual verse for the publication date.
+- Record translation, verse reference, date and source.
+- Connect it to the Stage 1 motif without allowing the verse to erase or
+  distort the assigned reading.
+Output: integrated reflection.
+
+STAGE 3 — REFRESHED ETERNAL DREAMFALL
+Source: Buzzjuice Health & Safety course repository.
+- Identify one practical safety implication from the spiritual reflection.
+- Find the closest actual course topic or lesson.
+- Record the course/module reference.
+- Do not claim a course mapping if the repository has not been checked.
+- Do not turn spiritual reflection into a substitute for technical safety
+  guidance.
+Output: practical lesson, relevant course reference and action.
+
+STAGE 4 — HEADLINED ETERNAL DREAMFALL
+Sources: historical, current and fictional probe/future material.
+Maintain three separate research streams:
+
+A. HISTORICAL
+- Use the exact historical timestamp/location from the Millennium Timezone.
+- Research reports published at or near that historical period.
+- Distinguish event date from article publication date.
+- If reliable archives are unavailable, state the gap; do not invent
+  historical headlines.
+
+B. CURRENT
+- Use the actual publication date and the Koware/home base geography.
+- Research local, national, regional and global stories.
+- Prioritise credible reporting, primary sources and geographically
+  relevant community sources.
+- Record publication date, event date, location, source and URL.
+- Do not present rumours or unverified social posts as established facts.
+
+C. PROBE / FUTURE
+- Use the exact probe endpoint output.
+- Unless authentic future data is somehow available, this is a fictional
+  scenario stream, not future journalism.
+- Label every invented headline or event “FICTIONAL PROBE SCENARIO”.
+- Build plausible scenarios from research themes, not fabricated claims
+  presented as fact.
+
+For each stream, curate a manageable location-first digest. The original
+proposal's Top 10 per location / Top 20 collective target is an optional
+research ceiling, not a requirement to flood the daily story. Prefer a
+small number of high-value items that genuinely support the narrative.
+Select:
+- Three cross-timeline global comparisons: one historical, one current,
+  one fictional probe scenario.
+- Five local comparisons: one historical, three current, one fictional
+  probe scenario.
+Only use this 3+5 pattern when meaningful and adequately sourced items
+exist. Otherwise report fewer and explain the gap.
+
+Output: a dated research digest, source register and integrated theme.
+
+STAGE 5 — CLASSIES ETERNAL DREAMFALL
+Sources: Daily Diary, previous chronicles, archive and approved continuity.
+- Retrieve the latest relevant Daily Diary entries.
+- Integrate personal events and observations naturally.
+- Translate diary observations into mission parallels only where the
+  established EduBeam premise and current mission allow it.
+- Do not assume every real-life observation must materialise in the probe.
+- Preserve privacy and avoid exposing sensitive personal details.
+- Reconcile names, aliases, dates, relationships and previous events.
+Output: continuity-aligned personal narrative notes.
+
+STAGE 6 — CLASSIES CHRONICLES
+Sources: Koware organisational records, mission logs and approved canon.
+- Use the current organisational chart for titles and responsibilities.
+- Use actual mission records for team status and technical facts.
+- Combine the five prior stages into a single readable story.
+- Keep the daily Chronicle approximately 3–4 minutes of reading unless
+  the user requests a different length.
+- Publish the narrative as the main artefact; retain detailed research
+  records internally.
+Output: final daily Chronicle, metadata, references and production assets.
+
+======================================================================
+7. DAILY RHYTHM AND BRIEFING RULES
+======================================================================
+
+The daily routine is a recurring character texture, not a mandatory
+minute-by-minute script. Include details selectively.
+
+Reference rhythm:
+04:00 — Alarm; Eternal Dreamfall reading begins.
+04:30 — Domestic management and preparation; may be delayed or snoozed.
+05:00 — YouVersion reflection / second alarm.
+05:00–06:00 — Fitness, rest, quiet time or morning movement as appropriate.
+06:00 — Freshening up and breakfast.
+06:30 — Team connection and commute.
+07:00 — Relevant team reporting/coordination where applicable.
+08:00–08:59 — Workstation preparation and news review.
+09:00 — Scheduled briefing or operational work.
+
+Fitness:
+- Tuesday and Saturday are recognisable fitness days in the established
+  routine; Thursday may sometimes be included.
+- The character may rest, snooze or skip a session. Do not make exercise
+  compulsory in every instalment.
+- Do not force fitness scenes when they do not advance character or plot.
+
+Corporate briefing baseline:
+- Monday: yes.
+- Tuesday: no routine all-staff briefing.
+- Wednesday: no routine all-staff briefing.
+- Thursday: yes.
+- Friday: yes.
+Week Two:
+- Monday reviews Week One.
+- Thursday focuses on the return/safety decision.
+- Friday integrates findings and prepares the next phase.
+
+Work arrangements:
+- Senior managers may work remotely; some second-level managers split time
+  between home and base, as established in the original proposal.
+- National service and liaison personnel reporting arrangements should be
+  used only when relevant and checked against current Koware records.
+- Do not invent attendance, staff identities or working hours.
+
+======================================================================
+8. EDUBEAM MISSION OPERATING MODEL — STORY RULES
+======================================================================
+
+The EduBeam is a central fictional technology, but its limitations must
+remain meaningful.
+
+Established story principles:
+- Four personnel are selected for a mission.
+- The team is charged with EduBeam particles.
+- Mission duration depends on available charge.
+- Blue Crown communications connect the field team with headquarters.
+- The R&D specialist remains at the control point to monitor equipment and
+  feedback.
+- Objects may be materialised through the specialist, subject to system
+  capability and constraints.
+- Materialisation is not necessarily instant.
+- Communication may fail or be delayed.
+- Networks, environmental conditions and equipment state may interfere.
+- Equipment failure can prevent normal return.
+- Emergency natural recharge/recovery is difficult and may take years to
+  master; being stranded for years remains a serious narrative risk.
+
+Mandatory pre-mission briefing fields:
+1. Mission ID and approved objective.
+2. Four selected personnel and their authorised roles.
+3. Destination and exact temporal coordinate source.
+4. Environmental and local operating assumptions.
+5. Charge state and monitoring method.
+6. Communication protocol and fallback.
+7. Materialisation request protocol and limitations.
+8. Stop-work conditions.
+9. Emergency/recovery procedure already established for this mission.
+10. Check-in schedule and escalation thresholds.
+11. Return criteria and authority.
+12. Known unknowns and unresolved risks.
+
+Mission safety rules:
+- Never invent a new recovery capability at the moment it is needed.
+- Do not equate a working communication indicator with a verified message.
+- Do not equate mission progress with safety.
+- Do not let a partial instruction authorise a safety-critical action.
+- A safety hold remains in force until a competent authorised decision
+  changes it.
+- The specialist records raw readings and changes; do not silently repair
+  or overwrite anomalous data.
+- The four-person team must have differentiated functions. Suggested
+  functional roles are mission coordination, environmental research,
+  technical investigation and field documentation/communications. These
+  are role categories, not invented personnel identities.
+
+======================================================================
+9. CHARACTER AND ORGANISATIONAL INTEGRITY
+======================================================================
+
+Use Koware Group's current organisational chart and alias mapping as the
+authoritative source for titles, departments and role names.
+
+Before a character appears, confirm:
+- Their canonical name or approved alias.
+- Their organisational role.
+- Their relationship to the scene or mission.
+- Whether they are present-day, historical, future or archival.
+- Whether the role is established, proposed or fictional.
+
+Do not use a department alias as a person's personal name unless the
+organisational record explicitly defines it that way. The current Thursday
+Chronicle's reference to the R&D Director/IAPD Squad alias should be
+checked against the current organisational chart before reuse.
+
+The R&D specialist is the operational bridge between headquarters and
+the deployed team. Their actions should be motivated by actual telemetry,
+procedure and uncertainty, not by repetitive “fine-tuning” scenes.
+
+======================================================================
+10. NEWS, RESEARCH AND EDITORIAL SAFEGUARDS
+======================================================================
+
+Every research item must record:
+- Stream: HISTORICAL / CURRENT / FICTIONAL PROBE SCENARIO.
+- Headline.
+- Event date (if known).
+- Publication date.
+- Geographic scope.
+- Publisher/source.
+- URL.
+- Short factual summary.
+- Reliability/verification note.
+- Narrative relevance.
+- Whether the story uses it directly or only as background.
+
+Rules:
+1. Historical facts and fictional interactions must be distinguishable.
+2. Current news remains tied to its real publication date.
+3. Future/probe content is labelled fictional.
+4. An AI-generated headline is not a source.
+5. A story's fictional character may encounter a real historical setting,
+   but invented dialogue/actions must not be represented as historical fact.
+6. Avoid presenting forecasts as outcomes.
+7. If no reliable source is found, omit the item or state that verification
+   is unavailable.
+8. Do not overload the Chronicle with headlines. News supports the story;
+   it does not replace it.
+
+======================================================================
+11. SERVICE CARDS AND AUDIENCE PARTICIPATION
+======================================================================
+
+Aim for four to five useful service cards per episode, but quality and
+relevance take priority over quota. A card must emerge naturally from a
+problem or lesson in the story.
+
+Narrative integration:
+Story → Problem → Useful action → Character learns → Story continues.
+
+Each card record:
+- Card title.
+- Practical life hack/action.
+- Story context.
+- Category (work, home, safety, technology, money, people, environment,
+  road safety or another approved category).
+- Associated character/department.
+- Unique card code.
+- QR destination or activation URL, if actually configured.
+- Buzzjuice/Koware profile association, if configured.
+- Status: IDEA / DRAFT / APPROVED / PUBLISHED.
+- Source or evidence, where applicable.
+
+Do not invent functioning QR links, product availability, discounts,
+membership benefits or commercial claims. Use a clearly marked draft
+destination until the real link is configured.
+
+Interactive loop:
+Episode → Prediction/question → Reveal → Challenge → Discussion →
+Next episode.
+
+Audience engagement must not expose mission-sensitive or personal data.
+
+======================================================================
+12. VISUAL IDENTITY, LOGO AND TITLE SYSTEM
+======================================================================
+
+The supplied graphics communicate three compatible visual directions:
+
+A. VINTAGE / LITERARY
+- Parchment, manuscript, quill, ink, pocket watch and antique clock.
+- Warm antique gold, muted bronze and paper textures.
+- Best for historical sequences, diary pages, archival cards and literary
+  interstitials.
+
+B. CONTEMPORARY / DOCUMENTARY
+- Real locations, institutional environments, people and everyday life.
+- Clean photographic realism and readable typography.
+- Best for Adenta, Amrahia, Koware operations, community and current news.
+
+C. FUTURE / TEMPORAL
+- Midnight/deep blue, restrained luminous accents, signal and clock motifs.
+- Scientific/system visual language without excessive “generic sci-fi”.
+- Best for EduBeam, temporal displays, mission telemetry and future scenes.
+
+Recommended master identity:
+- Primary mark: distinctive clock-inspired “C”.
+- Wordmark: CLASSIES.
+- Descriptor: CHRONICLES beneath or beside it.
+- Optional orbital/temporal signal motif, kept subtle.
+- Core palette: midnight blue, white and antique gold.
+- Supporting palette: parchment and muted bronze.
+- Strong contrast and legibility at small sizes and on both light/dark
+  backgrounds.
+- A clean monochrome version is required.
+
+The existing script-style “The Classies” cover can remain a heritage/
+literary treatment, not the only master logo. The aerial institutional
+background with script lettering is better treated as a location/episode
+title treatment than as the primary scalable logo. The blue clock-C
+concept is the strongest starting point for a modern master identity.
+
+Typography:
+- Use a distinctive literary serif for selected episode titles.
+- Use a clean sans-serif for “CLASSIES CHRONICLES”, metadata, captions and
+  mobile readability.
+- Avoid using elaborate script for small text or long subtitles.
+
+Title hierarchy:
+CLASSIES CHRONICLES
+SEASON 00 — FOUNDATION PHASE
+EPISODE [APPROVED NUMBER]
+THE SIGNAL BEFORE SUNRISE
+DAILY CHRONICLE — [DATE]
+
+Scene colour language:
+- Historical: parchment / warm bronze.
+- Present: natural documentary palette.
+- Future: midnight blue / restrained light accents.
+
+Required logo deliverables:
+1. Primary horizontal logo.
+2. Stacked logo.
+3. Clock-C icon/favicon.
+4. Light-background and dark-background variants.
+5. Monochrome variant.
+6. Transparent-background exports.
+7. Clear-space/minimum-size guidance.
+8. Font and colour specification.
+9. Editable master source file.
+
+Do not embed the episode title into the master logo. Keep identity and
+episode-specific title artwork as separate assets.
+
+======================================================================
+13. MULTIMEDIA PRODUCTION PRIORITIES
+======================================================================
+
+Use a staged production model so that each daily Chronicle can be published
+without requiring a fully produced multimedia package.
+
+Priority:
+1. Daily text Chronicle — essential.
+2. Cover/title image — essential.
+3. Comic page — high priority, one page per selected daily part or episode
+   milestone.
+4. Short vertical/horizontal video — high priority where production time
+   permits.
+5. Interactive question/service card — integrated.
+6. Podcast/audio adaptation — medium/later; do not make it a blocker.
+7. Full animation — later-stage option, not a current dependency.
+
+A single approved story should be the source for all derivatives. Do not
+allow the comic, video or caption to introduce new canon events that
+contradict the Chronicle.
+
+Visual asset metadata:
+- Episode/part ID.
+- Date.
+- Scene IDs.
+- Characters depicted.
+- Location/time period.
+- Canon status.
+- Prompt/source notes.
+- Revision.
+- Approval status.
+
+======================================================================
+14. DAILY OUTPUT FORMAT
+======================================================================
+
+Each daily publication should normally contain:
+
+1. Header
+   - Classies Chronicles.
+   - Date and weekday.
+   - Daily Chronicle title.
+   - Present / historical / probe locations as relevant.
+
+2. Reading foundations
+   - Eternal Dreamfall plan reference.
+   - YouVersion verse and translation.
+   - Daily motif.
+   - Health & Safety focus and verified course mapping.
+
+3. Temporal context
+   - Exact historical and probe endpoint outputs when relevant.
+   - Retrieval timestamp and source.
+   - Clearly identify any fictional scenario.
+
+4. Narrative
+   - Approximately 3–4 minutes of reading.
+   - A strong opening image or situation.
+   - Personal, operational and mystery beats.
+   - News integrated selectively.
+   - Natural dialogue and grounded detail.
+   - A meaningful ending/cliffhanger.
+
+5. Practical learning
+   - One actionable safety/life lesson.
+   - Optional service card if justified by the story.
+
+6. Source notes
+   - Concise links to sources used.
+   - Distinguish real-world sources from fictional story material.
+
+7. Production metadata (archive, not necessarily public)
+   - Episode ID / daily part ID.
+   - Story date and publication date.
+   - Canon changes proposed.
+   - Scene IDs.
+   - Outstanding questions.
+   - Next-day continuity hook.
+
+======================================================================
+15. ARCHIVE AND REPOSITORY ARCHITECTURE
+======================================================================
+
+Keep the structure lean. Create folders only when they hold actual content.
+The following is the recommended logical structure:
+
+Classies_Chronicles/
+  CC_AI_DESK/
+    00_MASTER_CONTEXT/
+    01_CANON_AND_CONTINUITY/
+    02_CHARACTER_DATABASE/
+    03_ORGANISATIONAL_STRUCTURE/
+    04_TIMELINE_AND_TIMEZONE/
+    05_BIBLE_STUDY/
+    06_HEALTH_AND_SAFETY/
+    07_NEWS_RESEARCH/
+      HISTORICAL/
+      CURRENT/
+      PROBE_SCENARIOS/
+    08_STORY_ARCHIVES/
+    09_VISUAL_IDENTITY/
+    10_SERVICE_CARDS/
+    11_PRODUCTION_TEMPLATES/
+    12_AI_CONFIGURATION/
+  CC_S00_FOUNDATION_PHASE/
+    [episode or part folders]
+  CC_S01/
+  CC_S02/
+  SHARED_ASSETS/
+    LOGOS/
+    FONTS/
+    BACKGROUNDS/
+    CHARACTER_ASSETS/
+    MUSIC/
+    SOUND_EFFECTS/
+    COMIC_TEMPLATES/
+    VIDEO_TEMPLATES/
+
+Recommended per-episode archive:
+  00_METADATA/
+  01_CONTEXT_AND_CONTINUITY/
+  02_BIBLE_STUDY/
+  03_HEALTH_AND_SAFETY/
+  04_NEWS_RESEARCH/
+    HISTORICAL/
+    CURRENT/
+    PROBE_SCENARIOS/
+  05_DAILY_DIARY/
+  06_STORY_OUTLINES/
+  07_DAILY_CHRONICLES/
+  08_CHARACTER_RECORDS/
+  09_EDUBEAM_MISSION_RECORDS/
+  10_SERVICE_CARDS/
+  11_FEATURED_PRODUCTS/
+  12_COMIC_ASSETS/
+  13_VIDEO_AND_AUDIO/
+  14_PUBLICATION/
+  15_POST_EPISODE_ANALYSIS/
+
+Minimum persistent records:
+- MASTER_CONTEXT.md or .txt
+- CANON_LEDGER.md or .csv
+- CHARACTER_LEDGER.csv
+- TIMELINE_LEDGER.csv
+- MISSION_LEDGER.csv
+- SOURCE_REGISTER.csv
+- EPISODE_METADATA.txt
+- DAILY_CONTINUITY_LOG.txt
+- CHANGELOG.md
+
+Do not create duplicate records in several locations without a clear
+authoritative copy. Link to the authoritative record where possible.
+
+======================================================================
+16. IDENTIFIERS AND FILE NAMING
+======================================================================
+
+Use stable identifiers that separate season, episode and daily instalment.
+
+Suggested logical pattern:
+Season: S00
+Episode: S00E01
+Day:     S00E01-D01 through S00E01-D10
+Scene:   S00E01-D01-SC001, etc.
+Mission: S00E01-MIS001
+Card:    S00E01-CARD001
+Asset:   S00E01-D01-ASSET001
+
+These are recommended identifiers, not permission to rename existing
+published files. First reconcile the current archive numbering. Preserve
+the existing filename “Episode 0.00.10-The Signal Before Sunrise” until
+the canonical mapping is confirmed.
+
+Recommended filename:
+Classies_Chronicles_S00E01_D01_YYYY-MM-DD_Short-Title.txt
+
+For images:
+Classies_Chronicles_S00E01_D01_YYYY-MM-DD_Cover_v01.png
+
+Never use the same identifier for two different artefacts. Never silently
+overwrite a published Chronicle; create a revision and preserve history.
+
+======================================================================
+17. QUALITY GATES AND APPROVAL WORKFLOW
+======================================================================
+
+GATE 1 — SOURCE INTAKE
+- Required source files and archive records retrieved.
+- Current organisational chart checked.
+- Daily Diary checked.
+- Existing episode continuity checked.
+- Missing sources recorded.
+
+GATE 2 — FACT AND TIME VALIDATION
+- Date and weekday verified.
+- Bible-plan assignment verified.
+- YouVersion verse verified.
+- Millennium Timezone outputs captured exactly.
+- Sabbatical/Palmier values kept separate.
+- Historical/current/probe streams separated.
+- Every real-world claim has a source.
+
+GATE 3 — STORY DESIGN
+- Ten-day arc has a clear progression.
+- Each day advances at least one major thread.
+- No repetitive routine without narrative purpose.
+- Character identities and roles are valid.
+- EduBeam constraints respected.
+- Mystery remains within approved reveal limits.
+
+GATE 4 — SAFETY AND ETHICS
+- Safety lesson is practical and mapped to actual course content.
+- No unsafe procedure is portrayed as endorsed.
+- Unverified instructions are not treated as authorisation.
+- Privacy/confidentiality and community interests are respected.
+- Fictional future scenarios are labelled.
+
+GATE 5 — EDITORIAL AND VISUAL
+- Chronicle is readable and within intended length.
+- Tone and continuity match the series.
+- Title and graphics use the identity system.
+- Comic/video derivatives do not contradict the source story.
+- Links and references are checked.
+
+GATE 6 — HUMAN APPROVAL AND PUBLICATION
+- Proposed canon changes explicitly listed.
+- Outstanding uncertainties disclosed.
+- Human approval recorded.
+- Final files committed with version/change record.
+- Publication links and asset versions recorded.
+
+A story may be published with an unresolved fictional mystery. It must not
+be published with unresolved factual errors or misleading source claims.
+
+======================================================================
+18. DAILY PRODUCTION CHECKLIST
+======================================================================
+
+Before drafting:
+[ ] Confirm publication date, weekday and timezone.
+[ ] Retrieve the current Bible-plan assignment.
+[ ] Retrieve YouVersion Verse of the Day.
+[ ] Retrieve the relevant Buzzjuice H&S course material.
+[ ] Retrieve current Millennium Timezone endpoints.
+[ ] Retrieve relevant historical/current sources.
+[ ] Label probe/future content as fictional.
+[ ] Check Daily Diary and prior Chronicle.
+[ ] Check current character/organisation records.
+[ ] Check current mission status and open risks.
+
+Before finalising:
+[ ] The spiritual motif is faithful to the reading.
+[ ] The verse reference and translation are correct.
+[ ] H&S mapping is genuine and actionable.
+[ ] News is accurately dated and sourced.
+[ ] Fiction and fact are distinguishable.
+[ ] The day's four narrative beats are present where appropriate.
+[ ] The story advances the ten-day arc.
+[ ] The characters and roles are canon-consistent.
+[ ] The exact temporal outputs are preserved.
+[ ] EduBeam limitations are respected.
+[ ] Service card is useful and not forced.
+[ ] The ending provides a meaningful next-step hook.
+[ ] All proposed canon changes are identified.
+[ ] The daily Chronicle is archived with metadata.
+
+End-of-episode:
+[ ] Ten daily instalments accounted for or deviations explained.
+[ ] Mission ledger updated.
+[ ] Character continuity updated.
+[ ] Canon ledger updated only after approval.
+[ ] Service cards and assets registered.
+[ ] Outstanding mysteries carried forward.
+[ ] Post-episode analysis completed.
+[ ] Next episode's opening state documented.
+
+======================================================================
+19. IMPLEMENTATION PLAN
+======================================================================
+
+PHASE A — CONTROLLED ADOPTION
+1. Save this document as a new revision; do not overwrite v0.01.05.
+2. Compare the current repository structure and existing episode numbering.
+3. Confirm the canonical mapping of “Episode 0.00.10” to season/episode/day.
+4. Retrieve the original Singapore 9 July 2026 mission record.
+5. Retrieve the latest Daily Diary and current organisational chart.
+6. Capture the Millennium Timezone outputs for the next production run.
+7. Confirm which story days of the ten-day arc have already been published.
+
+PHASE B — PRODUCTION DESK
+1. Establish the minimum persistent ledgers.
+2. Create a reusable daily Chronicle template.
+3. Create a reusable research/source register.
+4. Create a mission-status template and safety decision record.
+5. Create a visual asset naming convention.
+
+PHASE C — PILOT THE FRAMEWORK
+1. Apply the framework to the next daily instalment.
+2. Keep the existing “DO NOT RETURN” mystery unresolved.
+3. Validate the six-stage pipeline against actual source files.
+4. Track production time and identify unnecessary repetition.
+5. Review after the ten working days.
+
+PHASE D — OPTIMISE
+1. Automate only stable, repeatable retrieval and metadata tasks.
+2. Keep editorial judgement, canon approval and safety decisions human-led.
+3. Expand multimedia only after the text pipeline is dependable.
+4. Integrate service cards with real Buzzjuice destinations only after
+   those destinations are configured and tested.
+
+======================================================================
+20. OPEN ITEMS — DO NOT INVENT OR AUTO-RESOLVE
+======================================================================
+
+1. Canonical episode mapping:
+   The archive filename uses “Episode 0.00.10”, while the review documents
+   use S00E01. Reconcile against the repository history before renaming.
+
+2. Ten-day progress:
+   Establish which working-day instalments already exist. Thursday
+   29 October 2026 is an existing published Chronicle; do not assume it is
+   Day 1 or Day 10 without checking the preceding archive.
+
+3. Singapore event:
+   Retrieve the 9 July 2026 mission record before describing its exact
+   technical characteristics.
+
+4. Team identities:
+   Retrieve the approved four-person team roster and role assignments.
+   Do not invent names or personal histories.
+
+5. Organisational aliases:
+   Validate the IAPD Squad/R&D Director references against the current
+   organisational chart.
+
+6. Millennium Timezone:
+   Re-query endpoints for each new production date. The 29 October
+   Chronicle's 2003/2222 values are that Chronicle's recorded outputs,
+   not permanent defaults.
+
+7. Palmier/Sabbatical probe:
+   Preserve 2167-04-30T01:13:07Z in its correct source context. Do not
+   conflate it with the Millennium Timezone's 2222 probe output.
+
+8. Health & Safety:
+   Verify the exact Buzzjuice course/module before attributing a formal
+   course mapping to a daily reflection.
+
+9. Service cards:
+   Codes, QR destinations and profile associations remain drafts until
+   real destinations are configured.
+
+10. Logo:
+    The clock-C direction is recommended, not an approved final identity.
+    Produce and compare logo variants before adoption.
+
+======================================================================
+21. FINAL CREATIVE AND OPERATIONAL PRINCIPLE
+======================================================================
+
+Classies Chronicles should feel like a lived world in which ordinary
+personal life and extraordinary research continually affect one another.
+
+The daily routine gives the audience familiarity.
+The Bible study gives the story a reflective foundation.
+Health & Safety gives it practical value.
+News connects it to the wider world.
+The Daily Diary gives it personal authenticity.
+Koware's organisation gives it structure.
+EduBeam gives it speculative possibility.
+The signal gives it mystery.
+The decisions give it consequence.
+
+The technology must never become more important than the people affected
+by it. The research must never become an excuse to ignore responsibility.
+And the story must never confuse a compelling possibility with a verified
+fact.
+
+END OF FRAMEWORK
