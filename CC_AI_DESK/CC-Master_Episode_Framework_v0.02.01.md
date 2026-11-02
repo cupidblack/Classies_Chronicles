@@ -386,6 +386,10 @@ Reference:
 
 https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main/Organizational_Chart_Structure-Aliased_Checks.txt
 
+or
+
+https://github.com/cupidblack/Koware_Management/blob/main/Organizational_Chart_Structure-Aliased_Checks.txt
+
 The organisational chart establishes the personnel, roles, aliases and scheduled spotlight days.
 
 The AI should use the latest available version.

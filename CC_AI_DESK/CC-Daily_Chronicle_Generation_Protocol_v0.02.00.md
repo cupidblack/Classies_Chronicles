@@ -150,6 +150,12 @@ Record source, publication/event date, retrieval date and whether the informatio
 
 ### 4.5 Select role spotlight
 
+https://github.com/cupidblack/Koware_Management/blob/main/Organizational_Chart_Structure-Aliased_Checks.txt
+
+or
+
+https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main/Organizational_Chart_Structure-Aliased_Checks.txt
+
 Use the latest approved organizational chart. Interpret role check days across the chapter's 40 working days, not as episode-day numbers that reset each episode.
 
 The chart may identify a primary role or several associated roles. Ordinarily focus on one or two; a maximum of four may be included when the story justifies it. A role may recur if relevant. Do not force a spotlight that damages narrative coherence.
