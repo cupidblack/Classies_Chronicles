@@ -341,6 +341,8 @@ These sources must not be inaccurately represented as universally accepted bibli
 
 Identify the current date and the bible reading for the current date, then gather relevant resources for the day's bible reading to produce the 'Eternal Dreamfall Bible Study' reading for the day.
 
+If an exact bible reading for the day cannot be established, check for the week's bible reading. If a bible reading still cannot be found explain the error encountered. 
+
 ## 4.3 YouVersion Verse of the Day
 
 Source:
