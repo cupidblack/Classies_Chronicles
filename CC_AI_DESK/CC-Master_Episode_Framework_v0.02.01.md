@@ -261,6 +261,8 @@ If the returned phase boundaries cannot accommodate four complete Monday-to-Frid
 
 It must not silently create an episode outside the established phase.
 
+Enka's Millennium Timezone Location is based on Enka's whereabouts on the historical date produced by 'https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical'.
+
 ## 3.5 Endpoint failure
 
 If the endpoint cannot be accessed:
@@ -307,11 +309,19 @@ Authoritative reading plan:
 
 Eternal Dreamfall — Five-Year Reading Plan.
 
+Taking Sunday to be the first day of the week, this 5 year bible reading plan began from the first full week of 2025:
+
 Repository location:
 
 Eternal_Dreamfall_Bible_Study/
 
+File:
+
 https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/Eternal_Dreamfall_Bible_Study/list_of_biblical_texts-5_year_reading_plan-1.txt
+
+or
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Eternal_Dreamfall_Bible_Study/list_of_biblical_texts-5_year_reading_plan-1.txt
 
 The AI must identify the appropriate reading for the actual production day.
 
@@ -320,6 +330,8 @@ The reading plan must be followed according to its established starting point an
 The AI must distinguish canonical biblical books from historical, apocryphal, pseudepigraphical and other ancient textual sources included in the reading programme.
 
 These sources must not be inaccurately represented as universally accepted biblical canon.
+
+Identify the current date and the bible reading for the current date, then gather relevant resources for the day's bible reading to produce the 'Eternal Dreamfall Bible Study' reading for the day.
 
 ## 4.3 YouVersion Verse of the Day
 

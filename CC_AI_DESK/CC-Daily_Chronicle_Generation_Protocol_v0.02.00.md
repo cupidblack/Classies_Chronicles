@@ -106,7 +106,7 @@ Before writing, identify and record the current values or source status for:
 - Probe destination/location.
 - Current location of each active Edubeam team member.
 
-Note that Enka/Cupid Black's Millennium Timezone location is only reflective and is used as a reference for the deployed team's assignments and missions. For instance, whatever news is generated for that location on the acquired probe date becomes a reference point for research at the deployed team's location to identify anything similar or related and to report the nature if anything similar or related is found. The location is also used for flashbacks and dreams Enka might have.
+Note that Enka's Millennium Timezone Location is based on Enka's whereabouts on the historical date produced by 'https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical'. This date and location in this case is only reflective and is used as a reference for the deployed team's assignments and missions. For instance, whatever news is generated for that location on the acquired probe date becomes a reference point for research at the deployed team's location to identify anything similar or related and to report the nature if anything similar or related is found. The location is also used for flashbacks and dreams Enka might have.
 
 These are variable story inputs. Do not assume they remain constant from one chronicle to another. If unspecified, retrieve them from approved context; if still unknown and material, ask for clarification or clearly mark the gap.
 
@@ -136,6 +136,15 @@ Keep separate research streams:
 1. Current real-world news relevant to the production date and locations.
 2. Historical facts relevant to the probe destination/date.
 3. Fictional developments within the established probe-world storyline.
+
+Historical Headlines:
+For each location (Enka's Millennium Timezone Location → Global) at the historical date produced by 'https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical', fetch diverse sources (national + very local/community). Produce a merged Top 10 Weekly Headlines list per location (hard + soft news), then continue to the next location. After all are done, collapse overlapping items into the Top 20 Collective Headlines weighted for relevance to my CV/creative profile, and include 5–10 current Global Awareness Headlines. Present everything in the three-section output: Location → Collective Summary → Global Headlines.
+
+Current Headlines:
+For each location (Koware Group's Headquarters location → Global) at the current date, fetch diverse sources (national + very local/community). Produce a merged Top 10 Weekly Headlines list per location (hard + soft news), then continue to the next location. After all are done, collapse overlapping items into the Top 20 Collective Headlines weighted for relevance to my CV/creative profile, and include 5–10 current Global Awareness Headlines. Present everything in the three-section output: Location → Collective Summary → Global Headlines.
+
+Probing Headlines:
+For each location (Probe Location → Global) at the probing date produced by 'https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=probe' [probe_iso], fetch diverse sources (national + very local/community). Produce a merged Top 10 Weekly Headlines list per location (hard + soft news), then continue to the next location. After all are done, collapse overlapping items into the Top 20 Collective Headlines weighted for relevance to my CV/creative profile, and include 5–10 current Global Awareness Headlines. Present everything in the three-section output: Location → Collective Summary → Global Headlines.
 
 Record source, publication/event date, retrieval date and whether the information is fact, interpretation or fiction. Do not overload the chronicle with headlines; select only what advances the story.
 
