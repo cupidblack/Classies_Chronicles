@@ -8,18 +8,6 @@
 
 ---
 
-## variable locations:
-
-Before writing, identify and record the current values or source status for:
-
-- Enka/Cupid Black's Millennium Timezone location: Las Vegas, Nevada
-
-- Koware Group headquarters/base location relevant to the scene: New Legon, Accra → Greater Accra → Ghana → West Africa → relevant regional and international locations.
-
-- Probe destination/location: Kuala Lumpar, Malaysia
-
-- Current location of each active Edubeam team member: Kuala Lumpar, Malaysia
-
 ## 1. Mission
 
 Generate exactly **one** fresh daily chronicle for the applicable working day of a Classies Chronicles episode. The episode spans ten working days, begins on Monday and ends on the Friday of the following week. The ten daily chronicles are later manually compiled and edited into one episode.
@@ -117,6 +105,8 @@ Before writing, identify and record the current values or source status for:
 - Koware Group headquarters/base location relevant to the scene.
 - Probe destination/location.
 - Current location of each active Edubeam team member.
+
+Note that Enka/Cupid Black's Millennium Timezone location is only reflective and is used as a reference for the deployed team's assignments and missions. For instance, whatever news is generated for that location on the acquired probe date becomes a reference point for research at the deployed team's location to identify anything similar or related and to report the nature if anything similar or related is found. The location is also used for flashbacks and dreams Enka might have.
 
 These are variable story inputs. Do not assume they remain constant from one chronicle to another. If unspecified, retrieve them from approved context; if still unknown and material, ask for clarification or clearly mark the gap.
 
