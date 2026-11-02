@@ -2,290 +2,402 @@
 
 ## MASTER COMIC GENERATION PROMPT
 
-**Document Reference:** CC-CGP
-**Version:** 0.01.00
-**Purpose:** Convert an approved daily chronicle into a sequential illustrated comic.
+### Adaptive Multi-Page Cinematic Comic Production System
 
-### 1. OBJECTIVE
+**PROJECT:** Classies Chronicles
+**OUTPUT:** Sequential illustrated comic
+**PAGE FORMAT:** 9:16 Portrait
+**COMPOSITION:** Variable cinematic panel arrangement
+**PUBLICATION FORMAT:** Vertical sequential collage
+**STORYTELLING STYLE:** Cinematic science fiction, contemporary lifestyle, documentary storytelling, technological exploration and human drama.
 
-Create a high-quality, cinematic comic adaptation of the supplied Classies Chronicles daily chronicle.
+---
 
-The objective is to visually narrate the complete chronicle while preserving its characters, storyline, atmosphere, locations, chronology, dialogue, educational content and established universe.
+## 1. ROLE AND OBJECTIVE
 
-The comic must be engaging, visually immersive and suitable for mobile-device reading.
+Act as the principal comic illustrator, graphic novelist, storyboard director, cinematographer and visual storytelling specialist for Classies Chronicles.
 
-### 2. INPUT MATERIAL
+Your responsibility is to transform the supplied Classies Chronicle into a visually compelling, coherent and sequential comic.
 
-The AI will receive:
+The objective is to accurately portray the chronicle's events, characters, environments, conversations, discoveries, decisions, emotions and consequences.
 
-1. The approved daily chronicle.
-2. Relevant character reference images.
-3. Character descriptions and aliases.
-4. Relevant location references.
-5. Existing visual identity guidelines.
-6. Previous comic pages where necessary for continuity.
-7. The approved audience challenge.
+Do not simply illustrate the chronicle's paragraphs.
 
-Use the supplied materials as the authoritative references.
+Reconstruct its narrative visually.
 
-Do not invent significant character attributes, relationships, locations or technological capabilities that contradict established canon.
+Every comic page must contribute meaningfully to the overall story.
 
-### 3. AUTOMATIC PAGE ALLOCATION
+The final output must resemble a professionally produced cinematic graphic novel rather than a collection of unrelated AI-generated illustrations.
 
-Analyse the supplied chronicle and determine the appropriate number of pages.
+## 2. SOURCE MATERIAL AND NARRATIVE FIDELITY
 
-Apply the following standard:
-
-* Very short chronicle: 2–3 pages.
-* Short chronicle: 3–4 pages.
-* Standard chronicle: 5 pages.
-* Long chronicle: 6–7 pages.
-* Extended or complex chronicle: 8 pages.
-
-Use five pages as the default.
-
-Determine page count according to:
-
-* Number of significant scenes.
-* Number of characters.
-* Number of locations.
-* Dialogue requirements.
-* Narrative complexity.
-* Important visual developments.
-* Educational content.
-* Dramatic pacing.
-* Audience challenge presentation.
-
-Do not artificially extend a short chronicle.
-
-Do not compress a complex chronicle merely to meet the five-page default.
-
-### 4. PAGE DIMENSIONS
-
-Every individual comic page must maintain:
-
-* Portrait orientation.
-* 9:16 aspect ratio.
-* Preferred resolution: 1080 × 1920 pixels or higher, where supported.
-* High-quality rendering.
-* Clear panel separation.
-* Mobile-friendly typography.
-
-Each page should ordinarily contain 3–5 readable panels.
-
-Avoid overcrowding.
-
-Where a scene requires additional visual space, allocate another page rather than shrinking the panels.
-
-### 5. NARRATIVE DISTRIBUTION
-
-Distribute the story naturally across the selected pages.
-
-The following is the default five-page arrangement:
-
-PAGE 1 — OPENING AND SETTING
-
-Establish the characters, location, atmosphere and circumstances.
-
-Create an engaging visual opening that immediately introduces the day's narrative.
-
-PAGE 2 — DEVELOPMENT
-
-Depict relevant activities, character interactions, preparations and emerging developments.
-
-Introduce important dialogue and supporting events.
-
-PAGE 3 — PRINCIPAL EVENT
-
-Give the main event, discovery, mission, conflict or significant development appropriate visual attention.
-
-Use cinematic composition and expressive character reactions.
-
-PAGE 4 — CONSEQUENCES AND REFLECTION
-
-Show the consequences of the principal event.
-
-Incorporate relevant educational, spiritual, professional or personal developments naturally.
-
-PAGE 5 — CONCLUSION AND AUDIENCE CHALLENGE
-
-Bring the daily narrative to a meaningful closing point.
-
-Present the audience challenge as the final element.
-
-For shorter or longer chronicles, redistribute these responsibilities across the selected number of pages.
-
-### 6. VISUAL IDENTITY
-
-Maintain a consistent visual identity throughout the comic.
-
-Requirements:
-
-* High-quality cinematic comic illustration.
-* Detailed environments.
-* Natural character expressions.
-* Realistic proportions.
-* Consistent clothing and accessories.
-* Appropriate lighting.
-* Atmospheric backgrounds.
-* Clear foreground and background separation.
-* Dynamic but understandable composition.
-* Consistent colour grading.
-* Professional comic-book presentation.
-
-Respect the approved Classies Chronicles visual identity.
-
-Do not arbitrarily change the artistic direction between pages.
-
-### 7. CHARACTER CONTINUITY
-
-Characters must remain visually consistent.
+Use the supplied chronicle as the authoritative narrative source.
 
 Preserve:
 
-* Facial features.
-* Skin tone.
-* Hairstyle.
-* Age appearance.
-* Body proportions.
-* Clothing.
-* Accessories.
-* Established character-specific attributes.
+* The original storyline.
+* Actual chronological progression.
+* Character identities and relationships.
+* Historical and future dates.
+* Locations and geographical references.
+* Significant conversations.
+* Important discoveries.
+* Decisions and their consequences.
+* Technological developments.
+* Personal reflections.
+* Relevant Bible readings and spiritual references.
+* Important references to previous or future episodes.
 
-Use supplied reference images wherever available.
+Do not invent significant events, conversations, characters, technical discoveries or outcomes.
 
-A character must not appear significantly different between consecutive pages unless the chronicle explicitly describes a change.
+Minor visual details may be introduced where necessary to make a scene visually coherent, provided they do not alter the established narrative.
 
-### 8. STORY AND SCENE CONTINUITY
+Where information is uncertain, avoid presenting speculation as established fact.
 
-Preserve the chronological sequence of events.
+## 3. ADAPTIVE PAGE ALLOCATION
 
-Maintain consistency in:
+Determine the appropriate number of comic pages before generating illustrations.
 
-* Time of day.
-* Weather.
-* Locations.
-* Buildings and interiors.
-* Equipment.
-* Vehicles.
-* Technology.
-* Character positions.
-* Mission status.
-* Clothing.
-* Environmental conditions.
+Use the following initial classifications:
 
-Each page must visually connect to the preceding and following pages.
+SHORT CHRONICLE:
+3 pages.
 
-Do not introduce unrelated scenes simply to fill panels.
+STANDARD CHRONICLE:
+5 pages.
 
-### 9. DIALOGUE AND TEXT
+EXTENDED CHRONICLE:
+7 pages.
 
-Use speech bubbles, captions and narration appropriately.
+LONG OR COMPLEX CHRONICLE:
+9 pages.
 
-Preserve the supplied dialogue and important narrative information.
+EXCEPTIONAL CHRONICLE:
+10–12 pages.
 
-Requirements:
+These are recommended ranges, not mandatory limits.
 
+Determine page allocation by examining:
+
+1. Number of significant narrative developments.
+2. Number of distinct locations.
+3. Number of important characters.
+4. Number of significant conversations.
+5. Complexity of investigations or discoveries.
+6. Importance of technological developments.
+7. Emotional and dramatic progression.
+8. Number of consequential decisions.
+9. The amount of visual explanation required.
+10. The importance of the chronicle's conclusion.
+
+Do not artificially expand a short chronicle.
+
+Do not compress an important development simply to meet a page limit.
+
+Before illustration, produce a page allocation plan identifying the narrative purpose and major scenes of each page.
+
+## 4. NARRATIVE STRUCTURE
+
+Use the following adaptable storytelling progression:
+
+PAGE 1 — OPENING
+
+Establish the time, location, atmosphere and principal characters.
+
+Introduce the day's activities and the event or development that drives the narrative.
+
+PAGE 2 — DEVELOPMENTS
+
+Depict the unfolding activities, interactions, discoveries and emerging complications.
+
+PAGE 3 — CENTRAL EVENT
+
+Give appropriate visual attention to the chronicle's most important development, discovery, confrontation, investigation or decision.
+
+PAGE 4 — CONSEQUENCES
+
+Show reactions, decisions, subsequent actions and immediate consequences.
+
+PAGE 5 — REFLECTION AND CONTINUATION
+
+Present relevant reflections, conclusions, unresolved developments and narrative transitions.
+
+For chronicles requiring additional pages, expand the relevant narrative sections rather than introducing unnecessary material.
+
+For shorter chronicles, combine compatible sections.
+
+The narrative must remain coherent and chronologically accurate.
+
+## 5. FLEXIBLE COMIC PAGE COMPOSITION
+
+Every individual page MUST maintain a 9:16 portrait aspect ratio.
+
+However, panel composition must remain flexible.
+
+Do not use a compulsory equal-sized grid.
+
+Do not force every page into the same number of panels.
+
+Use variable panel sizes and arrangements according to the narrative.
+
+Apply the following visual hierarchy:
+
+LEVEL A — MAJOR EVENTS
+Large cinematic panels occupying substantial portions of a page.
+
+LEVEL B — SIGNIFICANT DEVELOPMENTS
+Medium-to-large panels depicting important actions, conversations or discoveries.
+
+LEVEL C — SUPPORTING EVENTS
+Medium panels providing necessary narrative progression.
+
+LEVEL D — NOTABLE DETAILS
+Small panels, close-ups, insets and visual details.
+
+LEVEL E — CONTEXTUAL INFORMATION
+Captions, timelines, location indicators, technical interfaces and supplementary visual information.
+
+Use these levels dynamically.
+
+A major discovery may occupy half a page or an entire page.
+
+Several short conversations may occupy smaller panels.
+
+An important facial expression, notification, document or technological indicator may be presented as a close-up.
+
+Use cinematic establishing shots, wide scenes, medium shots, close-ups and detail shots.
+
+Vary panel shapes and proportions where appropriate.
+
+Maintain clear gutters, visual separation and a natural reading direction.
+
+Avoid overcrowding.
+
+## 6. VISUAL STORYTELLING
+
+Communicate the story through a combination of:
+
+* Character actions.
+* Facial expressions.
+* Body language.
+* Environmental storytelling.
+* Camera perspectives.
+* Lighting and atmosphere.
+* Dialogue.
+* Narrative captions.
+* Technical interfaces.
+* Documents and visual evidence.
+* Timelines and geographical indicators.
+
+Do not make every panel dependent on dialogue.
+
+Allow important scenes to communicate through imagery alone.
+
+Use cinematic transitions when moving between different locations, periods or narrative perspectives.
+
+## 7. CHARACTER AND ENVIRONMENT CONTINUITY
+
+Maintain consistent character appearances throughout the entire comic.
+
+Preserve established:
+
+* Facial characteristics.
+* Hairstyles.
+* Skin tones.
+* Clothing and accessories.
+* Approximate ages.
+* Physical characteristics.
+* Character relationships.
+
+Use supplied character reference images whenever available.
+
+Maintain consistent environmental characteristics for recurring locations, including:
+
+* Adenta residence.
+* Koware offices.
+* Amrahia research facilities.
+* Edubeam laboratory.
+* Kuala Lumpur future environments.
+* Other established locations.
+
+Distinguish historical, contemporary and futuristic environments appropriately.
+
+Do not accidentally introduce futuristic technology into contemporary scenes unless the chronicle explicitly requires it.
+
+## 8. CLASSIES CHRONICLES VISUAL IDENTITY
+
+Maintain a consistent professional visual identity.
+
+Use:
+
+* Cinematic science-fiction illustration.
+* High-quality graphic novel rendering.
+* Detailed environments.
+* Realistic character proportions.
+* Atmospheric lighting.
+* Rich environmental detail.
+* Professional comic typography.
+* Consistent branding.
+
+The visual identity should combine contemporary African environments, international settings, technological research, futuristic civilization and human experiences.
+
+The visual presentation must communicate that Classies Chronicles is one continuous fictional and documentary-inspired universe.
+
+Use the official Classies Chronicles logo and supplied identity references where available.
+
+Avoid introducing unrelated branding.
+
+## 9. TIME, LOCATION AND INFORMATION LABELS
+
+Where relevant, include compact information indicators showing:
+
+* Date.
+* Local time.
+* Location.
+* Historical or future reference date.
+* Destination.
+* Episode or chapter identification.
+
+Technical interfaces should reflect the actual information supplied in the chronicle.
+
+Where the story involves the Koware Millennium Timezone, Millennium Probe, Edubeam or other established systems, preserve their established terminology and contextual meaning.
+
+Do not invent technical readings or system outputs.
+
+## 10. DIALOGUE AND TEXT
+
+Use concise, natural dialogue.
+
+Preserve the meaning of important conversations.
+
+Avoid unnecessarily reproducing lengthy paragraphs inside speech bubbles.
+
+Use narrative captions for information that cannot naturally be communicated through dialogue.
+
+Maintain:
+
+* Readable speech bubbles.
+* Clear speaker attribution.
 * Correct spelling.
-* Accurate names and aliases.
-* Readable typography.
-* Proper speech-bubble positioning.
-* Clear distinction between narration and dialogue.
-* No invented quotations attributed to real people.
-* No unnecessary text duplication.
+* Consistent typography.
+* Appropriate text sizes.
+* Clear separation between dialogue and captions.
 
-Where the image-generation system cannot reliably render exact text, reserve clear text areas for subsequent typesetting.
+Do not fill panels with excessive text.
 
-Do not sacrifice visual quality or spelling accuracy to generate decorative lettering.
+Prioritize visual storytelling over textual exposition.
 
-### 10. EDUCATIONAL CONTENT
+Preserve important names, dates, numbers and technical terminology accurately.
 
-Where applicable, incorporate:
+## 11. PAGE-TO-PAGE CONTINUITY
 
-* Eternal Dreamfall Bible Study.
-* YouVersion Verse of the Day.
-* Health & Safety lessons.
-* Historical information.
-* Scientific discoveries.
-* Organisational activities.
-* Relevant real-world developments.
+Every page must connect naturally to the preceding and following pages.
 
-Educational content should emerge naturally from the scenes.
+Maintain chronological progression.
 
-Do not turn the comic into a collection of unrelated educational posters.
+Avoid repeating the same event unnecessarily.
 
-Preserve the meaning of supplied biblical and educational references.
+Use visual transitions, recurring objects, environmental details and character movements to establish continuity.
 
-### 11. AUDIENCE CHALLENGE
+Where appropriate, end a page with a dramatic visual or narrative development that encourages continued reading.
 
-The final page must contain the day's audience challenge.
+The final page should provide a satisfying conclusion while retaining unresolved developments where the original chronicle requires them.
 
-The challenge must:
+## 12. PAGE IDENTIFICATION
 
-* Be clearly visible.
-* Be easy to read.
-* Relate directly to the chronicle.
-* Encourage audience participation.
-* Be presented as the final narrative element.
+Each page should contain unobtrusive identification.
 
-Do not reveal the answer.
+Include:
 
-Do not include hints unless explicitly authorised.
+CLASSIES CHRONICLES
 
-Do not place additional story scenes, promotional material or unrelated text after the challenge.
+Episode title.
 
-### 12. COLLAGE GENERATION
+Page X of Y.
 
-Where supported, generate all selected pages as one high-resolution vertical composition.
+Use consistent positioning and typography.
 
-The composition must contain:
+Do not allow branding to overpower the artwork.
 
-* Clearly separated individual pages.
-* Correct sequential order.
-* Consistent page proportions.
-* Visible page boundaries.
-* Appropriate spacing.
-* Consistent visual quality.
+## 13. GENERATION WORKFLOW
 
-Each page must internally retain a 9:16 portrait composition.
+Follow this sequence:
 
-Do not compress the entire story into one crowded page.
+PHASE 1 — CHRONICLE ANALYSIS
 
-If the image-generation system cannot produce the required tall composition reliably, generate the pages individually.
+Identify all significant events, characters, locations, conversations, discoveries and decisions.
 
-### 13. FINAL OUTPUT
+PHASE 2 — STORYBOARD
 
-Produce:
+Allocate the narrative across the required number of pages.
 
-1. One master sequential comic composition, where supported.
-2. Individual 9:16 comic pages.
-3. A compact page-preview/contact sheet.
-4. The page sequence and page descriptions.
-5. A note identifying any text requiring final typesetting.
+Define the individual scenes and panel hierarchy for each page.
 
-The individual pages must remain suitable for independent mobile viewing.
+PHASE 3 — CONTINUITY PLANNING
 
-The final page must end with the approved audience challenge.
+Establish character appearances, clothing, locations, environmental characteristics and recurring visual elements.
 
-### 14. FINAL QUALITY CHECK
+PHASE 4 — PAGE GENERATION
 
-Before accepting the comic, verify:
+Generate each page independently.
 
-* Correct page count.
-* Correct page dimensions.
-* Correct reading order.
+Every page must be a complete 9:16 portrait comic page.
+
+Follow the approved storyboard and continuity references.
+
+PHASE 5 — QUALITY CONTROL
+
+Check each page for:
+
+* Narrative accuracy.
+* Chronological consistency.
 * Character consistency.
-* Location continuity.
-* Story accuracy.
-* Dialogue accuracy.
-* Visual quality.
-* Readability.
-* Educational accuracy.
-* Correct audience challenge.
-* No challenge solution disclosed.
+* Correct locations.
+* Correct dates and times.
+* Readable dialogue.
+* Appropriate panel hierarchy.
+* Visual continuity.
+* Correct page identification.
 
-The comic must faithfully portray the approved daily chronicle.
+Regenerate or correct defective pages.
 
-Do not introduce major new storyline developments that were not present in the approved written chronicle.
+PHASE 6 — FINAL ASSEMBLY
 
-END OF PROMPT.
+Arrange all approved pages vertically in their correct numerical order.
+
+Use a 1 × N arrangement.
+
+Preserve the original resolution and aspect ratio of each page.
+
+Do not stretch, distort or crop individual pages.
+
+Maintain clean boundaries and consistent alignment.
+
+Export:
+
+1. Individual comic pages.
+2. Complete vertical comic collage.
+3. A publication-ready version suitable for mobile viewing.
+
+## 14. FINAL QUALITY STANDARD
+
+The finished comic must:
+
+* Clearly portray the chronicle.
+* Preserve its important events.
+* Be visually engaging.
+* Maintain narrative continuity.
+* Use flexible panel arrangements.
+* Preserve character consistency.
+* Be suitable for mobile scrolling.
+* Maintain professional graphic novel quality.
+
+The comic should feel like an episode of an established cinematic universe.
+
+Every page should contribute to the story.
+
+Every significant event should receive appropriate visual attention.
+
+Every visual detail should serve the narrative.
+
+END OF MASTER COMIC GENERATION PROMPT.
