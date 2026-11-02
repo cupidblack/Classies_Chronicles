@@ -286,10 +286,10 @@ https://github.com/cupidblack/Classies_Chronicles
 
 Primary source for:
 
-* Character canon.
+* Character canon: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
 * Character histories.
-* Previous chronicles.
-* Episode archives.
+* Previous chronicles: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_S00_FOUNDATION_PHASE
+* Episode archives: https://github.com/cupidblack/Classies_Chronicles/tree/main/Classies_Chronicles_Archives
 * Historical and future settings.
 * Visual references.
 * Character relationships.
@@ -310,6 +310,8 @@ Eternal Dreamfall — Five-Year Reading Plan.
 Repository location:
 
 Eternal_Dreamfall_Bible_Study/
+
+https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/Eternal_Dreamfall_Bible_Study/list_of_biblical_texts-5_year_reading_plan-1.txt
 
 The AI must identify the appropriate reading for the actual production day.
 
@@ -370,7 +372,7 @@ A fictional event must never be presented as an actual completed Koware business
 
 Reference:
 
-Organizational_Chart_Structure-Aliased_Checks.txt
+https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main/Organizational_Chart_Structure-Aliased_Checks.txt
 
 The organisational chart establishes the personnel, roles, aliases and scheduled spotlight days.
 
