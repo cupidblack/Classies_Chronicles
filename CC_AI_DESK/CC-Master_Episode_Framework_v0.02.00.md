@@ -624,6 +624,8 @@ Real-world news must be distinguished from fictional future developments.
 
 Future news must never be presented as verified contemporary reporting.
 
+Published weather conditions must be acquired for each location and applied appropriately.
+
 ## 6.9 Personal diaries
 
 Where authorised diary material is supplied, it may contribute:
