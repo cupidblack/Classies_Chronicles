@@ -67,6 +67,8 @@ Retrieve, where available:
 
 Use the current episode archive as the authority for episode-specific facts. The persistent AI Desk is a retrieval/control plane, not the permanent archive for episode media or episode-specific facts.
 
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+
 ### 4.2 Query the Millennium Probe
 
 Endpoint:

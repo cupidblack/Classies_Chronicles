@@ -12,7 +12,10 @@
 - Chapter 4 street alias: **Cu / Q**, pronounced “Q”.
 - Later identity label: **Cupid Black**.
 - “Black” derives from the shadow-like visual signature during unstable materialisation. It is not a public superhero identity in S00E01.
-- Visual identity and appearance: https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/S00_T05_The%20Signal%20Before%20Sunrise/S00_T05_E02_The%20Signal%20Before%20Sunrise/Enka_Character_Reference_Collage.jpg
+- Visual identity and appearance: https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_T05_The%20Signal%20Before%20Sunrise/S00_T05_E02_The%20Signal%20Before%20Sunrise/Enka_Character_Reference_Collage.jpg
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/Enka_Character_Reference_Collage.jpg
+
 
 ## 2. Character core
 Technically curious, observant, intelligent, relational, emotionally intense, spiritually curious, resourceful, humorous under pressure and strongly motivated by innocence, fairness and perceived justice.

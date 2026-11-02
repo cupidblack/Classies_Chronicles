@@ -289,15 +289,23 @@ https://github.com/cupidblack/Classies_Chronicles
 Primary source for:
 
 * Character canon: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
-* Character histories.
-* Previous chronicles: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_S00_FOUNDATION_PHASE
-* Episode archives: https://github.com/cupidblack/Classies_Chronicles/tree/main/Classies_Chronicles_Archives
+* Character histories: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
+
+* Previous chronicles: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+* Episode archives: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
 * Historical and future settings.
-* Visual references.
-* Character relationships.
+* Visual references: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md
+
+* Character relationships: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
 * Narrative conventions.
-* Continuity records.
-* Existing storylines.
+* Continuity records: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+* Existing storylines: https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
 
 The AI must examine relevant existing materials before introducing new developments.
 
