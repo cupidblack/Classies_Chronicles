@@ -2956,3 +2956,38 @@ In an emergency evacuation study, an investigator discovers that four notices mo
 > Production is now paused. Standing by for your prompt to execute the **Master Comic Generation Prompt** to generate the comic pages for this chronicle.
 
 <<STOP ANTIGRAVITY-1>>
+
+<<START CLAUDE-1>>
+
+CLASSIES CHRONICLES
+Season 00 — Foundation Phase · Term 05 — The Signal Before Sunrise · Episode 02 — The Notice in Four Languages
+Day 02 — The Sheet Behind the Board
+Tuesday, 3 November 2026
+By seven in the morning, Enka had stopped asking which stairwell was the right one.
+The question had followed him home from yesterday’s photographs: four notices on one noticeboard in Kuala Lumpur, three arrows pointing one way, a fourth pointing the other. Only the odd copy carried a printed date. Overnight the question had turned into something smaller and harder. Who is allowed to change that board?
+Outside the New Legon office the sky hung low and grey over Accra, with rain forecast and the heat already climbing toward thirty-two degrees. Enka took his Eternal Dreamfall reading first, as he did most mornings. Week ninety-six: the Septuagint, the Greek translation of the Hebrew Scriptures, made in Alexandria by many hands over many years. The plan named no passage for the day, so he borrowed only the idea. A translation is a copy that somebody once judged faithful, and someone always has to be willing to put a name to that judgement.
+The day’s verse was Psalm 119:11, about hiding the word in the heart. Enka smiled at the irony. The notices in Kuala Lumpur were hardly hidden. They were pinned up where everyone could read them. What nobody could see was where they had come from.
+The Health & Safety Technician was at the long table outside the kitchen, checking the extinguisher log with the suspicion of a person who had been handed logs before. Enka laid the four photographs down in front of them.
+“Don’t tell me which stair,” he said. “Tell me how this happens.”
+The Technician studied the prints for a long moment. “I won’t pick a stair from a photograph. Nobody honest could.” They held up a hand and counted. “Before I trust a notice, I want four things. Who issued it. When it took effect. Which version it is. And what happened to the old copies.”
+“The old copies.”
+“Everyone remembers to hang the new sheet. Almost nobody remembers to take the old one down.”
+They tested the idea on Koware’s own board by the stairs. The Janitor, who knew that board better than anyone in the building, was already there with a stepladder. At the Technician’s nod, the Janitor lifted one corner of the current evacuation sheet. Behind it, curling at the edges, was an older sheet with a different assembly point.
+“That’s been there since before the repaint,” the Janitor said, without defensiveness, only accuracy. “Nobody told me it was supposed to come down.”
+Nobody ever had. The old sheet went into the Technician’s folder with the date it was withdrawn written beside it, and Enka stood looking at the bare pins a little longer than the moment needed.
+Back at his desk he wrote to the field team in Kuala Lumpur. The assignment was still observation only, so the message said so first: do not touch the board, do not test either stairwell. Then it asked, through the building manager, for five things: the revision number and effective date of the current notice, who had approved it, who had received it, what had been done with earlier copies, and who in the building owned the evacuation plan.
+At the laboratory, the probe log still held two timestamps that would not agree. Enka marked both unreconciled and wrote nothing between them. A reading was not a location. A log was not a decision.
+Noon brought the rain, and with it the news that commercial transport unions had announced a withdrawal of services for Wednesday, 4 November. It was an announcement, nothing more, but staff would plan around it anyway. Enka and the Technician wrote a notice for Koware’s own people in three lines. It named who issued it and the date, and it was marked Version 1. It said what was known: the unions had announced a stoppage. It said what was not: whether services would actually stop. Any change would arrive as Version 2, with a new time on it.
+“Dull,” the Technician said, reading it back.
+“Good,” said Enka. “Dull is what people follow at six in the morning.”
+The reply from Kuala Lumpur came late in the afternoon: a photograph of one page from the building manager’s binder. A revision log, two entries. Revision A carried the same date as the odd notice, and beside it, a name. Revision B was newer. Beside it were only initials.
+The manager had added a line of their own. The translations, they wrote, were printed separately, in-house, and the question would go to the person responsible for the site’s safety procedures. The manager had not said which stairwell the plan named, and the team had not asked.
+Enka read the page three times.
+It did not answer the question. It changed it. The odd notice was probably the older one, but older did not mean wrong. Revision B might be the careful correction. It might equally be a mistake, printed three times and pinned up in several languages, and repetition did nothing to tell the two apart. Until someone put a name beside those initials, the board was an argument, not an instruction.
+He sent the team one line: hold, observe, record.
+Evening came with the rain still falling. Enka squared the photographs on his desk, three arrows in agreement and one against, and found he no longer thought of them as a vote. A sheet in a frame could look exactly like authority. Only the name beside it could prove it.
+TODAY’S CLASSIES CHALLENGE
+The building manager’s revision log has two entries. Revision A carries the same date as the odd notice, with an approver’s name beside it. Revision B is newer, with only initials beside it.
+Does being the older notice make the odd one wrong? Give your reason in one or two sentences, then name one record or confirmation that would let someone trust Revision B.
+
+<<STOP CLAUDE-1>>
