@@ -2595,3 +2595,717 @@ The following principal sources were independently retrieved and used to support
 
 
 <<STOP CHATGPT-1>>
+
+<<START CHATGPT-2>>
+
+The Classies Chronicle for **Wednesday, 4 November 2026** has been prepared using the v0.03.01 production framework, Daily Chronicle Generation Protocol, and Episode Continuity Ledger specification.
+
+The existing Chronicle #3 drafts were reviewed as continuity references, not reproduced. This version develops a different consequence of the ongoing four-language notice investigation: the danger of confusing a precise timestamp with reliable evidence.
+
+**Production identification:** Season 00 · Chapter 05 · Episode 02 · **Chronicle #3 of 10** · Chapter Working Day 13 of 40.
+
+**Editorial status:** DRAFT — AWAITING HUMAN EDITORIAL REVIEW.
+
+The public chronicle and internal records are separated below. Only Output A is intended for eventual publication.
+
+---
+
+# CLASSIES CHRONICLES
+
+**Season 00 — Foundation Phase**
+**Chapter 05 — The Signal Before Sunrise**
+**Episode 02 — The Notice in Four Languages**
+**Chronicle #3 of 10**
+
+# THE HOUR ON THE PHOTOGRAPH
+
+*Wednesday, 4 November 2026*
+
+The trouble began with a number that looked too precise to be questioned.
+
+At Koware headquarters in New Legon, Enka studied the photograph on the laboratory monitor. Four notices remained visible along the corridor of a distant building, each bearing an emergency instruction in a different language.
+
+The investigation had already uncovered a troubling possibility: the notices did not all appear to communicate the same direction.
+
+But this morning, something else had attracted attention.
+
+In the bottom corner of the latest photograph was a timestamp.
+
+**2230-01-11 10:40:35**
+
+The laboratory specialist leaned closer.
+
+“That gives us a date,” he said.
+
+Enka folded his arms.
+
+“A date for what?”
+
+“For when the notice was there.”
+
+“Are you certain?”
+
+The specialist hesitated.
+
+The photograph had arrived through the Edubeam observation system. Its timestamp was displayed in the same format as the Millennium Probe's destination reference.
+
+It was a convincing number.
+
+That did not necessarily make it the photograph's original capture time.
+
+Enka pulled a chair beside the console.
+
+“Before we build an explanation on that number, we need to know what the number belongs to.”
+
+Outside, the morning had its own uncertainty.
+
+Reports had circulated that five Ghanaian commercial transport unions planned to withdraw services on Wednesday over disputes concerning trading at bus stops and traffic enforcement.
+
+At Koware's operations desk, a draft staff message had been prepared.
+
+**ALL COMMERCIAL TRANSPORT HAS STOPPED.**
+
+The Technical Support and Operations role had been brought into the day's work because staff needed reliable information about travel arrangements.
+
+Enka read the proposed announcement.
+
+“Who confirmed that every vehicle has stopped?”
+
+“The unions announced a shutdown.”
+
+“That establishes what they announced,” Enka replied. “It doesn't establish the condition of every road.”
+
+The wording was changed.
+
+The revised message explained the reported withdrawal plans, encouraged staff to verify their travel arrangements through reliable channels, and invited anyone facing difficulties to contact the appropriate office.
+
+No imaginary certainty. No unnecessary panic.
+
+The operations colleague looked at him.
+
+“You make a simple announcement sound like a court case.”
+
+Enka smiled.
+
+“Only when the announcement might change somebody's journey.”
+
+Back at the laboratory, the specialist had opened the original transmission logs.
+
+The displayed date belonged to the probe-reference layer added by the control system.
+
+The underlying photograph had its own capture record, but that record had not yet been independently recovered and checked.
+
+The specialist sat very still.
+
+“I nearly recorded that as the date the notice appeared.”
+
+“You recorded what the screen displayed.”
+
+“And I was about to call it something else.”
+
+“That is the part we can correct.”
+
+The field observation channel opened.
+
+For a moment, the distant corridor appeared in fragments: pale walls, fluorescent light, the rectangular notices, and the reflection of a ceiling fixture across the camera lens.
+
+The field analyst's voice came through.
+
+“All four notices remain in place. We haven't observed anyone replacing them during our monitoring period.”
+
+“Can you establish when they were originally installed?” Enka asked.
+
+“Negative. Not from our observations.”
+
+“Then don't assign them a posting date from the probe overlay.”
+
+“Understood.”
+
+The team remained under its observation-only instructions. It would not test either disputed route, alter the notices, or turn an uncertain reading into an instruction for occupants.
+
+The responsible building personnel still needed to establish the current authorised emergency arrangements.
+
+The laboratory specialist began correcting the draft report.
+
+He did not erase the earlier entry. He preserved it as an audit record and added a correction explaining why the timestamp could not establish the notice's installation date.
+
+Then he requested the original capture metadata and the building's posting records through the established verification process.
+
+Enka watched him work.
+
+“You're disappointed,” he said.
+
+“I thought we'd found something solid.”
+
+“We found something useful.”
+
+“A mistake?”
+
+“A place where the evidence could have turned into a mistake.”
+
+The specialist laughed quietly.
+
+“That isn't as exciting.”
+
+“It might save us from making a very exciting mess.”
+
+Later, while reviewing his notes, Enka returned to a passage he had been considering from Matthew's Gospel.
+
+The image was familiar: a wise builder who puts his house on a dependable foundation.
+
+The thought stayed with him.
+
+A foundation was not the most visible part of a building. Nobody admired its appearance from the street.
+
+Yet everything above it depended on its strength.
+
+The same was true of an investigation.
+
+A translation needed a trustworthy source. A safety instruction needed proper authority. A timestamp needed a known clock.
+
+And a conclusion needed evidence that could actually support it.
+
+In the day's Health and Safety material, the distinction between identifying a hazard and assessing its risk became unusually practical. Conflicting emergency directions presented a potential hazard. The consequences of acting on the wrong information could be serious.
+
+The team could not remove that risk by guessing which notice looked more official.
+
+It needed verification through the appropriate people and procedures.
+
+By the end of the working day, the investigation had gained neither a dramatic confession nor a convenient explanation.
+
+The original authority behind the notices remained unverified.
+
+The conflicting directions still required resolution.
+
+The building manager's search for supporting records continued.
+
+But one false conclusion had been prevented.
+
+Enka reviewed the corrected report and approved its wording for the fictional team's internal working file.
+
+**THE PROBE TIMESTAMP IS VERIFIED AS A PROBE REFERENCE. THE NOTICE'S ORIGINAL POSTING TIME REMAINS UNVERIFIED.**
+
+Two statements.
+
+Neither pretending to be the other.
+
+On the monitor, the corridor remained unchanged.
+
+Four notices.
+
+Four languages.
+
+And somewhere behind them, an instruction whose history had still not been properly established.
+
+The specialist dimmed the display.
+
+“Do you think we'll ever know which one came first?”
+
+Enka looked at the four rectangles one last time.
+
+“I think we'll know more when we stop asking a clock to answer a question it was never measuring.”
+
+The screen faded to black.
+
+Only the small green indicator of the observation channel remained.
+
+The investigation was still alive.
+
+And now, at least, its next question was pointed in the right direction.
+
+## TODAY'S CLASSIES CHALLENGE
+
+A photograph of an emergency notice displays the timestamp **11 January 2230**. Investigators later discover that the timestamp was added by the monitoring system rather than obtained from the original camera file.
+
+The building's posting register has not yet been verified.
+
+**What two separate types of evidence should investigators seek before claiming when the notice was displayed, and why would the timestamp alone be insufficient?**
+
+---
+
+# OUTPUT B — INTERNAL PRODUCTION APPENDIX
+
+## NOT FOR PUBLICATION
+
+**Classification:** Internal editorial and production working record
+**Chronicle:** Chronicle #3 of 10
+**Provisional legacy identifier:** `S00_T05_E02.03` / `S00_CH05_E02.03`
+**Production date:** Wednesday, 4 November 2026
+**Status:** DRAFTED — NOT COMMITTED
+
+This appendix records verified research, temporal provenance, fictional developments, unresolved continuity, and the production handover. It must not be published with Output A.
+
+## B1. GENERATION AND TEMPORAL METADATA
+
+### Governing production documents
+
+| Document                                                   | Version | Authority status        |
+| ---------------------------------------------------------- | ------- | ----------------------- |
+| Structured Master Prompt (CC-SMDP)                         | 0.03.01 | Proposed                |
+| Daily Chronicle Generation Protocol (CC-DCGP)              | 0.03.01 | Proposed                |
+| Episode Continuity Ledger & Production Handover (CC-ECLPM) | 0.03.01 | Proposed                |
+| Master Comic Generation Prompt (CC-MCGP)                   | 0.03.01 | Proposed; not activated |
+
+The associated refactor, alignment, and conflict-review documents were inspected. Their proposed governance changes are not treated as automatically ratified.
+
+### Production calendar
+
+**Clock A — Production**
+
+* Date: 4 November 2026.
+* Weekday: Wednesday.
+* Working timezone: Africa/Accra (UTC+00:00).
+* Calendar status: Consistent with the live phase response and existing episode archives; final approved calendar manifest not independently confirmed.
+
+The Millennium Probe returned the following current-run snapshot:
+
+```json
+{
+  "probe_iso": "2230-01-11T10:40:35Z",
+  "now_iso": "2026-11-04T07:53:47Z",
+  "phase_index": 5,
+  "phase_label": "Oct 16 – Dec 20",
+  "phase_start_iso": "2026-10-16T00:00:00Z",
+  "phase_end_iso": "2026-12-20T23:59:59Z",
+  "oscillation_index": 0.038023,
+  "amplitude_days": 76963.177312,
+  "probe_value_days": 74212.12783801917
+}
+```
+
+Source: Millennium Probe current endpoint, retrieved during this production run. Numeric telemetry is shown in rounded decimal form; the source response remains the reference for full precision.
+
+### Episode derivation
+
+| Calculation                       | Result                  |
+| --------------------------------- | ----------------------- |
+| Phase begins                      | Friday, 16 October 2026 |
+| First Monday of phase             | 19 October 2026         |
+| Episode 01                        | 19–30 October 2026      |
+| Episode 02                        | 2–13 November 2026      |
+| Target date                       | 4 November 2026         |
+| Elapsed calendar days from anchor | 16                      |
+| Episode calculation               | floor(16 ÷ 14) + 1 = 2  |
+| Episode working-day position      | 3                       |
+| Chapter working-day index         | 13                      |
+
+**Resolved working designation:** Season 00, Chapter/Term 05, Episode 02, Chronicle #3 of 10.
+
+**Clock B — Historical reference**
+
+The historical endpoint returned:
+
+`2003-07-20T18:18:57+00:00`
+
+Enka's historical reference location is carried provisionally as Las Vegas, Nevada, from the project setup. The endpoint independently confirms only the historical timestamp, not the location.
+
+No location-specific historical event has been introduced into the public story.
+
+**Clock C — Millennium Probe**
+
+* Pinned probe timestamp: `2230-01-11T10:40:35Z`.
+* Mission destination: Kuala Lumpur, Malaysia, carried from the episode's working location references.
+* Deployed team: Kuala Lumpur observation assignment, subject to reconciliation of competing draft descriptions.
+* Individual positions and exact field-time coordinates: Unverified.
+
+The current timestamp differs from earlier archived snapshots. This difference is recorded as a telemetry continuity issue. It is not evidence that the team physically moved or that the Probe's temporal behavior has been explained.
+
+## B2. SOURCE AND RESEARCH REGISTER
+
+### Episode and continuity sources
+
+The following materials were reviewed:
+
+1. CC-SMDP v0.03.01 and its refactor decision log.
+2. CC-DCGP v0.03.01 and its alignment review.
+3. CC-ECLPM v0.03.01.
+4. CC-MCGP v0.03.01 and its associated review.
+5. Existing Chronicle #3 archive compilation.
+6. Chronicle #2 compilation, including *The Cropped Truth* and alternative drafts.
+7. Available references to Chronicle #1, *The Notice in Four Languages*, and Episode 01.
+8. Working Cupid Black character canon.
+
+The existing Chronicle #3 archive contains competing narrative candidates. None is assumed approved or selected as canonical merely because it appears in the repository.
+
+The earlier Episode 01 and Chronicle #1 directory contents could not be comprehensively retrieved. Their continuity is therefore supported only to the extent documented in the accessible compilations.
+
+### Eternal Dreamfall Bible Study
+
+The 250-week source listing identifies:
+
+**Week 96 — Septuagint (continued).**
+
+Earlier production material associates the episode with Week 96. However, the formal date-to-week schedule was not independently verified.
+
+Accordingly:
+
+* Week 96 is a carried-forward working allocation.
+* No official daily reading is claimed.
+* No particular Septuagint passage is attributed to the formal plan.
+
+The narrative uses the broader theme of responsible translation and textual reliability, not a fictional quotation or undocumented reading assignment.
+
+### YouVersion Verse of the Day
+
+**4 November 2026 — Matthew 7:24 (NIV).**
+
+This was independently verified against YouVersion's dated Verse of the Day page.
+
+The passage concerns hearing and practising instruction, expressed through the image of building on a secure foundation.
+
+**Narrative function:** Enka recognises that a convincing-looking conclusion requires trustworthy underlying evidence.
+
+### Buzzjuice Health & Safety
+
+**Verified course:** `HS1030 — Proactive Safety: Mastering Hazard Identification & Risk Management`.
+
+Relevant course components:
+
+* HS1031 — Hazard versus Risk.
+* HS1033 — Hazard Identification and Risk Assessment.
+* HS1035 — Hierarchy of Controls.
+
+The course material distinguishes potential sources of harm from their likelihood and consequences, and identifies systematic controls and recording procedures.
+
+**Narrative application:** The four-language notices are treated as a potentially serious wayfinding concern. The observation team avoids making its own evacuation-route determination and leaves verification to the responsible safety authorities.
+
+The chronicle does not claim that anyone completed the course or conducted a certified risk assessment.
+
+### Current news — Ghana
+
+Dated reporting from 2–3 November 2026 confirmed that five commercial transport unions announced plans for a withdrawal of commercial services on 4 November.
+
+The public story uses the verified announcement, **not an independently unverified claim that every vehicle actually stopped operating**.
+
+The fiction uses this contemporary setting to explore responsible organisational communication.
+
+### Historical and future research boundaries
+
+**Historical stream:** The historical timestamp was retrieved. No independently verified Las Vegas event was selected for inclusion.
+
+**Current stream:** Ghana transport-union reporting was verified and used.
+
+**Probe stream:** The destination year is 2230. No claims about actual future news or future historical events are made. The Kuala Lumpur setting and observation system belong to the fictional episode scenario.
+
+**Weather:** No independently verified location-specific weather observations were used.
+
+**Daily Diary:** No private diary entries were used or reproduced.
+
+## B3. KOWARE ROLE AND PROJECT SPOTLIGHT
+
+**Chapter Working Day:** 13.
+
+The organisational chart associates this working day with the following functions:
+
+| Role                                   | Application                      |
+| -------------------------------------- | -------------------------------- |
+| Human & Employment Resources Manager   | Broader department context       |
+| Technical Support & Operations Manager | Principal functional spotlight   |
+| Student Affairs & Services Support     | Supporting operational context   |
+| Recovery Community Coordinator         | Supporting community function    |
+| Concierge Liaison                      | Supporting coordination function |
+
+The public story foregrounds the Technical Support and Operations function.
+
+Its dramatic responsibility is to communicate accurately when information could influence staff travel and personal safety.
+
+The department and role structure originate from the Koware organisational chart.
+
+**Important distinction:** The operational exchanges in this chronicle are fictional. No actual Koware staff member is asserted to have issued the announcement, changed travel arrangements, or completed a real-world management task.
+
+**Candidate organisational learning:** Establish a traceable distinction between proposed instructions, confirmed instructions, revisions, and source evidence in operational communications.
+
+This is a fictional observation and potential proposal, not an implemented policy.
+
+## B4. EDUBEAM MISSION LOG
+
+### Mission status
+
+**Mission identifier:** Approved identifier not independently verified.
+
+**Continuity stage:** Deployed investigation / observation-only.
+
+**Current fictional mission context:** Examination of conflicting multilingual emergency notices in a Kuala Lumpur building.
+
+### Mission constraints
+
+The following working restrictions are maintained:
+
+* No unauthorised intervention in the building.
+* No unilateral alteration of emergency notices.
+* No testing of disputed evacuation routes.
+* No automatic retrieval or redeployment of the field team.
+* No unsupported advancement of Enka's abilities.
+* No treatment of changing Probe timestamps as proof of physical displacement.
+
+### Chronicle #3 development
+
+A fictional laboratory report initially confuses the monitoring system's probe-reference timestamp with the time a photographed notice was displayed.
+
+The error is identified before the draft conclusion is relied upon.
+
+A correction is recorded in the fictional working file, preserving the original entry for auditability.
+
+The field analyst confirms only that the notices remained visible throughout the team's observed monitoring interval.
+
+The team does not establish their original installation date.
+
+### Continuing mission uncertainty
+
+The following remain unresolved:
+
+* Original source of the four-language instructions.
+* Approval and effective-date history.
+* Whether the translations faithfully reproduce an authorised source.
+* Which emergency arrangements are currently authoritative.
+* Original installation dates of the notices.
+* Relevant camera-capture and distribution records.
+* Explanation for changing Millennium Probe values.
+* Exact team roster, equipment, power and individual temporal coordinates.
+
+**Mission classification:** Continuing fictional investigation; no new approved capability, location transfer, rescue, or retrieval is established.
+
+## B5. CONTINUITY LEDGER — DAILY EVENT DELTA
+
+All events below are **NEW FICTIONAL DRAFT** and await human editorial review.
+
+| Provisional event ID | Event                                                                                                             | Consequence                                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `E02-C03-EVT-01`     | A proposed Koware staff notice overstates the transport disruption.                                               | Its wording is revised to distinguish an announced action from independently confirmed road conditions. |
+| `E02-C03-EVT-02`     | A monitoring-system timestamp is initially mistaken for the original notice photograph's capture or posting time. | The evidence chronology is challenged.                                                                  |
+| `E02-C03-EVT-03`     | The field analyst confirms that the team has not observed the notices being replaced.                             | The installation date remains unresolved.                                                               |
+| `E02-C03-EVT-04`     | The laboratory specialist preserves the earlier draft and records a correction.                                   | The working investigation avoids relying on a false timestamp conclusion.                               |
+| `E02-C03-EVT-05`     | Enka requests original capture and posting evidence through the established verification process.                 | The next investigation step becomes more precise without resolving the underlying mystery.              |
+
+### Character-state changes
+
+**Enka**
+
+Maintains a careful distinction between perception and understanding.
+
+He demonstrates patience with an honest technical mistake and chooses correction over blame.
+
+**Laboratory specialist**
+
+Recognises that a precise measurement can be misinterpreted when its provenance is unclear.
+
+Accepts responsibility for correcting the draft report without erasing its history.
+
+**Field observation team**
+
+Continues the documented observational assignment.
+
+No new powers, mission authority, relocation or independently verified team configuration are established.
+
+### Storyline status
+
+**Advanced:** Evidence provenance, timestamp interpretation, responsible communication.
+
+**Still open:** Notice origin, authority, translation consistency, safe wayfinding, posting chronology and Probe behavior.
+
+**Not resolved:** The central four-language notice mystery.
+
+## B6. NEXT-CHRONICLE PRODUCTION HANDOVER
+
+**Next scheduled working day:** Thursday, 5 November 2026.
+
+**Expected position:** Episode 02, Chronicle #4 of 10; Chapter Working Day 14.
+
+### Starting conditions
+
+The four-language emergency-notice investigation remains open.
+
+The team has learned that the visible timestamp associated with its photograph is a Probe reference rather than verified evidence of when the notice was installed.
+
+The laboratory's draft-report error has been corrected within this new fictional version, with its original entry preserved.
+
+The observation team remains subject to non-interference restrictions.
+
+The original instruction, authorisation history, reliable posting times and current emergency arrangements remain unverified.
+
+### Required continuity controls
+
+The next writer or editor should:
+
+* Preserve the distinction between the three clocks.
+* Avoid treating the latest Probe time as proof of team relocation.
+* Maintain unresolved questions concerning the notices.
+* Preserve Enka's established capability limitations.
+* Avoid inventing authorised building instructions.
+* Avoid converting an observed document into a confirmed safety procedure.
+* Respect the draft status of all Chronicle #3 candidate narratives.
+
+The next day's organisational role allocation includes the Director of Academic Programs and Academic Registrar functions, subject to confirmation against the current organisational chart.
+
+### Challenge control
+
+**Provisional challenge ID:** `S00_T05_E02.03-CHALLENGE-01`.
+
+The exact public wording is the final section of Output A.
+
+Planned solution release: Subsequent episode, subject to editorial approval.
+
+**RESTRICTED ANSWER RECORD — SECURE STORAGE REQUIRED**
+
+No secure challenge-answer record was created or stored by this generation.
+
+## B7. RIGHTS, PERMISSIONS AND PRODUCTION STATUS
+
+| Production component      | Status                                    |
+| ------------------------- | ----------------------------------------- |
+| Public Chronicle          | Drafted; awaiting editorial review        |
+| Production appendix       | Drafted; internal                         |
+| Episode Continuity Ledger | Prepared as an uncommitted working update |
+| Restricted answer record  | Secure storage required; not created      |
+| Comic storyboard          | Not commissioned                          |
+| Comic pages               | Not generated                             |
+| Comic collage             | Not generated                             |
+| Video adaptation          | Not commissioned                          |
+| Audio adaptation          | Not commissioned                          |
+| Service Card              | Not commissioned                          |
+| Repository publication    | Not performed                             |
+| Canon promotion           | Not performed                             |
+
+No identifiable organisational alias is portrayed as having personally performed the fictional actions.
+
+Diary material was not used.
+
+Repository accessibility is not treated as automatic publication or adaptation permission.
+
+## B8. EXCEPTIONS AND QUALITY CONTROL
+
+| Quality gate                      | Result                  | Qualification                                                                                                  |
+| --------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Single-chronicle scope            | PASS                    | One chronicle produced                                                                                         |
+| Production date                   | PASS                    | Wednesday, 4 November 2026                                                                                     |
+| Episode calculation               | PASS WITH QUALIFICATION | Consistent with live phase bounds and existing archive; approved calendar manifest not independently confirmed |
+| Three-clock separation            | PASS                    | Production, historical and Probe references remain distinct                                                    |
+| Probe provenance                  | PASS                    | Current-run endpoint values captured                                                                           |
+| Episode continuity                | PASS WITH QUALIFICATION | Prior drafts reviewed; canon selection remains outstanding                                                     |
+| Character capability restrictions | PASS                    | No new abilities introduced                                                                                    |
+| Educational research              | PASS WITH QUALIFICATION | YouVersion and HS1030 verified; formal reading-week alignment unresolved                                       |
+| Historical research               | INCOMPLETE              | Historical timestamp verified; no local historical news incorporated                                           |
+| Current awareness                 | PASS WITH LIMITATION    | Verified transport-union announcement, not the outcome of the planned action                                   |
+| Future-world reporting            | PASS                    | Fiction separated from real reporting                                                                          |
+| Rights and consent                | PASS WITH QUALIFICATION | Private material excluded; publication clearance outstanding                                                   |
+| Challenge separation              | PASS                    | Public question appears at the end of Output A; solution withheld                                              |
+| Repository preservation           | PASS                    | No source archive overwritten                                                                                  |
+| Media authorization               | PASS                    | Comic generation remains inactive                                                                              |
+
+### Outstanding editorial decisions
+
+1. Confirm the authoritative episode calendar and logical identifier mapping.
+2. Confirm which earlier Chronicle #1 and #2 revisions are approved or locked.
+3. Select or reconcile the competing Chronicle #3 narrative candidates.
+4. Confirm the authorised reading-plan alignment.
+5. Validate mission roster, temporal positions and mission identity.
+6. Obtain publication and visual-adaptation permissions where required.
+7. Arrange authorised restricted storage for the challenge answer record.
+
+---
+
+# EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+
+## CC-ECLPM v0.03.01 — CHRONICLE #3 UPDATE
+
+**Classification:** INTERNAL — NOT FOR PUBLICATION
+**Record type:** Episode-owned draft state transition
+**Production date:** 2026-11-04
+**Episode:** Season 00 / Chapter 05 / Episode 02
+**Chronicle:** #3 of 10
+**Status:** DRAFTED — NOT COMMITTED
+
+### 1. Episode context
+
+The current episode investigates four multilingual emergency notices whose source authority and instruction consistency remain unresolved.
+
+The observation assignment connects Koware headquarters with a fictional distant building in Kuala Lumpur.
+
+Previously generated and archived chronicles contain multiple alternative developments. These must not be silently merged into approved continuity.
+
+### 2. Active state
+
+**Enka:** Corporate manager; operating through observation, analysis and communication. No new supernatural or technological capability established.
+
+**Koware control base:** New Legon, Accra, under the working location reference.
+
+**Historical reference:** 20 July 2003; Las Vegas carried as a provisional project location, not independently established by the endpoint.
+
+**Millennium Probe:** 11 January 2230, 10:40:35 UTC, under the pinned current-run snapshot.
+
+**Field team:** Kuala Lumpur observation assignment; exact approved roster, individual positions and temporal relationship to Probe readings remain unverified.
+
+**Notice investigation:** Open.
+
+### 3. New daily state
+
+This draft introduces a distinction between three different kinds of information:
+
+* The timestamp displayed by the monitoring system.
+* The original photographic capture time.
+* The date an emergency notice was actually installed.
+
+The latter two cannot be established from the first alone.
+
+An incorrect preliminary interpretation is recorded and corrected without erasing the original evidence trail.
+
+### 4. Relationships and character progression
+
+Enka demonstrates that disciplined leadership involves correcting assumptions without humiliating colleagues.
+
+The laboratory specialist becomes more careful about distinguishing observed values from inferred conclusions.
+
+The observation team remains responsible for reporting only what its mission allows it to establish.
+
+All developments remain draft fictional state, not permanent franchise canon.
+
+### 5. Unresolved storylines
+
+**The Four-Language Notice:** Source and authority unresolved.
+
+**The Conflicting Directions:** Actual authorised emergency guidance unresolved.
+
+**The Missing Chronology:** Original posting and capture times unresolved.
+
+**Millennium Probe Drift:** Changing temporal readings documented; explanation unresolved.
+
+**Koware Operational Learning:** Candidate proposal concerning information provenance; not implemented.
+
+### 6. Dependencies for the next production
+
+The next chronicle must consult the selected approved predecessor revisions before importing today's proposed changes.
+
+If this draft is selected, its event deltas may be adopted through editorial review and entered into the approved episode-owned ledger.
+
+If another Chronicle #3 draft is selected, incompatible developments in this record must remain alternate-draft history rather than being combined automatically.
+
+### 7. Challenge and media handover
+
+The public challenge is associated with this specific Chronicle #3 draft.
+
+Its answer must remain in a restricted editorial record and must not be inserted into public comics, captions, videos or ordinary handovers.
+
+The proposed Master Comic Generation Prompt v0.03.01 is available for a separately commissioned adaptation.
+
+For this chronicle, the requested future production approach is **one composite collage containing all authorised 9:16 portrait comic pages**, arranged so that individual pages can subsequently be cropped.
+
+No page count is approved by this chronicle-generation action. No comic work has been initiated.
+
+### 8. Final handover declaration
+
+**Chronicle generated:** Yes — draft.
+**Continuity ledger prepared:** Yes — uncommitted draft.
+**Human editorial approval:** Outstanding.
+**Publication:** Not performed.
+**Repository modification:** Not performed.
+**Comic production:** Not started; requires a subsequent explicit instruction.
+
+**Next production reference:** Thursday, 5 November 2026 — Episode 02, Chronicle #4 of 10.
+
+**END OF EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER**
+
+The research used the live Millennium Probe and historical endpoints, the repository's continuity records, the Koware organisational chart, the verified YouVersion verse, the Buzzjuice HS1030 course, and dated Ghanaian transport reporting. The main sources supporting the production appendix are available here. 
+
+**Comic production remains unstarted**, in accordance with your instruction to commission it separately.
+
+<<STOP CHATGPT-2>>
