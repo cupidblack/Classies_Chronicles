@@ -583,6 +583,135 @@ B8. Exceptions and quality gates
 
 <<STOP CLAUDE-1>>
 
+<<START CLAUDE-2>>
+
+Classies Chronicles — Chronicle #3: The Date on the Fourth Notice
+Wednesday, 4 November 2026 · Season 00 · Term 05, The Signal Before Sunrise · Episode 02 · Status: DRAFT — AWAITING HUMAN EDITORIAL REVIEW
+This document holds three parts: Output A (the public chronicle, which ends with the audience challenge), Output B (the internal production appendix, B1–B8, not for publication) and the Episode Continuity Ledger & Production Handover. Extract Output A alone for any public use.
+OUTPUT A — PUBLIC CHRONICLE
+The Date on the Fourth Notice
+Season 00 · Term 05: The Signal Before Sunrise · Episode 02 · Chronicle #3
+Wednesday, 4 November 2026
+The sky over New Legon had the heavy, pearl-grey look of a day that was only waiting for its cue. Rain was in the forecast. Before Enka had put down his bag, the radio at the front desk was repeating the morning’s other warning: the commercial transport unions had announced that no commercial vehicle would run today. Whether the plan would hold, nobody at the base could yet say. Colleagues had messaged that they were walking the last stretch, sharing lifts, or waiting to see.
+Enka did not wait to see. He made tea, opened his notebook, and kept the oldest appointment of his day.
+Week 96 of the Eternal Dreamfall reading was still deep in the Septuagint, the ancient Greek translation of the Hebrew scriptures, begun in Alexandria in the third century BCE and carried forward over generations. The plan named the week, not the page, so Enka let the week’s question choose for him: when a text crosses from one language into another, who vouches that it still says what it said?
+The day’s verse was Matthew 7:24, Jesus’s picture of “a wise man who built his house on the rock”, the one who hears and then acts. Enka wrote a single line beneath it: Hearing is not building. A notice is something heard; a drill is something built.
+Mid-morning, the observation channel to Kuala Lumpur opened. The field analyst’s report was short. Nothing had changed overnight. As far as the team could see, no one in the building had followed either of the two conflicting directions. The team remained observers, with photographs and notes and nothing more. Behind the analyst’s voice, the towers stood in damp heat, cloud stacking above them like a slow argument.
+The laboratory specialist raised a hand. “The reference reading for the deployment has moved again. Today’s pinned value is the fourteenth of January, 2231. Tuesday’s was different.”
+“Log it,” Enka said. “Don’t explain it. Not until we can show our working.”
+The building manager’s office answered before noon. It was not the original instruction, but it was something: a revision log. The building’s emergency plan existed in two editions, an earlier and a later, each with its own effective date. Three of the four notices followed the later edition. The fourth, the one pointing to the other staircase, carried the earlier edition’s date.
+“So it’s a stale copy,” said the specialist. “Nobody forged anything.”
+“Or the later edition is the mistake,” Enka said. “Look at what the log doesn’t say.”
+The log recorded when each edition was issued. It did not record who approved either one, and it did not say whether the earlier edition had ever been formally withdrawn. The manager’s note promised the approval page and any withdrawal record as soon as the records team found them.
+Enka turned to a fresh page. Beneath the old headings, OBSERVED and NOT YET VERIFIED, he added a third: WHAT WOULD SETTLE IT. He wrote three lines: the approval page for the later edition; a withdrawal record for the earlier one; a list of where each edition had been posted. Then he sent the request exactly as written.
+On the screen beside the log, the research desk had left a file from the historical-reference archive: Las Vegas, July 2003. A state legislature there had been deadlocked over taxes to fund its schools. About ten days before the reference date, Nevada’s Supreme Court told the lawmakers to proceed under a simple-majority rule, and by the morning of the twenty-second the local paper was reporting that the tax plan had finally passed. Not everyone had liked the ruling. That was not the point. A dispute over which rule applied had been answered by a body entitled to answer it, in writing, with a date on it.
+Enka wrote: A rule is settled when the right body says so and the record shows it, not when enough people repeat it.
+The rain arrived at half past two, all at once, drumming on the roof like a crowd demanding entry. The lights dipped, steadied, dipped again, and then the alarm began.
+Nobody reached for a wall.
+Chairs scraped back. The floor warden’s voice was brief, and people were already moving: the nearest clear exit, not the lifts, not the corridor that merely looked familiar. Outside, staff gathered at the assembly point with folded files over their heads while the rain ran off their sleeves. The Technical Support & Operations Manager walked the line with the day’s attendance roll, matching names to faces. The Concierge Liaison brought the visitor register from the front desk, because a visitor is still a person someone has to find. Thin attendance made the count quick, and it matched.
+Nobody called it a false alarm. Everyone treated it as real until someone responsible said otherwise. Only then was the panel read: a fault after the power dip. The all-clear came from the person whose job it was to give it, and with it the slow, damp walk back inside.
+Enka lingered at the door, dripping onto the mat. All day he had been asking which notice to believe, and in the moment that counted, nobody had asked. They had practised. Verification was the work of calm. Practice was the work of alarm. And practice would only ever be as good as the calm work behind it: a notice with an owner, an edition and a date.
+At his desk he added a last line under WHAT WOULD SETTLE IT and marked it proposal for review, not an instruction: every posted notice at the base should carry its edition, its date and a named owner.
+In Kuala Lumpur, the day’s last message was a single line: nothing had changed. In the team’s photographs, the four notices were exactly as before, three agreeing, one dated to an earlier edition and pointing the other way.
+Four notices. Two editions. And somewhere in a records office, a page that either carried a signature or did not.
+TODAY’S CLASSIES CHALLENGE
+Two posted notices in the same building point to different emergency exits, and the alarm starts to sound before anyone can find out which notice is current.
+What should the people in the building do right now? And once everyone is safe, which two records would you ask the building to produce so that the next notice can be trusted?
+OUTPUT B — INTERNAL PRODUCTION APPENDIX (NOT FOR PUBLICATION)
+B1. Generation & temporal metadata
+• Request mode: DAILY_GENERATION, one chronicle: Chronicle #3 of Episode 02. The comic stage was not requested and stays paused until you prompt it.
+• Governing documents: CC-SMDP v0.03.01, CC-DCGP v0.03.01 and CC-ECLPM v0.03.01, all marked PROPOSED; used as your requested working baseline, not as ratified authority. The three companion review/decision-log documents were not read in this run.
+• Production date: Wednesday 2026-11-04. Timezone was not stated in the request; Accra runs on UTC+0, so the local date equals the UTC date (assumption).
+• Pinned Probe snapshot: live fetch of millennium-probe.php?probe=now during this run (content type application/json; exact retrieval time not exposed by the tool). The fallback block in your request (now_iso 2026-11-02T10:36:53Z) is stale and superseded by this newer value. Raw payload, telemetry digits trimmed: {"probe_iso":"2231-01-14T12:01:53Z","now_iso":"2026-11-04T02:34:06Z","phase_index":5,"phase_label":"Oct 16 – Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.037681,"amplitude_days":76937.820064,"probe_value_days":74580.394294}
+• Calendar derivation: phase starts Friday 2026-10-16. Anchor (first Monday on or after) = Monday 2026-10-19. elapsed_days to 2026-11-04 = 16. episode_number = floor(16/14)+1 = 2. day_in_block = 16 mod 14 = 2, a weekday slot, so this is Chronicle #3. Chapter working-day index = 10×(2−1)+3 = 13. Episode 02 runs Monday 2026-11-02 to Friday 2026-11-13, inside the phase window (a fourth episode would end Friday 2026-12-11, also inside). No approved effective-dated calendar manifest was retrieved; the result rests on the live phase bounds.
+• Identifiers: archive-path form S00_CH05_E02.03 (folder S00_CH05_E02.03-). Earlier drafts used S00_T05_E02.03. Canonical mapping UNVERIFIED; nothing renamed.
+• Clock A, production: as above. Clock B, historical reference: 2003-07-20T18:16:55+00:00 (live fetch; a Sunday), reference location Las Vegas, Nevada (from your fallback list). Clock C, probe/destination: 2231-01-14T12:01:53Z, destination Kuala Lumpur, Malaysia (from your fallback list; the endpoint returns no location).
+• Probe drift: earlier readings differed (2235-11-03 in the 2 November fallback; 2233-09-27 in the 3 November archive draft). By your most-recent-value rule today’s reading is used. No explanation is asserted.
+• Four location sets: Enka’s historical-reference location = Las Vegas (reference only); Koware HQ = New Legon, Accra; probe destination = Kuala Lumpur; deployed team = Kuala Lumpur (roster UNVERIFIED). Enka is at HQ today.
+• Status: DRAFT — AWAITING HUMAN EDITORIAL REVIEW.
+B2. Source & research register
+Continuity sources
+• C-1: same-day draft S00_CH05_E02.03-.txt (The Missing Approval Line). Read as continuity reference only; none of its text or its distribution-register development is reused.
+• C-2: CC_S00_CH05_E02.02-The_Cropped_Truth(compiled).txt. The first part was inspected (two draft variants of the 3 November chronicle, one called The Person Behind the Notice, the later one The Record Behind the Notice). Both are unapproved; the remainder of the 5,184-line file was not read.
+• C-3: the E02.01 folder, the E01 folder and the Daily_Diary folder: the site refused automated access. NOT REVIEWED.
+Eternal Dreamfall (Stage 1)
+• Listing fetched: list_of_biblical_texts-5_year_reading_plan-1.txt. Week 96 = “Septuagint (cont.)”.
+• Alignment: with Week 1 starting Sunday 2025-01-05 (first full Sunday-first week of 2025, per your project note), 2026-11-01 is 665 days later = 95 weeks, so Week 96 runs Sunday 2026-11-01 to Saturday 2026-11-07. This matches the Week 96 used in earlier drafts. No approved date-to-week calendar record was retrieved.
+• Status: EDITORIAL DAILY SELECTION. The plan assigns a week, not a day; no daily passage is claimed. The story uses the Septuagint’s translation theme only. Canonical status of Septuagint books varies by tradition.
+Verse (Stage 2)
+• YouVersion Verse of the Day, page headed November 4, 2026: Matthew 7:24 (NIV). Source: https://www.bible.com/verse-of-the-day, fetched this run. Verified YouVersion attribution. One short quotation (ten words) plus paraphrase used.
+Health & Safety (Stage 3)
+• The Buzzjuice_Courses repository could not be opened (fetch tool refused the URL; searches did not return it). UNVERIFIED this run. The earlier draft names HS1030 (Proactive Safety: Mastering Hazard Identification & Risk Management); that is carried forward as a pointer only, not re-verified.
+• The story relies only on widely accepted evacuation practice: treat an alarm as real until the responsible person clears it, use the nearest clear exit, do not use lifts, assemble and account for people. No lesson is claimed as delivered. Edition, date and owner marking is Enka’s fictional proposal, not course content.
+Current stream (Stage 4)
+• R-C1, FACT (announcement only): Pulse Ghana, “Commercial drivers announce nationwide strike for November 4 over TRAFFITECH-GH fines”, https://www.pulse.com.gh/story/ghana-transport-strike-gprtu-november-4-2026110204505696401. Unions (GPRTU and others) announced a withdrawal of commercial services on Wednesday 4 November 2026 over trading at bus stops and walkways; the notice was dated 1 November. Whether the action actually went ahead on the day is UNVERIFIED. Used in the opening as an announcement.
+• R-C2, FACT, not used: Ghanamma/Adom Online, 2 November 2026, JUSAG strike and Accra court closures, https://www.ghanamma.com/2026/11/02/jusag-strike-begins-to-bite-as-courts-shut-down-in-accra/.
+• Global/regional: one global roundup search returned items (Middle East tensions, US midterm-election-eve reporting) that do not advance today’s story; none selected. Items in the earlier drafts’ unvalidated search captures (airport Ebola surveillance, CHOGM travel, El Niño outlook, trade-benefit changes) were not independently verified here and are UNVERIFIED — EXCLUDED.
+Historical stream
+• R-H1, FACT: Las Vegas Sun, “Court throws out two-thirds majority for tax hike”, 10 July 2003, https://lasvegassun.com/news/2003/jul/10/court-throws-out-two-thirds-majority-for-tax-hike/: the Nevada Supreme Court directed the Legislature to proceed with the 20th special session under simple-majority rule.
+• R-H2, FACT: Las Vegas Sun, 12 July 2003, two columns (Neff; Ralston) reacting to the ruling, one criticising its precedent. Supports “not everyone liked the ruling”.
+• R-H3, FACT: Las Vegas Sun index for 22 July 2003, https://lasvegassun.com/news/2003/jul/22/, lists “Tax plan finally passes” (22 July 2003).
+• Limitation: no item dated 20 July 2003 itself was retrieved. The story says “about ten days before” and “by the morning of the twenty-second”, which match the retrieved dates. Historical weather for 20 July 2003 was not verified and is not stated.
+Probe stream
+• FICTION — PROBE SCENARIO: Kuala Lumpur at 2231-01-14T12:01:53Z. There is no verified news for a future date. The damp heat and cloud over the towers are invented sensory detail.
+Weather
+• Forecast only (weather tool), New Legon, Accra, 2026-11-04: partly sunny, high about 32 °C, low about 25 °C, 60 % chance of rain. The story says only “rain was in the forecast”; the downpour and the power dip are fiction.
+B3. Koware role/project spotlight
+• Chapter working-day index: 13. The aliased chart repeats indices 1–20 on 21–40, so 13 needs no folding.
+• Chart version: Organizational_Chart_Structure-Aliased_Checks.txt as fetched this run. Index 13 lists: Human & Employment Resources Manager (Days 12–13), Technical Support & Operations Manager, Student Affairs & Services Support, Recovery Community Coordinator and Concierge Liaison.
+• Featured: Technical Support & Operations Manager and Concierge Liaison (two roles). Shown by title only. Aliases exist in the chart but consent to public portrayal is UNKNOWN, so none is used.
+• What the roles show: records, version control and accountable handover (attendance roll, visitor register).
+• Classification: the alarm and roll call are FICTIONAL_SCENE at HQ; no real incident, audit or completed task is asserted. PROPOSAL_FOR_REAL_REVIEW: check that posted emergency notices at actual premises show edition, date and owner. This is a suggestion, not a management instruction.
+• Chart note: the 3 November archive drafts list aliases for index 12 that do not match this chart (for example an HR manager alias not found in it). The chart as fetched was used.
+B4. Mission log
+• Mission ID: UNVERIFIED (no approved ID retrieved). Stage: deployed, observation-only, carried forward from earlier drafts.
+• Roster, equipment, energy, communications detail and individual positions: UNVERIFIED. Team location taken as Kuala Lumpur from your fallback list and project notes.
+• Today: the observation channel reports no change; the laboratory logs a new pinned Probe reading (2231-01-14T12:01:53Z) without explaining the drift. No contact, intervention, deployment, return or new capability. No daily link schedule is asserted.
+• Risks and next action: reconcile the Probe reading against the archive before any destination-specific scene; keep the observation-only restriction.
+• Enka capability: none depicted beyond ordinary investigation. The character-canon file was not retrieved this run.
+B5. Continuity ledger delta (append-only; full records follow the appendix)
+All events are NEW FICTIONAL DRAFT with approval state PENDING unless stated.
+• S00_CH05_E02.03-EVT-01 — Morning bulletin: unions have announced a transport withdrawal for the day. VERIFIED_REAL_WORLD_FACT (announcement; outcome unverified). Context only.
+• -EVT-02 — Laboratory logs a new pinned Probe reading, 2231-01-14T12:01:53Z; earlier readings differed; reconciliation open. Value VERIFIED; the logging is draft fiction.
+• -EVT-03 — Field team reports no overnight change; observation-only restriction holds. Draft continuation of PRIOR_DOCUMENTED_EVENT (itself draft-labelled).
+• -EVT-04 — Building manager’s office supplies a revision log: two editions of the emergency plan with effective dates; three notices follow the later edition; the fourth (dated) matches the earlier edition. Depends on the draft-labelled prior detail that the unusual notice carries a date; confirm against approved E02.02 text.
+• -EVT-05 — Log does not show approval of either edition or any withdrawal of the earlier one; approval page and withdrawal record promised later.
+• -EVT-06 — Enka lists three settling records and sends the request: approval page (later edition), withdrawal record (earlier edition), posting list per edition.
+• -EVT-07 — Historical-reference research note attached (Nevada court ruling and tax plan, July 2003). HISTORICAL_INTERPRETATION over verified dated facts.
+• -EVT-08 — Afternoon downpour and power dip; HQ alarm sounds; staff leave by the nearest clear exits, assemble, roll and visitor register match; panel fault found; all-clear given by the responsible person. Cause: power dip; consequence: Enka’s calm-versus-practice insight.
+• -EVT-09 — Enka records a PROPOSED item: edition, date and named owner on every posted notice. Not a canon change and not an instruction.
+Threads: opened — edition/withdrawal status, approval of each edition; advanced — notice investigation, Probe reading drift; unchanged — observation-only mission.
+B6. Next-chronicle handover (concise)
+Chronicle #4 (Thursday 2026-11-05, chapter index 14) may start from: the revision log exists and shows two editions; approval of either edition and withdrawal of the earlier one are still unproven; the three requested records are outstanding; the team is still observing from Kuala Lumpur; the Probe reading is unreconciled; HQ’s alarm was a panel fault and is closed. Do not resolve which edition is in force without the records. Challenge S00_CH05_E02.03-CHALLENGE-01: answer record RESTRICTED ANSWER RECORD — SECURE STORAGE REQUIRED.
+B7. Permissions, production & editorial
+• Story status: DRAFT; not approved, not locked. No human decision recorded.
+• People: no real staff member or alias is named in Output A; roles only. Diary material was not accessible and not used.
+• Retrieval vs publication: repository access is not treated as publication permission. Quoted Bible text is limited to ten words; news and archive items are paraphrased.
+• Derivatives: no comic, collage, video, audio or Service Card generated. When commissioned, the comic stage should follow the project note to produce all pages as one collage block that can be cropped into pages.
+• Archive: DRAFTED — NOT COMMITTED. Nothing was written to the repository, approved, locked or published.
+B8. Exceptions & quality gate
+Exceptions
+1. Archive premise not fully reviewed: E02.01, E01 and Daily_Diary were blocked, so the notice’s building location and time frame, its four languages, and the team roster come only from unapproved drafts. Output A leaves them unspecified.
+2. A same-day draft already exists in the archive. This is a fresh, independent draft; an editor should choose between them or reconcile. This draft’s revision-log development replaces that draft’s distribution-register development; they should not both stand.
+3. Probe reading differs between runs (2235 → 2233 → 2231); unexplained.
+4. YouVersion verse verified. Health & Safety course material not verified. Character canon and the review/decision-log companions not read.
+5. Alias mismatch in the 3 November drafts (see B3).
+6. No news item dated 20 July 2003 retrieved; transport-strike outcome unverified.
+7. Challenge answer: no restricted channel available, so no key is stored or printed.
+8. Comic generation not performed (paused by instruction).
+Gates
+• One-chronicle scope: PASS.
+• Calendar: PASS WITH QUALIFICATION (live bounds; no approved manifest).
+• Three clocks kept distinct: PASS.
+• Canon and continuity: PASS WITH QUALIFICATION (unapproved drafts only; no new capability).
+• Research: PASS WITH OMISSIONS (verse verified; H&S, day-specific history and diary not).
+• Rights and privacy: PASS (roles only; no diary content).
+• Challenge separation: PASS; Output A ends on the challenge and no key appears anywhere.
+• Records and storage: PASS; DRAFTED — NOT COMMITTED.
+• Media and approvals: PASS; none generated or claimed.
+
+<<STOP CLAUDE-2>>
+
 <<START ANTIGRAVITY-1>>
 
 # CLASSIES CHRONICLES — DAILY CHRONICLE
