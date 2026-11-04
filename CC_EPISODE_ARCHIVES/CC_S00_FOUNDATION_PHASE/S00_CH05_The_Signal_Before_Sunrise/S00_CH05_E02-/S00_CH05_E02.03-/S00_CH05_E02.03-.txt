@@ -213,3 +213,143 @@ Continue only from the verified state: the four-language notice remains under in
 **Comic production remains paused. I’ll wait for your prompt before starting the comic-page generation stage.**
 
 <<STOP GITHUB-1>>
+
+<<STOP CLAUDE-1>>
+
+Today's chronicle is drafted, *The Line Without a Signature* (Episode 02, Day 03, chapter working day 13). It has the Continuity Ledger & Production Handover inserted at the end, and it is still a draft awaiting your editorial review. Part A is the public story and ends with the challenge. Part B is the internal appendix and must not be published with it.
+
+Several items could not be verified, and the appendix flags each one:
+- **Verse:** I could not retrieve YouVersion's verse for today. I used Bible Gateway's 2 Corinthians 3:6 and labelled it as a separate alternative.
+- **Health & Safety:** the Buzzjuice course files were not retrievable, so no course or lesson is cited.
+- **Reading plan:** it is Week 96 (Septuagint), with no daily passage allocated, so none is claimed.
+- **Archives:** the E02.01 and Episode 01 pages were blocked. I leaned on summaries in the E02.02 compilation and used the existing E02.03 draft only as continuity reference.
+- **Challenge answer:** it is not stored or printed anywhere, because no secure channel exists here.
+
+The Probe's destination reading has now drifted earlier across four logged readings, and the story records this as an open puzzle without moving the team.
+
+The comic stage is on hold until you prompt me. When you do, I'll produce the pages as one collage block, as you noted.
+
+Questions for you:
+- What is the approved production timezone? I assumed Africa/Accra.
+- Should this draft supersede the existing E02.03 draft in the archive?
+
+I also saved your two new notes (today's request and the collage preference) to the project memory.
+
+Classies Chronicles — S00_T05_E02.03 is ready — read it over, edit inline, or comment: https://claude.ai/artifact/6Km6T8uerRqjKYSD9Mw3Aa
+
+>>>>
+
+Classies Chronicles · S00_T05_E02.03 · The Line Without a Signature
+DRAFT — AWAITING HUMAN EDITORIAL REVIEW · Wednesday, 4 November 2026 · Episode 02, Day 03 · Chapter working day 13 of 40
+Working document. Part A is the public chronicle and must be extracted alone. Part B is internal and must never be published with it.
+PART A — PUBLIC-FACING DAILY CHRONICLE
+CLASSIES CHRONICLES
+Season 00 — Foundation Phase · Term 05 — The Signal Before Sunrise · Episode 02 — The Notice in Four Languages · Day 03
+The Line Without a Signature
+Wednesday, 4 November 2026
+By the time Enka reached the Koware headquarters in New Legon, a single announcement had already rearranged the morning.
+Five transport unions had declared that no commercial vehicle would move that Wednesday. Messages from colleagues arrived in clusters. Should I come in? Is it really happening? Does anyone have a lift? The second question was the one nobody could answer. An announcement, Enka thought, is only a promise about the day. The day still has to agree with it.
+Beside the front door, the technical support and operations manager was smoothing a sheet of paper onto the wall. Enka read it the way he read everything now: not for what it said, but for how it was made. A heading. A date. The hours the building would be staffed. A number to call for anyone stranded. And in the bottom corner, small but complete: Revision 2 — 06:40.
+“Revision 2?”
+“Revision 1 told everyone to report as normal,” the manager said. “Then the news changed, so I replaced it. And I took Revision 1 down. Nobody should follow the old sheet by mistake.”
+It was an ordinary sentence. Enka kept it anyway.
+At the laboratory desk, the field team’s overnight report was waiting.
+In Kuala Lumpur, the building manager had returned from the records room with a folder, and the team had photographed a single page without touching anything else: a revision sheet for the building’s emergency instruction. Enka laid the image beside the four photographs of the noticeboard and read it line by line.
+Revision 1 was complete. It had a date, a signature, an issuing office and an effective date. Its stairwell matched the three notices that agreed with one another.
+Revision 2 was later. Its date matched the single date visible on the odd copy. Its approver line carried a job title, neatly typed.
+The signature line beneath it was empty. So was the box marked effective from.
+Enka sat back.
+For two days the question had been three notices against one. Now it was a different question. The odd copy might be newer. It might even be right. But newer is not in force, and a revision that nobody has signed is still a proposal, however neatly it has been printed and translated.
+He thought of the sheet by the door in New Legon. Revision 2 there had a time, an author and a number, and Revision 1 was gone from the wall. In Kuala Lumpur, Revision 2 had none of those things, and Revision 1 was still standing on the board.
+Later, he returned to his Eternal Dreamfall study. The plan’s weekly reading was still the Septuagint, the ancient Greek translation of the Hebrew scriptures. It named no particular passage for the day, so Enka claimed none. What held his attention was the translators themselves: people who carried words across a language, and whose work was trusted because someone stood behind it.
+The day’s alternate verse, from Bible Gateway’s calendar, was 2 Corinthians 3:6, where Paul sets the written letter beside the Spirit who gives life. Enka was careful with it. Paul was speaking about a covenant, not a noticeboard, and a verse should not be bent to fit a problem. But he allowed himself one honest takeaway: the ink on a page is never the whole of its authority. The person behind it is.
+The monitoring screen offered a second puzzle. The probe’s destination reading had been logged four times in three days, and each entry sat earlier than the one before it, the newest now showing mid-January 2231. The laboratory specialist could not say why. The log did not say whether the number described where the team was, only where the probe was pointing. Enka wrote it into the record exactly as it stood. A drifting number was not a team on the move, and he refused to let it become one.
+He sent the field team three lines.
+Preserve the photographs. Do not test either stairwell. Ask the building manager to place the revision sheet before the building’s own safety authority.
+The reply came near evening. The manager had agreed. The safety officer would review both revisions and, if satisfied, walk the stairwells with the sheet in hand. That would be tomorrow, not tonight. The team’s orders were unchanged: watch, record, wait.
+Back in New Legon, as the light thinned, Enka paused at the front door again. Revision 2 was still on the wall, its small corner line intact. Whatever the roads had done all day, this sheet had a name, a time and a number that someone could be asked about.
+A signature, he decided, was not decoration. It was a person you could call.
+Today’s Classies Challenge
+The revision sheet shows Revision 1 with a date, a signature and an effective date, and Revision 2 with a later date, a typed approver title, an empty signature line and an empty “effective from” box.
+Which two entries must be completed before Revision 2 can be treated as the instruction in force — and why must the building’s responsible safety authority, rather than the observation team, be the one to supply them?
+PART B — INTERNAL PRODUCTION APPENDIX — NOT FOR PUBLICATION
+Status: DRAFT — AWAITING HUMAN EDITORIAL REVIEW. Storage: DRAFTED — NOT COMMITTED (no repository write, approval, lock or publication was performed).
+B1. Generation and temporal metadata
+• Request mode: DAILY_GENERATION, one chronicle. Comic stage not started; waiting for your separate prompt.
+• Baseline used: CC-SMDP v0.03.01, CC-DCGP v0.03.01, CC-ECLPM v0.03.01, all still PROPOSED and used as the requested working baseline, not as ratified authority. Studio Blueprint and AI Desk architecture versions: UNVERIFIED.
+• Production date: Wednesday, 4 November 2026. Timezone used: Africa/Accra (UTC+0). No approved project timezone was supplied, so this is an assumption taken from the session location.
+• Pinned Probe snapshot (live, retrieved this run, application/json): now_iso 2026-11-04T02:34:06Z; probe_iso 2231-01-14T12:01:53Z; phase_index 5; phase_label “Oct 16 – Dec 20”; phase_start_iso 2026-10-16T00:00:00Z; phase_end_iso 2026-12-20T23:59:59Z; oscillation_index 0.037680999999999999217070723034339607693254947662353515625; amplitude_days 76937.82006399999954737722873687744140625; probe_value_days 74580.394294030484161339700222015380859375. All expected fields were present.
+• Clock A (production): 2026-11-04, Accra.
+• Clock B (historical reference): live historical endpoint returned iso 2003-07-20T15:18:36+00:00 (a Sunday). The endpoint returns only a timestamp. Location Las Vegas, Nevada is carried from your stated setup for this reference date; it was not derived from the endpoint.
+• Clock C (probe/destination): 2231-01-14T12:01:53Z, destination Kuala Lumpur (your stated setup). Future date, so everything about it is FICTION — PROBE SCENARIO.
+• Current HQ: Koware HQ, New Legon, Accra (your stated setup). Team: all active Edubeam team members in Kuala Lumpur (your stated setup). Individual team positions and temporal coordinates: UNVERIFIED.
+• Calendar derivation: phase start Fri 2026-10-16; anchor (first Monday on or after) 2026-10-19; target 2026-11-04; elapsed_days 16; episode_number floor(16/14)+1 = 2; day_in_block 2, so episode_day 3; chapter_working_day 10×1+3 = 13. Episode 02 runs Mon 2026-11-02 to Fri 2026-11-13 and fits inside the phase. Weekday Wednesday confirmed. Consistent with yesterday (Day 02, chapter day 12).
+• IDs: legacy S00_T05_E02.03. Logical mapping CC-S00-CH05-EP02-D03 is provisional and unapproved. The archive uses both S00_T05 and S00_CH05 folder names; nothing was renamed.
+• Probe reading log (the drift the story mentions):
+    1. now 2026-11-02T10:36:53Z, probe 2235-11-03T16:53:36Z, oscillation 0.033724 (stale fallback block you supplied).
+    2. now 2026-11-03T09:32:38Z, probe 2233-09-27T03:38:33Z, oscillation 0.0360636 (as recorded in the E02.02 archive compilation; not re-retrieved by me).
+    3. now 2026-11-03T21:23:45Z, probe 2231-12-29T16:39:31Z, oscillation 0.0366946 (as recorded in one archive draft; not re-retrieved by me).
+    4. now 2026-11-04T02:34:06Z, probe 2231-01-14T12:01:53Z, oscillation 0.037681 (pinned, live). Observation only: across the four readings probe_iso moves earlier, oscillation_index rises and probe_value_days falls. No mechanism is asserted, and nothing here says the team moved.
+B2. Source and research register
+• Governance docs retrieved: CC-SMDP v0.03.01, CC-DCGP v0.03.01, CC-ECLPM v0.03.01 (raw files in CC_AI_DESK). Not retrieved: the decision log, the alignment review and the comic documents (comic deferred).
+• Archive continuity: E02.02 compiled file retrieved; it holds several competing drafts, none approved. The existing E02.03 draft in the archive was retrieved and used as continuity reference only. Nothing was copied, and this chronicle takes a different progression (a revision sheet rather than a distribution register). E02.01 and Episode 01 folder pages: access refused by the host (robots), so their content is known only through summaries inside the E02.02 compilation.
+• Eternal Dreamfall: Week 96, “Septuagint (cont.)” in the 250-week list. Alignment check: week 1 begins Sunday 5 January 2025 (first full Sunday-first week of 2025, per your stated rule); Sunday 1 November 2026 is 665 days later, so week 96. The list gives no daily passage, so no daily selection was made and no passage is claimed. The calendar anchor still needs approval.
+• Verse: YouVersion Verse of the Day for 4 November 2026 is NOT VERIFIED. The bible.com page could not be fetched and searches did not surface it. Separate alternative used and labelled as such: Bible Gateway November 2026 calendar, day 4 = 2 Corinthians 3:6 (page published 2026-10-30, retrieved 2026-11-04). Verse text not reproduced; only the reference and a paraphrase of its theme appear.
+• Health & Safety: the Buzzjuice_Courses files could not be retrieved (links refused). No course, module or lesson is cited. The story uses only a generic principle (a conflicting instruction is escalated to the responsible authority, not settled by the observer). Earlier drafts cite HS1000/HS1030; I did not verify those.
+• Organisational chart: raw file retrieved. Chapter working day 13 maps to the Technical Support & Operations Manager (alias James Agor) under the Human & Employment Resources Manager (alias Kwamena Turkey, days 12–13), with Student Affairs & Services Support, Recovery Community Coordinator and Concierge Liaison as day-13 sub-roles. Earlier drafts listed different aliases (for example Jacques Ohemeng); the retrieved chart is the more recent source and was used.
+• Current stream (FACT, announced action): five transport unions announced a nationwide commercial transport shutdown for Wednesday 4 November 2026. Sources: 3News (statement dated 1 Nov), MyJoyOnline (2 Nov 2026, 11:17), GhanaWeb (1–2 Nov), AtinkaOnline (2 Nov), Pulse Ghana (2 Nov). I could not confirm at retrieval time whether the shutdown went ahead or was suspended; the story treats it only as an announcement. The JUSAG strike and other national and global items were seen in archive drafts but not re-verified, and were left out of the story.
+• Historical stream (HISTORICAL, thin): no verifiable Las Vegas item for 20 July 2003 itself was found. One nearby item: a Nevada year-in-review notes the governor signing an $836 million tax bill on 22 July 2003. Not used in the story.
+• Probe stream: 2231-01-14, Kuala Lumpur. No verified future news exists; nothing was fabricated. The notice, revision sheet, building manager and safety officer are NEW FICTIONAL DRAFT.
+• Weather: not researched; the story makes no weather claim.
+• Headline pools: the full local, collective and global candidate pools and the three-global/five-local synthesis were not compiled this run. Target not met; reason: time spent on source access failures.
+• Character canon: CUPID_BLACK_CHARACTER_CANON v0.10.0 retrieved. Enka appears only as the corporate manager; no ability, no Cu/Cupid Black identity.
+• Daily Diary: folder access refused; not used.
+B3. Koware role and project spotlight
+• Chapter working day: 13. Chart check: Technical Support & Operations Manager.
+• Use in story: one role, shown by title only. The operations manager keeps notices traceable (heading, date, revision number, withdrawal of the old version). Category: FICTIONAL_SCENE.
+• Not asserted: no real person is named, no real task or outcome is claimed. Aliases are recorded in B2 only; consent to portray them is UNKNOWN, so they stay out of the public text.
+• Possible real follow-up (PROPOSAL_FOR_REAL_REVIEW): a one-line rule for HQ notices (author, time, revision number, old version removed). Not a management instruction.
+B4. Mission log
+• Mission ID: UNVERIFIED (not found in the sources I could read).
+• State: observation-only, deployed in Kuala Lumpur (your stated setup). Probe coordinate 2231-01-14T12:01:53Z is a probe reading, not confirmed as the team’s clock.
+• Roster, equipment, energy, communications: roster unnamed and unverified; field channel to the laboratory active in this draft; nothing new introduced.
+• Today: the team photographed a revision sheet, tested neither stairwell, and followed Enka’s three-line instruction.
+• Pending: the building’s safety authority reviews both revisions, with a stairwell walk-through no earlier than 5 November. Probe drift stays an open issue.
+B5. Continuity ledger delta (append-only)
+All events below are DRAFT, approval pending.
+• S00_T05_E02.03-EVT-01 (NEW FICTIONAL DRAFT): at HQ, the operations manager posts Revision 2 of a staffing notice and removes Revision 1. Cause: the shutdown announcement. Effect: sets the revision-control motif.
+• S00_T05_E02.03-EVT-02 (NEW FICTIONAL DRAFT): the Kuala Lumpur building manager returns with a records folder; the team photographs one revision sheet without touching anything.
+• S00_T05_E02.03-EVT-03 (NEW FICTIONAL DRAFT): the sheet shows Revision 1 complete (date, signature, issuing office, effective date, matching the three agreeing notices) and Revision 2 later, with its date matching the odd copy, a typed approver title, an empty signature line and an empty effective-from box.
+• S00_T05_E02.03-EVT-04 (CONTINUITY CARRIED FORWARD): observation-only restriction holds; no stairwell tested.
+• S00_T05_E02.03-EVT-05 (NEW FICTIONAL DRAFT): Enka sends three instructions; the building manager agrees to refer both revisions to the building’s safety authority, review expected no earlier than the next day.
+• S00_T05_E02.03-EVT-06 (VERIFIED REAL-WORLD FACT, context only): the shutdown was announced for 4 November.
+• S00_T05_E02.03-EVT-07 (MIXED): four logged probe readings drift earlier; reading 4 is live, readings 1–3 are inherited.
+• S00_T05_E02.03-EVT-08 (NEW FICTIONAL DRAFT with verified references): Week 96 and 2 Corinthians 3:6 inform Enka’s reflection on authority behind a text.
+• Character state, Enka: at HQ, New Legon; analytical; no capability change; knows the sheet’s contents; no Cu/Cupid Black identity shown.
+• Storylines: notice investigation ACTIVE; which revision is in force UNRESOLVED; who approves Revision 2 UNRESOLVED; translation provenance UNRESOLVED; probe drift OPEN; Edubeam assignment ACTIVE, observation-only.
+• Proposed canon changes: none.
+B6. Next-day handover (portable)
+• Next slot: Thursday 5 November 2026, Episode 02 Day 04, chapter working day 14 (calendar check required at run time). Chart day 14: Director of Academic Programs, Academic Registrar, Academic Partnerships & Outreach Officer (verify against the chart).
+• Where things stand: four notices, three agreeing with Revision 1 and one dated copy matching an unsigned Revision 2. Neither the correct route nor the approver has been confirmed. The team is observing only. Enka is at HQ in New Legon.
+• Safe starting context: the safety authority’s review is pending. The next chronicle may show it happening, being delayed, or turning up something new. Do not state which route is correct unless the story earns it, and do not give the team new capabilities or permissions.
+• Do not contradict: no stairwell has been tested; Revision 2 has no signature and no effective date in this draft; the probe drift is logged but unexplained.
+• Research carry-forward: Week 96 (Septuagint) continues through Saturday 7 November; verify the YouVersion verse and the Buzzjuice course files if access allows; confirm the shutdown outcome if it matters.
+• Challenge: S00_T05_E02.03-CHALLENGE-01, public wording as in Part A. Restricted answer record: SECURE STORAGE REQUIRED. Solution release: with the subsequent episode’s release, subject to editorial approval.
+• Service Card candidate (proposed): “Name, time, revision number: how to make a notice trustworthy.”
+B7. Permissions, production and editorial
+• Public chronicle: DRAFT, not approved or locked. No human approval is recorded anywhere.
+• Identifiable people: no real person is named in the story. Consent to portray chart aliases: UNKNOWN.
+• Diary material: not used. Repository access is not publication permission.
+• Derivatives (comic collage, narration, video, Service Card): not started. When you ask for the comic pages, they will be made as one collage block to be cropped into pages, as you noted, from the approved text.
+• Archive: DRAFTED — NOT COMMITTED.
+B8. Exceptions and quality gates
+• Scope: PASS, one chronicle only.
+• Calendar: PASS on arithmetic; production timezone is an assumption.
+• Three clocks: PASS; Las Vegas and Kuala Lumpur are carried from your setup, not derived.
+• Research: PASS WITH OMISSIONS: YouVersion verse unverified (alternative used and labelled), H&S lesson unverified, headline pools not fully compiled, historical stream thin, shutdown outcome unknown.
+• Continuity: PASS WITH QUALIFICATION: E02.01 and Episode 01 not directly readable; the E02.02 drafts disagree with each other on probe values and chart aliases; most recent source used.
+• Challenge separation: PASS: no answer in Part A or Part B. Answer record not created.
+• Canon: PASS: no new ability, rule or business outcome.
+• Open decisions for you: approved production timezone; YouVersion verification route; access to the Buzzjuice course files; whether the existing E02.03 archive draft should be superseded.
+
+<<STOP CLAUDE-1>>
