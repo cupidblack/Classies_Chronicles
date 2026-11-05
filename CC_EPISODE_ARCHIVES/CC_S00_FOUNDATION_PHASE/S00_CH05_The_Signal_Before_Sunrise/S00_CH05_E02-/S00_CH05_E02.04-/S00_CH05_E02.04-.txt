@@ -232,6 +232,305 @@ All new story material below is **NEW FICTIONAL DRAFT**, pending human review; n
 
 <<STOP GITHUB-1>>
 
+<<START GITHUB-2>>
+
+# CLASSIES CHRONICLES — Daily Chronicle
+
+**Thursday, 5 November 2026 · Season 00 · Chapter 05 · Episode 02 · Chronicle 04 (provisional)**  
+**Working title: _The Date Beside the Record_**  
+**Status: PROVISIONAL DRAFT — NOT APPROVED FOR PUBLICATION**
+
+The requested v0.04.00 framework is marked **proposed**, not adopted. The episode position below is calculated from the supplied fallback phase dates and archive context; an approved calendar manifest and identifier crosswalk were not verified. The existing November 4 archive contains competing, unapproved drafts, so this chronicle does not treat any one of their new events as settled continuity.
+
+## OUTPUT A — PUBLIC-FACING CHRONICLE
+
+# The Date Beside the Record
+
+At the R&D laboratory in New Legon, Accra, the Millennium Probe displayed a date that did not match its previous reading.
+
+James Evans, the Director of Academic Programs, looked from the monitor to the printed record in his hand.
+
+“Can a schedule rely on a destination that changes?”
+
+Obed Ali, the R&D Lab Specialist, turned from the console. “Not until we’re clear about what the date represents.”
+
+The display held several values, each with its own place in the run record: a historical reference, the current date, phase information, and a calculated probe date. The supplied reading placed the destination in 2220. It did not say that the deployed team had travelled there.
+
+James set the printout down. “Then what does it mean?”
+
+Obed brought up the recorded inputs. “The changing dates are intentional. The Probe uses careful calculations in relation to the historical data and the current date. Its output can change as those inputs change. But we should not mistake a calculated date for a timetable—or proof that a team has arrived.”
+
+“Do we know the exact calculation behind this reading?”
+
+“Not from this display alone,” Obed said. “We can explain the design principle without claiming we have independently checked every step of the calculation.”
+
+James studied the numbers again. Their precision made them look conclusive. Their meaning still depended on the records around them.
+
+Enka Yamoah joined them at the console. As Koware’s founder and corporate manager, he looked at the reading without treating it as a decision already made.
+
+“I designed the Millennium Probe,” he said. “The changing date is part of how it was intended to work—not, by itself, evidence of a fault.”
+
+James turned to him. “And the cloned Edubeam?”
+
+“I established that version. It was initially operated solely by the Micro Computer Technology Institute of London.” Enka paused beside the old design sheet. “That history belongs beside the readings. But history doesn’t replace the record of this run.”
+
+Obed nodded. “And the destination on the screen doesn’t tell us where the field team is.”
+
+The team’s supplied physical position remained Kuala Lumpur, Malaysia. The Probe’s calculated date was a separate reference. No new deployment, arrival, contact, or change in the team’s temporal position was established by the reading.
+
+James picked up his folder. He had hoped for a fixed date he could place into a learning schedule. Instead, he had a more useful distinction: a measurement could inform planning without authorizing it.
+
+“So the schedule needs its own approved basis,” he said.
+
+“Yes,” Enka replied. “Keep the data. Keep the assumptions visible. Don’t turn an output into permission.”
+
+Obed opened a fresh run note and made three headings:
+
+**WHAT THE SOURCE RETURNED.**  
+**WHAT THE CALCULATION MAY MEAN.**  
+**WHAT WE HAVE NOT VERIFIED.**
+
+He entered the supplied values without overwriting earlier readings. The exact formula remained unverified. The date’s changing behavior was understood as intentional within the established design explanation; what it meant for any particular mission still required separate evidence.
+
+The earlier investigation into the four-language building notice remained open, too. Existing draft material described questions about the notice’s source and authorization, but the competing November 4 drafts did not establish one accepted account of what happened next. Enka asked that no new conclusion be added to that investigation until its continuity was reconciled.
+
+James looked at the three headings. “Different questions. Same discipline.”
+
+“Record what you know,” Obed said. “Keep interpretation separate. And don’t let a precise-looking result answer a question it wasn’t designed to answer.”
+
+The Probe continued its calculation. The team remained assigned to its supplied physical location. The notice investigation remained unresolved.
+
+On the page, the returned date sat beside the uncertainty—not in place of it.
+
+## TODAY’S CLASSIES CHALLENGE
+
+A Probe returns a different calculated date on a later run. The team’s supplied physical location has not changed, and the calculation pathway has not been independently checked.
+
+**What should a researcher keep separate when recording the new reading, and what additional evidence would be needed before claiming that the team’s position had changed?**
+
+---
+
+# INTERNAL PRODUCTION & EPISODE HANDOVER — NOT FOR PUBLICATION
+
+## B1. Run and temporal manifest
+
+- **Production date:** Thursday, 5 November 2026. Production timezone and exact execution time: **UNVERIFIED**.
+- **Working position:** Provisional Chronicle 04 of Episode 02; provisional chapter working day 14. Derived from the supplied phase start, 2026-10-16: first Monday anchor 2026-10-19; 17 elapsed calendar days to 2026-11-05; episode day 4, chapter working day 14.
+- **Calendar authority:** No approved effective-dated calendar manifest or confirmed archive-ID crosswalk was retrieved. The calculation is **provisional**, not an approved assignment.
+- **Baseline:** CC-UMP, CC-DCGP and CC-ECLPM v0.04.00, all marked **proposed** in the retrieved documents.
+- **Clock A — production:** 2026-11-05; exact local time and approved production timezone **UNVERIFIED**.
+- **Clock B — historical reference:** Fallback payload `2003-07-21T09:16:27+00:00`. Las Vegas, Nevada is supplied location context, not a location returned by the payload. No historical event is asserted from this timestamp.
+- **Clock C — Probe:** Fallback payload `probe_iso: 2220-05-13T12:53:50Z`; `now_iso: 2026-11-05T19:39:09Z`; phase 5, “Oct 16 – Dec 20”; boundaries `2026-10-16T00:00:00Z` through `2026-12-20T23:59:59Z`. These values were supplied as fallback data, not retrieved live in this run.
+- **Locations:** Koware headquarters, New Legon, Accra; historical-reference location, Las Vegas, Nevada; Probe destination and deployed-team physical position, Kuala Lumpur, Malaysia. Individual team positions and any temporal position are **UNVERIFIED**.
+- **Archive status:** Existing E02.04 material includes competing drafts. This candidate does not replace or supersede them.
+- **Draft/storage status:** `DRAFTED — NOT COMMITTED`. No repository write, approval, lock, or publication occurred.
+
+## B2. Research/source register
+
+- **Framework:** Retrieved the v0.04.00 unified master, daily protocol, continuity ledger, and alignment review. Their status is proposed, not adopted.
+- **Continuity:** Retrieved the November 4 archive and November 3 compilation. The November 4 archive contains conflicting candidate narratives; no outcome from those variants is treated as accepted continuity. The four-language notice investigation remains unresolved.
+- **Character references:** Retrieved the individual character files for Enka Yamoah, Obed Ali, James Evans, Steven Sarpong, and Matthew Ebenezer. These are **draft character-design proposals**, not approved portrayal canon.
+- **Role chart:** Retrieved the Koware aliased organizational chart. Its day-14 allocation is Director of Academic Programs, with Academic Registrar and Academic Partnerships & Outreach Officer among the associated roles. The chart establishes a role allocation, not real attendance or completed work.
+- **Millennium Probe and Edubeam origin:** The user-supplied notes and retrieved November 2 archive support the fictional premise that Enka designed the Probe, that changing readings are intentional calculations related to historical data and the current date, and that Enka established the cloned Edubeam, initially operated solely by the Micro Computer Technology Institute of London. The archive treats this material as draft story content requiring canon reconciliation; it is not promoted here as approved canon.
+- **Fallback endpoints:** Live acquisition failed. Used only the fallback payloads supplied in the request:
+  - Historical endpoint: `https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical`
+  - Probe endpoint: `https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now`
+- **Verse:** Search response identified 2 Timothy 2:15 (NIV) for November 5, 2026. The verse is omitted from the story because the search result alone was not independently verified against a dated YouVersion page.
+- **Eternal Dreamfall:** Reading-plan item and approved date/week anchor not verified; no daily passage claimed.
+- **Health & Safety:** No course lesson independently verified or used.
+- **Historical/current news:** No adequately verified, relevant dated reporting selected.
+- **Probe-date reporting:** No future headlines claimed; the Probe date is not presented as verified future news.
+- **Search captures:** Verbatim search results are preserved below.
+
+## B3. Character, Koware role and project register
+
+- **Enka Yamoah:** Appears in the corporate-manager role. The individual character file is a draft role facet; it says public portrayal is not approved and its draft biographical and appearance details are not binding. Existing Cupid Black working canon controls identity and ability boundaries. No extraordinary ability or new identity knowledge is introduced.
+- **Obed Ali:** R&D Lab Specialist in the chart. His individual character file is a draft proposal; no real-world action or approved portrayal is asserted.
+- **James Evans:** Director of Academic Programs; chart check day 14. His individual character file is a draft proposal and public portrayal is not approved.
+- **Steven Sarpong and Matthew Ebenezer:** Associated day-14 roles in the chart. Their character files are draft proposals; neither is depicted in the public story.
+- **Visual collage requirement:** James Evans’s, Steven Sarpong’s, and Matthew Ebenezer’s character files have `visual_collage_url: null`. Enka’s role-facet file references a collage URL, but no asset verification was completed. I cannot generate or attach graphics in this response, so the requested missing collages have **not** been created. This remains an outstanding production item.
+- **Real Koware work:** No actual staff activity, project completion, or business decision is claimed.
+
+## B4. Mission and technology state
+
+- **Mission ID, roster, equipment, communications, energy and individual positions:** **UNVERIFIED**.
+- **Supplied physical position:** Deployed team in Kuala Lumpur, Malaysia.
+- **Probe timestamp:** A calculated reference from the supplied fallback payload; it is not proof of travel, arrival, or the team’s temporal position.
+- **Technology portrayal:** The story repeats the supplied/archive premise that changing Probe dates are intentional calculations using historical data and the current date. It does not claim to verify the exact formula or add a new technical capability.
+- **Edubeam origin:** Enka’s role in establishing the cloned Edubeam and its initial operation solely by the Micro Computer Technology Institute of London is included as draft fictional continuity; canon approval remains outstanding.
+- **Mission changes:** No deployment, retrieval, intervention, contact, or mission-state transition is introduced.
+
+## B5. Append-only continuity and story ledger
+
+All new story events below are **NEW FICTIONAL DRAFT**, pending human review; no stable event IDs have been issued.
+
+- James asks how a changing Probe reading should be used in academic planning.
+- Obed explains that date changes are intentional under the supplied design premise, while distinguishing the Probe’s calculation from the deployed team’s physical position.
+- Enka states that he designed the Millennium Probe and established the cloned Edubeam, initially operated solely by the Micro Computer Technology Institute of London.
+- The lab records returned values, interpretation, and unverified matters separately and preserves prior readings.
+- The four-language notice investigation remains unresolved; no competing November 4 draft outcome is accepted as continuity.
+- No mission state, character ability, or approved canon changes.
+
+## B6. Portable production handover
+
+- **Safe starting point:** A provisional lab scene distinguishes the supplied Probe reading from the team’s supplied physical location. The exact calculation pathway and the reading’s mission implications remain unverified.
+- **Preserve the fallback snapshot:** Do not call it a live retrieval or substitute it for an earlier run’s snapshot.
+- **Locations:** HQ is supplied as New Legon, Accra; historical reference as Las Vegas, Nevada; destination and deployed-team physical position as Kuala Lumpur, Malaysia. Individual and temporal positions remain unverified.
+- **Continuity:** The notice investigation remains open. November 4 has conflicting drafts; do not treat any one draft’s new events as accepted.
+- **Technology:** No new Edubeam capability, authorization, deployment, or return is established. Enka’s design and London institute history remain draft story premises requiring editorial canon reconciliation.
+- **Next working day:** Recheck the approved calendar, episode manifest, current accepted continuity, role chart, permissions, and source snapshots before continuing.
+- **Visual production:** Collages for James Evans, Steven Sarpong, and Matthew Ebenezer remain outstanding; they were not generated here.
+- **Challenge:** Public wording appears at the end of Output A. No answer or near-answer is included in this handover.
+- **Storage state:** `DRAFTED — NOT COMMITTED`.
+
+## B7. Derivative/media and challenge status
+
+- **Public challenge:** Included in Output A.
+- **Challenge answer:** Not generated or stored; no restricted answer channel is asserted.
+- **Comic, collage, narration, video, and other derivatives:** Not generated. The required missing character collages remain outstanding.
+- **Publication:** Not authorized or performed.
+
+## B8. Validation, exceptions and approval register
+
+| Gate | Result | Note |
+|---|---|---|
+| `Q01_SCOPE` | PASS | One daily chronicle only; no comic or media generated. |
+| `Q02_CALENDAR` | BLOCKED for definitive assignment | Episode/day arithmetic is provisional; approved calendar and crosswalk not verified. |
+| `Q03_THREE_CLOCKS` | PASS WITH QUALIFICATION | Supplied fallback timestamps and locations are identified; physical and temporal positions remain distinct. |
+| `Q04_IDENTIFIERS` | PASS WITH QUALIFICATION | Provisional episode position only; no archive identifier is claimed as approved. |
+| `Q05_CANON` | PASS WITH QUALIFICATION | Individual character proposals are draft; no new ability or approved canon is introduced. |
+| `Q06_ROLE_PROJECT` | PASS WITH QUALIFICATION | Chart retrieved; day-14 role allocation is not evidence of actual attendance or activity. |
+| `Q07_STUDY` | OMITTED | Reading plan and anchor unavailable. |
+| `Q08_VERSE_HS` | OMITTED | Dated verse not independently verified; no H&S lesson verified. |
+| `Q09_RESEARCH` | PASS WITH OMISSIONS | No unsupported historical, current, or future headlines used. |
+| `Q10_RIGHTS` | BLOCKED FOR PUBLICATION | Character files state that public portrayal is not approved. |
+| `Q11_STORY` | PASS WITH QUALIFICATION | One coherent provisional draft; prior-day alternatives remain unresolved. |
+| `Q12_CHALLENGE` | PASS | Challenge is the final public-facing element; no answer included. |
+| `Q13_RECORDS` | PASS WITH QUALIFICATION | B1–B8 and handover supplied; records remain draft and unpersisted. |
+| `Q14_DERIVATIVES` | PASS WITH EXCEPTION | Comic/media deferred; required character collages are not generated. |
+| `Q15_INTEGRITY` | PASS | No approval, commit, publication, live endpoint retrieval, or secure storage claimed. |
+| `Q16_BOUNDARIES` | PASS | Public narrative and internal handover are separated. |
+
+---
+
+# EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+
+**Record status:** DRAFT — AWAITING HUMAN EDITORIAL REVIEW  
+**Schema reference:** CC-ECLPM v0.04.00, proposed; not represented as adopted  
+**Storage status:** `DRAFTED — NOT COMMITTED`
+
+### Chronicle record
+
+- **Episode/chronicle ID:** Provisional Episode 02, Chronicle 04; approved mapping unverified.
+- **Production date:** 2026-11-05, Thursday.
+- **Episode day / chapter working day:** Provisionally 04 of 10 / 14 of 40.
+- **Title:** _The Date Beside the Record_ — provisional.
+- **Previous-day state:** November 4 archive has competing, unapproved drafts. No single draft’s new narrative events are treated as accepted continuity.
+- **Challenge:** Public wording appears in Output A; no answer record created.
+- **Editorial and storage status:** Draft only; not approved, locked, committed, or published.
+
+### Continuity events
+
+- **Prior documented thread:** Four-language building notice investigation; origin and authorization remain unresolved.
+- **New draft event:** Obed explains the intentional changing-date behavior of the Probe under the supplied design premise.
+- **New draft event:** Enka’s Probe design and cloned Edubeam origin are reiterated as fictional continuity requiring canon reconciliation.
+- **New draft event:** The lab preserves source-returned readings separately from interpretation and unverified conclusions.
+- **Mission state:** No change established.
+- **Open storylines:** Notice authorization; interpretation and full calculation record for Probe readings; relationship between Probe output and the deployed team’s temporal position; calendar and identifier approval.
+
+### Safe next-day starting state
+
+Reload the approved episode manifest and latest accepted continuity before continuing. Preserve the separation between production, historical, and Probe clocks; do not infer team travel from a Probe timestamp; do not treat any November 4 draft as accepted; and do not resolve the notice investigation without supporting continuity.
+
+---
+
+## Verbatim search captures — internal audit
+
+The following search responses are retained verbatim; their claims were not independently verified beyond the stated search result.
+
+The official Verse of the Day for November 5, 2026, on YouVersion is:
+
+**2 Timothy 2:15 (NIV):**  
+"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."[[1]](https://www.bible.com/verse-of-the-day).
+
+This is the verse reference and translation as featured on YouVersion for that date.
+
+---
+
+1. [Verse of the Day - 2 Timothy 2:15 - Bible App](https://www.bible.com/verse-of-the-day)
+
+Here are verified news developments in Ghana and internationally for November 5, 2026, with published sources and dates:
+
+### Ghana - Major News Developments (November 5, 2026)
+
+**1. President Mahama Addresses Diaspora, Promotes Economic Resilience**
+- President John Mahama reassured the Ghanaian diaspora that the country’s economy is resilient despite global pressures and briefed them on the new $1 billion housing mortgage scheme, encouraging Ghanaians abroad to participate in it[[1]](https://gna.org.gh/headline/)[[2]](https://gna.org.gh/).
+
+**2. Ghana Government Pushes Digital Governance and Road Safety**
+- President Mahama urged patience with the rollout of "TraffiTech," an automated road traffic law enforcement system, promising a sharp drop in road accidents. Monthly road crash statistics will now be tracked to assess the impact of the initiative[[2]](https://gna.org.gh/)[[3]](https://citinewsroom.com/).
+- Ghana is also tightening Ebola surveillance at international airports and pushing for a common African digital governance agenda[[1]](https://gna.org.gh/headline/)[[2]](https://gna.org.gh/).
+
+**3. Social and Health Updates**
+- Ghana Health Service systems were taken offline due to an unpaid bill, disrupting access to records[[4]](https://ghanaguardian.com/category/latest-news/)[[5]](https://www.gbcghanaonline.com/category/news/).
+- The Ghana AIDS Commission announced plans to distribute new ultra-thin condoms from November 6, 2026[[3]](https://citinewsroom.com/).
+- Lead poisoning was identified among over half of the children tested in Ghana, raising public health concerns[[5]](https://www.gbcghanaonline.com/category/news/).
+
+**4. Economic Indicators**
+- Ghana’s year-on-year inflation rate rose marginally to 5.5% in October 2026, up from 5.2% in September[[2]](https://gna.org.gh/)[[6]](https://ghanaiantimes.com.gh/)[[5]](https://www.gbcghanaonline.com/).
+- The Ghana Chamber of Mines pushed for a Minerals Revenue Management Act to safeguard the country’s mineral wealth[[6]](https://ghanaiantimes.com.gh/).
+
+**5. Parliament and Governance**
+- Ghana’s Parliament announced plans to introduce fully biometric attendance and electronic voting for MPs to increase accountability[[6]](https://ghanaiantimes.com.gh/).
+
+**6. Crime, Legal, and Social Issues**
+- Major stories also include destruction of over $10 million worth of seized drugs by NACOC, concerns over child labour, and calls for legal reforms regarding global financial systems[[2]](https://gna.org.gh/)[[1]](https://gna.org.gh/headline/)[[7]](https://www.primenewsghana.com/politics.html).
+
+### International News - Selected Developments (November 5, 2026)
+
+**1. US Gun Violence and African Diaspora**
+- President Mahama called on the US to confront gun violence and the easy access to firearms following the tragic killing of a Ghanaian teenager in the US, highlighting its impact on the Ghanaian diaspora[[3]](https://citinewsroom.com/)[[5]](https://www.gbcghanaonline.com/).
+
+**2. Climate and Regional Developments**
+- Authorities in Africa warned that El Niño could raise food, power, and import costs in Ghana due to likely climate impacts, as reported by the government statistician[[3]](https://citinewsroom.com/).
+
+**3. International Trade and Cooperation**
+- Efforts are underway for Ghana to champion the creation of an Africa-CARICOM trade bloc to strengthen economic ties across continents[[6]](https://ghanaiantimes.com.gh/).
+- President Mahama also participated in the Commonwealth Summit in Antigua, meeting with Canadian Prime Minister Mark Carney to deepen bilateral relations[[1]](https://gna.org.gh/headline/).
+
+These reports come from GhanaWeb, Ghana News Agency, CitiNewsroom, Ghanaian Times, GBC Ghana, and related mainstream media, dated November 5, 2026[[1]](https://gna.org.gh/headline/)[[2]](https://gna.org.gh/)[[4]](https://ghanaguardian.com/category/latest-news/)[[6]](https://ghanaiantimes.com.gh/)[[3]](https://citinewsroom.com/)[[5]](https://www.gbcghanaonline.com/).
+
+---
+
+1. [Headline - Ghana News Agency](https://gna.org.gh/headline/)
+2. [Ghana News Agency | Ghana's preferred news source: Accurate, Credible ...](https://gna.org.gh/)
+3. [Citinewsroom: Ghana News, Business, Sports, Showbiz, Facts, Opinions](https://citinewsroom.com/)
+4. [Latest News – Ghanaguardian.com – Ghana News | Ghana Sports, Ghana ...](https://ghanaguardian.com/category/latest-news/)
+5. [News - GBC Ghana Online - The Nation's Broadcaster | Breaking News from Ghana ...](https://www.gbcghanaonline.com/category/news/)
+6. [HomePage - Ghanaian Times](https://ghanaiantimes.com.gh/)
+7. [Politics | News in Ghana - Prime News Ghana](https://www.primenewsghana.com/politics.html)
+
+There are no widely documented major historical events specifically located in Las Vegas, Nevada, or its immediate surroundings, on July 21, 2003, in global news or significant event listings accessible through credible sources. However, the following information is verifiable for July 21, 2003:
+
+- The weather in Las Vegas on July 21, 2003, was notably hot: the high temperature reached 112°F, with no recorded precipitation that day[[1]](https://www.extremeweatherwatch.com/cities/las-vegas/day/july-21)[[2]](https://weatherspark.com/h/m/2228/2003/7/Historical-Weather-in-July-2003-in-Las-Vegas-Nevada-United-States).
+- The broader news and cultural context for July 21, 2003, included Beyoncé's "Crazy In Love" being the #1 song in the United States and "Bad Boys II" leading at the box office. There is no evidence of significant political or criminal incidents, natural disasters, or citywide events recorded for Las Vegas on that date based on respected online archives[[3]](https://bestofdate.com/2003-07-21).
+
+If you are seeking very specific or local incidents (such as a local crime, casino event, or a lesser-known occurrence), you would need to access the Las Vegas Review-Journal or Las Vegas Sun archives for stories from that precise date[[4]](https://www.reviewjournal.com/archive/)[[5]](https://reviewjournal.newsbank.com/)[[6]](https://newspaperarchive.com/search/location/us/nv/las-vegas/). These archives are available online, often requiring either a subscription or access through a library or academic institution.
+
+In summary, July 21, 2003, appears as a typical summer day in Las Vegas as per credible online weather and news record sources, with no outstandingly documented major historical events reported for that date in the area.
+
+---
+
+1. [Las Vegas July 21 Weather Records - Extreme Weather Watch](https://www.extremeweatherwatch.com/cities/las-vegas/day/july-21)
+2. [Las Vegas July 2003 Historical Weather Data (Nevada, United States ...)](https://weatherspark.com/h/m/2228/2003/7/Historical-Weather-in-July-2003-in-Las-Vegas-Nevada-United-States)
+3. [July 21, 2003: Facts, Nostalgia, and News - bestofdate.com](https://bestofdate.com/2003-07-21)
+4. [What Happened in Las Vegas | Las Vegas News Archive | Las Vegas Review ...](https://www.reviewjournal.com/archive/)
+5. [Las Vegas Review-Journal Archives](https://reviewjournal.newsbank.com/)
+6. [Las Vegas, Nevada Newspaper Archives | NewspaperArchive](https://newspaperarchive.com/search/location/us/nv/las-vegas/)
+
+The missing character collages, unverified approved calendar, unresolved prior-day drafts, and unapproved character portrayals remain production exceptions. I’ll wait for your prompt before starting the comic-page stage.
+
+<<STOP GITHUB-2>>
+
 <<START CHATGPT-1>>
 
 Classies Chronicles — 5 November 2026

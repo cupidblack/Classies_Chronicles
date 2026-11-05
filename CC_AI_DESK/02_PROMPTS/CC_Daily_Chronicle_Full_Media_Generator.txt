@@ -95,7 +95,13 @@ Note the following:
 
 2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, generate a collage graphic for them so their appearance can be consistent.
 
-3. If a character's cannon is not found or unavailable, stop and request for the location of the character's cannon.
+3. If a character's cannon is not found or unavailable, stop and request for the location of the character's cannon. All known character cannone are located in the following folder in the repository:
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
+
+For instance: 
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md for Bonsu Bolt, the Concierge Liaison.
 
 4. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
