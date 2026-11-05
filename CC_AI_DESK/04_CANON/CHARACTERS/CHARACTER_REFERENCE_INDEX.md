@@ -6,7 +6,7 @@ This is the single navigation point for recurring character characteristics and 
 
 ## Primary
 
-- `CUPID_BLACK_CHARACTER_CANON.md` — Enka / Cu / Q / later Cupid Black identity, personality, ethics, power progression and corporate/street identity separation.
+- `CUPID_BLACK/CUPID_BLACK_CHARACTER_CANON.md` — Enka / Cu / Q / later Cupid Black identity, personality, ethics, power progression and corporate/street identity separation.
 
 ## Rule
 
