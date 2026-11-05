@@ -1,0 +1,94 @@
+The following resources should only be used as a fallback in case they fail to be acquired:
+
+<<START FALLBACK RESOURCES>>
+1. Historical Reference Endpoint:
+https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
+
+{"iso":"2003-07-21T08:44:35+00:00"}
+
+2. Millennium Probe's current endpoint raw response:
+https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
+
+{"probe_iso":"2221-06-26T04:50:57Z","now_iso":"2026-11-05T16:27:16Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.039887499999999999344968415471157641150057315826416015625,"amplitude_days":77101.418799999999464489519596099853515625,"probe_value_days":71089.5264732175855897367000579833984375}
+
+3. Locations:
+Enka's historical location: Las Vegas, Nevada
+Current Koware headquarters: New Legon, Accra
+Probe destination: Kuala Lumpar, Malaysia
+Deployed team positions: Kuala Lumpar, Malaysia
+
+<<STOP FALLBACK RESOURCES>>
+
+The following is the 'Master Episode Framework' for the Classies Chronicles:
+
+<<START MASTER EPISODE FRAMEWORK>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Classies_Chronicles_Unified_Master_Prompt_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/Classies_Chronicles_Unified_Master_Prompt_v0.04.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Classies_Chronicles_v0.04.00_Refactor_Review_and_Decision_Log.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/Classies_Chronicles_v0.04.00_Refactor_Review_and_Decision_Log.md
+
+<<STOP MASTER EPISODE FRAMEWORK>>
+
+Use the following 'Daily Chronicle Generation Protocol' to generate the Classies Chronicle for today. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the chronicle:
+
+<<START Daily Chronicle Generation Protocol>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Daily_Chronicle_Generation_Protocol_v0.04.00.md
+Raw file: 
+https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Daily_Chronicle_Generation_Protocol_v0.04.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC_v0.04.00_Daily_Protocol_and_Ledger_Alignment_Review.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Daily_Protocol_and_Ledger_Alignment_Review.md
+
+<<STOP Daily Chronicle Generation Protocol>>
+
+After generating the daily Classies Chronicle, wait for my prompt to use the following prompt to generate the comic pages for the generated Classies Chronicle:
+
+<<START Master Comic Generation Prompt>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Master_Comic_Generation_Prompt_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Master_Comic_Generation_Prompt_v0.04.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC_v0.04.00_Comic_Refactor_Review_Conflict_Register_and_Change_Traceability.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Comic_Refactor_Review_Conflict_Register_and_Change_Traceability.md
+
+<<STOP Master Comic Generation Prompt>>
+
+After generating the Classies Chronicle comic pages, wait for my prompt to use the following prompt to generate the media for the produced Daily Classies Chronicle:
+
+<<START Master Media Generation Prompt>>
+
+https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Master_Media_Generation_Prompt_v0.04.00.md
+
+https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Media_Refactor_Review_Conflict_Register_and_Change_Traceability.md
+
+<<STOP Master Media Generation Prompt>>
+
+The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this daily chronicle:
+
+<<START CHRONICLE RESOURCES>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.02-The_Cropped_Truth/CC_S00_CH05_E02.02-The_Cropped_Truth(compiled).txt
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.01-The_Notice_in_Four_Languages
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+
+<<STOP CHRONICLE RESOURCES>>
+
+Note the following:
+
+<<START NOTES>>
+
+1. In this chronicle the R&D Lab specialist explains that the changing probe dates are intentional for the millennium probe. The probe consists of various careful calculations in relation to the historical data and the current date. The probe was originally designed by Enka himself, yes, our very own corporate manager who also established the cloned version of the edubeam, initially operated solely by the micro computer technology institute of London (reference Classies Chronicles archives).
+
+<<STOP NOTES>>
