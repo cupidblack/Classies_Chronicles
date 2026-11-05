@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-21T08:44:35+00:00"}
+{"iso":"2003-07-21T09:16:27+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2221-06-26T04:50:57Z","now_iso":"2026-11-05T16:27:16Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.039887499999999999344968415471157641150057315826416015625,"amplitude_days":77101.418799999999464489519596099853515625,"probe_value_days":71089.5264732175855897367000579833984375}
+{"probe_iso":"2220-05-13T12:53:50Z","now_iso":"2026-11-05T19:39:09Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.039959799999999996711341765376346302218735218048095703125,"amplitude_days":77106.779411200011963956058025360107421875,"probe_value_days":70680.71853386794100515544414520263671875}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -91,6 +91,12 @@ Note the following:
 
 <<START NOTES>>
 
-1. In this chronicle the R&D Lab specialist explains that the changing probe dates are intentional for the millennium probe. The probe consists of various careful calculations in relation to the historical data and the current date. The probe was originally designed by Enka himself, yes, our very own corporate manager who also established the cloned version of the edubeam, initially operated solely by the micro computer technology institute of London (reference Classies Chronicles archives).
+1. In this chronicle the R&D Lab specialist briefly explains to another that the millennium probe was designed by the founder of the Koware Group. The changing probe dates are intentional. The probe consists of various careful calculations in relation to the historical data and the current date. The founder also established the cloned version of the edubeam, initially operated solely by the micro computer technology institute of London (reference Classies Chronicles archives).
+
+2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, generate a collage graphic for them so their appearance can be consistent.
+
+3. If a character's cannon is not found or unavailable, stop and request for the location of the character's cannon.
+
+4. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
 <<STOP NOTES>>
