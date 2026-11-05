@@ -23,11 +23,11 @@ The following is the 'Master Episode Framework' for the Classies Chronicles:
 
 <<START MASTER EPISODE FRAMEWORK>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Classies_Chronicles_Unified_Master_Prompt_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/Classies_Chronicles_Unified_Master_Prompt_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Master_Prompt_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-01.01-Unified_Master_Prompt_v0.04.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Classies_Chronicles_v0.04.00_Refactor_Review_and_Decision_Log.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/Classies_Chronicles_v0.04.00_Refactor_Review_and_Decision_Log.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Refactor_Review_and_Decision_Log_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-01.02-Refactor_Review_and_Decision_Log_v0.04.00.md
 
 <<STOP MASTER EPISODE FRAMEWORK>>
 
@@ -35,15 +35,15 @@ Use the following 'Daily Chronicle Generation Protocol' to generate the Classies
 
 <<START Daily Chronicle Generation Protocol>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Daily_Chronicle_Generation_Protocol_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.04.00.md
 Raw file: 
-https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Daily_Chronicle_Generation_Protocol_v0.04.00.md
+https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.04.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.02-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.02-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC_v0.04.00_Daily_Protocol_and_Ledger_Alignment_Review.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Daily_Protocol_and_Ledger_Alignment_Review.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.03-Daily_Protocol_and_Ledger_Alignment_Review_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.03-Daily_Protocol_and_Ledger_Alignment_Review_v0.04.00.md
 
 <<STOP Daily Chronicle Generation Protocol>>
 
@@ -51,11 +51,11 @@ After generating the daily Classies Chronicle, wait for my prompt to use the fol
 
 <<START Master Comic Generation Prompt>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-Master_Comic_Generation_Prompt_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Master_Comic_Generation_Prompt_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.04.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC_v0.04.00_Comic_Refactor_Review_Conflict_Register_and_Change_Traceability.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Comic_Refactor_Review_Conflict_Register_and_Change_Traceability.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00
 
 <<STOP Master Comic Generation Prompt>>
 
@@ -63,9 +63,11 @@ After generating the Classies Chronicle comic pages, wait for my prompt to use t
 
 <<START Master Media Generation Prompt>>
 
-https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-Master_Media_Generation_Prompt_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.04.00.md
 
-https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC_v0.04.00_Media_Refactor_Review_Conflict_Register_and_Change_Traceability.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00.md
+Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00.md
 
 <<STOP Master Media Generation Prompt>>
 
