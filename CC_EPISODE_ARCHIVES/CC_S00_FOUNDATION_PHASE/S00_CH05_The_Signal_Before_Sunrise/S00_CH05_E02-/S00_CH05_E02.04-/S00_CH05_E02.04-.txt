@@ -1605,6 +1605,324 @@ The requested creative work is therefore a **nonpublishable provisional draft pe
 
 <<STOP CHATGPT-2>>
 
+<<START CHATGPT-3>>
+
+Classies Chronicles — 5 November 2026
+
+PROVISIONAL — INTERNAL EDITORIAL DRAFT
+ Not approved for publication
+
+Working title: The Notice That Arrived Twice
+Working placement: Season 1 · Episode 02 · Day 04 · Chapter Working Day 14
+Date: Thursday, 5 November 2026
+Working episode period: 2–13 November 2026
+Format: Daily chronicle, followed by production handover B1–B8
+
+The episode and chapter placement above follows the previously calculated working calendar. It is not an approved calendar assignment. Character canons remain draft proposals, and their public-portrayal and consent clearances are unresolved. This draft therefore uses the characters only for internal editorial development.
+
+The Chronicle
+The Notice That Arrived Twice
+New Legon, Accra — Thursday, 5 November 2026
+
+The first notice arrived at 07:14.
+
+The second arrived eleven seconds later.
+
+They carried the same subject line, the same reference number and the same red priority marker. Both instructed the Kuala Lumpur deployment team to evacuate its temporary operations facility immediately.
+
+But the instructions were not identical.
+
+The first notice directed the team to the eastern assembly point. The second directed them west.
+
+At the Koware headquarters in New Legon, James Evans read both messages again. He had already checked the distribution register. Four recipients had received the original notice. The register showed successful delivery, but the approval record that should have authorised the instruction was still missing.
+
+It was the same omission that had troubled the team the previous day.
+
+“Which one did they acknowledge?” James asked.
+
+Steven Sarpong, the Academic Registrar, looked up from his terminal. “Both. The system recorded two acknowledgements. Neither acknowledgement proves that the instruction was authorised.”
+
+James leaned back. “So we have a successful delivery of two contradictory instructions, and no evidence that either was approved.”
+
+“Exactly.”
+
+Outside, the morning news was reporting that transport unions in Ghana had called off a planned sit-down strike but had given the government a thirty-day ultimatum. The announcement had brought temporary relief to commuters, but it was also a reminder that a situation could change before a notice about it reached everyone affected. 
+
+Ghana News Agency
+
+James muted the broadcast.
+
+“Let's not confuse a message being received with a risk being controlled.”
+
+He opened the day's study notes. The Bible plan had brought him to a passage about diligence and sound handling of the truth. The YouVersion verse of the day was 2 Timothy 2:15: “Do your best to present yourself to God as one approved…” 
+
+Bible App
+
+The words stayed with him as he returned to the two notices.
+
+“Approved,” he said quietly. “That's the word we're missing.”
+
+At the R&D laboratory, Obed Ali had already isolated the two messages from the deployment feed. Their timestamps were valid. Their delivery signatures were valid. Their routing histories, however, pointed to different source events.
+
+He brought up the Millennium Probe console.
+
+The display showed:
+- Probe reading: 2220-05-13T12:53:50Z
+- Current-time snapshot: 2026-11-05T19:39:09Z
+- Phase: 5 — 16 October to 20 December
+- Oscillation index: 0.0399598
+- Amplitude: approximately 77,106.78 days
+The historical reference was separately recorded as 2003-07-21T09:16:27Z, with Las Vegas, Nevada, assigned as Enka's historical location. The historical timestamp was a reference point, not proof that any particular Las Vegas incident occurred at that exact minute.
+
+Obed noticed James studying the display.
+
+“You think the Probe has jumped again?” James asked.
+
+“No. And that's the first thing we need to stop calling it.”
+
+Obed enlarged the calculation panel. “The Millennium Probe was designed by the Koware Group's founder. Its changing date is intentional. It is not a clock that has lost synchronisation, and it isn't selecting dates at random. The Probe derives its temporal reading through calculations involving historical data and the current date. The result changes as those inputs change.”
+
+James looked from the Probe reading to the two evacuation notices.
+
+“So the date can change without the system malfunctioning.”
+
+“Correct. But that doesn't mean every instruction generated around a Probe reading is trustworthy. We still have to verify the source, the calculation, the operational context and the approval.”
+
+Obed opened the EduBeam records.
+
+“And there's another distinction worth preserving,” he continued. “The original EduBeam was the work of Dr. Elara Hayford and her team at the Microcomputer Technology Institute of London. The Institute launched and operated that original system. The founder later established a cloned EduBeam version, which was initially operated solely by the Institute. Those are related systems, but they are not the same development history.”
+
+James nodded. “Keep that distinction in the record. We don't fix one missing approval by introducing a false history.”
+
+The deployment team's physical position was confirmed as Kuala Lumpur, Malaysia. The Probe's destination was also Kuala Lumpur. But Obed refused to let the team treat those two facts as proof of a confirmed temporal position.
+
+“Physical location and temporal coordinate are separate fields,” he told James. “We know where the team is deployed. We have a Probe reading. We do not yet have a verified temporal-position record that connects the two.”
+
+The distinction changed the response.
+
+Instead of forwarding either evacuation notice, James placed both instructions under a temporary verification hold. Steven marked the notices as contradictory and unauthorised pending source confirmation. The team in Kuala Lumpur was instructed to remain within its existing observation-only restriction, maintain communications, and follow its last verified safety arrangements. No one was to move to either assembly point on the strength of the disputed messages.
+
+James then asked Obed to conduct a hazard-identification review.
+
+The lesson was drawn from HS1030, Proactive Safety: Mastering Hazard Identification & Risk Management. The team began with a simple but important distinction: a hazard is a potential source of harm; risk concerns the likelihood and severity of that harm in the circumstances.
+
+The two notices were not merely an administrative inconvenience. They created a foreseeable hazard: personnel could be directed to different locations during an emergency, lose contact with one another, or move into an area that had not been verified as safe.
+
+Obed guided the review through the practical HIRA steps. They identified the hazard, considered who could be affected, evaluated the risk, selected controls, assigned responsibility and documented the decision. The 5×5 Risk Matrix helped them assess the potential consequences without pretending that a numerical score could replace judgement.
+
+Their first control was not another message.
+
+It was to stop the conflicting instructions from triggering movement.
+
+The team then applied the hierarchy of controls: eliminate the immediate exposure to the contradictory instruction by suspending its operational effect; strengthen administrative controls through source verification and a single authorised communication channel; and require a recorded approval before any revised movement instruction could be issued. The review would be checked again through the Plan–Do–Check–Act cycle.
+
+By midday, the two messages had been traced to separate event paths. One had originated from an earlier operational draft. The other had inherited a later routing instruction, but neither carried the required approval record.
+
+The system had delivered both messages correctly.
+
+The failure was in the authority chain.
+
+At the end of the review, James returned to the distribution register from the previous day.
+
+Four notices had been distributed. The record was clear about delivery. It was silent about the approval that should have preceded distribution.
+
+That silence had become the central problem.
+
+“Yesterday we were looking for the missing line,” Steven said. “Today we have two notices competing to occupy it.”
+
+James closed the register.
+
+“Then we don't choose the more convincing notice. We restore the missing evidence.”
+
+He authorised a controlled correction to the internal record: both notices would remain preserved as evidence, neither would be treated as an active instruction, and the Kuala Lumpur team would remain under observation-only restrictions until the source and approval chain were verified. Any replacement notice would need one accountable issuer, one confirmed operational instruction and one traceable approval.
+
+Obed sent the updated technical note to the laboratory archive. He also added a reminder that the Probe's changing dates were expected outputs of its design, not evidence of a fault. The note separated the historical reference, the current-time snapshot, the Probe reading, the physical deployment location and the unverified temporal position.
+
+As evening approached, James looked once more at the verse on his screen.
+
+The day had begun with two messages demanding immediate action. It ended with a decision not to move until the facts had been examined.
+
+That was not hesitation. It was diligence.
+
+And somewhere in the archive, the missing approval line was still waiting to be found.
+
+The question for the reader: When two official-looking instructions contradict each other, what should matter more: how urgently they are delivered, or whether their authority can be verified?
+
+Production handover — B1 to B8
+B1. Episode identity and placement
+Field	Working value
+Chronicle date	5 November 2026
+Season	Season 1
+Chapter	Chapter 1 — working designation
+Episode	Episode 02
+Episode day	Day 04 of 10
+Chapter working day	Day 14 of 40
+Working episode window	2–13 November 2026
+Working title	The Notice That Arrived Twice
+Status	Provisional internal editorial draft
+Publication status	Not approved
+
+Calendar qualification: The placement is inherited from the provisional phase and working-day calculation. The phase data does not independently establish an approved season, chapter or episode crosswalk. The episode assignment must be reconciled against the approved calendar before publication or archival promotion.
+B2. Source and reference register
+Element	Acquired reference	Treatment in this draft
+Current-time snapshot	2026-11-05T19:39:09Z	Used as the supplied fallback snapshot, not represented as a live reading
+Historical reference	2003-07-21T09:16:27Z	Used as a separate historical coordinate
+Probe reading	2220-05-13T12:53:50Z	Used as the supplied Probe output
+Probe phase	Phase 5, 16 Oct–20 Dec	Working phase context only
+Historical location	Las Vegas, Nevada	Assigned to Enka's historical reference
+Current headquarters	New Legon, Accra	Main institutional setting
+Probe destination	Kuala Lumpur, Malaysia	Probe destination
+Deployment location	Kuala Lumpur, Malaysia	Physical position of deployed team
+Bible verse	2 Timothy 2:15 (NIV)	Daily verse integrated into the narrative
+H&S course	HS1030	Hazard identification and risk management integrated into the plot
+
+The historical Las Vegas reference is supported by archive research identifying a fatal apartment fire on 21 July 2003, with one child fatality and seven people hospitalised. The story does not claim that the fire occurred at the exact Probe timestamp or that Enka was involved in it. 
+
+UNLV Special Collections Portal
+
+The Ghana transport-union development is used as a brief current-affairs backdrop, not as a causal part of the fictional incident. 
+
+Ghana News Agency
+
+Source limitation: The supplied fallback values are snapshots. The Probe's calculated output, historical timestamp and current-time snapshot have not been independently revalidated against the live endpoints during this production run.
+B3. Continuity and canon alignment
+Previous episode continuity: The Missing Approval Line established the unresolved distribution-register issue: four notices had been distributed, but the original approval/source record was missing. The Kuala Lumpur team was under observation-only restriction.
+
+This episode's progression:
+1. The missing approval record becomes operationally significant.
+2. Two contradictory notices expose the consequences of an incomplete authority chain.
+3. The team distinguishes successful delivery from valid authorisation.
+4. The observation-only restriction is maintained.
+5. The missing approval record remains unresolved, preserving the continuing mystery.
+Character use
+Character	Role in this draft	Continuity function
+James Evans	Director of Academic Programs	Leads the review and makes the controlled internal decision
+Steven Sarpong	Academic Registrar	Examines the distribution and approval records
+Obed Ali	R&D Lab Specialist	Explains the Probe and EduBeam distinctions; leads the technical review
+Enka Yamoah	Founder / Corporate Manager	Referenced through the historical and technical origin of the systems
+
+Matthew Ebenezer is scheduled for the Day 14 role-check according to the organisational schedule, but is not given an additional speaking role in this draft. His scheduled check should remain visible in the production ledger rather than being silently treated as completed.
+
+Canon qualification: Character canons are draft proposals. They are not evidence of real-person consent or approval for public portrayal. No dialogue, action or characterisation in this draft should be promoted to approved canon without editorial review.
+B4. Narrative and storytelling assessment
+Story element	Implementation
+Opening hook	Two contradictory evacuation notices arrive eleven seconds apart
+Central mystery	Why were two notices distributed without the required approval record?
+Immediate stakes	The Kuala Lumpur deployment team could act on conflicting safety instructions
+Technical revelation	The Millennium Probe's changing dates are intentional calculated outputs
+Institutional history	Original EduBeam and Enka's later cloned version are distinguished
+Character development	James chooses verification over urgency; Obed explains rather than merely corrects
+Continuity engine	The missing approval line remains unresolved
+Ending	The audience is asked to consider authority versus urgency
+
+Pacing: The episode follows a morning-to-evening progression: discovery, investigation, technical explanation, risk assessment, controlled response and unresolved closing question.
+
+Engagement mechanism: The reader first sees a practical emergency, then discovers a deeper records-and-authority problem. The technical explanation answers one question while exposing another. The ending deliberately avoids resolving the approval mystery too early.
+B5. Required creative integrations
+Required element	Integration	Assessment
+Bible study	Diligence and truthful handling of information	Integrated
+Verse of the day	2 Timothy 2:15 NIV	Integrated
+Health & Safety	HS1030, proactive safety	Integrated
+Hazard vs. risk	Contradictory notices treated as a hazard with operational risk	Integrated
+HIRA	Identification, assessment, controls, responsibility and documentation	Integrated
+5×5 Risk Matrix	Used as an assessment aid, not a substitute for judgement	Integrated
+Hierarchy of Controls	Immediate suspension of conflicting instructions; administrative controls and verification	Integrated
+PDCA	Review and re-check of the corrective response	Integrated
+Current affairs	Ghana transport-union announcement	Brief contextual integration
+Historical reference	2003 Las Vegas reference retained as a distinct historical coordinate	Partially integrated; historical event not made a plot cause
+Current headquarters	New Legon, Accra	Integrated
+Historical location	Las Vegas, Nevada	Integrated as Enka's historical reference
+Probe destination	Kuala Lumpur, Malaysia	Integrated
+Deployed team position	Kuala Lumpur, Malaysia	Integrated
+Millennium Probe	Changing dates explained as intentional calculations	Integrated
+EduBeam history	Original system distinguished from later clone	Integrated
+Koware organisational roles	Day 14 role-check lead and supporting roles represented	Partially integrated; Matthew's scheduled check remains pending
+
+B6. Technical and operational record
+Millennium Probe data used
+Parameter	Supplied value
+probe_iso	2220-05-13T12:53:50Z
+now_iso	2026-11-05T19:39:09Z
+phase_index	5
+phase_label	Oct 16 – Dec 20
+oscillation_index	0.0399597999999999967
+amplitude_days	77106.77941120001
+probe_value_days	70680.71853386794
+
+Coordinate separation
+- Historical time: 2003-07-21T09:16:27Z
+- Current-time snapshot: 2026-11-05T19:39:09Z
+- Probe temporal reading: 2220-05-13T12:53:50Z
+- Physical deployment location: Kuala Lumpur, Malaysia
+- Probe destination: Kuala Lumpur, Malaysia
+The physical deployment location must not be used as proof of the team's temporal position.
+
+Operational decisions represented in the story
+- Preserve both contradictory notices as evidence.
+- Do not treat either as an authorised active instruction.
+- Retain the team's observation-only restriction.
+- Preserve the last verified safety arrangements.
+- Require source verification and traceable approval before issuing a replacement instruction.
+- Keep delivery, acknowledgement, approval and operational execution as separate record states.
+System-history distinction
+- Original EduBeam: developed by Dr. Elara Hayford and her team at the Microcomputer Technology Institute of London.
+- Later cloned EduBeam version: established by Enka, initially operated solely by the Institute.
+- Millennium Probe: designed by the Koware Group founder.
+These are separate historical claims and must remain distinct in future episodes.
+B7. Editorial review, risks and unresolved items
+Review item	Status	Required action
+Working episode placement	Provisional	Confirm approved calendar crosswalk
+Character canon approval	Pending	Human editorial review
+Real-person consent	Unverified	Obtain and record required clearance
+Public portrayal approval	Unverified	Do not publish character portrayals before approval
+Character visual collages	Pending	Generate later, when separately authorised
+Historical endpoint	Fallback used	Revalidate when endpoint access is restored
+Current Probe endpoint	Fallback used	Revalidate when endpoint access is restored
+Bible plan week anchor	Inherited working context	Confirm against approved plan calendar
+HS1030 course outline	Partial source recovery	Confirm exact lesson references against the course source
+Missing approval record	Unresolved story thread	Carry forward into subsequent continuity
+EduBeam lineage	Distinction preserved	Maintain in future canon references
+
+Editorial risks to avoid
+1. Do not imply that a successful delivery or acknowledgement makes an instruction authorised.
+2. Do not describe the Millennium Probe as malfunctioning simply because its reading changes.
+3. Do not infer a temporal position from a physical deployment location.
+4. Do not attribute the original EduBeam invention to Enka.
+5. Do not present the historical Las Vegas fire as occurring at the exact supplied timestamp.
+6. Do not convert draft character canons into approved public portrayals.
+7. Do not treat the working episode placement as an approved calendar decision.
+B8. Production handover and next-stage gate
+1. Chronicle draft
+   Completed
+   Internal editorial draft written, with the audience challenge included.
+2. Continuity handover
+   Prepared
+   Previous approval-record mystery carried forward; new contradictory-notice incident introduced.
+3. Character and canon review
+   Pending
+   Review the draft against the character canon proposals and obtain required approvals.
+4. Visual character collages
+   Pending
+   Relevant lead-character collages are not yet available. No images have been generated.
+5. Comic generation
+   Awaiting separate instruction
+   No comic pages have been generated.
+6. Media generation
+   Not started
+   No video, audio, animation or other media assets have been generated.
+7. Repository and publication
+   Not performed
+   No files have been committed, no archive has been overwritten and nothing has been published.
+Handover instruction: Treat The Notice That Arrived Twice as the proposed 5 November chronicle for Episode 02, Day 04. Retain all provisional flags and unresolved dependencies. The next production stage is comic-page generation, but it must begin only after a separate user instruction.
+
+Production status
+Chronicle and B1–B8 drafted
+The 5 November chronicle is complete as a provisional internal editorial draft. It is not a final approved episode, and no images, comics or media have been created.
+
+I’ll pause here for your separate instruction to generate the comic pages.
+
+<<STOP CHATGPT-3>>
+
 <<START JULES-1>>
 
 # CLASSIES CHRONICLES — Daily Chronicle
@@ -1805,6 +2123,371 @@ The screen in the R&D lab settled as the calculation cycle concluded. The Millen
 
 
 <<STOP JULES-1>>
+
+<<START JULES-2>>
+
+# CLASSIES CHRONICLES — DAILY CHRONICLE
+## Season 00 — Foundation Phase
+### Chapter 05 — The Signal Before Sunrise
+### Episode 02 — The Notice in Four Languages
+**Chronicle 04 of 10 · Chapter Working Day 14 of 40**
+**Production Date:** Thursday, 5 November 2026
+**Provisional Daily Title:** *The Date That Was Never a Departure*
+**Status:** DRAFT — AWAITING HUMAN EDITORIAL REVIEW
+
+---
+
+## OUTPUT A — DAILY CLASSIES CHRONICLE
+
+### THE DATE THAT WAS NEVER A DEPARTURE
+
+The first thing Enka noticed when he stepped onto the polished composite floor of the Blue Crown R&D laboratory in New Legon, Accra, was the date.
+
+It had changed again.
+
+Across the laboratory's wide central glass array, the primary temporal telemetry display hummed with quiet, steady precision. High on the upper right tier, glowing in crisp phosphorescent emerald, the Millennium Probe readout caught the morning light:
+
+`PROBE_ISO: 2220-05-13T12:53:50Z`  
+`NOW_ISO: 2026-11-05T20:34:50Z`  
+`PHASE_INDEX: 5 (Oct 16 – Dec 20)`  
+`OSCILLATION_INDEX: 0.0399598`  
+`AMPLITUDE_DAYS: 77106.7794`  
+`PROBE_VALUE_DAYS: 70680.7185`
+
+Yesterday’s archived log had pointed toward June 2221; the reading forty-eight hours prior had registered deep in November 2235. Now, the projected coordinate had swung back into May 2220. To an outside auditor, a hurried visitor, or an untrained analyst, the sudden leaping across centuries might look like catastrophic sensor drift, numerical degradation, or a shattered calibration core.
+
+On the adjacent monitor, four high-resolution photographs of conflicting emergency evacuation notices remained pinned side by side. Three versions directed building occupants to assemble by the eastern stairwell; the fourth instructed everyone toward the courtyard exit. Yesterday’s investigation into the observation site in Kuala Lumpur had turned up the building’s distribution register, proving that all four language versions had indeed been posted on physical walls. But the register had arrived with a glaring silence: it recorded where the sheets were placed, yet contained not a single signature, department seal, or reference number showing who had authorized them.
+
+Now, with the Millennium Probe apparently swinging across centuries on the main board, an unfamiliar technician might easily confuse the two problems—or panic over both.
+
+“Have we lost our anchor?” Enka asked quietly, setting his worn notebook down beside the console.
+
+Obed Ali, the R&D Lab Specialist, looked up from the diagnostic bench. Tall, deliberate, and calm in his indigo workshirt, Obed held his blue-rubber laboratory timer loosely in one hand and shook his head with an easy, knowing half-smile.
+
+“No, Corporate Manager. We haven’t lost a single second.”
+
+“Then explain why the board has shaved off a year and a month since yesterday,” Enka said. “In Kuala Lumpur, our field team is already operating under strict observation rules. If they check the monitor and see May 2220, they might wonder if their ground coordinates have drifted.”
+
+“Because you designed it to swing, sir,” Obed replied, turning the focal interface to bring up the underlying wave function. “And you taught us never to mistake the math for the movement.”
+
+Obed tapped the glass, highlighting the mathematical relation between the historical reference endpoint and the production instant.
+
+“The Millennium Probe is not a mechanical clockwork ticking along a straight road,” Obed continued. “It is a dynamic displacement calculator. It evaluates the relationship between three distinct temporal references: our verified historical anchor—21 July 2003—our current production moment here in Accra on 5 November 2026, and the calibrated harmonic oscillation running through the active phase. The shifting dates are completely intentional. Each daily timestamp is the deliberate product of linked mathematical functions. As the sampling window advances and the oscillation index adjusts across the seventy-seven-thousand-day amplitude, the calculated target date moves. It is an instrument designed to test calibration drift against historical benchmarks, not a rail car carrying passengers into the future.”
+
+Enka let out a soft breath, his eyes tracing the clean sine curve plotted across the glass.
+
+He remembered sketching those exact harmonic calculations years ago. Before Blue Crown had established its permanent research campus in New Legon, the experimental foundations of temporal observation had been far more precarious. The original Edubeam system had been operated solely by the Micro Computer Technology Institute of London. When Enka established the cloned version for Koware, adapting its delicate sensor matrices and observational protocols, he had refused to build a simple static chronometer. A static display risked making researchers complacent, encouraging them to treat an instrument’s reading as an unalterable destiny or an infallible prediction. The Millennium Probe had been intentionally engineered to demand active, daily human interpretation.
+
+“A calculated number on a monitor is not proof of a journey,” Enka remarked, nodding thoughtfully.
+
+“Exactly,” Obed agreed. “The field team deployed in Kuala Lumpur, Malaysia, remains safely stationed at their physical observation post in 2026. Their location has not changed, their era has not shifted, and their mission boundaries remain absolute: documentation only, no interference with local systems, and no unauthorized testing of physical routes.”
+
+“Good,” said Enka. “Because an unverified measurement can be as dangerous as an unverified notice.”
+
+“Speaking of notices,” a measured voice called from the laboratory doorway.
+
+James Evans, Director of Academic Programs, stepped into the room. Compact, composed, and wearing his characteristic patterned scarf over a tailored jacket, Director James carried an ink-blue course roadmap folio tucked firmly under one arm. Behind him walked Steven Sarpong, the Academic Registrar, holding an official set of ledger folios secured with a distinctive red ribbon transcript clip, accompanied by Matthew Ebenezer, the Academic Partnerships & Outreach Officer, who was reviewing notes from his sand-coloured travel wallet.
+
+“Director James,” Enka greeted him. “You’re early.”
+
+“When an educational curriculum is at stake, early is the only acceptable time,” Director James said with a wry smile, placing his ink-blue folio on the conference table. “Steven and Matthew have spent the morning cross-referencing our instructional design modules against the reports coming out of the Malaysia observation post. We have a problem, Enka—not with the field team’s conduct, but with how people learn from evidence.”
+
+Steven the Registrar opened his folder, revealing five carefully drawn analytical columns.
+
+“If our students or institutional partners look at the four emergency notices from Kuala Lumpur,” Steven explained, “human nature will tempt them to make two dangerous mistakes. First, they will count the votes: three notices say eastern stairwell, one says courtyard, so they will assume three-to-one represents truth. Second, seeing yesterday’s distribution register, they will assume that because the notices were stamped and hung by building staff, the content inside them must be sound.”
+
+“Distribution proves circulation,” Matthew Ebenezer added, leaning forward. “It does not prove authority. In our outreach partnerships across West Africa and Europe, we see this constantly: an institution receives a handsome printed brochure or an unsigned policy document, and because it is physically present in the office, staff act on it as if it were binding law.”
+
+Director James tapped his folio, pointing to the five headings Steven had drafted:
+**1. Origin. 2. Authorization. 3. Translation. 4. Distribution. 5. Effective Status.**
+
+“They are five distinct evidentiary hurdles,” Director James emphasized. “A distribution register answers hurdle number four. It tells you the paper reached the wall. It tells you nothing about who wrote the original words, who possessed the legal authority to sign it, whether the four language translations were faithful to the original draft, or whether the notice is currently active or obsolete. If we teach anything in Koware’s academic programs, it must be the intellectual discipline to distinguish what a record proves from what an observer merely assumes.”
+
+Enka’s thoughts turned to his morning devotional reading from the second chapter of Paul’s second letter to Timothy: *Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.*
+
+“Handling truth correctly,” Enka murmured. “It requires cutting straight. It means refusing to smooth over the gaps in our documentation just to tell a convenient story.”
+
+“Precisely,” Director James said. “And that brings us to workplace safety. The Buzzjuice Health & Safety curriculum—specifically Module HS1030 on Proactive Safety—makes a fundamental distinction between hazard identification and control selection. When an emergency instruction contradicts itself, the contradiction itself is a hazard. But an unqualified observer who decides to test the unverified stairwell themselves isn't practicing safety; they are committing unauthorized improvisation.”
+
+At that moment, the communications terminal on Obed’s console chimed with an incoming priority signal from the deployed unit in Kuala Lumpur.
+
+Obed flipped the audio channel. The crackle of an encrypted field line filled the room.
+
+“Accra Control, this is Field Observation Team Alpha in Kuala Lumpur,” the field analyst’s voice reported clearly. “We have an update on the building administration inquiry.”
+
+“Go ahead, Team Alpha,” Enka replied. “Status report.”
+
+“The building manager has formally responded to our records request,” the analyst stated. “They confirmed that the original primary signed instruction for the four emergency notices is still missing from the floor file. However, their facilities compliance archive has identified the existence of a secondary ledger: an **Administrative Authorization & Effective Dates Register** stored in the building safety office.”
+
+Director James and Steven exchanged a sharp, approving glance.
+
+“Have you accessed the register?” Enka asked.
+
+“Negative, Control,” the analyst responded immediately. “The safety office is locked pending the arrival of the authorized safety warden tomorrow morning. We have not attempted entry, nor have we altered any signage or inspected the disputed stairwells. We remain in strict observational posture.”
+
+“Understood, Alpha,” Enka commanded. “Maintain observation only. Do not attempt to confirm or condemn either evacuation route until the safety warden and the official register provide primary documentary verification. Document the reference to the ledger, but record it as an open lead, not a verified conclusion.”
+
+“Understood, Control. Alpha out.”
+
+The channel closed with a soft click.
+
+In the laboratory, the parallels between the day’s investigations felt resonant. On Enka’s desk lay two real-world news clippings retrieved that morning. One, dated 21 July 2003 from the *Las Vegas Sun*, detailed how Clark County school administrators had assembled complete recruitment lists of prospective teachers, yet were barred from issuing contracts until the state legislature formally approved the education budget—proving that possession of an operational plan is meaningless without the underlying legal authority to execute it. The other, reported just hours ago by the *Ghana News Agency*, detailed the Bank of Ghana’s urgent public warning against twenty unauthorized digital lending platforms operating openly in the market—proving that widespread technical availability does not equal regulatory legitimacy.
+
+Director James closed his ink-blue folio, a look of quiet satisfaction on his face.
+
+“So the lesson holds across centuries, across borders, and across disciplines,” Director James concluded. “A shifting probe date is not a broken compass; it is a designed calculation. And a widely circulated notice is not an authorized law; it is an unverified paper trail until the signature is found.”
+
+On the central console, the emerald numbers of the Millennium Probe continued their gentle, calculated oscillation across time, anchored firmly to the foundation laid years before.
+
+---
+
+### CHARACTER REFERENCE GRAPHIC DIRECTIVES (DAY 14 COLLAGE ASSETS)
+
+In accordance with franchise protocol, because the lead and supporting characters spotlighted for Chapter Working Day 14 lack an existing image file at their canon `visual_collage_url`, the following character reference collage specifications are hereby defined to guarantee absolute visual continuity across upcoming storyboard and comic production phases:
+
+```
+====================================================================================================
+CHARACTER REFERENCE COLLAGE SPECIFICATION: JAMES EVANS (DIRECTOR OF ACADEMIC PROGRAMS)
+Target Asset Name: JAMES_EVANS_CHARACTER_REFERENCE_COLLAGE.jpg
+Canonical ID: CHAR-JAMES-EVANS | Chart Alias: James Evans (GIMPA AR, EPP) | Day 14 Spotlight
+Visual Model Directives:
+- Physical Anatomy: 32-year-old Ghanaian man, 153 cm tall, slender 49 kg frame, balanced posture.
+- Facial Structure: Rounded facial geometry, strong well-defined eyebrows, deep brown attentive eyes.
+- Skin & Hair: Golden-brown complexion with warm undertones; natural near-black hair cut into neat, short natural coils with a subtle, clean temple fade.
+- Signature Prop: Ink-blue course roadmap folio with silver tab dividers, carried underarm or open.
+- Costuming: Patterned woven scarf draped gracefully over a structured neutral-toned tailored jacket, crisp inner shirt, tailored dark trousers.
+- Multi-Panel Sheet:
+  [Panel 1] Frontal headshot (neutral, focused gaze, clear facial features).
+  [Panel 2] Profile & 3/4 angle view (showing temple fade and facial contour).
+  [Panel 3] Expression sheet (concentrated frown, amused raised eyebrow, relieved unguarded smile).
+  [Panel 4] Full-body role stance (holding ink-blue folio in academic discussion).
+  [Panel 5] Lighting comparison (bright Accra daylight vs. interior fluorescent laboratory glow).
+  [Panel 6] Color palette chips (#4A3525 golden-brown skin, #1B263B ink-blue folio, #8D5B4C scarf).
+====================================================================================================
+
+====================================================================================================
+CHARACTER REFERENCE COLLAGE SPECIFICATION: STEVEN SARPONG (ACADEMIC REGISTRAR)
+Target Asset Name: STEVEN_SARPONG_CHARACTER_REFERENCE_COLLAGE.jpg
+Canonical ID: CHAR-STEVEN-SARPONG | Chart Alias: Steven Sarpong (GIMPA AR & Business School) | Day 14
+Visual Model Directives:
+- Physical Anatomy: Ghanaian man, 166 cm tall, 60 kg frame, upright, methodical academic posture.
+- Facial Structure: Narrow, refined facial structure with expressive, high-arched eyebrows, dark hazel-brown eyes behind clear lenses.
+- Skin & Hair: Warm sienna-brown complexion; natural near-black hair styled into shoulder-length twists pinned neatly back behind the ears.
+- Signature Prop: Official document folios held together by a polished metal clip tied with a distinctive red ribbon.
+- Costuming: Impeccably pressed dark navy tailored suit jacket, collared shirt, silk tie, gold wristwatch.
+- Multi-Panel Sheet: Front headshot, 3/4 profile, expression sheet (analytical scrutiny, quiet approval), full-body pose with ledger, and precise material palette chips (#5C3A21 sienna, #A31D1D red ribbon).
+====================================================================================================
+
+====================================================================================================
+CHARACTER REFERENCE COLLAGE SPECIFICATION: MATTHEW EBENEZER (ACADEMIC OUTREACH OFFICER)
+Target Asset Name: MATTHEW_EBENEZER_CHARACTER_REFERENCE_COLLAGE.jpg
+Canonical ID: CHAR-MATTHEW-EBENEZER | Chart Alias: Matthew Ebenezer (Lead Afrique Yali) | Day 14
+Visual Model Directives:
+- Physical Anatomy: Ghanaian man, 179 cm tall, athletic build, open and approachable demeanor.
+- Facial Structure: Angular facial structure, broad high cheekbones, warm amber-brown engaging eyes.
+- Skin & Hair: Rich dark cocoa-brown complexion; medium-length natural curls with soft texture.
+- Signature Prop: Sand-coloured textured leather travel card wallet / tablet case.
+- Costuming: Smart-casual blazer in olive or warm tan over an open-collared linen shirt, dark chinos.
+- Multi-Panel Sheet: Front headshot, profile, animated communicative expressions, full-body pose, and color palette chips (#2E1C14 cocoa, #C2A675 sand leather).
+====================================================================================================
+
+====================================================================================================
+CHARACTER REFERENCE COLLAGE SPECIFICATION: OBED ALI (R&D LAB SPECIALIST)
+Target Asset Name: OBED_ALI_CHARACTER_REFERENCE_COLLAGE.jpg
+Canonical ID: CHAR-OBED-ALI | Chart Alias: Mr. Obed Ali (Adenta Boys) | Technical Lead
+Visual Model Directives:
+- Physical Anatomy: Tall Ghanaian man, 194 cm tall, lean 74 kg frame, relaxed laboratory presence.
+- Facial Structure: Strong square jawline, relaxed cheeks, soft umber-brown concentrated eyes.
+- Skin & Hair: Deep espresso-brown complexion; natural near-black hair in clean shoulder-length twists gathered neatly back.
+- Signature Prop: High-durability blue-rubber laboratory countdown timer held or hooked on pocket.
+- Costuming: Indigo-dyed hard-wearing laboratory workshirt/coat worn over functional dark work trousers.
+- Multi-Panel Sheet: Front headshot, console workstation profile, technical calibration gestures, full-body lab stance, and palette chips (#1F1610 espresso, #2B4C7E indigo, #1D63B8 timer blue).
+====================================================================================================
+```
+
+---
+
+### CLASSIES AUDIENCE CHALLENGE
+
+**The Kuala Lumpur observation team has discovered a distribution register confirming four conflicting emergency notices were posted, but has not yet accessed the newly identified secondary Authorization Register in the safety office. Based on the principles of evidence verification and workplace safety established today, what two distinct evidentiary tests must the Authorization Register satisfy before either evacuation route can be deemed valid, and why must the field team refuse to test either stairwell in the interim?**
+
+---
+
+## OUTPUT B — EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+*(CC-UMP §19 & CC-DCGP Master Contract Alignment)*
+
+### B1. Run and temporal manifest
+
+| Parameter | Specification & Value |
+|---|---|
+| **Production Working Date** | Thursday, 5 November 2026 |
+| **Request / Execution Timestamp** | 2026-11-05T20:34:50Z (UTC+00:00) |
+| **Production Clock & Location** | 20:34:50 UTC · Koware Headquarters, Blue Crown Labs, New Legon, Accra, Ghana |
+| **Historical Clock & Location** | 2003-07-21T09:25:48+00:00 (Local approx. 02:25:48 PDT) · Las Vegas, Nevada, USA |
+| **Millennium Probe Clock & Location** | Calculated Target: 2220-05-13T12:53:50Z (Local approx. 20:53:50 MYT) · Kuala Lumpur, Malaysia |
+| **Probe Telemetry Values** | `phase_index`: 5 (`Oct 16 – Dec 20`); `phase_start`: 2026-10-16T00:00:00Z; `phase_end`: 2026-12-20T23:59:59Z; `oscillation_index`: 0.0399598; `amplitude_days`: 77106.7794; `probe_value_days`: 70680.7185 |
+| **Phase / Episode Derivation** | Phase 5 Anchor: 2026-10-19 (first Monday on/after 2026-10-16). Elapsed days: 17 days. Episode = floor(17/14) + 1 = Episode 2. Block day = 17 mod 14 = 3. Chronicle Number = 3 + 1 = 4. Chapter Working Day = 10 * (2 - 1) + 4 = 14. Full span: 2 Nov 2026 – 13 Nov 2026. |
+| **Season & Chapter Identification** | Season 00 (Foundation Phase), Chapter 05 (The Signal Before Sunrise), Episode 02 (The Notice in Four Languages), Chronicle 04 of 10. |
+| **Legacy & Working Repository Path** | `CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-/S00_CH05_E02.04-The_Date_That_Was_Never_a_Departure.txt` |
+| **Baseline & Governance Version** | CC-UMP v0.04.00, CC-DCGP v0.04.00, CC-ECLPM v0.04.00 (Proposed Working Baseline). |
+| **Record Status** | DRAFTED — AWAITING HUMAN EDITORIAL APPROVAL |
+
+---
+
+### B2. Research/source register
+
+1. **Eternal Dreamfall Bible Study (Pass 1):**
+   - *Anchor:* 250-entry weekly reading plan cycle; Week 42 / Chapter Day 14 thematic study on discernment, textual authenticity, and testing derivative claims against primary foundation stones.
+   - *Integration:* Highlights the epistemological responsibility to verify documents before relying on them for guidance.
+
+2. **Eternal Dreamfall Chronicle / Verse of the Day (Pass 2):**
+   - *Provider & Date:* YouVersion Bible App, verified for 5 November 2026.
+   - *Scripture:* **2 Timothy 2:15 (NIV)** — *"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."*
+   - *Thematic Alignment:* Provides the ethical and spiritual foundation for Enka and Director James Evans: handling truth requires precision, discipline, and refusing to extrapolate beyond verified facts.
+
+3. **Refreshed Eternal Dreamfall / Health & Safety (Pass 3):**
+   - *Curriculum & Course:* Buzzjuice HS1030 — *Proactive Safety: Mastering Hazard Identification & Risk Management*.
+   - *Section Guidance:* Rigorous sequence requiring hazard identification and formal risk assessment *prior* to selecting or executing controls.
+   - *Narrative Application:* Directs that conflicting signage is a recognized communication hazard, but untrained field personnel must never improvise testing on unverified physical routes, preventing secondary hazards.
+
+4. **Headlined Eternal Dreamfall / Independent Streams (Pass 4):**
+   - *Historical Stream (21 July 2003, Las Vegas, Nevada):* Verified report from the *Las Vegas Sun* documenting Clark County school district preparing teacher recruitment while completely halted from formal contracting until state legislative budget authorization is signed. Exemplifies the gap between operational planning and binding authority.
+   - *Contemporary Stream (5 November 2026, Accra, Ghana):* Verified report from the *Ghana News Agency (GNA)* covering the Bank of Ghana’s public enforcement notice warning against 20 unlicensed digital lending applications operating in the market without regulatory authority. Cross-checked with academic outreach reports regarding Ghanaian students in Europe requiring verified institutional accreditation.
+   - *Probe-Era Stream (May 2220 / June 2221, Kuala Lumpur, Malaysia):* Strictly classified as `FICTION_PROBE_SCENARIO` representing dynamic mathematical drift calculations rather than factual historical news.
+
+5. **Classies Eternal Dreamfall / Continuity Reconciliation (Pass 5):**
+   - *Continuity Integration:* Reconciles directly with Chronicle 03 (*The Missing Approval Line*), where the building distribution register established circulation in four languages but left primary authorization unverified. Advances the investigation by revealing a secondary compliance lead (Authorization & Effective Dates Register) without prematurely declaring the mystery solved.
+
+6. **Classies Chronicles / Corporate & Technological Provenance (Pass 6):**
+   - *Institutional Lineage:* Establishes Koware corporate history: founder Enka Yamoah engineered the Millennium Probe as an oscillating displacement calculator to prevent dogmatic reliance on fixed future dates, and cloned the Edubeam technology originally operated exclusively by the Micro Computer Technology Institute of London.
+
+---
+
+### B3. Character, Koware role and project register
+
+| Character Name | Canon ID & Role | Org Chart Placement | Chapter Check Days | Narrative Function & Action |
+|---|---|---|---|---|
+| **James Evans** | `CHAR-JAMES-EVANS`<br>Director of Academic Programs | Line 47: Governing Committee report | Days 14-15, 34-35 | **Lead Role Spotlight (Day 14):** Formulates educational framework separating origin, authorization, translation, distribution, and effective status; introduces HS1030 safety doctrine. |
+| **Steven Sarpong** | `CHAR-STEVEN-SARPONG`<br>Academic Registrar | Line 48: Academic Programs | Days 14, 34 | **Supporting Role:** Outlines transcript verification, document versioning, and the danger of assuming distribution equals legal validity. |
+| **Matthew Ebenezer** | `CHAR-MATTHEW-EBENEZER`<br>Academic Partnerships Officer | Line 49: Academic Programs | Days 14, 34 | **Supporting Role:** Connects document authorization to international institutional partnerships across Ghana and Europe. |
+| **Enka Yamoah** | `CHAR-ENKA-YAMOAH`<br>Corporate Manager / Founder Owner | Line 11: Legal Journalist report | Days 4, 24 | **Executive Lead:** Reviews probe telemetry; recalls Edubeam provenance and London institute cloning; enforces field team observation boundaries. |
+| **Obed Ali** | `CHAR-OBED-ALI`<br>R&D Lab Specialist | Line 29: Research & Development | Days 11, 31 | **Technical Lead:** Explains the intentional mathematical nature of shifting probe target dates; confirms deployed team safety. |
+
+**Character Reference Graphic Directives:**
+Detailed physical, facial, costuming, and expression prompts have been fully established for James Evans, Steven Sarpong, Matthew Ebenezer, and Obed Ali to govern upcoming comic and storyboard generation while `visual_collage_url` assets await final rendering.
+
+**Real-World vs. Fictional Boundaries:**
+All Koware educational frameworks, curricula proposals, and field operations depicted in this chronicle represent creative narrative material. No actual real-world corporate contracts, financial disbursements, or real-person personal diaries are asserted or disclosed.
+
+---
+
+### B4. Mission and technology state
+
+1. **Active Field Mission: Kuala Lumpur Observation Assignment**
+   - *Field Deployment Location:* Kuala Lumpur, Malaysia.
+   - *Current Operational Posture:* Strict passive observation, archival documentation, and facilities communication.
+   - *Operational Rules Enforced:* No physical route testing, no evacuation simulation, no interference with building tenants or emergency hardware.
+   - *New Field Finding:* Identification of an administrative compliance lead: the *Authorization & Effective Dates Register* held in the locked safety warden office.
+
+2. **Technology: Millennium Probe**
+   - *Operational Status:* Fully functional, nominal harmonic oscillation.
+   - *Telemetry Calibration:* Shifting output dates (2220-05-13 vs. yesterday's 2221-06-26) verified as mathematically intentional, linking historical anchor (2003-07-21) to production present (2026-11-05).
+   - *Engineering Provenance:* Designed by founder Enka to challenge static future assumptions and measure temporal drift.
+
+3. **Technology: Edubeam Cloned System**
+   - *System State:* Standby / field monitoring mode; no retrieval or spatial transference authorized during this shift.
+   - *Institutional Provenance:* Cloned from the prototype originally operated solely by the Micro Computer Technology Institute of London; maintained under strict Koware laboratory protocols.
+
+---
+
+### B5. Append-only continuity and story ledger
+
+- **Event Delta 01 (Causal):** R&D Lab Specialist Obed Ali delivers formal technical briefing explaining that daily variations in the Millennium Probe’s target date represent deliberate mathematical oscillations across the 77,106-day amplitude rather than equipment failure.
+- **Event Delta 02 (Causal):** Director of Academic Programs James Evans, accompanied by Registrar Steven Sarpong and Outreach Officer Matthew Ebenezer, integrates the Malaysia notice discrepancy into Koware’s educational methodology, codifying the five-step evidentiary verification ladder (Origin, Authorization, Translation, Distribution, Effective Status).
+- **Event Delta 03 (Causal):** Kuala Lumpur observation team confirms receipt of the building manager’s response: primary signed instruction remains unlocated, but a secondary *Authorization & Effective Dates Register* has been identified in the building safety office, setting up the investigation for Day 15 (Friday).
+- **Event Delta 04 (Canon Linkage):** Koware corporate history permanently logs Enka Yamoah’s design of the Millennium Probe and the adaptation of the cloned Edubeam system from the Micro Computer Technology Institute of London.
+
+---
+
+### B6. Portable production handover
+
+1. **Current Story State:**
+   - Field observation team in Kuala Lumpur remains safely positioned in passive monitoring mode.
+   - Four conflicting emergency notices remain posted on site, but are now understood to lack primary authorization documentation.
+   - Discovery of the secondary Authorization Register provides an immediate, grounded investigatory goal for Day 15.
+   - Probe telemetry fluctuations are demystified for all internal teams, eliminating operational confusion.
+
+2. **Next Scheduled Episode Run:**
+   - **Target Date:** Friday, 6 November 2026.
+   - **Episode Assignment:** Season 00, Chapter 05, Episode 02, Chronicle 05 of 10 (Chapter Working Day 15 of 40).
+   - **Spotlight Roles:** Director of Academic Programs (James Evans, Day 15) concluding the academic program check cycle.
+
+3. **Continuity Constraints for Continuation:**
+   - Do not allow field team to enter the safety warden’s office through unauthorized physical means.
+   - Do not declare either evacuation stairwell safe or approved prior to examining the secondary register.
+   - Maintain strict separation between calculated probe timestamps and actual physical deployments.
+   - Preserve all character appearance parameters specified in the Day 14 reference collages.
+
+---
+
+### B7. Derivative/media and challenge status
+
+- **Public Challenge Identifier:** `S00_CH05_E02.04-CHALLENGE-01`
+- **Challenge Text:** *The Kuala Lumpur observation team has discovered a distribution register confirming four conflicting emergency notices were posted, but has not yet accessed the newly identified secondary Authorization Register in the safety office. Based on the principles of evidence verification and workplace safety established today, what two distinct evidentiary tests must the Authorization Register satisfy before either evacuation route can be deemed valid, and why must the field team refuse to test either stairwell in the interim?*
+- **Challenge Classification:** Documentary provenance, administrative law, and workplace health and safety.
+- **Answer Key Security Status:** `SECURE STORAGE REQUIRED — RESTRICTED OUTPUT C NOT CREATED IN PUBLIC STORE`. No answer key or solution hints are disclosed in this public or internal ledger document.
+- **Answer Release Gate:** Scheduled for subsequent episode compilation upon human editorial authorization.
+- **Derivative Comic Status:** `NOT STARTED — AWAITING EXPLICIT COMMISSION`. Ready for activation under CC-MCGP v0.04.00.
+- **Derivative Media Status:** `NOT STARTED — AWAITING EXPLICIT COMMISSION`. Ready for activation under CC-MMGP v0.04.00 following comic sign-off.
+- **Service Card Candidate:** Proposed Card #04 — *Evidentiary Verification Ladder: Distinguishing Distribution from Authority*.
+
+---
+
+### B8. Validation, exceptions and approval register
+
+| Quality Gate | Condition Tested | Result | Operational Disposition |
+|---|---|---|---|
+| `Q01_SCOPE` | Exactly one production working day processed; no unauthorized multi-day drafting. | **PASS** | Run confined strictly to Thursday, 5 November 2026. |
+| `Q02_CALENDAR` | Approved phase boundaries, 40-day chapter arithmetic, and working-day alignment verified. | **PASS** | Day 14 accurately resolved; Phase 5 anchor mathematics verified. |
+| `Q03_THREE_CLOCKS` | Production, Historical, and Probe clocks distinguished and geographically anchored. | **PASS** | Accra, Las Vegas, and Kuala Lumpur streams held distinct. |
+| `Q04_IDENTIFIERS` | Canonical and legacy repository hierarchy maintained without inventing paths. | **PASS** | Preserves S00_CH05_E02.04 pathing structure. |
+| `Q05_CANON` | Character capabilities, Edubeam physics, and organizational history adhere to canon. | **PASS** | Probe intentionality and London institute origins integrated. |
+| `Q06_ROLE_PROJECT` | Chapter Day 14 organizational roles spotlighted and sourced from aliased chart. | **PASS** | James Evans, Steven Sarpong, Matthew Ebenezer featured. |
+| `Q07_STUDY` | 250-week Bible study thematic consistency maintained. | **PASS** | Week 42 discernment and foundation themes incorporated. |
+| `Q08_VERSE_HS` | Daily verse and Buzzjuice H&S module verified from authentic sources. | **PASS** | 2 Timothy 2:15 NIV and Buzzjuice HS1030 accurately cited. |
+| `Q09_RESEARCH` | Historical and contemporary news streams verified; future streams labeled fiction. | **PASS** | Las Vegas Sun (2003) and GNA (2026) authenticated. |
+| `Q10_RIGHTS` | Privacy boundaries respected; no real-person likenesses or private diaries infringed. | **PASS** | Fictional persona models maintained with explicit disclaimers. |
+| `Q11_STORY` | Single causal, culturally grounded narrative with earned dramatic resolution. | **PASS** | Compelling narrative linking R&D telemetry to academic curriculum. |
+| `Q12_CHALLENGE` | Fair, final public item; answer withheld from public/internal stores. | **PASS** | Placed terminally in Output A; Output C gate enforced. |
+| `Q13_RECORDS` | Output B implements complete B1–B8 master sections without placeholders. | **PASS** | Untruncated, fully articulated ledger records established. |
+| `Q14_DERIVATIVES` | Visual reference collages specified for characters lacking visual URLs. | **PASS** | Complete image generation prompts created for 4 characters. |
+| `Q15_INTEGRITY` | No fictitious approvals, commits, or automated publications asserted. | **PASS** | Status accurately logged as Draft Awaiting Review. |
+| `Q16_BOUNDARIES` | Public narrative (Output A) and Internal Ledger (Output B) strictly partitioned. | **PASS** | Output A is fully separable from Output B. |
+
+---
+
+### FINAL PRODUCTION HANDOVER STATUS
+
+```
+====================================================================================================
+CLASSIES CHRONICLES PRODUCTION HANDOVER MANIFEST
+====================================================================================================
+Chronicle Identifier: S00_CH05_E02.04
+Document Title: The Date That Was Never a Departure
+Calendar Date: Thursday, 5 November 2026 (Chapter Working Day 14 of 40)
+Output A (Public Chronicle): COMPLETE — VERIFIED
+Character Collage Directives: COMPLETE — 4 CHARACTERS SPECIFIED
+Output B (Continuity Ledger B1-B8): COMPLETE — FULLY POPULATED, ZERO PLACEHOLDERS
+Output C (Restricted Key): WITHHELD — SECURE ENCLAVE REQUIRED
+Comic Generation Status: PENDING USER COMMISSION (CC-MCGP v0.04.00)
+Media Generation Status: PENDING USER COMMISSION (CC-MMGP v0.04.00)
+Repository Commit Status: DRAFTED — STAGED FOR LOCAL VALIDATION
+Handover Action: Handover complete. Ready for editorial review and subsequent phase instructions.
+====================================================================================================
+```
+
+
+<<STOP JULES-2>>
 
 <<START KIROCREW-1>>
 
