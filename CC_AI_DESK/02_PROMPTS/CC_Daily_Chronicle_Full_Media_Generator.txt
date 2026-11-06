@@ -71,17 +71,17 @@ Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/
 
 <<STOP Master Media Generation Prompt>>
 
+Only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend the platforms to use considering their generation quality and limits. One platform I find easy to use with daily refreshed generation limits is the Google videos platform at https://docs.google.com/videos. Other platforms should be used once the usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better method to produce better quality in less time.
+
 The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this daily chronicle:
 
 <<START CHRONICLE RESOURCES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.02-The_Cropped_Truth/CC_S00_CH05_E02.02-The_Cropped_Truth(compiled).txt
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.01-The_Notice_in_Four_Languages
-
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE
 
 https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
 
@@ -91,23 +91,19 @@ Note the following:
 
 <<START NOTES>>
 
-1. In this chronicle the R&D Lab specialist briefly explains to another that the millennium probe was designed by the founder of the Koware Group. The changing probe dates are intentional. The probe consists of various careful calculations in relation to the historical data and the current date. The founder also established the cloned version of the edubeam, initially operated solely by the micro computer technology institute of London (reference Classies Chronicles archives).
+1. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
 
-2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
-
-3. If a character's cannon is not found or unavailable, stop and request for the location of the character's cannon. All known character cannone are located in the following folder in the repository:
+2. If a character's cannon is not found or is unavailable, stop and request for the location of the character's cannon. All known character cannon are located in the following folder in the repository:
 
 https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
 
-For instance: 
+For instance, for Bonsu Bolt, the Concierge Liaison: 
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md for Bonsu Bolt, the Concierge Liaison.
-
-Generically use:
-
+Generica use:
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}/{CHARACTER_NAME}_character_cannon.md
 
-4. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
+3. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
 Here is the Organizational_Chart_Structure-Aliased_Checks file: 
 
@@ -121,7 +117,7 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-/S00_CH05_E02.04-.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-/S00_CH05_E02.05-.txt
 
 <<STOP PLATFORM RESPONSES>>
 
