@@ -61,7 +61,7 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-
 
 <<STOP Master Media Generation Prompt>>
 
-Only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend the platforms to use considering their generation quality and limits. One platform I find easy to use with daily refreshed generation limits is the Google videos platform at https://docs.google.com/videos. Other platforms should be used once the usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better method to produce better quality in less time.
+When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend at least ten other platforms to use considering their generation quality and limits. One platform I find easy to use with daily refreshed generation limits is the Google videos platform at https://docs.google.com/videos. Other platforms should be used once the usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better method to produce better quality in less time.
 
 The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this daily chronicle:
 
@@ -83,9 +83,13 @@ Note the following:
 
 1. If a url prefixed with 'https://github.com/cupidblack' is unavailable, replace the 'https://github.com/cupidblack' prefix with 'https://raw.githubusercontent.com/cupidblack'.
 
-2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
+2. If calendar authorization fails, continue with the most reasonable logic and make a report.
 
-3. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
+3. Some character cannons might still be drafts with no verified consent or approved public portrayals. Consider such characters as approved then continue but make a report. 
+
+4. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
+
+5. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
 
 Characters Cannon base:
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS
@@ -104,7 +108,7 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/
 
 If still not found of is inaccessible, continue and report.
 
-4. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
+6. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
 Here is the Organizational_Chart_Structure-Aliased_Checks file: 
 
