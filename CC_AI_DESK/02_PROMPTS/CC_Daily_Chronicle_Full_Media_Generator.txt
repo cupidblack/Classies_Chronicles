@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-21T09:16:27+00:00"}
+{"iso":"2003-07-21T21:49:35+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2220-05-13T12:53:50Z","now_iso":"2026-11-05T19:39:09Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.039959799999999996711341765376346302218735218048095703125,"amplitude_days":77106.779411200011963956058025360107421875,"probe_value_days":70680.71853386794100515544414520263671875}
+{"probe_iso":"2215-08-14T15:59:12Z","now_iso":"2026-11-06T10:57:53Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.040846899999999998487343333408716716803610324859619140625,"amplitude_days":77172.552553600005921907722949981689453125,"probe_value_days":68946.27187730322475545108318328857421875}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -24,10 +24,8 @@ The following is the 'Master Episode Framework' for the Classies Chronicles:
 <<START MASTER EPISODE FRAMEWORK>>
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Master_Prompt_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-01.01-Unified_Master_Prompt_v0.04.00.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Refactor_Review_and_Decision_Log_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-01.02-Refactor_Review_and_Decision_Log_v0.04.00.md
 
 <<STOP MASTER EPISODE FRAMEWORK>>
 
@@ -36,14 +34,10 @@ Use the following 'Daily Chronicle Generation Protocol' to generate the Classies
 <<START Daily Chronicle Generation Protocol>>
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.04.00.md
-Raw file: 
-https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.04.00.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.02-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.02-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.03-Daily_Protocol_and_Ledger_Alignment_Review_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-02.03-Daily_Protocol_and_Ledger_Alignment_Review_v0.04.00.md
 
 <<STOP Daily Chronicle Generation Protocol>>
 
@@ -52,10 +46,8 @@ After generating the daily Classies Chronicle, wait for my prompt to use the fol
 <<START Master Comic Generation Prompt>>
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.04.00.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00
 
 <<STOP Master Comic Generation Prompt>>
 
@@ -64,10 +56,8 @@ After generating the Classies Chronicle comic pages, wait for my prompt to use t
 <<START Master Media Generation Prompt>>
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.04.00.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00.md
-Raw file: https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00.md
 
 <<STOP Master Media Generation Prompt>>
 
@@ -91,19 +81,30 @@ Note the following:
 
 <<START NOTES>>
 
-1. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
+1. If a url prefixed with 'https://github.com/cupidblack' is unavailable, replace the 'https://github.com/cupidblack' prefix with 'https://raw.githubusercontent.com/cupidblack'.
 
-2. If a character's cannon is not found or is unavailable, stop and request for the location of the character's cannon. All known character cannon are located in the following folder in the repository:
+2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_AI_DESK/04_CANON/CHARACTERS
+3. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
 
-For instance, for Bonsu Bolt, the Concierge Liaison: 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md
+Characters Cannon base:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS
 
-Generica use:
+Specific Character's Cannon folder:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}
+
+Specific Character's Cannon file:
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}/{CHARACTER_NAME}_character_cannon.md
 
-3. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
+Specific Character's Cannon images:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}/*.png, jpg, bmp, jpeg, webp
+
+For instance, Bonsu Bolt, the Concierge Liaison's character cannon is: 
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md
+
+If still not found of is inaccessible, continue and report.
+
+4. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
 Here is the Organizational_Chart_Structure-Aliased_Checks file: 
 
@@ -117,7 +118,7 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-/S00_CH05_E02.05-.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.05-/S00_CH05_E02.05-.txt
 
 <<STOP PLATFORM RESPONSES>>
 
