@@ -81,7 +81,9 @@ Note the following:
 
 <<START NOTES>>
 
-1. If a url prefixed with 'https://github.com/cupidblack' is unavailable, replace the 'https://github.com/cupidblack' prefix with 'https://raw.githubusercontent.com/cupidblack' then try again.
+1.i. If a url prefixed with 'https://github.com/cupidblack/Classies_Chronicles/tree/main' is unavailable, replace the 'https://github.com/cupidblack/Classies_Chronicles/tree/main' prefix with 'https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main' then try again.
+
+1.ii. If a url prefixed with 'https://github.com/cupidblack/Koware_Management/blob/main' is unavailable, replace the 'https://github.com/cupidblack/Koware_Management/blob/main' prefix with 'https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main' then try again.
 
 2. Reasonably using all resources available, you are authorized to proceed with generating a provisional draft for the daily chronicle. Continue with the most reasonable logic but make a report in any of the following cases:
 
