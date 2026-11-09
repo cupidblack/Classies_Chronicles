@@ -81,15 +81,16 @@ Note the following:
 
 <<START NOTES>>
 
-1. If a url prefixed with 'https://github.com/cupidblack' is unavailable, replace the 'https://github.com/cupidblack' prefix with 'https://raw.githubusercontent.com/cupidblack'.
+1. If a url prefixed with 'https://github.com/cupidblack' is unavailable, replace the 'https://github.com/cupidblack' prefix with 'https://raw.githubusercontent.com/cupidblack' then try again.
 
-2. If calendar authorization fails, continue with the most reasonable logic and make a report.
+2. Reasonably using all resources available, you are authorized to proceed with generating a provisional draft for the daily chronicle. Continue with the most reasonable logic but make a report in any of the following cases:
 
-3. Some character cannons might still be drafts with no verified consent or approved public portrayals. Consider such characters as approved then continue but make a report. 
+2.i. Calendar authorization fails
+2.ii. Approve character cannons with draft status and no verified consent or approved public portrayals.
 
-4. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
+3. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
 
-5. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
+4. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
 
 Characters Cannon base:
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS
@@ -108,11 +109,13 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/
 
 If still not found of is inaccessible, continue and report.
 
-6. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
+5. Always use the character's name or alias if known. A combination of the character's role and their name can also be used, such as 'Director James' or 'Director Evans' for James Evans the Director of Academic Programs or Steven the Registrar for Steven Sarpong the Academic Registrar. Sometimes another character could call them by their role name such as 'Director' or 'Registrar'.
 
 Here is the Organizational_Chart_Structure-Aliased_Checks file: 
 
 https://github.com/cupidblack/Koware_Management/blob/main/Organizational_Chart_Structure-Aliased_Checks.txt
+
+6. The comic graphics and comic pages created by the Master Comic Generation Prompt must compliment and enhance visual consistency the media and videos that would be produced by the Master Media Generation Prompt and also the actual production process. The Master Media Generation Prompt should prepare the graphics and images that would be shared with each image to video generation prompt.  
 
 <<STOP NOTES>>
 
@@ -127,3 +130,16 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/
 <<STOP PLATFORM RESPONSES>>
 
 Consider all the feasible recommendations, corrections and suggested modifications from all platforms then implement them to generate the fully refactored and updated functional version with no truncated data or data placeholders.
+
+
+
+
+
+
+
+
+
+
+
+
+- If the message is communicated to the wrong delegation... the message must be communicated with the originator of the message/notice otherwise we would reach another dead end.
