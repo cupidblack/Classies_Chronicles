@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-21T21:49:35+00:00"}
+{"iso":"2003-07-21T17:34:47+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2215-08-14T15:59:12Z","now_iso":"2026-11-06T10:57:53Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.040846899999999998487343333408716716803610324859619140625,"amplitude_days":77172.552553600005921907722949981689453125,"probe_value_days":68946.27187730322475545108318328857421875}
+{"probe_iso":"2174-02-20T22:18:02Z","now_iso":"2026-11-09T21:29:08Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.040546400000000003271960480333291343413293361663818359375,"amplitude_days":77150.272281600002315826714038848876953125,"probe_value_days":53794.03395485962391830980777740478515625}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -19,49 +19,59 @@ Deployed team positions: Kuala Lumpar, Malaysia
 
 <<STOP FALLBACK RESOURCES>>
 
-The following is the 'Master Episode Framework' for the Classies Chronicles:
+The following is the Unified_Production_Master_Prompt set for the Classies Chronicles:
 
-<<START MASTER EPISODE FRAMEWORK>>
+<<START Unified_Production_Master_Prompt SET>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Master_Prompt_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Production_Master_Prompt_v0.08.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Refactor_Review_and_Decision_Log_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Unified_Production_QA_and_File_Manifest_v0.08.00.md
 
-<<STOP MASTER EPISODE FRAMEWORK>>
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.03-Refactor_Review_Decision_and_Traceability_v0.08.00.md
 
-Use the following 'Daily Chronicle Generation Protocol' to generate the Classies Chronicle for today. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the chronicle:
+<<STOP Unified_Production_Master_Prompt SET>>
 
-<<START Daily Chronicle Generation Protocol>>
+Use the following 'Daily_Chronicle_Generation_Protocol' set to generate the Classies Chronicle for today. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the chronicle:
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.04.00.md
+<<START Daily_Chronicle_Generation_Protocol>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.02-Episode_Continuity_Ledger-Production_Handover_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.08.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.03-Daily_Protocol_and_Ledger_Alignment_Review_v0.04.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.02-Daily_Chronicle_QA_and_File_Manifest_v0.08.00.md
 
-<<STOP Daily Chronicle Generation Protocol>>
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.03-Episode_Continuity_Ledger-Production_Handover_v0.08.00.md
 
-After generating the daily Classies Chronicle, wait for my prompt to use the following prompt to generate the comic pages for the generated Classies Chronicle:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.04-Daily_Protocol_and_Ledger_Alignment_Review_v0.08.00.md
 
-<<START Master Comic Generation Prompt>>
+<<STOP Daily_Chronicle_Generation_Protocol>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.04.00.md
+After generating the daily Classies Chronicle, wait for my prompt to use the following 'Master_Comic_Generation_Prompt' set to generate the comic pages for the produced Daily Classies Chronicle:
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00
+<<START Master_Comic_Generation_Prompt SET>>
 
-<<STOP Master Comic Generation Prompt>>
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.00.md
 
-After generating the Classies Chronicle comic pages, wait for my prompt to use the following prompt to generate the media for the produced Daily Classies Chronicle:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
 
-<<START Master Media Generation Prompt>>
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-Comic_QA_and_File_Manifest_v0.08.00.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.04.00.md
+<<STOP Master_Comic_Generation_Prompt SET>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.04.00.md
+After generating the Classies Chronicle comic pages, wait for my prompt to use the following 'Master_Media_Generation_Prompt' set to generate the media for the produced Daily Classies Chronicle:
 
-<<STOP Master Media Generation Prompt>>
+<<START Master_Media_Generation_Prompt SET>>
 
-When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend at least ten other platforms to use considering their generation quality and limits. One platform I find easy to use with daily refreshed generation limits is the Google videos platform at https://docs.google.com/videos. Other platforms should be used once the usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better method to produce better quality in less time.
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.03-Media_QA_and_File_Manifest_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.04-Top_20_Image_to_Video_Platforms_v0.08.00.md
+
+<<STOP Master_Media_Generation_Prompt SET>>
+
+When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend other platforms to use considering their generation quality and limits. Other platforms should be used once each platform's usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better methods to produce better quality chronicle videos in less time.
 
 The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this daily chronicle:
 
