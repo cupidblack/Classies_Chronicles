@@ -91,37 +91,37 @@ Week 90: Ketef Hinnom inscriptions; Nash Papyrus fragments; Samaritan Pentateuch
 Week 91: Samaritan Pentateuch
 Week 92: Samaritan Pentateuch
 Week 93: Samaritan Pentateuch (cont.)
-Week 94: Septuagint (Greek translation corpus) (start)
-Week 95: Septuagint (cont.)
-Week 96: Septuagint (cont.)
-Week 97: Septuagint (cont.)
-Week 98: Septuagint (cont.)
-Week 99: Septuagint (cont.)
-Week 100: Septuagint (cont.)
-Week 101: Septuagint (cont.)
-Week 102: Septuagint (cont.)
-Week 103: Septuagint (cont.)
-Week 104: Septuagint (cont.)
-Week 105: Septuagint (cont.)
-Week 106: Septuagint (cont.)
-Week 107: Septuagint (cont.)
-Week 108: Septuagint (cont.)
-Week 109: Septuagint (cont.)
-Week 110: Septuagint (cont.)
-Week 111: Septuagint (cont.)
-Week 112: Septuagint (cont.)
-Week 113: Septuagint (cont.)
-Week 114: Septuagint (cont.)
-Week 115: Septuagint (cont.)
-Week 116: Septuagint (cont.)
-Week 117: Septuagint (cont.)
-Week 118: Septuagint (cont.)
-Week 119: Septuagint (cont.)
-Week 120: Septuagint (cont.)
-Week 121: Septuagint (cont.)
-Week 122: Septuagint (cont.)
-Week 123: Septuagint (cont.)
-Week 124: Septuagint (final week)
+Week 94: Septuagint (LXX — Greek Old Testament corpus) (start) — Introduction to the Septuagint; its historical origins, Greek translation tradition, manuscript witnesses, textual variations and relationship with the Hebrew Scriptures; Genesis
+Week 95: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Exodus
+Week 96: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Leviticus; Numbers
+Week 97: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Deuteronomy; Joshua
+Week 98: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Judges; Ruth
+Week 99: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 1 Kingdoms (Greek Septuagint designation for 1 Samuel)
+Week 100: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 2 Kingdoms (Greek Septuagint designation for 2 Samuel); 3 Kingdoms (Greek Septuagint designation for 1 Kings) (start)
+Week 101: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 3 Kingdoms (cont.); 4 Kingdoms (Greek Septuagint designation for 2 Kings) (start)
+Week 102: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 4 Kingdoms (cont.); 1 Chronicles (1 Paralipomenon)
+Week 103: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 2 Chronicles (2 Paralipomenon)
+Week 104: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 1 Esdras (Greek Esdras A)
+Week 105: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 2 Esdras (Greek Esdras B: Ezra–Nehemiah)
+Week 106: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Esther (Greek Septuagint version, including all additional passages)
+Week 107: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Tobit; Judith
+Week 108: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 1 Maccabees
+Week 109: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 2 Maccabees
+Week 110: Septuagint (LXX — Greek Old Testament corpus) (cont.) — 3 Maccabees; 4 Maccabees (Greek Septuagint appendix tradition)
+Week 111: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Psalms 1–75
+Week 112: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Psalms 76–151 (including Psalm 151); Odes (Biblical Canticles, including the Prayer of Manasseh)
+Week 113: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Proverbs; Ecclesiastes; Song of Songs
+Week 114: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Job
+Week 115: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Wisdom of Solomon
+Week 116: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Sirach / Ecclesiasticus (chapters 1–24)
+Week 117: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Sirach / Ecclesiasticus (chapters 25–51)
+Week 118: Septuagint (LXX — Greek Old Testament corpus) (cont.) — The Twelve Minor Prophets: Hosea; Joel; Amos; Obadiah; Jonah; Micah
+Week 119: Septuagint (LXX — Greek Old Testament corpus) (cont.) — The Twelve Minor Prophets (cont.): Nahum; Habakkuk; Zephaniah; Haggai; Zechariah; Malachi
+Week 120: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Isaiah
+Week 121: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Jeremiah
+Week 122: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Lamentations; Baruch; Letter of Jeremiah (Baruch chapter 6 in some arrangements)
+Week 123: Septuagint (LXX — Greek Old Testament corpus) (cont.) — Ezekiel
+Week 124: Septuagint (LXX — Greek Old Testament corpus) (final week) — Daniel (Greek Septuagint textual tradition, including the Prayer of Azariah, Song of the Three Holy Children, Susanna, and Bel and the Dragon); final review of the Septuagint corpus and its textual traditions
 Week 125: Letter of Aristeas
 Week 126: 1 Enoch (start)
 Week 127: 1 Enoch (cont.)
