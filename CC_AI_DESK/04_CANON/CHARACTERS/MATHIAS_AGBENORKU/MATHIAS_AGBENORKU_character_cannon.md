@@ -1,11 +1,11 @@
 ---
-canon_id: CHAR-MATTHIAS-AGBENORKU
-character_slug: MATTHIAS_AGBENORKU
-display_name: Matthias Agbenorku
+canon_id: CHAR-MATHIAS-AGBENORKU
+character_slug: MATHIAS_AGBENORKU
+display_name: Mathias Agbenorku
 document_version: 0.02.00
 record_type: fictional-character-design-proposal
 canon_status: DRAFT_AWAITING_HUMAN_EDITORIAL_REVIEW
-source_alias: Matthias Agbenorku (SSNIT Central Mayvor)
+source_alias: Mathias Agbenorku (SSNIT Central Mayvor)
 organization_role: Director of Operations
 organization_source_line: 54
 chapter_check_days: 16,36
@@ -23,14 +23,14 @@ editorial_approval_required: true
 source_retrieved: '2026-11-05'
 created: '2026-11-05'
 ---
-# Matthias Agbenorku — Character Canon / Fictional Draft v0.02.00
+# Mathias Agbenorku — Character Canon / Fictional Draft v0.02.00
 
 > **Identity, consent and provenance.** Only the **role**, **alias text**, **hierarchical placement** and **chapter check days** are transcribed from the aliased organizational chart. **Every other biographical, cultural, family, romantic, physical, educational, career, entertainment and scene detail in this file is fictional candidate material, NOT a verified statement about any real person bearing the alias.** Names of invented relatives and institutions do not identify real people. The chart's parenthetical notes are mnemonic labels, not credential or employment verification. No real-person portrait, private diary or public identification is authorized by this document. Public or recognizably real-person use requires separate rights/consent and editorial review.
 
 ## 01 · Source-of-truth and organizational role
 
-- **Canonical story ID (reserved):** `CHAR-MATTHIAS-AGBENORKU`. The identifier is reserved for this draft character concept, not an approved portrayal.
-- **Source alias, exact:** `Matthias Agbenorku (SSNIT Central Mayvor)`.
+- **Canonical story ID (reserved):** `CHAR-MATHIAS-AGBENORKU`. The identifier is reserved for this draft character concept, not an approved portrayal.
+- **Source alias, exact:** `Mathias Agbenorku (SSNIT Central Mayvor)`.
 - **Chart role:** **Director of Operations**.
 - **Source evidence:** [Aliased checks organizational chart](https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main/Organizational_Chart_Structure-Aliased_Checks.txt) — source line 54 (1-based).
 - **Direct chart reporting edge:** [Johnson Ortsin](../JOHNSON_ORTSIN/JOHNSON_ORTSIN_character_cannon.md) — Programme Manager.
@@ -38,11 +38,11 @@ created: '2026-11-05'
 - **Related organizational peers for possible scenes:** [Derek Shiraska](../DEREK_SHIRASKA/DEREK_SHIRASKA_character_cannon.md); [Johnson Ortsin](../JOHNSON_ORTSIN/JOHNSON_ORTSIN_character_cannon.md). These are professional chart relationships only; no personal friendship or romance is asserted.
 - **Chapter working-day checks:** **16,36**, a 40-working-day chapter-plan allocation with the recurring 20-day offset. **Never confuse them with a daily chronicle's ten episode weekdays or with real work attendance.**
 - **Narrative duty in a prospective chronicle:** demonstrate resilient schedules and inventory flow without misrepresenting fictional assignments as completed real-world Koware operations.
-- **Physical repository target:** `CC_AI_DESK/04_CANON/CHARACTERS/MATTHIAS_AGBENORKU/MATTHIAS_AGBENORKU_character_cannon.md`. Retain spelling **`cannon`** in path for exact user compatibility; use *canon* for story governance.
+- **Physical repository target:** `CC_AI_DESK/04_CANON/CHARACTERS/MATHIAS_AGBENORKU/MATHIAS_AGBENORKU_character_cannon.md`. Retain spelling **`cannon`** in path for exact user compatibility; use *canon* for story governance.
 
 ## 02 · Fictional identity, background and vital particulars
 
-- **Proposed screen identity:** Matthias Agbenorku (fictionalized role double associated with the alias; not a verified identity).
+- **Proposed screen identity:** Mathias Agbenorku (fictionalized role double associated with the alias; not a verified identity).
 - **Draft date of birth:** **1996-06-21**, making the imagined character **30** on 2026-11-05.
 - **Draft birth location:** **Accra, Greater Accra Region, Ghana**; nationality/citizenship for this invented timeline: **Ghanaian**.
 - **Draft cultural/ethnic heritage:** **Ga**. This is a creative casting attribute independent of surname, skin tone, religion or the possible real alias holder.
@@ -140,7 +140,7 @@ This is a new proposed ensemble character and has **no confirmed debut, mission,
 
 ## 12 · Future character reference collage specification — NOT GENERATED
 
-- **Target future asset name:** `MATTHIAS_AGBENORKU_CHARACTER_REFERENCE_COLLAGE.jpg` inside this folder, created in a later separately authorized illustration operation.
+- **Target future asset name:** `MATHIAS_AGBENORKU_CHARACTER_REFERENCE_COLLAGE.jpg` inside this folder, created in a later separately authorized illustration operation.
 - **Coverage list:** (1) original front-facing neutral headshot, (2) left/right profile and three-quarter views, (3) five expressions, (4) everyday full-body outfit, (5) role-specific outfit and PPE, (6) hands/prop detail, (7) daylight / evening colour comparison, (8) clearly labelled palette chips.
 - **Storyboard consistency prompt:** design a fictional person with oval face with a strong chin, rich mahogany brown, precise cornrow pattern, dark hazel-brown, 160 cm frame and `scarred leather logistics binder`. Keep material design consistent; do not reproduce the face of a named or identifiable real person.
 - **Visual URL:** `visual_collage_url: null`. No file is present yet; the filename is a future asset contract, not a broken link.
