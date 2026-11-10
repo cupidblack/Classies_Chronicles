@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-21T17:34:47+00:00"}
+{"iso":"2003-07-21T17:34:44+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2174-02-20T22:18:02Z","now_iso":"2026-11-09T21:29:08Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.040546400000000003271960480333291343413293361663818359375,"amplitude_days":77150.272281600002315826714038848876953125,"probe_value_days":53794.03395485962391830980777740478515625}
+{"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -95,7 +95,7 @@ Note the following:
 
 1.ii. If a url prefixed with 'https://github.com/cupidblack/Koware_Management/blob/main' is unavailable, replace the 'https://github.com/cupidblack/Koware_Management/blob/main' prefix with 'https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main' then try again.
 
-2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance. If no graphic files exist then generate a separate collage graphic for each character. The file would be placed in their character cannon folder to be used as a visual reference so that their appearance would be consistent.
+2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance and visual consistency. If no graphic files exist then generate a separate collage graphic for each character. The collage graphic file would be placed in their character cannon folder to be used as a visual reference so that their visual appearance would be consistent.
 
 <<STOP NOTES>>
 
