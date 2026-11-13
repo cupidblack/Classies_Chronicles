@@ -1,0 +1,1231 @@
+<<START COPILOT-1>>
+
+NULL
+
+<<STOP COPILOT-1>>
+
+<<START CHATGPT-1>>
+
+I’ve located the exact E02.03 folder and its individual `.txt` chronicle file from the path you supplied. That resolves the missing-source issue: I’ll use the chronicle files inside their respective folders, rather than treating the folder listings or similarly named drafts as substitutes.
+
+I’ll proceed with the episode and its continuity/production handover only. No image generation, comic-page production, or video/media generation will be initiated.
+
+The correction is important: **Episode 02 has ten working-day story dates**, not eight. The eight archive entries cover:
+
+- 2–6 November: five working days.
+- 9–10 November: two working days.
+- 11–13 November: three working days contained in E02.08.
+
+That gives the complete ten-day sequence required by the v0.08.00 episode framework. E02.03 is now retrieved from the exact `.txt` file in its own chronicle folder. My earlier conclusion that it was missing was incorrect.
+
+I have also identified an important editorial issue: several archive files contain competing platform drafts, and the daily chronicles are marked provisional or awaiting human review. I will therefore consolidate their shared, source-supported narrative into a **provisional editorial episode**, rather than silently treating every draft detail as accepted canon. The v0.08.00 documents themselves are also labelled proposed, not owner-ratified.
+
+Below is the consolidated episode manuscript followed by its internal continuity and production handover. No comic, image, or media assets are being generated.
+
+# CLASSIES CHRONICLES
+
+## SEASON 00 — FOUNDATION PHASE
+
+### CHAPTER 05 — THE SIGNAL BEFORE SUNRISE
+
+### EPISODE 02 — THE AUTHORITY BEHIND THE ARROW
+
+**Working episode identity:** `S00_CH05_E02`\
+**Coverage:** Monday, 2 November – Friday, 13 November 2026\
+**Structure:** Ten working-day chronicles across two working weeks\
+**Editorial status:** PROVISIONAL CONSOLIDATED MANUSCRIPT — AWAITING HUMAN EDITORIAL REVIEW\
+**Source basis:** E02.01–E02.08 archive entries and their associated internal production material\
+**Production boundary:** Narrative and internal continuity handover only. No comic, image, video, audio or other derivative production is included.
+
+---
+
+# OUTPUT A — CONSOLIDATED EPISODE
+
+## THE AUTHORITY BEHIND THE ARROW
+
+### Opening — Four languages, one unanswered question
+
+A building could display the same instruction in four languages and still fail to tell its occupants what they needed to know.
+
+That was the problem Enka had been trying to understand since the beginning of November.
+
+At a facility in Kuala Lumpur, four emergency notices had appeared near a lift. They were printed in Malay, English, Mandarin and Tamil. Three directed occupants towards one stairwell. The fourth indicated another direction.
+
+The notices looked official. They were professionally printed, properly displayed and sufficiently similar to suggest that they belonged to the same administrative process.
+
+But similarity was not proof of authority.
+
+The Classies team had been assigned to observe and document the circumstances surrounding the notices. They were not authorized to intervene, test disputed routes or issue replacement safety instructions. Their responsibility was to preserve evidence and establish what could legitimately be concluded from it.
+
+At Koware headquarters in New Legon, Accra, Enka watched the investigation develop through reports, photographs, registers and correspondence.
+
+The more information arrived, the more important one distinction became:
+
+**A document could prove that something had happened without proving that the person who initiated it had the authority to make it happen.**
+
+The investigation would take ten working days to expose the different layers of that problem.
+
+---
+
+## WEEK ONE — THE RECORDS BEGIN TO SPEAK
+
+### Monday, 2 November 2026
+
+#### Day 01 — The Notice in Four Languages
+
+The Koware compound was still quiet when Enka opened his study notes.
+
+The Eternal Dreamfall reading plan had reached Week 96, continuing its study of the Septuagint. The weekly plan identified the subject but did not prescribe a particular daily passage. Enka considered the challenge of carrying meaning between languages without losing the distinctions that mattered.
+
+The question stayed with him as he reached the laboratory.
+
+The historical-reference display showed a Sunday in July 2003 in Las Vegas. Enka treated the historical material as a reference for observation, not as evidence of anything happening in the present. The Millennium Probe maintained its separate future-oriented reading, while the deployed team's supplied geographic position remained Kuala Lumpur.
+
+Three different temporal contexts. Three different purposes.
+
+At the laboratory, the specialist brought up a communication from the field team.
+
+The analyst was standing beside the lift in a Kuala Lumpur building. Behind the analyst were four emergency notices, each carrying the same general message but not the same directional instruction.
+
+“Three versions say left of the lift,” the analyst reported. “One says right.”
+
+The team lead considered the photographs.
+
+“Three copies can come from one mistake.”
+
+Nobody approached either stairwell.
+
+Instead, the team photographed each notice, recorded its position and appearance, and documented the differences in wording and direction. The one that disagreed with the others was mounted slightly lower and was the only one carrying a printed date.
+
+Enka studied the images.
+
+“Record what the signs say,” he instructed. “Record what the corridor is. Don't let one stand in for the other.”
+
+The field team confirmed that it would remain within its observational assignment.
+
+Back in New Legon, Enka wrote three questions in his notebook:
+
+- What instruction had actually been issued?
+- Who had authority to issue it?
+- Did the displayed translations accurately represent the original instruction?
+
+Four languages had carried the message across the building.
+
+But four languages did not necessarily mean four independent sources.
+
+**The first day established the central mystery: the notices existed, but their authority and reliability remained unverified.**
+
+### Tuesday, 3 November 2026
+
+#### Day 02 — The Cropped Truth
+
+The following morning, Enka returned to the investigation.
+
+The four notices were still the starting point, but he wanted to move beyond their appearance.
+
+He contacted the building manager and asked for the administrative history behind them.
+
+Who had requested the notice?
+
+Who had prepared the original wording?
+
+Who had authorized the translations?
+
+When had the different versions been displayed?
+
+Had the same instruction been distributed through other channels?
+
+The manager explained that notices could pass through several people before reaching their final destination. One person might request the information, another prepare the wording, and another arrange for the copies to be displayed.
+
+The chain of responsibility was not necessarily obvious from the finished document.
+
+Enka listened carefully.
+
+A document could be accurate in four languages and still communicate four different things. Equally, four apparently independent copies might all have originated from one unverified source.
+
+The building manager agreed to examine the records.
+
+There was no breakthrough, but the investigation now had a more precise direction.
+
+At Koware, the day's organizational responsibilities reminded Enka that workplace systems depended on people, procedures and clear accountability. A notice was not merely paper. It could influence how people moved through a building and responded to an emergency.
+
+That made the issuing authority important.
+
+It also made premature conclusions dangerous.
+
+The team continued its observation-only assignment. The latest supplied Probe information was retained as a separate temporal record, not used to establish the field team's physical or temporal position.
+
+Enka closed the day's notes with a reminder:
+
+**The first version of a story is not necessarily the complete version.**
+
+A cropped photograph could conceal the surrounding context. A translated notice could conceal a change in meaning. An administrative record could show the movement of a document while omitting the authority behind it.
+
+The team needed the complete record, not the most convenient fragment.
+
+### Wednesday, 4 November 2026
+
+#### Day 03 — The Missing Approval Line
+
+The reply arrived without the document Enka had requested.
+
+The building manager supplied a distribution register. It showed that copies of the emergency notices had been placed in the building.
+
+Enka read it twice.
+
+“Does this tell us who approved the instruction?”
+
+The laboratory specialist examined the register.
+
+“It tells us the copies were distributed. It doesn't show the source they came from.”
+
+“Or who authorized that source.”
+
+The register was useful, but its usefulness had limits.
+
+It established that four copies had been distributed. It did not establish that the original instruction had been approved, or that each translation faithfully represented it.
+
+Enka added two headings to his notebook:
+
+**WHAT THIS RECORD SHOWS**
+
+**WHAT THIS RECORD DOES NOT SHOW**
+
+The distinction changed the investigation. The team now had evidence of distribution, but still no proof of authority.
+
+The deployed team confirmed that it had not followed either conflicting direction. It had not tested an evacuation route or approached building occupants. Any assessment of the routes would have to be conducted by the responsible building staff under the applicable safety arrangements.
+
+“Good,” Enka said. “The notices are evidence. They are not permission to improvise.”
+
+He returned to the Health & Safety material concerning hazard identification and risk assessment. A disagreement between instructions could itself be a warning sign. It was not a reason for an unbriefed observer to decide which route was safe.
+
+The day's organizational spotlight concerned dependable technical support and operations. Enka considered the quiet importance of document traceability, version control and reliable handovers.
+
+A missing approval line might appear insignificant until something went wrong.
+
+Before closing the file, he placed the distribution register in the evidence column. He did not classify the notice as genuine or false.
+
+The next request was specific: locate the original instruction and the record showing who approved it, when it took effect and which versions were issued.
+
+Four languages had carried the message.
+
+The missing line was the one that would establish who had the authority to send it.
+
+### Thursday, 5 November 2026
+
+#### Day 04 — The Date That Would Not Stay Still
+
+The Probe display had changed again.
+
+Enka stood beside the laboratory console at Koware headquarters. The destination date differed from earlier readings.
+
+The specialist opened the run record.
+
+Historical reference. Current date. Phase boundaries. Oscillation index. Amplitude. Probe value.
+
+Each field occupied its own line.
+
+“The dates are changing intentionally,” the specialist explained. “The Millennium Probe recalculates its output in relation to historical data and the current date.”
+
+Enka looked at the display.
+
+“So we shouldn't call a changed date a changed destination until we know what the reading represents.”
+
+“Exactly. First we need the run inputs and the calculation record.”
+
+Enka asked that the raw response and all earlier readings be preserved. None was to be replaced merely because a newer value had appeared.
+
+The specialist agreed.
+
+The conversation turned to the deployed team. Its supplied physical position was Kuala Lumpur. That established a geographic reference, but it did not independently establish the team's temporal position or explain the meaning of the new Probe timestamp.
+
+Enka also examined an older design sheet bearing his handwriting.
+
+“I designed the original Probe scheme,” he explained. “And the cloned Edubeam was initially operated solely by the Micro Computer Technology Institute of London. That history belongs beside the readings.”
+
+“Beside them, but not in place of them,” the specialist replied.
+
+Enka wrote three headings:
+
+**WHAT THE SOURCE RETURNED**
+
+**WHAT THE CALCULATION MAY MEAN**
+
+**WHAT WE HAVE NOT VERIFIED**
+
+The Probe investigation remained separate from the emergency-notice investigation. Neither mystery would be used to explain away the other.
+
+Two questions were now open: who authorized the notice, and how should the changing Probe readings be interpreted?
+
+The same rule applied to both.
+
+Record what is known. Label what is inferred. Preserve the evidence needed to settle the question.
+
+### Friday, 6 November 2026
+
+#### Day 05 — The Copies That Agreed
+
+By Friday, the investigation had accumulated several different kinds of evidence.
+
+The notices themselves.
+
+The distribution record.
+
+The request for the original instruction.
+
+The building manager's correspondence.
+
+The field team's photographs.
+
+The records did not all prove the same thing.
+
+The team reviewed the differences between the four versions. The apparent agreement among three notices was not sufficient to establish that their instruction was correct. Nor did the fourth notice become correct simply because it was different.
+
+The original source remained important.
+
+So did the question of whether the building had changed since the instruction was first prepared.
+
+The team also reviewed its own methods. Earlier drafts of the investigation had proposed different actions and interpretations. Those proposals were not automatically accepted as events. The team retained the restrictions that mattered: observation only, no unauthorized route testing and no invented field confirmation.
+
+Enka considered the day's reading and the importance of examining information that was true, reliable and worthy of trust.
+
+The distinction was not merely academic. An apparently complete record could still be misleading if its context had been removed.
+
+A work order could confirm that a task had been carried out. It could not necessarily confirm that the underlying instruction had been authorized.
+
+A receipt could confirm that a package had arrived. It could not confirm that the recipient had understood its contents.
+
+A translation could be accurate relative to the document supplied to the translator while the original document itself remained wrong.
+
+The team agreed to preserve the competing versions and their provenance.
+
+At the end of the week, Enka reviewed the evidence.
+
+The notices had been distributed. Their original source was still uncertain. The approval record had not been found. The team had not established which route, if either, represented the building's current authorized emergency arrangements.
+
+The investigation had made progress, but the answer remained out of reach.
+
+---
+
+## WEEK TWO — AUTHORITY, IDENTITY AND CONSEQUENCE
+
+### Monday, 9 November 2026
+
+#### Day 06 — The Line Beneath the Arrow
+
+Four emergency notices occupied the table at Koware's fictional New Legon headquarters.
+
+Three pointed towards one stairwell. The fourth pointed towards a courtyard corridor.
+
+Johnson Ortsin unfolded a site plan.
+
+“If three copies say east, we have a majority,” he said.
+
+“A majority of paper,” Derek Shiraska replied. “Not a verified exit.”
+
+Matthias Agbenorku arrived with the unfinished operations notes. The latest proposed field report indicated that the building manager had denied issuing the notices. A distribution work order, marked **44-E**, appeared to account for their installation, but not for the authority behind the instruction.
+
+“So they were put up properly,” Matthias said, “and we still don't know whether they tell anyone the right thing to do.”
+
+Enka listened.
+
+“Let's not argue about which arrow wins,” he said. “Find out who had the right to draw it.”
+
+The team prepared a narrow request to the responsible safety officer. Until a verified procedure could be established locally, nobody in the Classies field team would conduct a walk-through based on the disputed notices.
+
+The team also recognized that finding the original instruction would not, by itself, settle the matter. The original would have to be compared with the current building layout and the four displayed language versions.
+
+A genuine old instruction could still be unsuitable for a building that had changed.
+
+Later, a reference to the Accra electricity-maintenance schedule prompted an equipment-readiness discussion. The schedule listed different communities on different days, but it did not establish the supply status of Koware headquarters itself.
+
+Matthias circled the relevant date and requested verification rather than declaring that the building would lose power.
+
+At 14:10 in Accra, a fictional field update indicated that the regional records office could trace Work Order 44-E to an older administrative file transfer.
+
+A matching storage box had been located.
+
+It had not been opened.
+
+Johnson put down his pen.
+
+“We found the box.”
+
+“We found where the box is,” Derek corrected.
+
+The distinction was becoming familiar.
+
+The team had located a possible source of the missing instruction, but the contents remained unknown and release authority was unresolved.
+
+The Probe records were also retained separately, with their dates and limitations clearly marked.
+
+Enka looked at the two investigations on his desk.
+
+One concerned the meaning of a changing temporal reading.
+
+The other concerned the authority behind a printed instruction.
+
+Both required the same discipline: a record was only as useful as the claim it could actually support.
+
+### Tuesday, 10 November 2026
+
+#### Day 07 — The Name the Paper Could Not Give
+
+The smallest space on the page was where the trouble began.
+
+Mubarak Mohsen held the request beneath the New Legon office light.
+
+Above the empty line were three things that looked reassuring: a transfer reference, a date and an official-looking stamp.
+
+Below them was a question:
+
+**WHO IS AUTHORIZED TO REQUEST RELEASE?**
+
+There was no name.
+
+The records indicated that a storage box had been transferred. Work Order 44-E was associated with the distribution process. A sealed archive box had been located through an older transfer record.
+
+But the custodian would not release it without a properly authorized request.
+
+Mubarak arranged the forms.
+
+“They all look complete,” he said, “until you compare what each one is supposed to prove.”
+
+On a nearby screen, Enka reviewed the proposed communication to the team in Kuala Lumpur.
+
+The draft said:
+
+“We have found the authorizing instruction. Proceed to check the route.”
+
+Mubarak stopped him.
+
+“We have found a possible container for the instruction. The box is still sealed.”
+
+Enka deleted the sentence.
+
+The revised request sought the issuing office's authority, preserved the conflicting notices and asked for the responsible local personnel to establish what interim safety guidance applied.
+
+It did not authorize a route inspection or claim that the original instruction had been found.
+
+The team remained within its observational assignment.
+
+Meanwhile, the organizational staff considered the difference between a transfer reference and an authorized request. A document could have a date and a signature yet still fail to establish that the person signing it possessed the necessary authority.
+
+The same issue appeared in the team's records. A supplied location could identify a geographic position without authenticating the condition or whereabouts of every individual.
+
+Enka kept the historical-reference clock, the production clock and the Probe clock separate.
+
+A timestamp could be precise without explaining the event associated with it.
+
+A name could appear on a form without proving the authority to act.
+
+Before the day ended, Mubarak prepared a draft request for review. He signed only for the office's request to be considered, not on behalf of the authority it needed.
+
+The authorization line remained blank.
+
+Then he noticed a second question on the form:
+
+**DOES THE ORIGINAL INSTRUCTION STILL MATCH THE BUILDING AS IT STANDS TODAY?**
+
+Even a valid signature would not answer that.
+
+### Wednesday, 11 November 2026
+
+#### Day 08 — The Message That Stayed Unsent: The Empty Space
+
+The first thing the Legal Journalist removed from the reception pinboard was not a headline.
+
+It was a word.
+
+**CONFIRMED.**
+
+The marker went through it. Beneath it, the replacement word was smaller:
+
+**REPORTED.**
+
+In Koware's imagined headquarters, the board had become a meeting point for information. Staff paused to read announcements about business, projects and public developments.
+
+The Legal Journalist wanted every item to distinguish its source, publication date, verification status and relevance.
+
+The Public Relations & Press Coordinator studied the latest draft.
+
+“The description says the Kuala Lumpur instructions were approved and distributed.”
+
+“Distributed is what the work order suggests,” replied the Marketing Manager. “Approved is what we keep trying to prove.”
+
+They were discussing the unresolved fictional investigation.
+
+Four versions of an emergency notice had appeared in the working record. Three pointed in one direction and a fourth in another. Work Order 44-E provided evidence of distribution, not authorization. A sealed archive box might contain an earlier instruction, but no properly authorized release had been established.
+
+The Public Relations desk declined to publish the team's conclusion as an official safety notice.
+
+The Marketing desk withdrew a dramatic headline it had drafted.
+
+They agreed to preserve the disagreement in the internal editorial record without presenting either route as safe.
+
+Enka looked at the day's Bible App reference, Matthew 6:11, and considered the value of reliable information for the next responsible step.
+
+The Legal Journalist reserved a blank rectangle on the pinboard:
+
+**AUTHORITY NOT YET VERIFIED.**
+
+The blank space was an honest piece of reporting.
+
+### Thursday, 12 November 2026
+
+#### Day 09 — The Message That Stayed Unsent: The Cost of a Wrong Verb
+
+By Thursday, the International Relations desk was working from three separate questions.
+
+What was the instruction's original source?
+
+Who could authorize it?
+
+Who would be accountable for checking that it remained suitable for the building as it existed now?
+
+The Global Partnerships Registrar arranged copies of the Kuala Lumpur paperwork by document number. The Global Partnerships Liaison created a second register, recording the language of each version, its recipient and whether delivery had been acknowledged.
+
+“An acknowledgement is not comprehension,” the liaison said. “And comprehension is not permission.”
+
+Nobody claimed to know the deployed team's individual condition or whereabouts. The supplied geographic position remained Kuala Lumpur, Malaysia, but no fresh authenticated field communication was available to the office.
+
+On Enka's research display were three clocks.
+
+The production present belonged to Accra in November 2026.
+
+The historical-reference setting pointed to Las Vegas in July 2003.
+
+The Millennium Probe displayed a separate fictional future reference.
+
+None established the team's current physical position or the validity of an emergency route.
+
+Later, the Legal Journalist queued a Ghanaian budget item for verification. The reported New Economy programme gave the Marketing desk something to analyze, but it was not a Koware contract, grant approval or authority to announce a partnership.
+
+The International Relations team also examined a developing report about disruption to widely used communications services. It raised a practical question: if an important approval request disappeared inside an inaccessible inbox, how could anyone demonstrate what had been sent, received or authorized?
+
+The team proposed a secondary contact channel and an offline decision record.
+
+They did not claim that Koware itself had suffered an outage.
+
+That evening, the registrar added an annotation beside the sealed-box reference:
+
+*Location indicated; contents unknown; release authority unresolved.*
+
+The line did not solve the mystery.
+
+It prevented the mystery from being mistaken for a solution.
+
+### Friday, 13 November 2026
+
+#### Day 10 — The Message That Stayed Unsent: The Unsent Instruction
+
+By Friday morning, the legal newsroom and reception pinboard were crowded.
+
+The Legal Journalist had separated verified reporting from developing investigations. The New Economy budget, the Ghana Stock Exchange discussion of blockchain and capital-market modernization, the Ecobank JoyBusiness SME Fair and the Malaysian investigation into possible AI-chip re-exports were each recorded with their own source and verification status.
+
+The Malaysia investigation was not confused with the fictional Kuala Lumpur emergency-notice inquiry. They concerned the same country, but they did not establish the same facts.
+
+The Events & Tours Coordinator saw the SME fair as a possible opportunity for staff to observe Ghanaian businesses. The Community Outreach Officer wanted to understand what smaller exhibitors actually needed.
+
+The Booking Agent had a spreadsheet of interested staff and a separate space for confirmed arrangements.
+
+“Those names mean they would like to attend,” the Booking Agent said. “We don't have a confirmed booking.”
+
+“Then let's not put anyone on a bus in our meeting minutes,” the coordinator replied.
+
+The proposed visit remained a proposal.
+
+During the morning's preparations, the Booking Agent attempted to slide an overloaded folder beneath the meeting-room door while balancing a stack of attendance forms. The folder wedged, the forms sprang upward, and one large sheet landed squarely on the agent's head like an oversized paper hat.
+
+For a moment, the room forgot the paperwork.
+
+Then the Legal Journalist removed another word from a draft announcement:
+
+**CONFIRMED.**
+
+It was not confirmed.
+
+The day's work returned to the Kuala Lumpur file.
+
+The archive box remained a possible source of the original instruction. Its location had been recorded. The transfer history had been traced. The request for release still required the appropriate authority.
+
+Even if the box were opened, the document inside would still need to be checked against the current building layout and the language versions on display.
+
+The message that Enka had considered sending remained unsent.
+
+It had claimed too much.
+
+It implied that the team had found an authoritative instruction when the evidence established only that a possible source had been located.
+
+It could have encouraged action before the necessary verification was complete.
+
+Enka looked again at the blank authorization line.
+
+The investigation had not produced the neat conclusion everyone had wanted. It had produced something more useful: a clearer account of what was known, what remained uncertain and which decisions belonged to the responsible people.
+
+The notices had been distributed.
+
+The transfer record existed.
+
+The box had been located.
+
+The issuing authority had not been established.
+
+The original instruction had not been authenticated.
+
+The current building layout had not been independently reconciled with the disputed directions.
+
+And the Classies team had not been authorized to test either route.
+
+Enka closed the file.
+
+There would be another request, another review and another opportunity to establish the truth. But no one would turn a plausible document into a safety instruction simply because the story needed an ending.
+
+The message stayed unsent.
+
+The investigation remained open.
+
+And the blank line, for once, said exactly what it needed to say.
+
+---
+
+## THE CLASSIES CHALLENGE — EPISODE 02
+
+A facility has four translated emergency notices. A distribution register confirms that the notices were circulated, and a storage record identifies a sealed box that may contain the original instruction. However, the issuing authority has not been verified, and the building may have changed since the instruction was prepared.
+
+**What must be established before anyone can responsibly treat one of the displayed directions as the building's current emergency instruction?**
+
+---
+
+# OUTPUT B — INTERNAL EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+
+**Classification:** INTERNAL EDITORIAL WORKING DOCUMENT\
+**Episode:** `S00_CH05_E02`\
+**Working title:** *The Authority Behind the Arrow*\
+**Status:** PROVISIONAL — NOT ACCEPTED AS CANON OR APPROVED FOR PUBLICATION\
+**Ledger basis:** Proposed CC-ECLPM logical record contract, companion edition v0.08.00\
+**Important:** The v0.08.00 framework and ledger documents are themselves proposed candidates, not evidence of owner ratification or a deployed schema migration.
+
+## B1 — Run and temporal manifest
+
+| Field                    | Consolidated position                                 |
+| ------------------------ | ----------------------------------------------------- |
+| Season                   | 00 — Foundation Phase                                 |
+| Chapter                  | 05 — The Signal Before Sunrise                        |
+| Episode                  | 02                                                    |
+| Working archive identity | `S00_CH05_E02`                                        |
+| Episode coverage         | 2–13 November 2026                                    |
+| Working-day count        | 10                                                    |
+| First working day        | Monday, 2 November 2026                               |
+| Last working day         | Friday, 13 November 2026                              |
+| Working-day assignments  | E02.01–E02.07, followed by the three-day E02.08 entry |
+| Episode title            | Provisional: The Authority Behind the Arrow           |
+| Editorial status         | Awaiting human editorial review                       |
+| Persistence status       | No new repository write or commit performed           |
+| Release status           | Not approved for publication                          |
+| Derivative status        | Not commissioned; no images or media generated        |
+
+### Three-clock and location separation
+
+The source chronicles contain different historical and Probe snapshots. These must remain attached to their original source dates and must not be collapsed into a single episode-wide timestamp.
+
+- **Production clock (P):** The story's working dates run from 2 to 13 November 2026. The approved production timezone and exact execution timestamps were not independently established for every source day.
+- **Historical clock (H):** The archive contains historical-reference readings associated with Las Vegas, Nevada, in July 2003. Individual readings vary between source days.
+- **Probe clock (F):** The archive contains different Probe timestamps, including future dates in 2236 and other dates in earlier source drafts. These are retained as separate observations, not reconciled into a single destination claim.
+- **Koware headquarters:** New Legon, Accra, Ghana.
+- **Historical-reference location:** Las Vegas, Nevada, USA, as a reference location in the source material.
+- **Deployed team's supplied geographic position:** Kuala Lumpur, Malaysia.
+- **Individual deployed-member positions and temporal states:** Not independently authenticated.
+
+**Continuity control:** A Probe timestamp does not establish the physical location or temporal position of an individual deployed team member. A historical-reference timestamp does not establish Enka's present physical location.
+
+## B2 — Research and source register
+
+| Research stream               | Source-derived position                                                                                                  | Editorial handling                                                                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eternal Dreamfall Bible study | Week 96 is identified as continuing Septuagint study. The weekly list does not supply a daily passage.                   | Retain the translation/transmission theme. Do not invent a daily reading.                                                                             |
+| YouVersion                    | Daily source entries include different verse references across the source dates.                                         | Do not present every reference as independently reverified. Preserve day-level attribution only where supported by the original daily record.         |
+| Health & Safety               | Source material discusses hazard identification, risk assessment and the importance of responsible safety arrangements.  | Use general safety reasoning. Do not imply that a disputed route was tested or approved.                                                              |
+| Current news                  | The final three-day chronicle includes Ghanaian budget, business and technology reporting and a Malaysian investigation. | Keep real-world news separate from the fictional Kuala Lumpur notice investigation. Do not convert reported investigations into established findings. |
+| Historical context            | Historical-reference material includes Las Vegas dates in July 2003.                                                     | Use as a separate reference context, not as proof of present events or a witnessed historical scene.                                                  |
+| Millennium Probe              | Multiple fallback and source snapshots are present.                                                                      | Preserve individual readings and uncertainty; do not invent a definitive algorithm or destination.                                                    |
+| Koware organizational roles   | The daily sources include organizational spotlights and fictional office activity.                                       | Distinguish fictional character actions from verified real Koware work.                                                                               |
+| Character and diary sources   | Daily files contain names, role portrayals and references to prior story material.                                       | Do not infer publication consent or promote draft character descriptions to canon.                                                                    |
+
+### Source inventory and retrieval notes
+
+1. E02.01 — *The Notice in Four Languages*: retrieved from its chronicle folder.
+2. E02.02 — *The Cropped Truth*: retrieved as a compiled text containing multiple platform contributions.
+3. E02.03 — *The Unsigned Fourth Notice*: retrieved from the exact `.txt` file in its chronicle folder.
+4. E02.04 — *The Instruction No One Could Sign*: retrieved; contains multiple competing drafts and substantial internal production material.
+5. E02.05 — *The Copies That Agreed*: retrieved; contains multiple platform contributions and editorial corrections.
+6. E02.06 — *The Line Beneath the Arrow*: retrieved; contains multiple platform drafts and associated internal records.
+7. E02.07 — *The Name the Paper Could Not Give*: retrieved; contains competing narrative versions and internal production material.
+8. E02.08 — *The Message That Stayed Unsent*: retrieved as a combined three-day chronicle and ledger covering 11–13 November.
+
+The archive folder structure and text files are the primary source locations. A file's presence does not establish that its contents have been accepted by the human editor.
+
+## B3 — Character, Koware role and project register
+
+### Character continuity
+
+| Character / role                                                         | Episode function                                                     | Continuity treatment                                                            |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Enka                                                                     | Central investigator and decision-maker at Koware headquarters       | Maintains separation between evidence, interpretation and authority.            |
+| Laboratory specialist                                                    | Supports the Probe record and technical review                       | Explains the need to preserve raw readings and calculation inputs.              |
+| Field analyst and team lead                                              | Observe the Kuala Lumpur notices                                     | Remain within the observation-only assignment.                                  |
+| Johnson Ortsin                                                           | Programme-management perspective                                     | Learns to distinguish a majority of documents from a verified instruction.      |
+| Derek Shiraska                                                           | Production coordination perspective                                  | Keeps unapproved route testing outside the team's permitted actions.            |
+| Matthias Agbenorku                                                       | Operations perspective                                               | Raises the distinction between distribution and authorization.                  |
+| Mubarak Mohsen                                                           | Records and authorization perspective                                | Identifies the missing authorization line and drafts a request for review.      |
+| Elijah Peter and Lovemore Saiga                                          | Supporting office and environmental scenes in E02.07 source material | Their source-specific appearances are not expanded into new biographies.        |
+| Legal Journalist                                                         | Editorial verification and reporting                                 | Separates confirmed, reported and unresolved claims.                            |
+| Public Relations & Press Coordinator                                     | Public communications                                                | Prevents an unresolved safety matter from being presented as official guidance. |
+| Marketing Manager                                                        | Commercial and communications perspective                            | Withdraws unsupported promotional claims.                                       |
+| Global Partnerships Registrar and Liaison                                | International records and correspondence                             | Separate transfer, delivery, acknowledgement, comprehension and permission.     |
+| Booking Agent, Events & Tours Coordinator and Community Outreach Officer | Business and event-planning perspective                              | Distinguish interest, proposal and confirmed arrangements.                      |
+
+**Canon restriction:** The names and portrayals above are drawn from the archive material. Their inclusion in this provisional manuscript does not approve or revise individual character canons, establish consent or authorize public portrayal.
+
+### Koware organizational continuity
+
+The episode uses organizational roles as fictional story functions. No fictional meeting, decision, project, task or completion is represented as a verified real-world Koware Group activity.
+
+Actual organizational chart assignments, role-day mappings and aliases must be checked against the effective chart revision before final acceptance.
+
+## B4 — Mission and technology state
+
+### Edubeam / Millennium Probe
+
+- The original Probe design is attributed to Enka in the source material.
+- The cloned Edubeam is described in the source material as initially operated solely by the Micro Computer Technology Institute of London.
+- The Probe has changing temporal readings in the archive.
+- The exact mathematical relationship between historical data, production time and Probe output remains unverified.
+- No new Probe capability is introduced by this consolidation.
+- Earlier readings must not be overwritten by later readings.
+
+### Deployed team
+
+- Supplied geographic position: Kuala Lumpur, Malaysia.
+- Mission posture: observation and reporting.
+- No unauthorized route testing.
+- No contact with unknown parties.
+- No intervention in building operations.
+- No claim that the team received, understood or acted upon a new instruction unless a source explicitly establishes it.
+- Individual physical and temporal positions remain unverified.
+
+### Safety boundary
+
+The team is not the building's responsible safety authority. It must not select an emergency route merely by counting notices, interpreting translations or locating an old instruction.
+
+Any current emergency direction must come from the responsible, qualified local authority using the building's present conditions and applicable procedures.
+
+## B5 — Append-only continuity and story ledger
+
+The following events are proposed fictional continuity deltas. They are not accepted events until the human editor approves the episode and its continuity changes.
+
+| Event ID               | Proposed event                                                                                      | Status                 |
+| ---------------------- | --------------------------------------------------------------------------------------------------- | ---------------------- |
+| `S00_CH05_E02-EVT-001` | The deployed team observes four emergency notices in four languages.                                | Draft — pending review |
+| `S00_CH05_E02-EVT-002` | The notices contain conflicting directional information.                                            | Draft — pending review |
+| `S00_CH05_E02-EVT-003` | The team photographs and records the notices without testing the routes.                            | Draft — pending review |
+| `S00_CH05_E02-EVT-004` | Enka requests the issuing and translation history from the building manager.                        | Draft — pending review |
+| `S00_CH05_E02-EVT-005` | A distribution register is supplied, showing circulation but not approval.                          | Draft — pending review |
+| `S00_CH05_E02-EVT-006` | The original instruction and approval record remain outstanding.                                    | Draft — pending review |
+| `S00_CH05_E02-EVT-007` | The Probe investigation is kept separate from the emergency-notice investigation.                   | Draft — pending review |
+| `S00_CH05_E02-EVT-008` | Work Order 44-E is identified as a distribution/transfer reference, not proof of issuing authority. | Draft — pending review |
+| `S00_CH05_E02-EVT-009` | A possible archive box is located but remains sealed.                                               | Draft — pending review |
+| `S00_CH05_E02-EVT-010` | The release request requires a properly authorized requester.                                       | Draft — pending review |
+| `S00_CH05_E02-EVT-011` | The team identifies the need to compare any original instruction with the current building layout.  | Draft — pending review |
+| `S00_CH05_E02-EVT-012` | Koware's Legal Journalist separates confirmed reporting from reported and unresolved material.      | Draft — pending review |
+| `S00_CH05_E02-EVT-013` | Public Relations and Marketing withhold unsupported safety and promotional claims.                  | Draft — pending review |
+| `S00_CH05_E02-EVT-014` | The final proposed message is withheld because it claims more than the evidence establishes.        | Draft — pending review |
+
+### Accepted pre-state
+
+No new accepted continuity state is asserted by this document.
+
+### Proposed post-state, if accepted
+
+- The emergency-notice investigation remains open.
+- The original instruction has not been authenticated.
+- The approval authority remains unidentified.
+- The archive box has been located but not opened.
+- The current building layout has not been reconciled with the disputed directions.
+- The field team remains observational.
+- The Probe's changing readings remain a separate technical investigation.
+- The distinction between distribution, transfer, acknowledgement, comprehension and authorization becomes an explicit recurring theme.
+
+### Open storylines
+
+1. Original emergency instruction and its source.
+2. Identity and authority of the issuing office.
+3. Approval date and effective period.
+4. Translation fidelity and version history.
+5. Distribution and recipient acknowledgement.
+6. Archive-box contents and release authorization.
+7. Current building layout and responsible local safety guidance.
+8. Probe calculation and the interpretation of changing temporal readings.
+9. Individual deployed-team positions and communications.
+10. Koware's internal reporting and verification practices.
+
+## B6 — Portable production handover
+
+### Episode state
+
+The ten working days have been consolidated into a provisional narrative. The source material contains conflicting drafts and unaccepted details. This manuscript is not a declaration that all ten daily chronicles have been individually accepted.
+
+### What the next editor must preserve
+
+- The four-language notice investigation remains unresolved.
+- Distribution evidence is not authorization evidence.
+- Work Order 44-E does not establish who approved the original instruction.
+- The archive box has been located but remains sealed.
+- The identity and authority of the person who can request its release remain unresolved.
+- Any original instruction must be checked against the building's current layout and conditions.
+- The deployed team remains observational.
+- No disputed route is declared safe.
+- The Probe's temporal readings must remain separate from the production clock and individual team locations.
+- Real-world Malaysian reporting must not be conflated with the fictional Kuala Lumpur field investigation.
+- No challenge answer or revealing rationale is included in this handover.
+
+### Next-episode narrative opportunity
+
+The next episode can begin with the consequences of the withheld message.
+
+The strongest continuation is not an immediate discovery that resolves everything. It is a response from the responsible records or safety authority that establishes one additional piece of evidence while leaving the remaining questions open.
+
+Possible developments, subject to future source evidence and editorial approval:
+
+- A formal response identifying the correct office responsible for the archive request.
+- A controlled release decision concerning the sealed box.
+- A record that clarifies the provenance of Work Order 44-E.
+- A comparison between the original instruction and the current site plan.
+- A separate technical review of the Probe's changing readings.
+
+These are proposed story directions, not established future events.
+
+### Challenge handover
+
+The public challenge asks what must be established before a displayed direction can be treated as the current emergency instruction.
+
+The restricted answer key has not been created or retrieved. The answer must not be included in this general handover.
+
+## B7 — Derivative, media and challenge status
+
+| Item                            | Status                                   |
+| ------------------------------- | ---------------------------------------- |
+| Consolidated episode manuscript | Created as a provisional editorial draft |
+| Internal continuity handover    | Included                                 |
+| Comic storyboard                | Not commissioned                         |
+| Comic page generation           | Not commissioned                         |
+| Character image generation      | Not commissioned                         |
+| Video generation                | Not commissioned                         |
+| Audio generation                | Not commissioned                         |
+| Music generation                | Not commissioned                         |
+| Social-media adaptation         | Not commissioned                         |
+| Service cards                   | Not commissioned                         |
+| Challenge answer key            | Not created                              |
+| Public challenge release        | Not authorized                           |
+| Derivative asset manifest       | No assets created                        |
+
+All future derivatives must identify the exact accepted episode revision from which they are produced. If the narrative changes, dependent derivative work must be reviewed for staleness.
+
+## B8 — Validation, exceptions and approval register
+
+### Daily production gates
+
+| Gate               | Consolidated result           | Reason                                                                                                                               |
+| ------------------ | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `Q01_SCOPE`        | PASS — within this commission | Episode consolidation only; no image or media generation.                                                                            |
+| `Q02_CALENDAR`     | PARTIAL                       | Ten working dates are identifiable, but approved calendar authority and effective timezone are not independently established.        |
+| `Q03_THREE_CLOCKS` | PARTIAL                       | Separate clock model retained; historical and Probe readings differ across source files and require source-level preservation.       |
+| `Q04_IDENTIFIERS`  | PARTIAL                       | Existing `S00_CH05_E02` archive identity retained; formal calendar and identifier crosswalk still require confirmation.              |
+| `Q05_CANON`        | PARTIAL                       | Existing story details retained conservatively; individual character canons and approval status require human review.                |
+| `Q06_ROLE_PROJECT` | PARTIAL                       | Fictional roles retained; actual organizational role assignments and real project activity are not asserted.                         |
+| `Q07_STUDY`        | PARTIAL                       | Week 96 Septuagint context retained; no unsupported daily passage assigned.                                                          |
+| `Q08_VERSE_HS`     | PARTIAL                       | Daily source references are not all independently reverified; general safety reasoning retained without inventing course completion. |
+| `Q09_RESEARCH`     | PARTIAL                       | Real-world news and fictional investigation are separated; source-day verification and publication chronology require review.        |
+| `Q10_RIGHTS`       | NOT VERIFIED                  | Character portrayal, private-source and publication permissions are not established by archive access alone.                         |
+| `Q11_STORY`        | PASS — editorial draft        | Ten-day narrative has a coherent investigation, progression and unresolved consequence.                                              |
+| `Q12_CHALLENGE`    | PASS — draft wording          | One terminal public-facing question is provided; competitive release remains subject to separate controls.                           |
+| `Q13_RECORDS`      | PARTIAL                       | B1–B8 handover is provided; no accepted event projection or persistent repository write is claimed.                                  |
+| `Q14_DERIVATIVES`  | PASS — not commissioned       | No comic, image, video or audio derivatives have been generated.                                                                     |
+| `Q15_INTEGRITY`    | PARTIAL                       | Source retrieval and editorial consolidation are documented; no GitHub write or publication is claimed.                              |
+| `Q16_BOUNDARIES`   | PASS — within this response   | Restricted answer content is absent; internal handover is separated from the public-facing manuscript.                               |
+
+### Outstanding editorial decisions
+
+1. Confirm the approved production calendar, timezone and episode identity.
+2. Confirm whether the ten daily source chronicles are accepted as the basis for episode compilation.
+3. Select or approve the authoritative narrative versions where individual source files contain competing platform drafts.
+4. Review the use of named characters against their individual character canons and portrayal permissions.
+5. Confirm the historical and Probe snapshots that should remain attached to each daily source.
+6. Verify any real-world news claims retained in the final editorial version.
+7. Confirm whether the provisional episode title is acceptable.
+8. Review and accept or reject the proposed continuity events.
+9. Determine whether and where the restricted challenge answer key may be stored.
+10. Separately authorize publication and any future derivative production.
+
+### Persistence and release statement
+
+This consolidation has not been committed to GitHub, written into the episode archive, promoted to canon or approved for public release.
+
+The manuscript and handover remain provisional editorial material. The source archive remains the historical record of the individual daily drafts.
+
+**END — CONSOLIDATED EPISODE 02 AND INTERNAL PRODUCTION HANDOVER.**
+
+## **Editorial assessment**
+
+The episode now has a coherent central progression:
+
+1. **Observation:** Four notices disagree.
+2. **Provenance:** The team asks who created and authorized them.
+3. **Evidence:** A distribution register is found, but it proves only circulation.
+4. **Technical parallel:** The Probe investigation reinforces the distinction between raw readings and their interpretation.
+5. **Traceability:** Work Order 44-E and the archive box establish a possible document trail.
+6. **Authority:** The release request exposes the missing authorization.
+7. **Communication:** Koware's editorial teams distinguish reported information from confirmed information.
+8. **Consequence:** Enka withholds a message that would have overstated what the evidence proves.
+
+**One important editorial choice:** I have not forced the episode to solve the emergency-notice mystery. The source material repeatedly establishes that the original instruction, issuing authority and current route validity remain unresolved. Resolving them here would manufacture a conclusion that the daily chronicles do not support.
+
+The next useful production step is a focused editorial acceptance pass over the ten daily source versions and their character-canon references, followed by a continuity-delta review before the episode is committed to the archive.
+
+<<STOP CHATGPT-1>>
+
+<<START GITHUB-1>>
+
+# CLASSIES CHRONICLES  
+## Season 00 — Foundation Phase · Chapter 05 — *The Signal Before Sunrise*  
+### Episode 02 — *The Notice in Four Languages*  
+**Provisional episode synthesis · 2–13 November 2026**  
+**Editorial draft — not approved for publication**
+
+**Production note:** This is a story synthesis of the eight supplied installments, not a claim that ten individually accepted daily chronicles exist. The supplied E02.08 draft combines the final three working days, 11–13 November, into one closing installment. The episode and day numbering, calendar, and legacy archive mapping remain provisional. Nothing has been committed or published.
+
+## The Notice in Four Languages
+
+### Monday, 2 November — Four copies
+
+Before sunrise in New Legon, Enka returned to his notes from the Eternal Dreamfall study. The week’s working theme was the Septuagint and the long journey of meaning across languages. The plan in hand did not establish a passage for that particular day, so he left the daily reading line blank.
+
+On the table, four photographs waited.
+
+The notices were in four languages. Three appeared to direct building occupants toward one stairwell; the fourth pointed elsewhere. Their layout looked official. The field team’s report, relayed from Kuala Lumpur in this fictional investigation, was observational: the notices had been recorded, but no one had chosen a route or tested one.
+
+“Four languages,” Enka said, “but how many sources?”
+
+The R&D Lab Specialist did not guess. “We don’t know yet. They may all come from one original.”
+
+Enka wrote **OBSERVED** at the top of a page and listed only what the photographs showed: four versions, several languages, inconsistent directions, and a date visible on one copy. Beneath it he wrote **NOT YET VERIFIED**. The original instruction, its author, its approval, and the relationship between the translations all belonged there.
+
+The date on the odd notice drew their eyes. It might help trace the document. It did not make the notice right—or wrong.
+
+The distinction felt familiar to Enka. A copy could carry a message far from its source and still fail to show who had authorized it. For now, the team would preserve the evidence and keep the investigation open.
+
+### Tuesday, 3 November — The person behind the notice
+
+The next day, Enka’s questions narrowed. Who had requested the notice? Who had prepared its original wording? Who approved the translations, and when were the different versions displayed?
+
+The building manager was asked to check the records. The request was deliberate: ask for the chain of responsibility, not for someone to endorse whichever copy looked most convincing.
+
+At the Koware briefing, the chapter’s working-day role check placed Health & Safety and personnel-support responsibilities in view. Enka treated that as a reason to consider how a public instruction might affect people—not as proof that any named employee had performed a real task.
+
+The uncertainty was not a license to improvise. The assignment remained observational, and the team had no authority to decide which route people should use. Enka asked the lab to keep the photographs and questions together, so that a later document would not be mistaken for an answer before anyone checked what it could actually establish.
+
+The original authorization was still missing. But the inquiry now had a person to ask and a record trail to seek.
+
+### Wednesday, 4 November — A record, not an answer
+
+A response arrived with a distribution register. It showed that copies had been issued. It did not identify who had approved the source instruction.
+
+Enka placed the register beside the four photographs.
+
+“What does it prove?” he asked.
+
+“That the copies were tracked,” the specialist replied. “Not that the instruction was authorized.”
+
+The team added the register to the **OBSERVED** column and left the approval question open. A record’s silence about a signature could not prove that no signature had ever existed; it showed only that this record did not supply one.
+
+Several draft accounts of this day in the archive disagree about other events. The episode does not treat any of those disputed developments as settled. The durable thread is the notice investigation: circulation is not authorization, and the source remains unknown.
+
+A date-specific verse, a specific Health & Safety lesson, and a fully verified headline set were not established in the material used for this episode. Enka did not fill those gaps with invented certainty.
+
+### Thursday, 5 November — The date beside the record
+
+The Millennium Probe display showed a different calculated date from earlier records. The exact reading and the explanation for its variation were not consistent across the drafts. Enka told the lab to preserve each source and its timestamp rather than overwrite one reading with another.
+
+“The date can inform a question,” he said. “It cannot answer a different one.”
+
+The field team’s supplied geographic position was Kuala Lumpur. A Probe coordinate did not prove where the team was in time, that anyone had travelled, or that a mission state had changed. The investigation into the notices remained separate from the instrument’s changing output.
+
+The work-order trail supplied another useful distinction. A record could indicate that something had been distributed without establishing who had the authority to approve it. The team prepared a more precise request: find the original instruction, its approval record, its effective date, and the authorized versions.
+
+No one in Koware’s fictional inquiry claimed authority over the facility’s current emergency arrangements. If there was an immediate safety concern, that belonged with the responsible local people and their verified procedures—not with a remote team counting copies.
+
+### Friday, 6 November — The copies that agreed
+
+By Friday, the four versions were lined up again. Three appeared to agree. The fourth differed.
+
+The Director of Academic Programs studied them with the Faculty Coordinator and the Quality Assurance & Compliance Manager. Their roles gave the conversation different angles: how clearly an instruction had been communicated, how it might be understood, and how to document a discrepancy without disguising it as a finding.
+
+“Three agreeing copies aren’t necessarily three independent witnesses,” the Faculty Coordinator said. “They could all descend from the same mistake.”
+
+The quality-assurance lead treated the conflicting instruction as a potential hazard requiring proper assessment, not a puzzle for majority vote. The Director asked the group to preserve every version and explain the uncertainty plainly.
+
+A real safety decision could not be made from appearance, repetition, or a changing Probe display. The source, revision history, applicable plan, and responsible authority still mattered.
+
+The three copies that agreed had not solved the mystery. They had made the central question sharper: **what, exactly, did their agreement depend on?**
+
+### Monday, 9 November — The line beneath the arrow
+
+When the team revisited the notices, a possible source trail had emerged: Work Order 44-E and a reference to a records transfer. The documents suggested that a box might exist. They did not establish what it contained or who could authorize its release.
+
+The Programme Manager had begun with a plan to rehearse the competing routes. The Production Coordinator stopped the plan before it became a physical test. They drew two columns instead: **WHAT WE CAN REVIEW** and **WHAT REQUIRES AUTHORITY**.
+
+The Director of Operations helped redirect the work toward preserving the copies, identifying the competent local safety authority, and requesting the current site plan. Any rehearsal would remain on paper until a verified procedure and appropriate authorization existed.
+
+At the reception pinboard, the Legal Journalist kept headlines and claims in their proper categories. A report, a forecast, and an official finding were not interchangeable. The team’s own uncertainty deserved the same care.
+
+By the end of the day, the location of a possible records box had become a lead—not a discovery of the original instruction. When a custodian required a documented request from the responsible office, no one tried to bypass that boundary.
+
+The arrow on the page still pointed somewhere. The investigation still had to establish who had the right to draw it.
+
+### Tuesday, 10 November — The name the paper could not give
+
+The transfer paperwork looked complete until the team compared what each line could prove. It showed a date and a reference, but not a verified authorizing name.
+
+A proposed message to the field team said, *We have found the instruction. Proceed to check the route.*
+
+Enka read it, then removed the first sentence. The instruction had not been found. A possible container had.
+
+The revised draft asked for a properly authorized review, preservation of the conflicting copies, and guidance from the responsible local safety authority. It remained a request for verification—not an operational command—and was not treated as delivered.
+
+A real-world Accra maintenance notice on the reception board also illustrated why dates and locations must be read carefully: a notice for one community or day cannot automatically be applied to another. At the lab, the separate Probe coordinate remained a reference, not a confirmed team position.
+
+Two folders lay on the table: one documenting the transfer trail, the other holding an unfinished request for permission. The archive box stayed sealed.
+
+### Wednesday, 11 November — The empty space
+
+At the pinboard, the Legal Journalist crossed out **CONFIRMED** and wrote **REPORTED**.
+
+The change was small enough to miss if someone hurried past. It mattered. The Kuala Lumpur inquiry had a distribution record, but the approving authority was still unknown. The Public Relations & Press Coordinator withheld an unsupported conclusion. The Marketing Manager withdrew a headline that made the unresolved inquiry sound settled.
+
+On the board, the Legal Journalist reserved a blank space:
+
+**AUTHORITY NOT YET VERIFIED**
+
+The blank was more honest than a confident caption.
+
+### Thursday, 12 November — The cost of a wrong verb
+
+The International Relations Coordinator and partnerships team sorted the fictional inquiry’s paperwork by document number, not by the order in which the pages had arrived. They distinguished a transfer reference from the contents of a file, an acknowledgment from understanding, and understanding from permission.
+
+At the same time, the pinboard carried real-world headlines reported in the supplied research: Ghana’s 2027 budget, business and market developments, and a disruption affecting widely used Microsoft communications services. The Legal Journalist left those items as reports to be checked and followed; no one claimed they were incidents at Koware or proof about the Kuala Lumpur notices.
+
+The distinctions converged on one practical question: if a message cannot be authenticated, what would make it responsible to forward it as an instruction?
+
+The file remained unopened. Its contents remained unknown.
+
+### Friday, 13 November — The message that stayed unsent
+
+The Events & Tours Coordinator noticed a report that the Ecobank JoyBusiness SME Fair was opening in Accra. The Community Outreach Officer asked whether participation would be accessible. The Booking Agent looked at the proposed attendance note.
+
+“Those names mean they’d like to go,” the Booking Agent said. “They don’t mean we have a booking.”
+
+The Events Coordinator kept the visit as a proposal. No one was added to a bus, a guest list, or a confirmed schedule.
+
+The Booking Agent then tried to slide an overfilled folder under the meeting-room door. It wedged halfway. As the folder sprang open, one loose sheet landed squarely on the Agent’s head.
+
+That was the morning’s one slapstick mishap. The scattered papers were gathered, sorted, and returned to their proper files.
+
+At the briefing, Edliex—Koware’s AI, pronounced “Alex”—had listened while the desks reported. Only after the reports did the Corporate Manager invite it to give feedback. Edliex’s indicator shifted to feedback mode.
+
+“Each desk encountered a document that could travel farther than its authority,” Edliex said. “A report is not a finding. An announcement is not a Koware contract. A distribution record is not an approval.”
+
+The indicator changed again: conversational mode.
+
+“What can we do?” the manager asked.
+
+“Build a trace,” Edliex replied. “Record the source, who may approve it, which revision applies, whether it fits the present situation, and where each version went. Do not turn an unanswered field into an answer.”
+
+Someone proposed a message to Kuala Lumpur: *Use the direction repeated by three notices.*
+
+The Corporate Manager read it once and deleted it.
+
+The team drafted a request for verification instead. It asked the proper custodian to preserve the copies, route the request through the responsible office, and seek qualified local guidance on the current arrangement. The request remained in the unsent queue pending approval and an authenticated channel. No route was selected. No sealed box was opened. No new field contact, mission movement, or Edubeam capability was established.
+
+On the reception board, the Legal Journalist left the week’s developing headlines visible for continued checking. Beneath them, the blank space remained.
+
+The four notices had not become trustworthy through repetition. The request had not become an instruction because it was well worded. And the missing name had not appeared simply because the team needed one.
+
+At closing, the message was still unsent.
+
+### Next episode preview
+
+The next episode begins with the verification request still awaiting authorization. The sealed record, the notices’ provenance, and the question of which guidance applies to the present building remain unresolved.
+
+### TODAY’S CLASSIES CHALLENGE
+
+Several copies of an urgent notice disagree, and a distribution record does not show who approved the instruction. What should the team do before treating any version as authoritative?
+
+---
+
+# EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER  
+## Internal editorial draft — not part of public Output A
+
+**The ledger is placed after the public-facing story at the user’s request. This combined response must therefore be treated as an internal editorial document; extract Output A only through its challenge for any public-facing use.** No restricted answer key is included.
+
+## B1 — Run and temporal manifest
+
+- **Commission:** Synthesize the eight supplied E02 daily drafts into one episode. No comics, video, audio, image generation, archive write, or publication was commissioned.
+- **Working identity:** Season 00, Chapter 05, Episode 02; *The Notice in Four Languages*. The E02 archive prefix and episode title are used as supplied context, not as proof of an approved canonical crosswalk.
+- **Working dates:** 2–13 November 2026. The supplied E02.08 draft combines the final three days, 11–13 November, into one closing installment. This follows the supplied material; it does not certify an approved exception to the framework’s ordinary ten-day episode structure.
+- **Calendar:** The source drafts calculate a first-Monday anchor of 19 October and an Episode 02 window of 2–13 November. No owner-approved effective calendar or timezone authority was established in this review. These dates and day numbers remain provisional.
+- **Source state:** The requested episode response compilation `S00_CH05_E02-.txt` exists in the repository listing but was reported as **empty (0 bytes)**. It supplied no previous platform responses to adjudicate.
+- **Production status:** `DRAFTED` / `AWAITING_EDITORIAL_REVIEW`; editorial status `UNREVIEWED`; persistence `DRAFTED_NOT_COMMITTED`; release `NOT_ELIGIBLE`; derivatives `NOT_COMMISSIONED`.
+- **Clock state:** The daily drafts contain conflicting and sometimes stale historical and Probe readings. This episode does not choose one as a definitive run snapshot or use a Probe date as proof of travel, mission time, or field-team position. The story’s Kuala Lumpur inquiry remains a fictional continuity premise from the supplied drafts.
+
+## B2 — Research and source register
+
+Reviewed the supplied v0.08.00 master, protocol, ledger, QA/manifest and alignment/review materials as working documents. Their own status is proposed, not owner-ratified. Also reviewed the supplied daily drafts and available internal handovers for E02.01–E02.08, the role chart, and available Koware governance references.
+
+The episode’s six-stage synthesis is deliberately qualified:
+
+1. **Eternal Dreamfall study:** The drafts repeatedly refer to the Septuagint, but no authorized date-to-week assignment or daily passage was established here. The story uses translation and transmission as a motif, not as a claimed daily reading.
+2. **Verse:** The daily drafts contain differing verse claims and attributions. No verse is quoted or attributed in this episode.
+3. **Health & Safety:** Drafts cite different levels of course access and lesson verification. The episode does not claim a particular Buzzjuice lesson or training completion.
+4. **Headlines:** The supplied closing-day handover reports Ghana budget and market stories, the SME Fair, Malaysian chip reporting, and a Microsoft-service disruption. These are treated as reported headlines within the fictional pinboard, not as independently reverified claims or Koware business events. No future Probe news is presented as real journalism.
+5. **Prior chronicles:** The repeated, consistent story thread is the four-language notice inquiry and its missing authorization. Other plot details that differ across competing drafts are not promoted to accepted continuity.
+6. **Koware integration:** Role-day material shapes the fictional newsroom, records review, meeting, and proposed event visit. It is not evidence that real employees performed the described actions.
+
+**Source limitations:** Several large daily files contain competing platform drafts, not one accepted chronicle. The content was reconciled by preserving their shared and coherent thread while excluding unsupported branch-specific resolutions. Governance materials were not exhaustively audited across every folder and job description; role depictions therefore remain high-level and fictional.
+
+## B3 — Character, Koware role and project register
+
+- **Enka:** Used as the fictional narrative anchor from the supplied story materials. No new biography, capability, real-world action, or accepted canon change is asserted.
+- **Edliex (“Alex”):** Participates in the Friday briefing in the requested sequence: listening first, feedback when invited, then conversational mode. Its proposed “trace” is fictional dialogue, not a real Koware system or policy.
+- **Fictional role functions:** The Legal Journalist curates the reception pinboard and distinguishes “reported” from “confirmed”; Public Relations and Marketing avoid amplifying an unsupported conclusion; International Relations and partnerships roles separate records and track provenance; Events, Outreach, and Booking keep a possible fair visit distinct from a confirmed booking.
+- The supplied chapter-day chart was consulted for the relevant role-day sequence. It establishes role/check-day associations only; it does not prove attendance, actual duties, or completed work.
+- **Names and likenesses:** The narrative uses role titles rather than additional chart aliases. No visual collage, portrait, voice, or private diary material was used. Character-canon and public portrayal rights remain unverified.
+
+## B4 — Mission and technology state
+
+- **Fictional inquiry:** Four versions of an emergency notice, inconsistent directions, a distribution/work-order trail, a possible records-box reference, and an unresolved approval authority recur across the supplied drafts.
+- **Accepted mission baseline:** Not verified. The observation-only boundary is carried as a repeated draft constraint, not as a confirmed accepted mission record.
+- **Team:** The supplied materials associate the inquiry with Kuala Lumpur, but individual identities, locations, condition, communications, and temporal position are not established here.
+- **Records box:** Not opened. Its contents and custodian’s release authority remain unknown.
+- **Safety:** No route is chosen, tested, or communicated as authoritative. The fictional investigation does not substitute for guidance from the competent local authority.
+- **Edubeam/Probe:** No deployment, return, time transfer, contact, new ability, or technology-state change is established. Conflicting Probe snapshots are not reconciled by invention.
+
+## B5 — Append-only continuity and story ledger
+
+No accepted episode base revision or human-approved event head was established. Accordingly, the following are **proposed fictional synthesis events**, not accepted continuity:
+
+| Draft event | Proposed development | State |
+|---|---|---|
+| P01 | Four multilingual notices disagree; the original instruction and authority remain unknown. | Proposed; open |
+| P02 | Distribution/work-order records show circulation but do not establish authorization. | Proposed; open |
+| P03 | A possible transfer reference points to a sealed record; neither contents nor release authority is verified. | Proposed; open |
+| P04 | The team preserves copies and refrains from selecting or testing a route. | Proposed; no safety finding |
+| P05 | Koware’s fictional desks distinguish reported, confirmed, proposed, and authorized information. | Proposed |
+| P06 | Edliex recommends a provenance trace during the Friday meeting; the manager rejects an unsupported field instruction. | Proposed |
+| P07 | A request for verification is drafted but remains unsent pending authorization and an authenticated channel. | Proposed; open |
+| P08 | A possible SME Fair visit remains an unconfirmed proposal. | Proposed |
+| P09 | One slapstick incident occurs: the Booking Agent’s folder jams under the door and a sheet lands on their head. | Proposed |
+
+**Open threads:** Who authored and approved the original instruction? What does the sealed record contain, and who may lawfully authorize access? Which version is current and applicable to the building? What are the authenticated field-team and mission states? Is the proposed SME Fair visit later approved or booked?
+
+**Accepted projection:** No change can be asserted because no accepted base revision was verified. The proposed events above must not be treated as episode canon unless an authorized editor accepts them.
+
+## B6 — Portable production handover
+
+1. **Identity and revisions:** Provisional S00 / CH05 / E02 synthesis, *The Notice in Four Languages*. This is a new editorial draft based on eight supplied daily installments, not an accepted or persisted episode revision.
+2. **Calendar:** Working window 2–13 November 2026; the supplied finale covers 11–13 November. Calendar, timezone, episode-day mapping, and any eight-installment exception remain unverified.
+3. **Temporal and spatial snapshot:** Story settings include Koware’s fictional New Legon office and a fictional Kuala Lumpur inquiry. Historical and Probe readings conflict across drafts and are not used to establish a definitive clock or team location.
+4. **What the episode proposes happened:** The team documents notices and circulation records, searches for an authorizing source, identifies a possible sealed-file trail, and ends with a verification request still unsent.
+5. **Character projection:** Enka is the narrative anchor; Edliex appears in the Friday meeting; other participants are represented by role. Their actions are fictional proposals, not accepted character-state changes.
+6. **Mission projection:** The inquiry remains open. No route is selected, the sealed file remains unopened, and no new contact, travel, return, or mission capability is established.
+7. **Organization and project status:** Role-day material supplies fictional workplace context only. No real Koware task, policy change, booking, or project completion is claimed.
+8. **Study and practical learning:** Translation and evidence handling are motifs only. No daily Bible passage, verse attribution, or specific Health & Safety lesson is claimed.
+9. **Research provenance:** The reception-board headlines are represented as reports in the source drafts; they are not independently reverified here and are not evidence of impact on Koware.
+10. **Storyline and event changes:** P01–P09 are proposed, not accepted or persisted. The notice’s authority, file contents, and current applicability remain unresolved.
+11. **Challenge:** One episode-level public question appears at the end of Output A. No answer, rationale, or answer-key record is included.
+12. **Derivatives:** Comics, images, collages, video, narration, audio, and Service Cards are `NOT_COMMISSIONED`.
+13. **Open decisions:** Confirm calendar and identifiers; establish accepted episode state; review character canon and portrayal rights; verify sources and research claims; review the narrative and challenge.
+14. **Next eligible production:** Reconstruct the authorized accepted state first. If this draft is accepted, a later episode may continue with the authorization request and sealed-file access question; no outcome is predetermined.
+15. **Operational truth:** This response provides text only. No repository write, human acceptance, canonical promotion, secure answer storage, asset generation, or publication occurred.
+
+## B7 — Derivative/media and challenge status
+
+- Episode story: `DRAFTED`, not accepted or release-eligible.
+- Challenge: one draft public question; no answer or answer rationale created.
+- Secure answer record: **not created**; no secure custody operation was commissioned.
+- Comic pages and character reference collages: `NOT_COMMISSIONED` / `NOT_GENERATED`.
+- Video, narration, audio, and other media: `NOT_COMMISSIONED`.
+- Publication and repository persistence: not performed.
+- Any future derivative must be tied to the accepted story and challenge revision; revisions to either would require revalidation.
+
+## B8 — Validation, exceptions and approval register
+
+| Gate | Result | Basis / required follow-up |
+|---|---|---|
+| `Q01_SCOPE` | PASS | One requested episode synthesis; no comic or media generation. |
+| `Q02_CALENDAR` | FAIL for definitive assignment | Eight supplied installments do not establish an approved ten-day episode calendar or authorized exception. |
+| `Q03_THREE_CLOCKS` | NOT_RUN / QUALIFIED | Conflicting snapshots were not reconciled; no definitive clock or travel claim is made. |
+| `Q04_IDENTIFIERS` | FAIL for canonical assignment | Legacy/archive crosswalk and episode identity have not been approved. |
+| `Q05_CANON` | QUALIFIED | No new ability or permanent canon change; accepted character continuity and portrayal rights remain unverified. |
+| `Q06_ROLE_PROJECT` | QUALIFIED | Role chart informs fictional functions only; no real attendance or completed project is claimed. |
+| `Q07_STUDY` | OMITTED | No approved date-to-week mapping or daily passage established. |
+| `Q08_VERSE_HS` | OMITTED | No definitive verse attribution or specific course lesson used. |
+| `Q09_RESEARCH` | QUALIFIED | Headlines derive from supplied draft handovers; not independently reverified for this synthesis. |
+| `Q10_RIGHTS` | FAIL for publication | Character/portrayal permissions and publication clearance have not been established. |
+| `Q11_STORY` | PASS for provisional draft | One continuous investigation retains the shared daily-chronicle arc and leaves its central questions open. |
+| `Q12_CHALLENGE` | PASS structurally | One question ends Output A; no answer is included. |
+| `Q13_RECORDS` | PASS for draft packet | B1–B8 are present; proposed events are separated from accepted state; B6 is self-contained. |
+| `Q14_DERIVATIVES` | PASS | No derivative assets were commissioned or claimed. |
+| `Q15_INTEGRITY` | PASS | No approval, retrieval, consent, write, render, or publication is claimed without evidence. |
+| `Q16_BOUNDARIES` | QUALIFIED | The requested combined presentation includes internal B after public A; the whole response must be handled as internal, with A extracted separately before any public use. |
+
+**Overall disposition:** Provisional editorial synthesis only; **not eligible for publication**. The main continuity improvement is to maintain one episode-level accepted-state ledger and append only reviewed, source-linked character deltas to each featured character’s continuity record. Do not copy entire episode text into character files, and do not treat drafts as character memory.
+
+**Awaiting your separate prompt before beginning comic production.**
+
+<<STOP GITHUB-1>>
+
+<<START CLAUDE-1>>
+
+NULL
+
+<<STOP CLAUDE-1>>
+
+<<START JULES-1>>
+
+NULL
+
+<<STOP JULES-1>>
+
+<<START PERPLEXITY-1>>
+
+NULL
+
+<<STOP PERPLEXITY-1>>
+
+<<START ANTIGRAVITY-1>>
+
+NULL
+
+<<STOP ANTIGRAVITY-1>>
+
+<<START KIROCREW-1>>
+
+NULL
+
+<<STOP KIROCREW-1>>
+
+<<START OTHER-1>>
+
+NULL
+
+<<STOP OTHER-1>>

@@ -14,9 +14,29 @@ Thoroughly review and analyze the following generated daily Classies chronicles 
 
 <<START DAILY CHRONICLES>>
 
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.01-The_Notice_in_Four_Languages
 
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.02-The_Cropped_Truth
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-The%20Instruction%20No%20One%20Could%20Sign
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.05-The%20Copies%20That%20Agreed
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.08-The_Message_That_Stayed_Unsent
 
 <<STOP DAILY CHRONICLES>>
+
+Each chronicle resides in a text file in its chronicle folder. For instance:
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt
 
 Reference the following 'Daily_Chronicle_Generation_Protocol' set to support with the generate the Classies Chronicles episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
 
@@ -129,6 +149,8 @@ Each character must perform within the context of their character cannon and job
 
 10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
 
+11. Include a brief preview for the next episode.
+
 <<STOP NOTES>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -137,7 +159,7 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.08-/S00_CH05_E02.08-.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02-.txt
 
 <<STOP PLATFORM RESPONSES>>
 
