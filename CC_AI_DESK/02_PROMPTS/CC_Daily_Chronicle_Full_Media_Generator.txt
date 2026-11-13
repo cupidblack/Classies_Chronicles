@@ -9,7 +9,7 @@ https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoin
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
+{"probe_iso":"2108-04-26T02:40:42Z","now_iso":"2026-11-13T19:35:18Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.034478399999999999325783761605634936131536960601806640625,"amplitude_days":76700.366489599997294135391712188720703125,"probe_value_days":29748.29541444810092798434197902679443359375}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -71,7 +71,7 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.04-
 
 <<STOP Master_Media_Generation_Prompt SET>>
 
-When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend other platforms to use considering their generation quality and limits. Other platforms should be used once each platform's usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better methods to produce better quality chronicle videos in less time.
+When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this chronicle. Also recommend other platforms to use considering their generation quality and limits. Other platforms should be used once each platform's usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this chronicle. Suggest any other better methods to produce better quality chronicle videos in less time. Include the narration script that would be posted in Eleven Labs to read as an audio track.
 
 The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this daily chronicle:
 
