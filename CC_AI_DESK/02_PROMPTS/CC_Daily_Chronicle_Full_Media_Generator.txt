@@ -4,20 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-On Tuesday 10th November: {"iso":"2003-07-21T17:34:44+00:00"}
-On Wednesday 11th November: {{calculate estimated value}}
-On Thursday 12th November: {{calculate estimated value}}
-On Friday 13th November: {"iso":"2003-07-22T23:15:48+00:00"}
+{"iso":"2003-07-22T23:15:48+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-On Tuesday 10th November: {"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
-
-On Wednesday 11th November: {{calculate estimated value}}
-On Thursday 12th November: {{calculate estimated value}}
-
-On Friday 13th November: {"probe_iso":"2108-04-26T02:40:42Z","now_iso":"2026-11-13T19:35:18Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.034478399999999999325783761605634936131536960601806640625,"amplitude_days":76700.366489599997294135391712188720703125,"probe_value_days":29748.29541444810092798434197902679443359375}
+{"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -151,6 +143,8 @@ Each character must perform within the context of their character cannon and job
 10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
 
 11. The character's daily diary could be a link to the character's blog if it is possible for a character's blog to be read for its latest posts. 
+
+12. Note that the 8th, 9th and 10th chronicles for Wednesday 11th, Thursday 12th and Friday 13th are all combined to make one chronicle final chronicle for this Classies Chronicles episode, giving this episode a total of 8 chronicles. It would be saved as 'S00_CH05_E02.08-{name-of-chronicle}'.
 
 <<STOP NOTES>>
 
