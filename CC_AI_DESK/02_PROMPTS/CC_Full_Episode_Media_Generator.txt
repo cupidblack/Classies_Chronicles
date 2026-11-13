@@ -1,0 +1,144 @@
+The following is the Unified_Production_Master_Prompt set for the Classies Chronicles:
+
+<<START Unified_Production_Master_Prompt SET>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Production_Master_Prompt_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Unified_Production_QA_and_File_Manifest_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.03-Refactor_Review_Decision_and_Traceability_v0.08.00.md
+
+<<STOP Unified_Production_Master_Prompt SET>>
+
+Thoroughly review and analyze the following generated daily Classies chronicles to produce a single Classies Chronicles episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
+
+<<START DAILY CHRONICLES>>
+
+
+
+<<STOP DAILY CHRONICLES>>
+
+Reference the following 'Daily_Chronicle_Generation_Protocol' set to support with the generate the Classies Chronicles episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
+
+<<START Daily_Chronicle_Generation_Protocol>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.01-Daily_Chronicle_Generation_Protocol_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.02-Daily_Chronicle_QA_and_File_Manifest_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.03-Episode_Continuity_Ledger-Production_Handover_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-02.04-Daily_Protocol_and_Ledger_Alignment_Review_v0.08.00.md
+
+<<STOP Daily_Chronicle_Generation_Protocol>>
+
+After generating the Classies Chronicles episode, wait for my prompt to use the following 'Master_Comic_Generation_Prompt' set to generate the comic pages for the produced Classies Chronicles episode:
+
+<<START Master_Comic_Generation_Prompt SET>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-Comic_QA_and_File_Manifest_v0.08.00.md
+
+<<STOP Master_Comic_Generation_Prompt SET>>
+
+After generating the Classies Chronicles episode comic pages, wait for my prompt to use the following 'Master_Media_Generation_Prompt' set to generate the media for the produced Classies Chronicles episode:
+
+<<START Master_Media_Generation_Prompt SET>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.01-Master_Media_Generation_Prompt_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.02-Media_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.03-Media_QA_and_File_Manifest_v0.08.00.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-04.04-Top_20_Image_to_Video_Platforms_v0.08.00.md
+
+<<STOP Master_Media_Generation_Prompt SET>>
+
+When processing the Master Media Generation Prompt, only generate the exact prompts that would be used on image to video platforms to generate the video for this episode. Also recommend other platforms to use considering their generation quality and limits. Other platforms should be used once each platform's usage limit runs out. Once all the videos have been generated, take me step-by-step through the editing process to obtain a single video for this episode. Suggest any other better methods to produce better quality episode videos in less time. Include the narration script that would be posted in ElevenLabs to read as an audio track.
+
+The following resources reference previously generated chronicles, episodes and the entire Classies Chronicles episode archives that should be used to support the development of this Classies Chronicles episode:
+
+<<START CHRONICLE RESOURCES>>
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES
+
+<<STOP CHRONICLE RESOURCES>>
+
+Note the following:
+
+<<START NOTES>>
+
+1. Include key elements from each chronicle to make the episode action packed and full of adventure.
+
+1.i. If a url prefixed with 'https://github.com/cupidblack/Classies_Chronicles/tree/main' is unavailable, replace the 'https://github.com/cupidblack/Classies_Chronicles/tree/main' prefix with 'https://raw.githubusercontent.com/cupidblack/Classies_Chronicles/refs/heads/main' then try again.
+
+1.ii. If a url prefixed with 'https://github.com/cupidblack/Koware_Management/blob/main' is unavailable, replace the 'https://github.com/cupidblack/Koware_Management/blob/main' prefix with 'https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main' then try again.
+
+2. If the main and lead characters attached to the check role days for the day's chronicle do not have a visual_collage_url defined in their character cannon, check their character folder for any graphic files that could be used for their appearance and visual consistency. If no graphic files exist then generate a separate collage graphic for each character. The collage graphic file would be placed in their character cannon folder to be used as a visual reference so that their visual appearance would be consistent.
+
+3. If a character's cannon is not found or is unavailable, reverify by checking the following structure to access the requested character's cannon:
+
+Characters Cannon base:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS
+
+Specific Character's Cannon folder:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}
+
+Specific Character's Cannon file:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}/{CHARACTER_NAME}_character_cannon.md
+
+Specific Character's Cannon images:
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/{CHARACTER_NAME}/*.png, jpg, bmp, jpeg, webp
+
+For instance, Bonsu Bolt, the Concierge Liaison's character cannon is: 
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md
+
+If still not found of is inaccessible, continue and report at the end of te generated chronicle or episode.
+
+4. Always load all of the Koware Group's governance charters, governance references and job descriptions to support the dynamics of the characters with job roles in the Classies Chronicles. The following folder in the Koware_Management repository contains all of the Koware Group's governance charters, governance references and job descriptions:
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Governance_Charters
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Governance_References
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Job_Descriptions
+
+Each character must perform within the context of their character cannon and job description.
+
+5. The Koware Group's Legal journalist always gets Koware's daily, weekly and episodic agenda immersed and involved in the current news headlines, both locally and internationally mainly by sharing the headlines and posting ongoing headlines on the Koware online and physical pinboard in the reception area where all employees get to see the posts. Some headlines can stay on the pinboard through episodes and even chapters, depending on how a headline might be trending, it's effect on the Koware Group and the headline's importance. Where a headline affects the Koware Group it is brought up in the meetings, discussed and relevant roles assigned appropriately to look deeper into the headline for potential advantages and resolutions.
+
+6. Employees looking into news headlines may at times need to travel to get more information, dispatch information or anything else. This would add to environment changes in each Daily Chronicle. For instance, a news headline or event about an upcoming military tech show might catch the attention of the Director of R&D, the R&D Lab Specialist and the lab liaison. After some discussions and reminders, two of them might team up and go to the event and bring back a report at the next Koware meeting.
+
+7. Employee's do not all need to be concerned on the same issue. Because of this, the storyline might change depending on the job roles being checked for the current day. For instance, the Janitor and the Maid might be more concerned about a news report on increased commuting fares or rumors circulating of a local artist whereas the Corporate Manager and Liaison Officer might be more concerned with news about client moving out of the country.
+
+8. Koware Group's AI called 'Edliex' (pronounced 'Alex') is active during the Koware Group meetings. The AI is set to listen during the first parts of the meeting then then set to give its feedback then activated into conversational mode. The AI generating the chronicle or episode can assume the role of Koware's AI 'Edliex' and apply reasoning and adjust responses appropriately as some AIs might have already generated responses for Edliex in prior chronicle or episode generations.
+
+9. Maintain exactly one slap stick humorous comic beat per daily chronicle.
+
+10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
+
+<<STOP NOTES>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+The following previous responses from this and other platforms must be reviewed and analyzed to support the development:
+
+<<START PLATFORM RESPONSES>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.08-/S00_CH05_E02.08-.txt
+
+<<STOP PLATFORM RESPONSES>>
+
+Consider all the feasible recommendations, corrections and suggested modifications from all platforms then implement them to generate the fully refactored and updated functional version with no truncated data or data placeholders.
