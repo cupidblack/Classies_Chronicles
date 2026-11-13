@@ -1,11 +1,11 @@
 ---
-canon_id: CHAR-DAVID
-character_slug: DAVID
-display_name: David
+canon_id: CHAR-DAVID-DUVOR
+character_slug: DAVID_DUVOR
+display_name: David Duvor
 document_version: 0.02.00
 record_type: fictional-character-design-proposal
 canon_status: DRAFT_AWAITING_HUMAN_EDITORIAL_REVIEW
-source_alias: Mr David (GIMPA Stores)
+source_alias: Mr David Duvor (GIMPA Stores)
 organization_role: Assets & Records Coordinator
 organization_source_line: 10
 chapter_check_days: 3,23
@@ -23,14 +23,14 @@ editorial_approval_required: true
 source_retrieved: '2026-11-05'
 created: '2026-11-05'
 ---
-# David — Character Canon / Fictional Draft v0.02.00
+# David Duvor — Character Canon / Fictional Draft v0.02.00
 
 > **Identity, consent and provenance.** Only the **role**, **alias text**, **hierarchical placement** and **chapter check days** are transcribed from the aliased organizational chart. **Every other biographical, cultural, family, romantic, physical, educational, career, entertainment and scene detail in this file is fictional candidate material, NOT a verified statement about any real person bearing the alias.** Names of invented relatives and institutions do not identify real people. The chart's parenthetical notes are mnemonic labels, not credential or employment verification. No real-person portrait, private diary or public identification is authorized by this document. Public or recognizably real-person use requires separate rights/consent and editorial review.
 
 ## 01 · Source-of-truth and organizational role
 
-- **Canonical story ID (reserved):** `CHAR-DAVID`. The identifier is reserved for this draft character concept, not an approved portrayal.
-- **Source alias, exact:** `Mr David (GIMPA Stores)`.
+- **Canonical story ID (reserved):** `CHAR-DAVID-DUVOR`. The identifier is reserved for this draft character concept, not an approved portrayal.
+- **Source alias, exact:** `Mr David Duvor (GIMPA Stores)`.
 - **Chart role:** **Assets & Records Coordinator**.
 - **Source evidence:** [Aliased checks organizational chart](https://raw.githubusercontent.com/cupidblack/Koware_Management/refs/heads/main/Organizational_Chart_Structure-Aliased_Checks.txt) — source line 10 (1-based).
 - **Direct chart reporting edge:** [Eugene Achiaa](../EUGENE_ACHIAA/EUGENE_ACHIAA_character_cannon.md) — Administrative Auditor.
@@ -38,11 +38,11 @@ created: '2026-11-05'
 - **Related organizational peers for possible scenes:** [Jessica Danquah](../JESSICA_DANQUAH/JESSICA_DANQUAH_character_cannon.md); [Eugene Achiaa](../EUGENE_ACHIAA/EUGENE_ACHIAA_character_cannon.md). These are professional chart relationships only; no personal friendship or romance is asserted.
 - **Chapter working-day checks:** **3,23**, a 40-working-day chapter-plan allocation with the recurring 20-day offset. **Never confuse them with a daily chronicle's ten episode weekdays or with real work attendance.**
 - **Narrative duty in a prospective chronicle:** demonstrate asset inventories with provenance without misrepresenting fictional assignments as completed real-world Koware operations.
-- **Physical repository target:** `CC_AI_DESK/04_CANON/CHARACTERS/DAVID/DAVID_character_cannon.md`. Retain spelling **`cannon`** in path for exact user compatibility; use *canon* for story governance.
+- **Physical repository target:** `CC_AI_DESK/04_CANON/CHARACTERS/DAVID_DUVOR/DAVID_DUVOR_character_cannon.md`. Retain spelling **`cannon`** in path for exact user compatibility; use *canon* for story governance.
 
 ## 02 · Fictional identity, background and vital particulars
 
-- **Proposed screen identity:** David (fictionalized role double associated with the alias; not a verified identity).
+- **Proposed screen identity:** David Duvor (fictionalized role double associated with the alias; not a verified identity).
 - **Draft date of birth:** **1987-02-05**, making the imagined character **39** on 2026-11-05.
 - **Draft birth location:** **Obuasi, Ashanti Region, Ghana**; nationality/citizenship for this invented timeline: **Ghanaian**.
 - **Draft cultural/ethnic heritage:** **Asante Akan**. This is a creative casting attribute independent of surname, skin tone, religion or the possible real alias holder.
@@ -140,7 +140,7 @@ This is a new proposed ensemble character and has **no confirmed debut, mission,
 
 ## 12 · Future character reference collage specification — NOT GENERATED
 
-- **Target future asset name:** `DAVID_CHARACTER_REFERENCE_COLLAGE.jpg` inside this folder, created in a later separately authorized illustration operation.
+- **Target future asset name:** `DAVID_DUVOR_CHARACTER_REFERENCE_COLLAGE.jpg` inside this folder, created in a later separately authorized illustration operation.
 - **Coverage list:** (1) original front-facing neutral headshot, (2) left/right profile and three-quarter views, (3) five expressions, (4) everyday full-body outfit, (5) role-specific outfit and PPE, (6) hands/prop detail, (7) daylight / evening colour comparison, (8) clearly labelled palette chips.
 - **Storyboard consistency prompt:** design a fictional person with square jaw with relaxed cheeks, deep espresso-brown, neatly braided crown and close sides, soft umber-brown, 176 cm frame and `waxed-canvas key roll`. Keep material design consistent; do not reproduce the face of a named or identifiable real person.
 - **Visual URL:** `visual_collage_url: null`. No file is present yet; the filename is a future asset contract, not a broken link.
