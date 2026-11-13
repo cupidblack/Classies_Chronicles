@@ -1,0 +1,542 @@
+{
+  "episode": "S00_CH05_E02.06 (provisional)",
+  "chronicle_title": "The Line Beneath the Arrow",
+  "source_day": "2026-11-09",
+  "mode": [
+    "MEDIA_PLAN",
+    "PLATFORM_PROMPT_PACK"
+  ],
+  "source_sha256": "c3c46ada3499d12db3f6844cb943359f5999234efbc46bf4e0456d184e030047",
+  "comic_qa_manifest_sha256": "e61495a25252c832231bcaf6a9825b7fa5379b02ba971c13ade3acbc8a205501",
+  "source_status": "CONDITIONAL_DRAFT",
+  "planning_status": "PLANNED",
+  "script_status": "NOT_FULLY_WRITTEN: only visual beats and audio cues; user requested generator prompts now",
+  "reference_processing": "NOT_STARTED",
+  "generation_status": "NOT_STARTED",
+  "edit_status": "NOT_STARTED",
+  "rights_status": "UNCHECKED/RESTRICTED",
+  "archive_status": "NOT_ATTEMPTED",
+  "release_status": "NOT_REQUESTED",
+  "format_proposal": {
+    "master_aspect": "16:9",
+    "master_nominal_dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "duration_seconds": 200,
+    "timegrid": "15 x 10 seconds + 1 x 50-second terminal challenge (proposed, not owner-locked)",
+    "social_9_16": "NOT_REQUESTED"
+  },
+  "assets_observed": {
+    "actual_page_count": 16,
+    "actual_page_resolution": [
+      1080,
+      1920
+    ],
+    "actual_collage_resolution": [
+      4320,
+      7680
+    ],
+    "original_visual_art_enlarged": "YES; pixel resolution is not native high detail"
+  },
+  "planning": {
+    "video_prompt_count": 12,
+    "editor_only_acts": 4,
+    "video_usable_seconds_if_each_5_seconds": 60,
+    "editor_still_hold_seconds": 140,
+    "rendered_seconds": 0
+  },
+  "reference_images": [
+    {
+      "page": "P01",
+      "image": "CC_2026-11-09_Comic_Page_01.png",
+      "sha256": "74880a2ae13e701159114fc3de61570dac125053eccc7b8a20cc71b8e4a67a19",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P02",
+      "image": "CC_2026-11-09_Comic_Page_02.png",
+      "sha256": "a47459d28aef3b07d968bf6547b7d77a7855d868718399c6a94b55018f805f1e",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P03",
+      "image": "CC_2026-11-09_Comic_Page_03.png",
+      "sha256": "1f3c055d8a0814eb70f9125c93a0977652f5de40e6407b269cfd6251ef391235",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P04",
+      "image": "CC_2026-11-09_Comic_Page_04.png",
+      "sha256": "2a1893a8a33b544489c949961cb8ef9f0c172bd9493f752ea1f1bb890261cda3",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P05",
+      "image": "CC_2026-11-09_Comic_Page_05.png",
+      "sha256": "69d46744fdd76df2b13dea7a7213ac8eee5866c496adfa9730f811acaea8312c",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P06",
+      "image": "CC_2026-11-09_Comic_Page_06.png",
+      "sha256": "c21b7ce99e976cee7b4633995eaacc1e182d18c1be75abd2864ee51019f07c57",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P07",
+      "image": "CC_2026-11-09_Comic_Page_07.png",
+      "sha256": "9fc49cf57cef45e047b70a82d6ccbc5c653d47295dfbd84e081341c4aaaa11f4",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P08",
+      "image": "CC_2026-11-09_Comic_Page_08.png",
+      "sha256": "31afc38f335ace140cbb07665945cb177dbf97f3d517b386854193c101432185",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P09",
+      "image": "CC_2026-11-09_Comic_Page_09.png",
+      "sha256": "a0a3e8a6cef168ec3e5c99682f089bbd4307f915374f7ce653644a3e03741e90",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P10",
+      "image": "CC_2026-11-09_Comic_Page_10.png",
+      "sha256": "d0dcddabbe0f9b40d42ea1dfca06a52e66074d56b754194811fb81c4cc4b96c8",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P11",
+      "image": "CC_2026-11-09_Comic_Page_11.png",
+      "sha256": "173c0d6c6f1abb5e7fd12fe3da56076c6d9f1c119b3016f859291ed8f71def01",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P12",
+      "image": "CC_2026-11-09_Comic_Page_12.png",
+      "sha256": "9bbe1f1da0652e49a624112f72297207cc6355cbb0309f53bb24af632f256349",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P13",
+      "image": "CC_2026-11-09_Comic_Page_13.png",
+      "sha256": "b85cac6cd79d4550523c2dcbc645d4226b63dd5682470b34514187d29077a7cf",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P14",
+      "image": "CC_2026-11-09_Comic_Page_14.png",
+      "sha256": "a61c2a329ac971d643f0fdef5ac9fc2249969c339df9f50f83c48a21e8c18b07",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P15",
+      "image": "CC_2026-11-09_Comic_Page_15.png",
+      "sha256": "afe627f3da12940987656ff302eb7bb02b96806480b3c033c148611b60abfe39",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    },
+    {
+      "page": "P16",
+      "image": "CC_2026-11-09_Comic_Page_16.png",
+      "sha256": "c86694df91055e025e9116994eeca18ae93c7e1323dc95d29e08675018a3ff77",
+      "size": [
+        1080,
+        1920
+      ],
+      "rights": "REVIEW_REQUIRED",
+      "crop_status": "NOT_CROPPED"
+    }
+  ],
+  "clip_prompts": [
+    {
+      "clip_id": "I2V-01",
+      "act_id": "A01",
+      "page_id": "P01",
+      "reference_filename": "CC_2026-11-09_Comic_Page_01.png",
+      "full_prompt": "Create one controlled, cinematic widescreen shot from the uploaded illustration of Koware's New Legon conference table in Accra on the morning of Monday 9 November 2026. Four printed emergency notices lie flat on the table; three point toward the east stairwell and the fourth indicates a courtyard corridor. From the opening still, perform a very gentle camera push toward the existing four notices while warm sun reflections move slightly across the polished wood; the papers never change position or content. Keep the disagreement visible and unresolved, like the opening visual question in a thoughtful investigative comic. End on a stable close composition of all four separate sheets, suitable for a cut to the group's discussion. No person enters the shot and none of the arrows rotate or change direction. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / Dreamina",
+      "framing": "F2_REFRAME_SAFE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "PUSH_IN",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-02",
+      "act_id": "A02",
+      "page_id": "P02",
+      "reference_filename": "CC_2026-11-09_Comic_Page_02.png",
+      "full_prompt": "Animate the existing illustrated two-person office composition at Koware's New Legon headquarters. Johnson Ortsin, wearing the office outfit and glasses shown in the source, remains seated beside the site plan and looks down at the printed notices with methodical confidence; opposite him Derek Shiraska studies the papers with concern. Over the short shot Johnson makes one small, believable downward indication toward the existing plan without picking anything up; Derek remains still, then makes a subtle skeptical eye movement. Hold the established seating positions, eyelines, visible hands and facial designs precisely. The dramatic idea is that Johnson has counted three matching notices, but the route has not been verified. Locked eye-level medium two-shot, sunlight through existing windows, no dialogue lip sync and no actual walk-through. End with both characters focused on the document. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / Google Flow",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "LOCKED",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-03",
+      "act_id": "A03",
+      "page_id": "P03",
+      "reference_filename": "CC_2026-11-09_Comic_Page_03.png",
+      "full_prompt": "Use the supplied illustrated Koware meeting close-up for a quiet reaction shot of Derek Shiraska, the Production Coordinator, at 9:07 in the New Legon office. He looks steadily at an existing cue sheet, then raises his eyes slightly toward Johnson with a restrained, serious expression: a majority of printed notices is not the same as a verified exit. Camera makes one minimal forward move of a few centimeters while the surrounding desk, papers and coworker silhouettes remain fixed. Animate only a small natural blink and breath; do not make the character speak, point to a different exit or handle another person's belongings. End with his gaze steady toward the disputed paperwork, ready for an editorial cutaway to the warning. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / Google Flow",
+      "framing": "F2_REFRAME_SAFE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "PUSH_IN",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-04",
+      "act_id": "A04",
+      "page_id": "P04",
+      "reference_filename": "CC_2026-11-09_Comic_Page_04.png",
+      "full_prompt": "Animate the existing illustrated Koware operations-table still featuring Matthias Agbenorku, his chipped cup of tea, and the reported distribution paperwork associated with Work Order 44-E. In the quiet New Legon morning office, Matthias remains in his depicted seat with a tired, attentive posture. Without changing any printed content, execute a gradual lens rack-focus from the stationary ceramic cup in the foreground toward the already visible document and Matthias's thoughtful face in the background. His only movement is a soft breath; neither he nor any other character signs, opens or stamps a file. The visual point is that documents can demonstrate installation without proving who authorized the directions. Keep the original comic color design; finish with the cup and paper surfaces unchanged and the face in focus. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / PixVerse",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "RACK_FOCUS",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-05",
+      "act_id": "A05",
+      "page_id": "P05",
+      "reference_filename": "CC_2026-11-09_Comic_Page_05.png",
+      "full_prompt": "Animate the existing illustrated close-up of Enka reflecting quietly at the Koware office table in New Legon. He remains physically in the room and in the outfit depicted in the reference; his gaze drifts once toward the sunlight at the edge of the desk, then returns thoughtfully to the unseen discussion. The emotional motif is Psalm 119:105 and the story of Joshua being misled by convincing appearances; represent this only with understated warm illumination in the existing room, not a new fantasy sequence or a vision of ancient figures. Locked close-up, subtle breathing, natural blink, no speech, no new lamp materializing, no supernatural effects and no physical relocation. Finish in a stable, questioning expression. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / Dreamina",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "LOCKED",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-06",
+      "act_id": "A06",
+      "page_id": "P06",
+      "reference_filename": "CC_2026-11-09_Comic_Page_06.png",
+      "full_prompt": "Using this same episode's original comic artwork, show Enka in the New Legon operations meeting as he makes the careful decision to establish who had authority for the contradictory emergency notices. He is in exactly the position and clothing shown in the uploaded panel. His expression shifts from listening to resolved concentration, followed by one slight downward nod toward the already present source documents. A very slow camera push frames the face and tabletop without crossing the conversation axis. Nobody points an exit arrow, touches a safety notice, physically travels to Kuala Lumpur, or rehearses any disputed emergency route. Leave the existing architecture, colleagues and lighting unchanged. No speech generation and no new letters on the paperwork; finish on a firm but restrained visual beat. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / Google Flow",
+      "framing": "F2_REFRAME_SAFE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "PUSH_IN",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-07",
+      "act_id": "A08",
+      "page_id": "P08",
+      "reference_filename": "CC_2026-11-09_Comic_Page_08.png",
+      "full_prompt": "Animate a precise, small action in the illustrated Koware New Legon meeting at lunchtime. Johnson Ortsin sits at the same desk as in the reference, his paper planning sheet already lying before him. He gently sets his pen down beside the existing document after deciding to replace a physical route rehearsal with verification of responsible authority and the current site plan. Derek Shiraska remains seated nearby, attentive and motionless except for a blink. Locked mid-shot, warm midday window light, realistic hands and pen shape, no visible change to printed or handwritten words and no invented signatures. No walk-through, no direct assertion that either emergency exit is safe. Hold the settled pen and quiet revised-plan mood for the last half-second. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / PixVerse",
+      "framing": "F2_REFRAME_SAFE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "LOCKED",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-08",
+      "act_id": "A10",
+      "page_id": "P10",
+      "reference_filename": "CC_2026-11-09_Comic_Page_10.png",
+      "full_prompt": "From the uploaded original graphic-novel illustration, animate a restrained Koware office exchange after an Accra electricity-maintenance notice has been reviewed. Matthias Agbenorku, in the depicted clothing and glasses, briefly lifts his eyes from the notice with a wary but measured look; Johnson Ortsin, in his established outfit, listens and lowers his gaze to the existing task sheet. The point is careful reading of the notice's geographic and date limits and a quieter redistribution of two coordination tasks, not a confirmed power outage at headquarters. Static camera, modest ambient office daylight, one natural blink apiece, accurate facial continuity. Do not modify any on-screen schedule or invent a blackout, electricity fault, warning ticker or new site activity. End with both colleagues studying the actual page. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / Dreamina",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "LOCKED",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-09",
+      "act_id": "A11",
+      "page_id": "P11",
+      "reference_filename": "CC_2026-11-09_Comic_Page_11.png",
+      "full_prompt": "Animate the existing illustrated Kuala Lumpur field-update scene as an in-world, separate-location cutaway at 22:10 local time on Monday 9 November 2026. The fictional field representative is shown only as depicted in the reference, remaining physically in Kuala Lumpur with the same outfit and appearance. Use one extremely slow forward camera move while city lights shimmer faintly in the original background; the representative remains mostly still, as if considering the archived transfer lead. The report is that a box matching an administrative file-transfer record has been located in storage, but it has not been catalogued or opened. Never show the person opening, recovering, reading or accessing the box and never imply that this is live 2174 footage. No text generation, dialogue lip sync or unapproved location changes. End on a stable thoughtful expression. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / Dreamina",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "PUSH_IN",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-10",
+      "act_id": "A12",
+      "page_id": "P12",
+      "reference_filename": "CC_2026-11-09_Comic_Page_12.png",
+      "full_prompt": "Create a quiet documentary-style motion insert of the already illustrated unopened storage box tied to the Work Order 44-E file transfer at the Kuala Lumpur facility. The box remains sealed and exactly where it is in the source picture, against the same shelves and ambient storage lighting. A slow, straight camera move approaches the closed box by a few centimeters; only dust motes and gentle light variation move. No person enters, no latch opens, no papers are revealed, no label changes and no new evidence is produced. This is a visual for the distinction between finding where an item is stored and knowing what its documents contain. Keep a calm investigative graphic-novel look and end with the box fully closed. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / PixVerse",
+      "framing": "F2_REFRAME_SAFE",
+      "motion_class": "STATIONARY",
+      "camera_grammar": "PUSH_IN",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-11",
+      "act_id": "A13",
+      "page_id": "P13",
+      "reference_filename": "CC_2026-11-09_Comic_Page_13.png",
+      "full_prompt": "Animate only a restrained visual emphasis on the existing illustrated documentary evidence associated with the disputed Kuala Lumpur emergency notices and Work Order 44-E. Keep the physical papers, drawing lines, arrows and any already shown surfaces in precisely their uploaded positions. Slowly shift lens focus from a foreground paper edge to the existing background plan or closed storage file; do not rotate a sheet, draw a new line, translate a sign, stamp approval or reveal the contents of any sealed box. The story beat is that identifying a document's author would not alone prove that either depicted route fits the current building layout. Static camera, no people or moving safety equipment, careful cool office lighting, stable final focus and fully unresolved route. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Dreamina / Google Flow",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "STATIONARY",
+      "camera_grammar": "RACK_FOCUS",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    },
+    {
+      "clip_id": "I2V-12",
+      "act_id": "A15",
+      "page_id": "P15",
+      "reference_filename": "CC_2026-11-09_Comic_Page_15.png",
+      "full_prompt": "In the existing Classies Chronicles illustrated New Legon evening research scene, Enka studies a July 2003 Las Vegas newspaper brief as documentary reference material. He remains physically in Accra on 9 November 2026, not in Las Vegas in 2003. Animate one subtle downward movement of his eyes toward the already visible paper, a natural blink, and a quiet breath. The newspaper must stay fixed; no new readable headlines, charges, convictions, allegations, photographs or fake archival evidence may appear, and no facial or costume details change. Locked contemplative mid-close shot with soft evening office light and the same subdued comic-book art style; the reported distinction between a police allegation and an adjudicated verdict will be voiced later in the editor. End with Enka still, thoughtful and looking at the paper. Use the uploaded Classies Chronicles illustrated source still as the visual truth: original premium graphic-novel art, clean ink contours, rich indigo/navy shadows, restrained gold and warm window lighting. Retain the exact identities, hairstyles, skin tones, clothing, positions and props visible in this single uploaded reference; this is a fictional graphic-novel depiction, not a live-action remake. Keep the existing room architecture and source color palette. Preserve a clean final hold for an editorial cut. No spoken dialogue or lip movement; narration, exact labels, dates, speech bubbles, notices, logos and music will be composited later in the editor. No new persons, signs, headlines or text, no altered arrows or exit-route claims, no exaggerated motion, morphing faces, extra fingers, camera jumps or unmotivated physical action.",
+      "negative_prompt_optional": "Additional characters or hands, shifted identity or age, altered hairstyle or wardrobe, extra fingers, deformed joints, changed sign directions, fabricated safety route approval, invented official notices or readable news headlines, opened archive box, fabricated documents, added text or subtitles, time-travel portal, supernatural event, lip-sync speech, camera shake, jump cut, flicker, stretched portrait, color palette drift, watermarked imitation branding.",
+      "target_usable_duration_sec": 5,
+      "preferred_candidate": "Google Flow / Dreamina",
+      "framing": "F1_FIT_STAGE",
+      "motion_class": "SUBTLE_ANIMATED",
+      "camera_grammar": "LOCKED",
+      "rights": "NOT_VERIFIED",
+      "render": "NOT_GENERATED"
+    }
+  ],
+  "m01_m30": {
+    "M01": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Explicit user prompt-only media commission and target episode"
+    },
+    "M02": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Actual Output A bytes and checksum pinned"
+    },
+    "M03": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Draft/provisional status disclosed"
+    },
+    "M04": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "16 local comic pages exist and verified hashes"
+    },
+    "M05": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Unverified published character canon/real-person visual permissions"
+    },
+    "M06": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Three independent clocks preserved in source-specific shot content"
+    },
+    "M07": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Past, present and probe distinguished"
+    },
+    "M08": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "16 source beat acts mapped; source story covered"
+    },
+    "M09": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Act, page and generated clip modeled separately"
+    },
+    "M10": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Proposed 15×10 seconds plus 50-second challenge act math reconciles"
+    },
+    "M11": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Each act has event/cause or reaction"
+    },
+    "M12": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No provider account signed in or current model tested"
+    },
+    "M13": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Free balances and exact model credit costs not observed"
+    },
+    "M14": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Actual model output format/FPS/resolution/duration not tested"
+    },
+    "M15": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "12 source-specific full prompts provided for model-independent image-to-video; actual per-provider mode not verified"
+    },
+    "M16": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Actual commercial upload/output rights not cleared"
+    },
+    "M17": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Art varies by page: face and wardrobe drift must be reviewed"
+    },
+    "M18": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Real motion cannot be assessed without renders"
+    },
+    "M19": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Visual design and rights require editorial inspection"
+    },
+    "M20": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No voices generated, no performer approval"
+    },
+    "M21": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No audio playback"
+    },
+    "M22": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No final audio/subtitles"
+    },
+    "M23": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Terminal public challenge exact text copied from pinned Output A"
+    },
+    "M24": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "End-card instruction has no indicated answer or subsequent sting"
+    },
+    "M25": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Private answer-key material excluded from vendor prompts"
+    },
+    "M26": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No generated video or export"
+    },
+    "M27": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No real watermark/terms/license evidence for account"
+    },
+    "M28": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "No publication approval/archive commit"
+    },
+    "M29": {
+      "status": "NOT_CHECKED",
+      "evidence_or_remedy": "Upstream change impact cannot be fully cleared"
+    },
+    "M30": {
+      "status": "PASS_PLANNING_ONLY",
+      "evidence_or_remedy": "Portable text/CSV/JSON prompt package delivered"
+    }
+  },
+  "exceptions": [
+    "Exact total duration selected as a PROPOSAL rather than represented as user-selected runtime",
+    "Character canon and likeness permissions unverified; only previously generated fictional draft art in source",
+    "Comic source visually enlarged from earlier lower-resolution generator sheets; some text and faces vary",
+    "No clean crop/reference frames created as user commissioned only text prompts",
+    "Platform usage balances, model controls, upload eligibility, geographic availability, export rights and watermark constraints not tested",
+    "No generated clips, no edit, no final video; editing walkthrough follows when user supplies generated video files",
+    "Public terminal question exact in private editor guide only, never leaked answer key"
+  ],
+  "publication_eligible": false
+}

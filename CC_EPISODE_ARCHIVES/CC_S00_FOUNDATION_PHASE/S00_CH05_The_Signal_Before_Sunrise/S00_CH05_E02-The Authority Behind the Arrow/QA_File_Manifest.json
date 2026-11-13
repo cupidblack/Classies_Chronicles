@@ -1,0 +1,138 @@
+{
+  "package": "Classies S00 CH05 E02 — provisional episode and internal ledger",
+  "created_utc_date": "2026-11-13",
+  "operation": "EPISODE_EDITORIAL_SYNTHESIS_NOT_DEFINITIVE_COMPILATION",
+  "working_episode_id": "S00_CH05_E02",
+  "draft_revision": "EP-ED-01",
+  "editorial_state": "UNREVIEWED",
+  "persistence_state": "DRAFTED_NOT_COMMITTED",
+  "release_state": "NOT_ELIGIBLE",
+  "derivative_state": "NOT_COMMISSIONED",
+  "underlying_sources": "E02.01–E02.08 folder entries; eight installments over ten weekday dates; original E02.01/E02.02 files not directly retrieved",
+  "checks": {
+    "ten_daily_scene_headings": true,
+    "eight_archived_installments_ten_scene_dates": true,
+    "one_episode_terminal_challenge": true,
+    "all_B1_to_B8": true,
+    "all_Q01_to_Q16": true,
+    "handover_has_15_items": true,
+    "source_gap_declared": true,
+    "character_delta_files_count": true,
+    "no_restricted_answer_generated": true,
+    "news_time_correct": true
+  },
+  "files": {
+    "Character_Memory_Strategy_INTERNAL.md": {
+      "size_bytes": 4682,
+      "sha256": "4b09e470d1c57defde3cb27b1f746ae5ec74e4356341c78859bb02091dac7c5c"
+    },
+    "README_INTERNAL.md": {
+      "size_bytes": 1839,
+      "sha256": "ca2098b58f1b3c6d36ae18a530d6bfd5c503bf93e9124de3cec3690dc737dc23"
+    },
+    "S00_CH05_E02-The_Authority_Behind_the_Arrow_INTERNAL.txt": {
+      "size_bytes": 70175,
+      "sha256": "122377152fae5409c254e0b4bd4e42781b02e7e73fd326e94a1620b6a82f1340"
+    },
+    "S00_CH05_E02_Combined_INTERNAL_Episode_and_Handover.md": {
+      "size_bytes": 70175,
+      "sha256": "122377152fae5409c254e0b4bd4e42781b02e7e73fd326e94a1620b6a82f1340"
+    },
+    "S00_CH05_E02_Output_A_Provisional_Episode.md": {
+      "size_bytes": 29140,
+      "sha256": "d2f324f487544acd5acb7d2dde98c38e5842b3409aae8e20b8896c6f7294a13b"
+    },
+    "S00_CH05_E02_Output_B_INTERNAL_Continuity_Ledger_Handover.md": {
+      "size_bytes": 40833,
+      "sha256": "5448deb1ba1971775e51315d467a98ee43ad2a8786000e39b6d8970d0944243b"
+    },
+    "character_relationship_deltas/BONSU_BOLT/BONSU_BOLT_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 857,
+      "sha256": "3fb92e2fd160349091575e811a612accc2548f2b802c7670380dae8b30cb735d"
+    },
+    "character_relationship_deltas/CEDA_BERTTO/CEDA_BERTTO_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 872,
+      "sha256": "f874f0f9165c1b8ffa6716a6e05f32a0afe687fa828f7c6ab0f5fe1720ee87aa"
+    },
+    "character_relationship_deltas/DEREK_SHIRASKA/DEREK_SHIRASKA_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 846,
+      "sha256": "ede6dd940fdd7d60880e952d51c760756e6e909593e6c5de7ba97854d1b1679a"
+    },
+    "character_relationship_deltas/EDLIEX/EDLIEX_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 859,
+      "sha256": "79a59210b825db4ad3461f2088683a1161a40ace7c441ea28f2f37579339ed52"
+    },
+    "character_relationship_deltas/ELIJAH_PETERS/ELIJAH_PETERS_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 865,
+      "sha256": "08dd11c9c24a9c765995e65ea98f28bd129701eabb7d38d84b01e4640927ec41"
+    },
+    "character_relationship_deltas/ENKA_YAMOAH/ENKA_YAMOAH_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 2525,
+      "sha256": "59e8dfcd03b545cda0e92399f4a870f90a12df0caede4645eafd73a65f08a363"
+    },
+    "character_relationship_deltas/GLORIA_MICA/GLORIA_MICA_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 838,
+      "sha256": "7d85568b398cb1976784aad5189f7c0fb2e0d94df7dccabdc7c9d6c6efa92427"
+    },
+    "character_relationship_deltas/INGRID_RAZAK/INGRID_RAZAK_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 827,
+      "sha256": "79905af53bfe1fc215b33d268f8a89fee817f38395516d7420c6f351b7162d01"
+    },
+    "character_relationship_deltas/ISAAC_BARRY/ISAAC_BARRY_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 854,
+      "sha256": "b76e71d8a57207ba55a3e9a27b0693e651d20abacea7d7908aea833c275c75b7"
+    },
+    "character_relationship_deltas/JAMES_EVANS/JAMES_EVANS_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 1675,
+      "sha256": "74bf078c79d908168b56d218cde1a889a2eac4f3761e81ff068bda2f2dfcf532"
+    },
+    "character_relationship_deltas/JOHNSON_ORTSIN/JOHNSON_ORTSIN_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 865,
+      "sha256": "269e2190968760bc1c14a279f29a8a40adf04af9ba366a5a7d53dc6018e74c34"
+    },
+    "character_relationship_deltas/JOSH_LAFA/JOSH_LAFA_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 831,
+      "sha256": "cd01927c86c5b5293535cb2ca4c305d43a6c37af9750a0e5c219328dfc1c0c6b"
+    },
+    "character_relationship_deltas/LOVEMORE_SAIGA/LOVEMORE_SAIGA_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 825,
+      "sha256": "be4e940cfc734e19b3a587b9195347e370ae316da71f7ffc726cebd34ad9d499"
+    },
+    "character_relationship_deltas/MATHIAS_AGBENORKU/MATHIAS_AGBENORKU_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 883,
+      "sha256": "01b8dfac551af981060a485c14071ba762ed9a42a3de76c2ddfcc009b7d20718"
+    },
+    "character_relationship_deltas/MATTHEW_EBENEZER/MATTHEW_EBENEZER_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 852,
+      "sha256": "771c7d6cd9cbf6061f895dd875038299cafc59a07a662e69318a40b72daaf1fa"
+    },
+    "character_relationship_deltas/MOSES_LARBI/MOSES_LARBI_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 838,
+      "sha256": "9e5ef9bd6fee7096b92ed048aa71344edc94e891e81a3a9a0b277a18b5ac0e93"
+    },
+    "character_relationship_deltas/MUBARAK_MOHSEN/MUBARAK_MOHSEN_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 858,
+      "sha256": "99eba5028ae951772f1d5c81a3f0b1ef0e4a16f16710bbe8cd4812bd7d5f5248"
+    },
+    "character_relationship_deltas/PASCAL_QUAGRAINIE/PASCAL_QUAGRAINIE_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 860,
+      "sha256": "c5cf82dc300194a0bad58523dcefbdd591286afb4b1ff59ef4ec0fdbfc228b93"
+    },
+    "character_relationship_deltas/TERRY_JOAN/TERRY_JOAN_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 840,
+      "sha256": "c3c46733aea0c51f3a6812c2ef100142c6b3a6b3e5c7bd942cdaec63644f1887"
+    },
+    "character_relationship_deltas/THOMISIA_DANIEL/THOMISIA_DANIEL_behavior_relationship_events_PROPOSED.jsonl": {
+      "size_bytes": 842,
+      "sha256": "29915fb4fe2dca2e41ef37725b383906c6c21e80a1258a631b1ee40d2cb4eb3e"
+    }
+  },
+  "checked_count": 10,
+  "check_total": 10,
+  "character_file_count": 20,
+  "comics_generated": 0,
+  "video_clips_generated": 0,
+  "audio_tracks_generated": 0,
+  "repo_commits": 0,
+  "restricted_challenge_keys": 0
+}

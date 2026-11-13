@@ -1,0 +1,23 @@
+provider,official_entry,confidence_A_to_D,public_allowance_and_critical_caveats,shot_fit,routing_priority,actual_user_balance,account_rights
+Google Flow,https://labs.google/fx/tools/flow,A,Google: 50 daily Flow credits even for non-subscribers; model-specific costs and account/region eligibility. Veo 3.1 Lite listed as 10 credits/generation for eligible non-Ultra; confirm I2V and 16:9 in UI.,Cinematic image-guided motion,FIRST,NOT_OBSERVED,NOT_VERIFIED
+Dreamina by CapCut,https://dreamina.capcut.com,A,"Provider advertises renewing daily allowance (120/day in published US FAQ); region, model cost, output use and watermark vary.",Longer or multi-reference cinematic motion,SECOND,NOT_OBSERVED,NOT_VERIFIED
+PixVerse,https://app.pixverse.ai,A,"Basic: 60 starter +30 daily credits, up to 540p, free output branding; model/clip cost varies.",Cheap draft animations and environmental plates,THIRD,NOT_OBSERVED,NOT_VERIFIED
+Viggle,https://viggle.ai,A,"5 free videos/day, eligible free image-to-video 5s, watermark and 7-day retention; choose for single-character motion.",Character animation if portrait permitted,OPTIONAL,NOT_OBSERVED,NOT_VERIFIED
+Canva Image to Video,https://www.canva.com,B,"Monthly free AI allowance when eligible; fixed 5-second I2V, same aspect as source; limited face motion.",Subtle still and illustration animation,OPTIONAL,NOT_OBSERVED,NOT_VERIFIED
+Leonardo.Ai,https://leonardo.ai,B,150 free tokens per day; free video model/cost and public creations require verification.,Stylized motion experimentation,OPTIONAL,NOT_OBSERVED,NOT_VERIFIED
+Adobe Firefly,https://firefly.adobe.com,B,Plan/model specific generative video entitlement; unclear universal free allowance for full 16:9 I2V.,Controlled professional workflow when eligible,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+SeaArt AI,https://www.seaart.ai,B,"Daily stamina exists, but whether selected video model uses free stamina varies.",Illustrated animation trials,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Vidu,https://www.vidu.com,B,Login/promotional allowances fluctuate; verify daily renewal and image-to-video model.,Reference-guided scene movement,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Vidnoz,https://www.vidnoz.com,B,Talking-photo/avatar focus; not a general-purpose cinematic I2V guarantee.,Avatar snippets only if voice/likeness cleared,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+HeyGen,https://www.heygen.com,B,"Limited monthly avatar clips, license and image animation features vary.",Talking head only with appropriate clearance,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Google Photos,https://photos.google.com,B,"Supported-account daily photo-to-video limited effects, weak directed comic-shot control.",Short image effects,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Google Vids,https://vids.google.com,B,Workspace/consumer allocations vary; image-led mode separate from Google Flow.,Editing/presentation support,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Krea,https://www.krea.ai,B,"Daily compute units advertised, free video mode uncertain; confirm in account.",Image prep and conditional video,CONDITIONAL,NOT_OBSERVED,NOT_VERIFIED
+Kling AI,https://klingai.com,C,"Free video allowances and region restrictions change, not proven universally renewing.",Motion-intensive scenes if account qualifies,UNVERIFIED,NOT_OBSERVED,NOT_VERIFIED
+Hailuo AI,https://hailuoai.video,C,Welcome/promotion credits may be one-time; recurring allowance unproven.,Motion quality experiments,UNVERIFIED,NOT_OBSERVED,NOT_VERIFIED
+Luma Dream Machine,https://dream-machine.lumalabs.ai,C,"Limited draft I2V, generally restricted personal/non-commercial free use.","Atmosphere tests, not automatic release",RESTRICTED,NOT_OBSERVED,NOT_VERIFIED
+Vidful,https://vidful.ai,C,No sufficiently strong official recurring-free evidence.,Experimental,UNVERIFIED,NOT_OBSERVED,NOT_VERIFIED
+Pollo AI,https://pollo.ai,D,Free daily photo editing not proof of free recurring video generation.,Conditional only,NOT_BUDGETED,NOT_OBSERVED,NOT_VERIFIED
+Seedance.ai independent service,https://www.seedance.ai,C,"Independent domain, source/privacy/rights and renewal not established; do not equate with ByteDance first party.",Experimental only,UNVERIFIED,NOT_OBSERVED,NOT_VERIFIED
+Runway (extra; not renewing),https://runwayml.com,D,"125 ONE-TIME free credits, not daily/monthly; separate paid tiers.",One-time quality trial,ONE_TIME_TRIAL,NOT_OBSERVED,NOT_VERIFIED
+Pika (extra; not renewing),https://pika.art,D,Free monthly video credits may be 0 in current pricing; do not rely on old claims.,Paid option after verification,NOT_BUDGETED,NOT_OBSERVED,NOT_VERIFIED

@@ -64,6 +64,8 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-
 
 <<STOP Master_Comic_Generation_Prompt SET>>
 
+Note that comics have been generated for previous chronicles and should be used as reference for episode continuity; especially for character appearance. 
+
 After generating the Classies Chronicles episode comic pages, wait for my prompt to use the following 'Master_Media_Generation_Prompt' set to generate the media for the produced Classies Chronicles episode:
 
 <<START Master_Media_Generation_Prompt SET>>
@@ -149,7 +151,19 @@ Each character must perform within the context of their character cannon and job
 
 10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
 
-11. Include a brief preview for the next episode.
+11. Only use the title of each daily chronicle without the date and prefixed with the part number. For instance, S00_CH05_E02.05-The Copies That Agreed for Friday November 5th would be labeled as:
+
+Part 5: The Copies That Agreed
+
+The date could, however, be mentioned during the part if necessary.
+
+12. The reader should feel as though the chronicles are real so there should be no mention of imaginary Koware headquarter, fictional roles or characters.
+
+13. Include a brief preview for the next episode.
+
+14. Note that following update to the Koware Headquarter: The Koware Group occupies 5 single story 3 bedroom apartment blocks clustered in a group so that all the blocks share a boundary line with at least one other department in another 3 bedroom apartment block. The clustered apartment blocks are located in the New Legon Estates in Accra. Each apartment block is managed by one Koware Group department. The governing committee usually hires a conference hall at a convenient location in Accra for its quarterly governance meetings with some stakeholders, shareholders, Board of directors, two representatives from God as CEO, member representatives, and all top level managers. Video calls are managed for those who cannot be there. It is compulsory for leading top level job roles to be present. 
+
+14.i. Leading top-level job roles are organized by the department and voted for quarterly or annually. For instance, the top-level job roles of the IAPD Administrative department consists of the Corporate Secretary, the Administrative Auditor and the Legal Journalist. They may vote amongst themselves to assign one to lead and represent the department at the Koware Group Governance meetings. So the Legal Journalist may lead for a quarter or for a year as they top-level job roles may have agreed on.
 
 <<STOP NOTES>>
 
