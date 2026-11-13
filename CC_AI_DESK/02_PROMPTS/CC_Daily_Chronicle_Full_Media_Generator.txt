@@ -4,12 +4,20 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-21T17:34:44+00:00"}
+On Tuesday 10th November: {"iso":"2003-07-21T17:34:44+00:00"}
+On Wednesday 11th November: {{calculate estimated value}}
+On Thursday 12th November: {{calculate estimated value}}
+On Friday 13th November: {"iso":"2003-07-22T23:15:48+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
+On Tuesday 10th November: {"probe_iso":"2167-12-30T15:54:17Z","now_iso":"2026-11-10T07:29:23Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0403782000000000029782398769384599290788173675537109375,"amplitude_days":77137.801260799998999573290348052978515625,"probe_value_days":51549.35062800583546049892902374267578125}
+
+On Wednesday 11th November: {{calculate estimated value}}
+On Thursday 12th November: {{calculate estimated value}}
+
+On Friday 13th November: {"probe_iso":"2108-04-26T02:40:42Z","now_iso":"2026-11-13T19:35:18Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.034478399999999999325783761605634936131536960601806640625,"amplitude_days":76700.366489599997294135391712188720703125,"probe_value_days":29748.29541444810092798434197902679443359375}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -77,7 +85,7 @@ The following resources reference previously generated chronicles, episodes and 
 
 <<START CHRONICLE RESOURCES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give.txt
 
 https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-
 
@@ -116,7 +124,33 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/
 For instance, Bonsu Bolt, the Concierge Liaison's character cannon is: 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/BONSU_BOLT/BONSU_BOLT_character_cannon.md
 
-If still not found of is inaccessible, continue and report.
+If still not found of is inaccessible, continue and report at the end of te generated chronicle or episode.
+
+4. Always load all of the Koware Group's governance charters, governance references and job descriptions to support the dynamics of the characters with job roles in the Classies Chronicles. The following folder in the Koware_Management repository contains all of the Koware Group's governance charters, governance references and job descriptions:
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Governance_Charters
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Governance_References
+
+https://github.com/cupidblack/Koware_Management/tree/main/BlueCrown/Employment_Resources/Job_Descriptions
+
+Each character must perform within the context of their character cannon and job description.
+
+5. The Koware Group's Legal journalist always gets Koware's daily, weekly and episodic agenda immersed and involved in the current news headlines, both locally and internationally mainly by sharing the headlines and posting ongoing headlines on the Koware online and physical pinboard in the reception area where all employees get to see the posts. Some headlines can stay on the pinboard through episodes and even chapters, depending on how a headline might be trending, it's effect on the Koware Group and the headline's importance. Where a headline affects the Koware Group it is brought up in the meetings, discussed and relevant roles assigned appropriately to look deeper into the headline for potential advantages and resolutions.
+
+6. Employees looking into news headlines may at times need to travel to get more information, dispatch information or anything else. This would add to environment changes in each Daily Chronicle. For instance, a news headline or event about an upcoming military tech show might catch the attention of the Director of R&D, the R&D Lab Specialist and the lab liaison. After some discussions and reminders, two of them might team up and go to the event and bring back a report at the next Koware meeting.
+
+7. Employee's do not all need to be concerned on the same issue. Because of this, the storyline might change depending on the job roles being checked for the current day. For instance, the Janitor and the Maid might be more concerned about a news report on increased commuting fares or rumors circulating of a local artist whereas the Corporate Manager and Liaison Officer might be more concerned with news about client moving out of the country.
+
+8. Koware Group's AI called 'Edliex' (pronounced 'Alex') is active during the Koware Group meetings. The AI is set to listen during the first parts of the meeting then then set to give its feedback then activated into conversational mode. The AI generating the chronicle or episode can assume the role of Koware's AI 'Edliex' and apply reasoning and adjust responses appropriately as some AIs might have already generated responses for Edliex in prior chronicle or episode generations.
+
+9. Maintain exactly one slap stick humorous comic beat per daily chronicle.
+
+10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
+
+11. The character's daily diary could be a link to the character's blog if it is possible for a character's blog to be read for its latest posts. 
 
 <<STOP NOTES>>
 
@@ -126,7 +160,7 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.07-/S00_CH05_E02.07-.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.08-/S00_CH05_E02.08-.txt
 
 <<STOP PLATFORM RESPONSES>>
 

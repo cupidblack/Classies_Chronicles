@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-10",
+  "operation": "DAILY_CHRONICLE",
+  "source_specification_document_editions": "v0.08.00 (proposed, not ratified)",
+  "working_slot": "S00_CH05_E02.07 PROVISIONAL",
+  "states": {
+    "process": "DRAFTED_AWAITING_EDITORIAL_REVIEW",
+    "editorial": "UNREVIEWED",
+    "persistence": "DRAFTED_NOT_COMMITTED",
+    "release": "NOT_ELIGIBLE",
+    "derivative": "NOT_COMMISSIONED"
+  },
+  "calendar": {
+    "production_timezone": "Africa/Accra PROVISIONAL",
+    "observed_phase_start": "2026-10-16T00:00:00Z",
+    "first_monday_anchor": "2026-10-19",
+    "elapsed_days": 22,
+    "block_day": 8,
+    "candidate_episode_ordinal": 2,
+    "candidate_chronicle_ordinal": 7,
+    "candidate_chapter_working_day": 17,
+    "approval": "UNVERIFIED"
+  },
+  "observations": {
+    "live_historical_iso": "2003-07-21T17:42:43+00:00",
+    "live_probe_now_iso": "2026-11-09T22:16:23Z",
+    "live_probe_status": "STALE_FOR_TARGET_DATE",
+    "selected_fallback_probe_iso": "2167-12-30T15:54:17Z",
+    "selected_fallback_now_iso": "2026-11-10T07:29:23Z",
+    "fallback_status": "USER_SUPPLIED_NOT_LIVE"
+  },
+  "qa": {
+    "structure_tests": {
+      "A_challenge_occurrences": 1,
+      "A_ends_on_option_E": true,
+      "A_B_not_interleaved": true,
+      "A_question_options": true,
+      "B_all_sections": true,
+      "B_handover_15": true,
+      "B_all_Q_gates": true,
+      "B_restricted_key_absence_statement": true,
+      "B_all_payload_attributes": true,
+      "B_accepted_state_explicit": true
+    },
+    "Q_gates": {
+      "Q01_SCOPE": "PASS",
+      "Q02_CALENDAR": "FAIL_DEFINITIVE_ONLY",
+      "Q03_THREE_CLOCKS": "PASS_WITH_QUALIFICATION",
+      "Q04_IDENTIFIERS": "FAIL_DEFINITIVE_ONLY",
+      "Q05_CANON": "FAIL_DEFINITIVE_ONLY",
+      "Q06_ROLE_PROJECT": "PASS_DRAFT",
+      "Q07_STUDY": "PASS_WITH_DISCLOSED_OMISSION",
+      "Q08_VERSE_HS": "PASS_OUTLINE_SCOPE",
+      "Q09_RESEARCH": "PASS_SCOPED",
+      "Q10_RIGHTS": "FAIL_PUBLIC_RELEASE",
+      "Q11_STORY": "PASS_DRAFT",
+      "Q12_CHALLENGE": "PASS_STRUCTURAL",
+      "Q13_RECORDS": "PASS_LOGICAL_DRAFT",
+      "Q14_DERIVATIVES": "PASS",
+      "Q15_INTEGRITY": "PASS",
+      "Q16_BOUNDARIES": "PASS_FOR_LOCAL_FILES"
+    }
+  },
+  "files": [
+    {
+      "filename": "CC_S00_CH05_E02.07_2026-11-10_Output_A_PUBLIC_DRAFT.md",
+      "sha256": "fa89a0c1ae7a2d57cf1325dc3d0653b348c1384fec6d6b3782e705dd58aea272",
+      "bytes": 6121,
+      "words": 948,
+      "visibility": "PUBLIC_ELIGIBLE_DRAFT_NOT_APPROVED"
+    },
+    {
+      "filename": "CC_S00_CH05_E02.07_2026-11-10_Output_B_INTERNAL_Ledger_Handover.md",
+      "sha256": "7ee69fc5998a3119b41e3a1e66a268eb4231a4cdeb54472235ee6e2e29e058ff",
+      "bytes": 32770,
+      "words": 4076,
+      "visibility": "INTERNAL_ONLY"
+    },
+    {
+      "filename": "CC_S00_CH05_E02.07_2026-11-10_COMBINED_INTERNAL_Editorial_Copy.md",
+      "sha256": "a25a0fc106da8cce196bfb17b2acab9189d0dc22aee01b5a88b4b671cb760845",
+      "bytes": 39377,
+      "words": 5098,
+      "visibility": "INTERNAL_ONLY"
+    }
+  ],
+  "release_note": "The standalone A and combined internal editorial copy must not be confused. No external repository commit, license clearance, identity approval, challenge key, comic or media has been performed."
+}
