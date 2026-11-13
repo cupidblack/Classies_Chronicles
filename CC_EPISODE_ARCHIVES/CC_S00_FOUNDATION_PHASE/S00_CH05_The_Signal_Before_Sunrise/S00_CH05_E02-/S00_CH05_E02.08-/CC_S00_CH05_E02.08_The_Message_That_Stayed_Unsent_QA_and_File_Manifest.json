@@ -1,0 +1,161 @@
+{
+  "title": "S00_CH05_E02.08 — The Message That Stayed Unsent",
+  "status": "GO_WITH_OMISSIONS / PROVISIONAL / NOT_ELIGIBLE_FOR_PUBLICATION",
+  "date_coverage": [
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13"
+  ],
+  "publication_slot": "08 of 08 (consolidated last three working-day slots; provisional)",
+  "file_policy": "A separate from internal B; combined internal edition appends full B after A; not to release combined publicly",
+  "challenge_answer": "INTENTIONALLY_NOT_CREATED",
+  "comics_media": "NOT_COMMISSIONED; user will prompt separately",
+  "scripted_quality_checks": {
+    "A_contains_all_three_days": true,
+    "A_one_terminal_public_challenge": true,
+    "A_five_A_to_E_choices": true,
+    "B_all_eight_sections": true,
+    "B_sixteen_Q_gate_results": true,
+    "B_nineteen_logical_families": true,
+    "B_eight_check_day_characters": true,
+    "H_P_F_timezone_conversions_verified": true,
+    "One_explicit_slipstick_beat_in_manuscript": true,
+    "A_B_both_embedded_verbatim_in_combined": true,
+    "No_challenge_key_generated": true,
+    "No_comics_media_or_image_generated": true
+  },
+  "Q_gate_results": [
+    {
+      "gate": "Q01_SCOPE",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q02_CALENDAR",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q03_THREE_CLOCKS",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q04_IDENTIFIERS",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q05_CANON",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q06_ROLE_PROJECT",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q07_STUDY",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q08_VERSE_HS",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q09_RESEARCH",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q10_RIGHTS",
+      "status": "FAIL"
+    },
+    {
+      "gate": "Q11_STORY",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q12_CHALLENGE",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q13_RECORDS",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q14_DERIVATIVES",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q15_INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate": "Q16_BOUNDARIES",
+      "status": "PASS"
+    }
+  ],
+  "Q_gate_summary": {
+    "PASS": 8,
+    "FAIL": 8,
+    "NOT_RUN": 0,
+    "NOT_APPLICABLE": 0
+  },
+  "logical_ledger_family_names": [
+    "episode_manifest",
+    "episode_context_snapshot",
+    "source_snapshot_register",
+    "daily_chronicle_record",
+    "research_register",
+    "source_permission_register",
+    "role_project_log",
+    "mission_state_record",
+    "character_state_record",
+    "storyline_register",
+    "continuity_event_log",
+    "challenge_public_register",
+    "challenge_answer_key",
+    "production_manifest",
+    "service_card_register",
+    "editorial_decision_log",
+    "exception_conflict_register",
+    "validation_report",
+    "handover_record"
+  ],
+  "relevant_character_aliases": [
+    "JOSH_LAFA",
+    "TERRY_JOAN",
+    "PASCAL_QUAGRAINIE",
+    "VERONICA_SAMIATU",
+    "NANAYAA_ADOM",
+    "THOMISIA_DANIEL",
+    "INGRID_RAZAK",
+    "CEDA_BERTTO"
+  ],
+  "source_notes": "Sources and detailed exceptions recorded in Output B section B2. No accepted version, consent, calendar ratification, remote write or unrestricted release inferred.",
+  "files": [
+    {
+      "filename": "CC_S00_CH05_E02.08_The_Message_That_Stayed_Unsent_Output_A_PUBLIC_DRAFT.md",
+      "bytes": 13725,
+      "sha256": "c2daa0b705d8a34b8e51e18eeb5f11bfd3be7bc37e4332fcf7cf9dec2375b4b4",
+      "words_approx": 2143,
+      "access_classification": "PROVISIONAL_PUBLIC_FACING_NOT_RELEASE_APPROVED"
+    },
+    {
+      "filename": "CC_S00_CH05_E02.08_The_Message_That_Stayed_Unsent_Output_B_INTERNAL_Ledger_Handover.md",
+      "bytes": 39721,
+      "sha256": "666c3de77e6893669b9eb2c4518cdfc983a7f715a83ff7c9fc675466d78a8f68",
+      "words_approx": 5322,
+      "access_classification": "INTERNAL"
+    },
+    {
+      "filename": "CC_S00_CH05_E02.08_The_Message_That_Stayed_Unsent_INTERNAL_Complete_Chronicle_and_Ledger.md",
+      "bytes": 54231,
+      "sha256": "977a7df350495f627a326a3a0b6dbe0b03695fae7919bb6e2257aeaa95f30a3b",
+      "words_approx": 7560,
+      "access_classification": "INTERNAL"
+    },
+    {
+      "filename": "CC_S00_CH05_E02.08_The_Message_That_Stayed_Unsent_INTERNAL_Complete_Chronicle_and_Ledger.txt",
+      "bytes": 54231,
+      "sha256": "977a7df350495f627a326a3a0b6dbe0b03695fae7919bb6e2257aeaa95f30a3b",
+      "words_approx": 7560,
+      "access_classification": "INTERNAL"
+    }
+  ]
+}
