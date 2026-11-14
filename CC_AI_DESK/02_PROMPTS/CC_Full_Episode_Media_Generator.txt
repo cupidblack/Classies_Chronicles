@@ -14,29 +14,23 @@ Thoroughly review and analyze the following generated daily Classies chronicles 
 
 <<START DAILY CHRONICLES>>
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.01-The_Notice_in_Four_Languages
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.01/CC_S00_CH05_E02.01-The%20Notice%20in%20Four%20Languages-compiled.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.02-The_Cropped_Truth
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02/CC_S00_CH05_E02.02-The_Cropped_Truth(compiled).txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.03/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.04-The%20Instruction%20No%20One%20Could%20Sign
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.04/S00_CH05_E02.04-The%20Instruction%20No%20One%20Could%20Sign.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.05-The%20Copies%20That%20Agreed
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.05/S00_CH05_E02.05-The%20Copies%20That%20Agreed.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.06/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.07/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give.txt
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.08-The_Message_That_Stayed_Unsent
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.08/S00_CH05_E02.08-The_Message_That_Stayed_Unsent.txt
 
 <<STOP DAILY CHRONICLES>>
-
-Each chronicle resides in a text file in its chronicle folder. For instance:
-
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice
-
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt
 
 Reference the following 'Daily_Chronicle_Generation_Protocol' set to support with the generate the Classies Chronicles episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
 
@@ -64,7 +58,7 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-
 
 <<STOP Master_Comic_Generation_Prompt SET>>
 
-Note that comics have been generated for previous chronicles and should be used as reference for episode continuity; especially for character appearance. 
+Note that comics have been generated for previous chronicles and should be used as reference for episode continuity; especially for character appearance. Modify the prompt to generate four comic pages per 2x2 graphic collage instead of the previously proposed 16 comic pages per 4x4 graphic collage setup. The purposed is to improve the quality of the comic graphics.
 
 After generating the Classies Chronicles episode comic pages, wait for my prompt to use the following 'Master_Media_Generation_Prompt' set to generate the media for the produced Classies Chronicles episode:
 
@@ -86,7 +80,7 @@ The following resources reference previously generated chronicles, episodes and 
 
 <<START CHRONICLE RESOURCES>>
 
-https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow
 
 https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise
 
@@ -192,7 +186,7 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-/S00_CH05_E02-.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.txt
 
 <<STOP PLATFORM RESPONSES>>
 

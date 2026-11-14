@@ -8372,6 +8372,12 @@ The next stage is the Master Comic Generation Prompt v0.08.00. I will wait for y
 
 <<STOP CHATGPT-6>>
 
+<<START CHATGPT-7>>
+
+
+
+<<STOP CHATGPT-7>>
+
 <<START GITHUB-1>>
 
 # CLASSIES CHRONICLES  
@@ -10098,6 +10104,431 @@ These are draft narrative events, not verified real-world events or accepted fra
 **Overall:** Editorially unreviewed draft; not publication eligible. The episode story ends publicly at the challenge. The ledger above is internal-only and should be kept separate from any public-facing episode file.
 
 <<STOP GITHUB-5>>
+
+<<START GITHUB-6>>
+
+# CLASSIES CHRONICLES  
+## Season 00 — Foundation Phase  
+### Chapter 05 — The Signal Before Sunrise  
+### Episode 02 — The Authority Behind the Arrow
+
+**Provisional consolidated episode manuscript · Covers the ten working days from 2–13 November 2026 · Awaiting human editorial review**
+
+The eight supplied archive entries cover ten story days: the first seven entries each supply one day, while the eighth contains the movements for 11, 12 and 13 November. The episode below preserves that chronology. Conflicting drafts within the source files are treated as alternatives, not as events that all happened.
+
+---
+
+## Part 1: The Notice in Four Languages
+
+Four notices stood near a lift in Kuala Lumpur. Malay, English, Mandarin and Tamil carried the same urgent subject, but not the same direction. Three arrows indicated one stairwell; the fourth pointed elsewhere.
+
+At Koware’s New Legon offices, Enka studied the images without choosing an arrow.
+
+“Record what the notices say,” he told the team. “Record what we can verify. Don’t let one stand in for the other.”
+
+The Classies team’s assignment was observation and documentation. No one was authorized to test either route, alter a notice or issue instructions to the building’s occupants.
+
+That morning’s study-plan entry placed the reading in Week 96 of Eternal Dreamfall’s five-year plan: the Septuagint’s Leviticus and Numbers sequence. The plan gave a weekly corpus, not a verified daily passage. Enka reflected instead on the long journey a text makes between source and reader: a message can be translated, copied and distributed without its authority or meaning being established.
+
+Four languages had made the notices more accessible. They had not made four independent sources.
+
+Enka wrote three questions in his notebook:
+
+- What instruction was originally issued?
+- Who had authority to issue it?
+- Did each translation faithfully represent the authorized source?
+
+The notices remained in place, unresolved and unendorsed. The investigation had begun not with an answer, but with a boundary: the team could observe the documents; it could not decide which route people should take.
+
+---
+
+## Part 2: The Cropped Truth
+
+The next inquiry was not about the arrows alone. Enka asked the building manager to trace the notice’s history: who requested it, who wrote the original, who approved its translations, when the versions appeared and whether they had been circulated elsewhere.
+
+The questions were narrow on purpose. A finished page could hide the chain of people and decisions behind it. A photograph could crop out context; a translation could preserve its source’s error perfectly.
+
+The building manager agreed to search the administrative records. No original instruction appeared that day, and no explanation was established. The field team continued observing without approaching either stairwell.
+
+The possibility that three matching notices had come from a single source remained a hypothesis, not a finding. So did the possibility that the fourth was newer, older or simply wrong.
+
+Enka added a note beneath the photographs: **The first version of a story is not necessarily the complete version.**
+
+The next step was not to vote on the arrows. It was to find the records that could identify the instruction’s source and the authority behind it.
+
+---
+
+## Part 3: The Unsigned Fourth Notice
+
+The reply brought a distribution record, not the approval trail Enka had requested.
+
+It showed that copies of the notices had been circulated. It did not establish who approved the underlying instruction, whether the translations came from an authorized original or whether the directions remained current.
+
+Enka placed the register beside the four images and wrote two headings:
+
+**WHAT THIS RECORD SHOWS**
+
+**WHAT IT DOES NOT SHOW**
+
+The distinction changed the investigation. Distribution was evidence of distribution—not proof of authority.
+
+The field team confirmed that it had not followed either disputed direction or tested a route. The notices were evidence, Enka said, “not permission to improvise.”
+
+The team asked for the original instruction, the approval record, its effective date and the versions released. Until those records and the responsible local authority could be identified, the investigation remained open.
+
+A missing line on a form was not proof that approval had never happened. It was proof only that the available record did not show it.
+
+---
+
+## Part 4: The Instruction No One Could Sign
+
+The Millennium Probe’s displayed date had shifted again. In the laboratory, Enka and the R&D specialist kept the returned reading, its inputs, earlier observations and their interpretations in separate places in the record.
+
+The specialist explained the changing date as intentional under the Probe’s established design premise: the output recalculated in relation to historical data and the current date. That explanation did not verify every calculation, establish a new destination for the team or prove that anyone had moved through time.
+
+“Keep the raw response,” Enka said. “Keep the earlier readings too. Don’t replace one with another.”
+
+The team’s supplied geographic position remained Kuala Lumpur. Its individual members’ conditions and temporal positions were not established by the Probe display.
+
+An old design sheet on the console recalled Enka’s role in the Probe’s origins and the cloned Edubeam’s early association with the Micro Computer Technology Institute of London. Those details were part of the archive’s fictional continuity, not permission to invent a new capability or explain the emergency notices through the Probe.
+
+Two inquiries stayed separate: the authority behind the notices and the interpretation of changing Probe readings. Both required a record of what was returned, what might be inferred and what remained unverified.
+
+---
+
+## Part 5: The Copies That Agreed
+
+By Friday, the team had four notices, photographs, a distribution record and no authenticated original.
+
+Three copies appeared to agree. Gloria Mica, whose day-15 Faculty Coordinator role supported the episode’s document-review discussion, challenged the easy conclusion: three translations could all descend from the same unverified master. Their agreement might be repetition, not independent confirmation.
+
+Moses Larbi, the day-15 Quality Assurance & Compliance Manager, treated the disagreement as a potential safety concern, not a language puzzle to solve by majority vote. James Evans, the Director of Academic Programs, helped frame a clear request for the evidence and made sure uncertainty would not be disguised in the briefing.
+
+The day’s Verse of the Day in the supplied chronicle was Philippians 4:8. Its call to attend to what is true and worthy of careful thought became a standard for the investigation—not a shortcut to deciding which notice was correct.
+
+The Health & Safety material in the daily source connected hazard identification and risk assessment to the problem. The practical lesson was straightforward: preserve the conflicting versions, establish the potential risk through the responsible process, and do not endorse an unverified route.
+
+Accra’s reported road hazards and the reported disruption of electronic health-information systems offered separate reminders about hidden risks and records. They were not incidents at Koware and did not prove anything about Kuala Lumpur.
+
+The historical reference to Las Vegas in July 2003 remained a separate context, not a cause or explanation for the notice investigation. The Probe’s future-dated reading remained a separate reference, too.
+
+The team reached no verdict. It made progress by refusing to pretend it had one.
+
+---
+
+## Part 6: The Line Beneath the Arrow
+
+The next Monday, four notices lay across the table at Koware’s New Legon office. Johnson Ortsin, Programme Manager for the day-16 role check, unfolded a site plan.
+
+“If three copies say east, we have a majority,” he said.
+
+“Of paper,” Derek Shiraska replied, “not a verified exit.”
+
+Matthias Agbenorku, Director of Operations, brought the problem back to what the records established: a distribution work order could show that notices were put up without proving that their instructions were authorized or safe.
+
+Enka asked the group to find out who had the right to draw the arrow.
+
+The team prepared a narrow request for the responsible local safety authority. It would not conduct a route walk-through based on the disputed notices. The plan was also to distinguish a paper-based review from an actual inspection of the building.
+
+An Accra electricity-maintenance schedule was marked for readiness planning, with the affected area still to be confirmed. A published schedule did not establish what would happen to a particular Koware building.
+
+Later, a fictional field update linked Work Order 44-E to an older records transfer. A possible storage box had been located. It had not been opened.
+
+“We found the box,” Johnson said.
+
+“We found where the box is,” Derek corrected.
+
+The location of a possible record was a lead. Its contents, release authority and relevance remained unknown.
+
+---
+
+## Part 7: The Name the Paper Could Not Give
+
+The request form had a transfer reference, a date and a stamp. It still lacked the name of someone authorized to request the sealed records.
+
+Mubarak Mohsen, the day-17 Facility Manager, aligned the forms while Elijah Peter’s and Lovemore Saiga continued their work nearby. One label on a garden tray had a date but no plant name. It was accurate in one small respect and useless for identifying what grew there.
+
+The room’s question was larger: who could ask the custodian to release the box?
+
+Enka began to draft a message to Kuala Lumpur: *We have found the authorizing instruction. Proceed to check the route.*
+
+Mubarak stopped him.
+
+“We found a possible container for the instruction. The box is still sealed.”
+
+Enka deleted the sentence. The revised request sought confirmation of the issuing office’s authority, preservation of the conflicting notices and current guidance from the responsible local personnel. It did not claim the original had been found or authorize a route inspection.
+
+The story’s selected verse, Hebrews 4:16, prompted Enka to think about the courage required to ask the right person for help. The courage was not in filling the blank with a plausible name. It was in leaving it blank until the authority could be verified.
+
+Even a valid signature would not settle whether an old instruction still matched the building as it stood now.
+
+---
+
+## Part 8: The Message That Stayed Unsent
+
+### Wednesday — The Empty Space
+
+The reception pinboard had become a daily meeting point. The Legal Journalist kept headlines and developing reports visible, with their sources and status distinguished rather than blended into a single confident story.
+
+A draft about Kuala Lumpur said the notices had been approved and distributed.
+
+“Distributed is what the work order suggests,” the Public Relations & Press Coordinator said. “Approved is what we keep trying to prove.”
+
+The Marketing Manager withdrew a headline that made the unresolved matter sound settled. The Legal Journalist replaced **CONFIRMED** with **REPORTED** and left a space marked **AUTHORITY NOT YET VERIFIED**.
+
+The message to the field team was not published as a safety instruction. The original source, authorization and current building guidance were still missing.
+
+### Thursday — The Cost of a Wrong Verb
+
+The International Relations desk separated three questions: where the original instruction came from, who could authorize it, and who was responsible for checking whether it still fit the present building.
+
+The Global Partnerships Registrar organized the documents by number. The Global Partnerships Liaison kept a separate record of each language version. They did not treat a received message as proof of comprehension, or comprehension as permission.
+
+A Ghanaian budget item and a report about communications disruption appeared on the wider news board. The stories raised distinct questions about institutions and business continuity; neither was evidence of a Koware contract or a Koware outage. The team discussed a secondary contact channel and offline records as proposals, not completed organizational changes.
+
+Beside the Kuala Lumpur file, the Registrar wrote: **Location indicated; contents unknown; release authority unresolved.**
+
+The note did not solve the mystery. It prevented the mystery from being mistaken for a solution.
+
+### Friday — The Unsent Instruction
+
+The pinboard carried reports about Ghana’s proposed New Economy investment programme, the Ecobank JoyBusiness SME Fair at Accra Mall, the Ghana Stock Exchange’s exploration of blockchain, Telecel’s reported digital-commerce platform and a Microsoft service disruption affecting Outlook and Teams. These were reported developments in the supplied research, not proof of Koware’s participation or direct impact.
+
+The Events & Tours Coordinator saw the SME Fair as a possible opportunity for staff to observe businesses. The Community Outreach Officer wanted to identify relevant exhibitors. The Booking Agent kept expressions of interest apart from confirmed arrangements. No one put a booking, expenditure or attendance commitment in the “confirmed” column without confirmation.
+
+The Kuala Lumpur file still had no authoritative instruction. The possible box had a location but remained sealed. Even if it were opened, the contents would need to be authenticated, traced to an approving authority and compared with current building conditions.
+
+At the morning meeting, Edliex listened while the initial discussion proceeded. When invited to give feedback, the AI pointed out the same distinction appearing in both the event planning and the emergency-notice inquiry: an acknowledgement was not an authorization; receiving a document did not establish that it was the current approved instruction.
+
+The meeting moved into conversational mode. Edliex asked whether the team could establish the source, approving authority and evidence that the right version reached the intended recipients. The team recorded those as questions to investigate, not findings already reached.
+
+The office’s five single-story, three-bedroom apartment blocks stood clustered in New Legon Estates, with each department occupying a block that shared a boundary with at least one other. The ordinary closeness of the departments made coordination easy; it did not erase the boundaries between their responsibilities. Quarterly governance meetings, when due, belonged in a hired conference hall in Accra, with video participation for those unable to attend—not in an improvised office meeting that claimed powers it did not have.
+
+One briefing folder reached the reception pinboard. As the Booking Agent tried to secure the notices, the bottom row detached, sending sheets, photographs and drawing pins across the desk. Everyone stared at the scattered papers. Then the Community Outreach Officer laughed. Edliex paused and observed: “Distribution confirmed. Display integrity failed.”
+
+It was the day’s only slapstick beat. The board was repaired; the headlines were rehung with their labels intact.
+
+The three-clock record remained separate: production present in Accra, a historical reference associated with Las Vegas in July 2003, and a supplied future Probe timestamp associated with Kuala Lumpur. The historical and Probe values in the daily material were not a single verified live episode-wide reading. Neither established the field team’s temporal position.
+
+At day’s end, Enka returned to the supplied Verse of the Day, Psalm 139:10. Its image of guidance resonated with the question the whole investigation had been asking: when a direction is incomplete, the responsible next step is not to pretend it is complete.
+
+The message Enka had almost sent remained unsent. It claimed the team had found an authorizing instruction when the evidence showed only that a possible storage box had been located.
+
+The ten-day inquiry had established a careful boundary:
+
+The notices had been distributed.  
+The transfer record existed.  
+A possible box had been located.  
+The issuing authority had not been established.  
+The original instruction had not been authenticated.  
+The present building conditions had not been reconciled with the disputed arrows.  
+The team had not been authorized to test a route.
+
+The investigation remained open. The next message would have to say no more—and no less—than the evidence allowed.
+
+---
+
+## The Classies Challenge — The Authority Maze
+
+Across the ten working days, the team encountered photographs, translations, a distribution register, a work order, a transfer reference, a sealed box, a request with an empty authority line, competing reports, a proposed event booking and several clocks. Each daily challenge supplies a **case token** when solved. In a later game implementation, tokens could unlock tools or hints; Palmier points and Buzzjuice scores remain **TODO—not active rewards**.
+
+**Using the evidence trail built across all ten days, what ordered verification plan would let the team distinguish (1) proof that the notices were distributed, (2) proof of who authorized the original instruction, (3) proof that each translation and copy matches the authorized version, and (4) proof that the instruction remains suitable for the building today—while keeping the team within its observational role and communicating no unverified route as current guidance?**
+
+---
+
+# Episode Continuity Ledger & Production Handover
+
+**Classification:** Internal editorial working material  
+**Working episode identity:** `S00_CH05_E02`  
+**Working episode title:** *The Authority Behind the Arrow*  
+**Editorial status:** Provisional consolidated draft; awaiting human editorial review  
+**Persistence:** `DRAFTED_NOT_COMMITTED`  
+**Release:** `NOT_ELIGIBLE`  
+**Derivatives:** Not commissioned; no comic pages, images, video or audio generated  
+**Restricted answer key:** **RESTRICTED OUTPUT NOT CREATED; HUMAN SECURE CUSTODY REQUIRED**
+
+## B1 — Run and temporal manifest
+
+- **Coverage:** Monday 2 November through Friday 13 November 2026.
+- **Episode structure:** Ten working days across two weeks. The first seven supplied archive entries cover days 1–7; the eighth archive entry contains days 8–10.
+- **Working archive reference:** `S00_CH05_E02`. Its relationship to legacy `S00_T05_E02` naming and an approved calendar remains unverified.
+- **Provisional calendar arithmetic:** Supplied source material identifies a phase beginning 16 October 2026. Under the candidate first-Monday rule, the anchor is 19 October; the episode dates calculate to 2–13 November. This is a plausible reconstruction, **not an approved effective-dated calendar assignment**.
+- **Chapter working days:** The episode maps provisionally to days 11–20 of the 40-day chapter schedule. Day checks represented in the source material include:
+  - Day 11: R&D roles.
+  - Days 14–15: academic-program roles.
+  - Day 16: Programme Manager, Director of Operations and Production Coordinator.
+  - Day 17: Facility Manager, Facility Butler and Landscape Gardener.
+  - Day 18: Public Relations and Marketing.
+  - Day 19: International Relations and Global Partnerships.
+  - Day 20: Events, Community Outreach and Booking.
+- **Three clocks:** Preserve each daily source’s own historical and Probe observations. Do not merge differing values into one episode-wide timestamp or infer a team’s temporal position from a Probe timestamp.
+- **Locations:** Koware’s clustered five-block New Legon Estates setting; the Kuala Lumpur notice investigation; Las Vegas as a historical-reference location in the source material. Individual field-team locations and conditions are not independently established.
+- **Production baseline:** The supplied v0.08.00 documents identify themselves as proposed working candidates, not proof of owner ratification.
+
+## B2 — Research and source register
+
+### Primary supplied narrative sources
+
+1. E02.01 — *The Notice in Four Languages*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.01/CC_S00_CH05_E02.01-The%20Notice%20in%20Four%20Languages-compiled.txt)
+2. E02.02 — *The Cropped Truth*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02/CC_S00_CH05_E02.02-The_Cropped_Truth(compiled).txt)
+3. E02.03 — *The Unsigned Fourth Notice*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.03/S00_CH05_E02.03-The%20Unsigned%20Fourth%20Notice.txt)
+4. E02.04 — *The Instruction No One Could Sign*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.04/S00_CH05_E02.04-The%20Instruction%20No%20One%20Could%20Sign.txt)
+5. E02.05 — *The Copies That Agreed*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.05/S00_CH05_E02.05-The%20Copies%20That%20Agreed.txt)
+6. E02.06 — *The Line Beneath the Arrow*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.06/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow.txt)
+7. E02.07 — *The Name the Paper Could Not Give*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_the_Arrow/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.07/S00_CH05_E02.07-The%20Name%20the%20Paper%20Could%20Not%20Give.txt)
+8. E02.08 — *The Message That Stayed Unsent*  
+   [Source file](https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.08/S00_CH05_E02.08-The_Message_That_Stayed_Unsent.txt)
+
+**Path note:** The supplied E02.07 link resolves to the archive path shown in the source list; the attempted read used the corresponding archive folder. Check the precise repository path before any later archive write.
+
+### Reconciliation of source conflicts
+
+- Several daily files contain competing platform drafts, not one accepted account. Their presence does not establish consensus or canon.
+- E02.03 has title variants including *The Missing Approval Line*; the episode retains the archive title supplied by the user.
+- E02.04 has variants including *The Date That Would Not Stay Still*. This episode keeps the supplied archive title and uses only the cautious distinction between a Probe reading and a team’s position.
+- Some E02.03/04 drafts add an emergency alarm, revised route sheets, fire drills or other decisive events; those details are not consistently supported across the supplied material and were not treated as settled events here.
+- The E02.08 source combines three working days. They are presented as three movements inside Part 8, not as three new archive chronicles.
+- The supplied prior platform response, `S00_CH05_E02.txt`, contains conflicting proposals. Its claims of accepted continuity, settled role assignments, authoritative Probe interpretation, complete source review or final production status are not treated as approval evidence.
+
+### Eternal Dreamfall, Verse of the Day and Health & Safety
+
+- **Bible study:** The retrieved reading plan identifies Week 96 as the Septuagint’s Leviticus and Numbers sequence. The cited file does not itself establish a date-to-week anchor or daily assignment for every date. The episode uses the broader theme of transmission and faithful handling, without inventing a daily passage.  
+  [Reading plan](https://github.com/cupidblack/Classies_Chronicles/blob/main/Eternal_Dreamfall_Bible_Study/list_of_biblical_texts-5_year_reading_plan-1.txt)
+- **Verse of the Day:** The episode selects Psalm 139:10, which the E02.08 material identifies as the 13 November YouVersion verse. Earlier source days cite other verses, including Philippians 4:8. This selection is a thematic editorial choice for the compiled episode; the daily attributions have not been independently reverified here.  
+  [YouVersion Verse of the Day](https://www.bible.com/verse-of-the-day)
+- **Health & Safety topic:** Hazard identification, risk assessment, careful preservation of conflicting safety information, and reliance on the responsible local authority for current guidance. The supplied daily materials contain inconsistent course-code/lesson claims; this episode does **not** claim a specific lesson was completed or attribute specific course content beyond what the sources support.  
+  [Buzzjuice Health & Safety outline](https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Health_Safety/HEALTH_%26_SAFETY-PROGRAM_OUTLINE_1.03.txt)
+
+### News and events
+
+The daily source files and previous responses mention Accra transport, electricity maintenance, road hazards, health-information systems, Ghana’s proposed New Economy investment, the SME Fair, blockchain, digital commerce, Microsoft services and other Ghanaian and international stories. Those are treated as **reported headlines from the supplied source material**, not as independently verified claims in this compilation, and not as evidence of Koware participation or impact.
+
+The SME Fair is used as a potential event for research and possible attendance. The Booking Agent’s distinction between interest, acknowledgement and a confirmed booking is preserved. Attendance, reservation, expenditure and partnership are not represented as confirmed.
+
+### Koware governance, roles and action plans
+
+- The aliased organizational chart was retrieved and used for chapter-day role context. It supports the role names and day checks, but does not prove a person attended or performed a fictional action.  
+  [Organizational chart](https://github.com/cupidblack/Koware_Management/blob/main/Organizational_Chart_Structure-Aliased_Checks.txt)
+- The supplied governance-reference notes describe the chart as interpretive and not an adopted charter or verified statutory authority. A complete retrieval of all governance charters and all job descriptions was **not established** during this run; no claim is made that every document was read.
+- The 2026 action plan is a collection of proposals. Its course, Oxford House, service-card, fundraising, accreditation and reporting goals are used as follow-up planning topics, not claims of completed work.  
+  [2026 Annual Action Plan](https://github.com/cupidblack/Koware_Management/blob/main/Action_Plans/Annual%20Act%C3%AFon%20Plan%20-%202026.txt)
+- Proposed follow-ups for editorial review:
+  - Legal Journalist: maintain source, publication date, verification status and relevance on the reception and online pinboards.
+  - Events & Tours Coordinator, Community Outreach Officer and Booking Agent: assess the SME Fair and report any verified arrangements; keep interest separate from confirmed attendance.
+  - International Relations and Global Partnerships roles: assign due diligence and translation/version tracking only if an opportunity is formally considered.
+  - Academic and Quality Assurance roles: identify reviewers and evidence needed for Health & Safety course and accreditation work.
+  - Programme Manager and Director of Operations: maintain an action tracker and report unresolved dependencies to supervisors.
+  - Finance roles: verify funding and approvals before spending or treating targets as achieved.
+- No task completion, project milestone or real Koware decision is asserted by the fictional narrative.
+
+### Character and portrayal status
+
+The Enka Yamoah role-facet file is explicitly a draft proposal with consent and public-portrayal approval unverified; the Cupid Black canon is a separate working canon with boundaries on identity and abilities. Other characters’ files and portrayal permissions were not comprehensively verified for this episode. Archive access is not permission to publish a recognizable real-person portrayal. The manuscript is therefore an editorial draft, not an assertion that consent, canon promotion or release approval exists.
+
+## B3 — Character, Koware role and project register
+
+| Story role / character | Episode use | Continuity and authority boundary |
+|---|---|---|
+| Enka / Corporate Manager | Keeps evidence, inference and authority separate; does not decide the building’s safety procedure. | Do not reveal the Cupid Black identity to staff without accepted continuity; do not grant new powers or mission authority. |
+| R&D specialist | Keeps Probe readings and earlier snapshots in separate records. | No unverified calculation, travel or mission-state change. |
+| James Evans, Gloria Mica, Moses Larbi | Academic, faculty-coordination and QA perspectives on source quality and safe communication. | Role-day context is not proof of real attendance or action. |
+| Johnson Ortsin, Matthias Agbenorku, Derek Shiraska | Programme, operations and production perspectives; turn a rushed plan into a documented review. | New actions remain proposed fictional events. |
+| Mubarak Mohsen, Elijah Peter’s, Lovemore Saiga | Facility, records and landscape-setting roles in the archive’s day-17 material. | No real-person biography or actual facility action asserted. |
+| Legal Journalist; PR and Marketing functions | Separate confirmed, reported and unresolved claims. | No official legal or public authority inferred from a job title. |
+| International Relations and Global Partnerships functions | Keep document versions, translations and cross-border reporting distinct. | No contract, legal determination or partnership is claimed. |
+| Events & Tours, Community Outreach and Booking functions | Evaluate a possible SME Fair visit and distinguish interest from confirmation. | No booking, travel or expenditure is asserted. |
+| Edliex | Listens during the initial meeting; gives feedback when invited; then participates conversationally. | The episode’s generated dialogue is fictional; no real organizational AI deployment or meeting is asserted. |
+
+## B4 — Mission and technology state
+
+- **Notice investigation:** Open. The team has not authenticated the original instruction, identified its approving authority or established that any version is current.
+- **Field-team posture:** Observation and documentation only, as carried by the source chronicles. Roster, individual condition, equipment, communications and temporal position are not independently established.
+- **Sealed box:** A possible storage location is reported in the story material. Contents and release authority remain unknown.
+- **Probe:** The sources contain varying readings. Preserve each reading with its original source date; do not average, overwrite or present a future timestamp as current reporting.
+- **Edubeam:** No new capability, deployment, retrieval, intervention, contact or change of team location is established.
+- **Safety:** No route is declared safe. Current guidance belongs to the responsible, qualified local authority using current conditions and procedures.
+
+## B5 — Append-only continuity and story ledger
+
+**Accepted pre-state:** No human-accepted episode revision or accepted-event head was established from the supplied materials. Events below are proposed episode-draft continuity only.
+
+| Proposed event | Status |
+|---|---|
+| Four-language notices conflict; the field team observes without selecting a route. | `FICTIONAL_DRAFT` |
+| The building manager supplies a distribution record that does not establish authorization. | `FICTIONAL_DRAFT` |
+| The Probe reading is recorded separately from interpretation and the team’s geographic position. | `FICTIONAL_DRAFT`; no new technology rule |
+| The team requests the original instruction, approval record and version history. | `FICTIONAL_DRAFT` |
+| Work Order 44-E and a possible storage box are treated as leads, not proof of authorization or contents. | `FICTIONAL_DRAFT` |
+| The team keeps its observational boundary; the current building layout remains unchecked. | `FICTIONAL_DRAFT` |
+| The Legal Journalist distinguishes “reported” from “confirmed”; proposed event attendance is kept separate from confirmed booking. | `FICTIONAL_DRAFT` |
+| Edliex identifies the difference between acknowledgement, receipt and authorization in the meeting. | `FICTIONAL_DRAFT` |
+| The pinboard’s bottom row detaches once, scattering papers and drawing pins. | `FICTIONAL_DRAFT`; the episode’s sole slapstick beat |
+| Enka withholds a message that would claim the authorization had been found. | `FICTIONAL_DRAFT` |
+
+**Proposed post-state if accepted:** The notice inquiry remains unresolved; the box remains unopened; no route is endorsed; Probe interpretation remains separate; the SME Fair visit is not confirmed; no action-plan milestone is promoted from proposal to completed work.
+
+## B6 — Portable production handover
+
+1. **Identity and revisions:** Provisional episode `S00_CH05_E02`, *The Authority Behind the Arrow*. Ten working days represented in eight archive entries. This manuscript is unreviewed and not committed.
+2. **Calendar:** 2–13 November 2026 is a plausible reconstruction from supplied phase information, not an authorized calendar record.
+3. **Temporal and spatial snapshot:** Keep Accra production scenes, Las Vegas historical-reference material, and Kuala Lumpur field/Probe material distinct. Do not infer individual team positions or temporal location.
+4. **What happened:** Four notices conflict; records show circulation, not authority. A possible box is located but remains unopened. No instruction has been authenticated.
+5. **Character projection:** Enka remains within his Corporate Manager role and does not reveal a hidden identity. Named roles and relationships remain subject to canon and portrayal review.
+6. **Mission projection:** Observation-only; no new deployment, route test, intervention, return or communication capability.
+7. **Organization and projects:** Role-day assignments are contextual. The 2026 action plan is proposed; all project assignments and follow-ups require actual supervisor review and evidence.
+8. **Study and learning:** Week 96 study-plan theme retained without inventing a daily passage. Psalm 139:10 is the selected episode verse based on the supplied E02.08 attribution. General hazard-identification and safe-communication lessons are used; course completion is not claimed.
+9. **Research provenance:** News items are reported in supplied materials and require source/date verification before public factual use. Future Probe values are not future journalism.
+10. **Storyline state:** Notice origin, approval, translation lineage, effective version, box contents, current building suitability and responsible authority all remain open.
+11. **Challenge:** The Authority Maze is the episode’s single public challenge. No answer or answer rationale is included in this handover.
+12. **Derivatives:** Comic, image, audio, video, Service Card and reward integrations are `NOT_COMMISSIONED`. Any later comic must use the requested four-page 2×2 collage setup and approved character references.
+13. **Open decisions:** Calendar and identifier crosswalk; accepted daily revisions; character portrayal and visual rights; current source verification; reading-plan date anchor; exact H&S course attribution; secure challenge custody; action-plan authority.
+14. **Next eligible episode:** Provisional Episode 03 would begin Monday, 16 November 2026 under the candidate calendar arithmetic. Recheck the approved calendar, accepted episode state, mission roster and current Probe snapshot before writing. Do not infer a future timestamp or roster from this ledger.
+15. **Operational truth:** This is a response draft. No repository write, commit, approval, publication, asset render or secure answer-key operation has been performed.
+
+### Brief preview — next episode
+
+The next episode can open with a fresh review of the sealed-record request and the notice investigation’s unresolved evidence, alongside a verified follow-up on any SME Fair attendance proposal. The day-21 chart check includes governance-level roles; the episode should verify the effective role chart and not assume that chart placement grants statutory or signing authority. The team to be deployed through the Edubeam and any estimated probe details remain **unassigned and unverified**: first retrieve the accepted mission record and a fresh Probe snapshot. If a team returns, its report should separately document evidence about the original instruction, approval authority, translations, current building layout and custody of the box. Until then, no mission return or new deployment is assumed.
+
+## B7 — Derivative/media and challenge status
+
+- Episode manuscript: `DRAFTED`; awaiting editorial review.
+- Public question: included once at the end of Output A.
+- Restricted answer: **RESTRICTED OUTPUT NOT CREATED; HUMAN SECURE CUSTODY REQUIRED**.
+- Comics and media: `NOT_COMMISSIONED`; no prompts or assets created.
+- Visual references: not audited comprehensively; no new character collages generated.
+- Palmier points/Buzzjuice scores: future design idea only; no reward system is active or authorized.
+
+## B8 — Validation, exceptions and approval register
+
+| Gate | Result | Evidence / limitation |
+|---|---|---|
+| `Q01_SCOPE` | PASS | Episode compilation only; no comic, media, archive write or publication. |
+| `Q02_CALENDAR` | NOT_RUN for definitive assignment | Date arithmetic is plausible, but approved calendar and timezone were not verified. |
+| `Q03_THREE_CLOCKS` | PASS with qualifications | Historical, production and Probe contexts remain separate; daily snapshots vary. |
+| `Q04_IDENTIFIERS` | NOT_RUN for canonical crosswalk | Existing episode archive identity retained provisionally; legacy mapping not verified. |
+| `Q05_CANON` | NOT_RUN for definitive portrayal | Individual canon and portrayal clearances were not comprehensively verified. |
+| `Q06_ROLE_PROJECT` | PASS with qualifications | Role chart used for narrative context; no real attendance or work completion claimed. Action plans remain proposals. |
+| `Q07_STUDY` | PASS with qualification | Week 96 content retrieved; approved date anchor and daily assignment not established. |
+| `Q08_VERSE_HS` | PASS with qualification | Psalm 139:10 selected from supplied E02.08 attribution; exact H&S lesson attribution remains unverified. |
+| `Q09_RESEARCH` | PASS with omissions | News is presented as source-reported context; independent fact-checking remains outstanding. |
+| `Q10_RIGHTS` | NOT_RUN | Consent and public-portrayal permissions were not established. |
+| `Q11_STORY` | PASS for editorial draft | One chronological narrative integrates all eight supplied entries and the three movements in E02.08. |
+| `Q12_CHALLENGE` | PASS for draft structure | One terminal, episode-level challenge; no answer included. |
+| `Q13_RECORDS` | PASS with qualification | B1–B8 supplied; events remain proposed and no persistent ledger was written. |
+| `Q14_DERIVATIVES` | PASS | No uncommissioned comic or media generated. |
+| `Q15_INTEGRITY` | PASS | No approval, retrieval, commit, publication, booking or project completion falsely claimed. |
+| `Q16_BOUNDARIES` | PASS for this response | Public episode ends at the challenge; internal handover is separated below it. |
+
+**Disposition:** Provisional editorial draft only. Calendar authorization, accepted continuity, character portrayal rights, news verification, project status and publication approval remain unresolved. I’ll wait for your separate prompt before beginning comic-page generation.
+
+<<STOP GITHUB-6>>
 
 <<START CLAUDE-1>>
 
