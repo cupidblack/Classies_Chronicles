@@ -196,34 +196,34 @@ Consider all the feasible recommendations, corrections and suggested modificatio
 
 
 
+The following graphic is the main Koware Group's logo:
+https://github.com/cupidblack/Koware_Management/blob/main/Koware-Logo_Text-plain.png
 
-
-
+The following graphics in the repository folder have been considered to represent the Classies Chronicles. Review and analyze the graphics to set an appropriate graphic/logo for the chronicle or episode:
+https://github.com/cupidblack/Classies_Chronicles/tree/main/Identity_Logos
 
 Referencing the following previously generated comic pages from some of the previously produced Daily Classies Chronicles, produce the comic pages for this Classies Chronicles episode using the Master_Comic_Generation_Prompt SET:
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/b795e9f8-d03c-4e3d-8378-43cd96784d2b.png
+<<START PREVIOUS COMICS>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/Classies%20Chronicles_%20The%20Light%20Homeward.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E01/25c89651-d25c-4526-9cd6-7c0e0b8a8a36.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/Classies%20Chronicles%2C%20Episode%200.00.10-The%20Signal%20Before%20Sunrise.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E01/3b22889d-f124-4ae7-b93a-62c7205e950e.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/4e806180-055d-447f-aff0-1247b0028ec7.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E01/4e806180-055d-447f-aff0-1247b0028ec7.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/25c89651-d25c-4526-9cd6-7c0e0b8a8a36.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E01/Classies%20Chronicles_%20The%20Light%20Homeward.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/3b22889d-f124-4ae7-b93a-62c7205e950e.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E02/S00_CH05_E02.02/3d4605af1.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/0644669e-554d-4f2f-adf7-9f008fa23936.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E02/S00_CH05_E02.02/3a18d1d48-4c7d-45d9-bed4-5468921f6537.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow/41651316-d55a-45df-bfed-8ab460a7852f.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E02/S00_CH05_E02.02/2b9ba3aa7.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.05-The%20Copies%20That%20Agreed/ac381ed8-0964-469c-a1c1-17918de4b35d.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E02/S00_CH05_E02.03/86e3b6cc-85e3-4c84-a1e8-05d96597c036.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/1a8c0f9e0-9348-41e2-bc33-807d5649bd24.png
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_E02/S00_CH05_E02.03/a4de5444-c1ae-4f53-8505-bc4d11df477e.png
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/3a18d1d48-4c7d-45d9-bed4-5468921f6537.png
+<<STOP PREVIOUS COMICS>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/462fd47a.png
-
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.01-The_Notice_in_Four_Languages/9c5dfab2-ac7e-4a07-9329-f00e08fa330f.png
+Modify the Master_Comic_Generation_Prompt to generate four comic pages per 2x2 graphic collage instead of the previously proposed 16 comic pages per 4x4 graphic collage setup. The purposed is to improve the quality of the comic graphics.
