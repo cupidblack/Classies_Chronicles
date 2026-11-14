@@ -10,7 +10,7 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.03-
 
 <<STOP Unified_Production_Master_Prompt SET>>
 
-Thoroughly review and analyze the following generated daily Classies chronicles to produce a single Classies Chronicles episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
+Thoroughly review and analyze the following generated daily Classies chronicles to produce a single Classies Chronicles episode. The generated episode must include all the key storytelling notes, activities, events, news headlines, mentions about technology, institutions, businesses, locations and any other useful key information that would establish the episode. The 'Episode Continuity Ledger & Production Handover' must be prepared and inserted at the end of the episode:
 
 <<START DAILY CHRONICLES>>
 
@@ -155,23 +155,34 @@ Each character must perform within the context of their character cannon and job
 
 Part 5: The Copies That Agreed
 
-No date labels anywhere around the tiltle. This way it reads more like a story with parts instead of reading like a dated journal. The date could, however, be mentioned during narration of the part if necessary.
+No date labels anywhere around the title. This way it reads more like a story with parts instead of reading like a dated journal. The date could, however, be mentioned during narration of the part if necessary.
 
 12. The reader should feel as though the chronicles are real so there should be no mention of imaginary Koware headquarter, fictional roles or characters.
 
-13. Include a brief preview for the next episode.
+13. Include a brief preview for the next episode with upcoming activities, events, action plan items, Eternal Dreamfall studies, what job role checks would be done in the next episode, the team that would be deployed through the Edubeam for the next episode and their estimated probe details, the key items for analysis reported by the returning edubeam team and any other necessary key details that would help to prepare for the next episode and keep the audience eager and anticipating for the next episode.
 
 14. Note that following update to the Koware Headquarter: The Koware Group occupies 5 single story 3 bedroom apartment blocks clustered in a group so that all the blocks share a boundary line with at least one other department in another 3 bedroom apartment block. The clustered apartment blocks are located in the New Legon Estates in Accra. Each apartment block is managed by one Koware Group department. The governing committee usually hires a conference hall at a convenient location in Accra for its quarterly governance meetings with some stakeholders, shareholders, Board of directors, two representatives from God as CEO, member representatives, and all top level managers. Video calls are managed for those who cannot be there. It is compulsory for leading top level job roles to be present. 
 
 14.i. Leading top-level job roles are organized by the department and voted for quarterly or annually. For instance, the top-level job roles of the IAPD Administrative department consists of the Corporate Secretary, the Administrative Auditor and the Legal Journalist. They may vote amongst themselves to assign one to lead and represent the department at the Koware Group Governance meetings. So the Legal Journalist may lead for a quarter or for a year as they top-level job roles may have agreed on.
 
-15. Pick one key take from the Eternal Dreamfall Bible Study that was covered in the chronicles and is most relevant to the entire episode. Integrate the key take into the episode's storytelling so that it relates with the entire episode. The episode storytelling can be adjusted and modified as necessary.
+15. Pick one key take from the Eternal Dreamfall Bible Study that was covered in the chronicles and is most relevant to the entire episode. Integrate the key take into the episode's storytelling so that it relates with the entire episode. The episode storytelling can be adjusted and modified as necessary. The resource must be referenced in the storytelling 
 
 16. Pick one key Verses of the Day that was shared in the chronicles and is most relevant to the entire episode. Integrate the selected Verse of the Day into the episode's storytelling so that it relates with the entire episode. The episode storytelling can be adjusted and modified as necessary.
 
 17. Identify the key Health & Safety topic, lesson or course that is related to the episode.
 
-18. The challenge must be a challenging game built of the challenges posed in each daily chronicle. This means it should be very difficult to complete or solve the challenge without completing or solving the challenges presented at the end of each daily chronicle. Completing or solving each daily chronicle challenge unlock tips, hints, tools and techniques that could be used to solve or complete the episode's challenge. Solving or completing the episode's challenge also unlocks tips, hints, tools and techniques that could be used to solve or complete the chapter's challenge. This challenging game must be entertaining, engaging and support team-ups with Palmier points and Buzzjuice score rewards that would be integrated later (TODO).
+18. The challenge must be a challenging game built off the challenges posed in each daily chronicle. This means it should be very difficult to complete or solve the challenge without completing or solving the challenges presented at the end of each daily chronicle. Completing or solving each daily chronicle challenge unlock tips, hints, tools and techniques that could be used to solve or complete the episode's challenge. Solving or completing the episode's challenge also unlocks tips, hints, tools and techniques that could be used to solve or complete the chapter's challenge. This challenging game must be entertaining, engaging and support team-ups with Palmier points and Buzzjuice score rewards that would be integrated later (TODO).
+
+19. Make sure to review and analyze Koware Group's current action plans and projects then integrate them into the storytelling. Items in the plans and projects should be assigned to the appropriate job roles with follow ups from supervisors and other appropriate job roles to move towards successful completion with the best quality deliverables.
+
+Koware Group's Action plans and projects:
+https://github.com/cupidblack/Koware_Management/tree/main/Projects
+https://github.com/cupidblack/Koware_Management/tree/main/Action_Plans
+https://github.com/cupidblack/Koware_Management/blob/main/Action_Plans/Annual%20Act%C3%AFon%20Plan%20-%202026.txt
+
+20. Scan online resources for key ongoing and upcoming activities and events that the Koware Group could participate in and integrate it into the storytelling. The events and booking manager could post the activities and events on the pinboard. Supervisors and top-level managers could assign themselves or other job roles to attend the activities and events and bring back a report that would be shared at the weekly meeting.
+
+21. Keep filenames as short as possible whilst maintaining file and folder structure.
 
 <<STOP NOTES>>
 
@@ -195,4 +206,30 @@ Consider all the feasible recommendations, corrections and suggested modificatio
 
 
 
-Referencing the previously generated comi pages, produce the comic pages for this Classies Chronicles episode using the Master_Comic_Generation_Prompt SET.
+Referencing the following previously generated comic pages from some of the previously produced Daily Classies Chronicles, produce the comic pages for this Classies Chronicles episode using the Master_Comic_Generation_Prompt SET:
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/b795e9f8-d03c-4e3d-8378-43cd96784d2b.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/Classies%20Chronicles_%20The%20Light%20Homeward.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/Classies%20Chronicles%2C%20Episode%200.00.10-The%20Signal%20Before%20Sunrise.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/4e806180-055d-447f-aff0-1247b0028ec7.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/25c89651-d25c-4526-9cd6-7c0e0b8a8a36.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E01-The_Signal_Before_Sunrise/3b22889d-f124-4ae7-b93a-62c7205e950e.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/0644669e-554d-4f2f-adf7-9f008fa23936.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.06-The%20Line%20Beneath%20the%20Arrow/41651316-d55a-45df-bfed-8ab460a7852f.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.05-The%20Copies%20That%20Agreed/ac381ed8-0964-469c-a1c1-17918de4b35d.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/1a8c0f9e0-9348-41e2-bc33-807d5649bd24.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/3a18d1d48-4c7d-45d9-bed4-5468921f6537.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.02-The_Cropped_Truth/462fd47a.png
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/CC_S00_FOUNDATION_PHASE/S00_CH05_The_Signal_Before_Sunrise/S00_CH05_E02-The%20Authority%20Behind%20the%20Arrow/S00_CH05_E02.01-The_Notice_in_Four_Languages/9c5dfab2-ac7e-4a07-9329-f00e08fa330f.png

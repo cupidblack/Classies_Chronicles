@@ -1,0 +1,37 @@
+{
+  "episode_id": "S00_CH05_E02",
+  "status": "EDITORIAL_DRAFT_NOT_RELEASE_CLEARED",
+  "created_utc": "2026-11-14",
+  "files": [
+    {
+      "name": "S00_CH05_E02_Four_Arrows_No_Signature_PUBLIC_DRAFT.md",
+      "bytes": 30420,
+      "words": 4762,
+      "sha256": "7626c5cef351f87316dd7c056d03595f7b12e993f1985091d44b9c037afd5208"
+    },
+    {
+      "name": "S00_CH05_E02_Episode_Continuity_Ledger_Production_Handover_INTERNAL.md",
+      "bytes": 39997,
+      "words": 5306,
+      "sha256": "2fe865715e20463deb301f8876f2e465b1860f95f5abe910778dd132ea795e9c"
+    },
+    {
+      "name": "S00_CH05_E02_Four_Arrows_No_Signature_EPISODE_AND_LEDGER_EDITORIAL.md",
+      "bytes": 71218,
+      "words": 10175,
+      "sha256": "a0346df5866c385a28d53e9f3f0c00c51f9f39e2cf8a325d9bcfa46c1b9d49b1"
+    },
+    {
+      "name": "S00_CH05_E02_Four_Arrows_No_Signature_EPISODE_AND_LEDGER_EDITORIAL.txt",
+      "bytes": 71218,
+      "words": 10175,
+      "sha256": "a0346df5866c385a28d53e9f3f0c00c51f9f39e2cf8a325d9bcfa46c1b9d49b1"
+    },
+    {
+      "name": "S00_CH05_E02_Production_QA_and_Source_Manifest.md",
+      "bytes": 5889,
+      "words": 645,
+      "sha256": "e296c0a7f4ddfe916ebe7361d62ee9891e11b36713d1bb438cae590a53aeed63"
+    }
+  ]
+}
