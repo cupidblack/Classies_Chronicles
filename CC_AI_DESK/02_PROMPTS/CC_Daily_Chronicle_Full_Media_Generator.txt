@@ -49,7 +49,7 @@ After generating the daily Classies Chronicle, wait for my prompt to use the fol
 
 <<START Master_Comic_Generation_Prompt SET>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.01.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
 
