@@ -151,11 +151,11 @@ Each character must perform within the context of their character cannon and job
 
 10. Character relationships and behavioral patterns can be very dynamic and complex, based on scenarios, situations, environments and even the proximity or presence of other characters in a given space. For instance, an argument character 'A' had with character 'B' in chronicle #1 could make but characters feel awkward around each other when they meet again in a chronicle in the next episode. Each character's cannon should therefore have a specific file that contains the character's behavioral and relationship data. Only the characters who featured in that chronicle or episode would have their file updated with append data at the end of each chronicle and episode. This data would just be copied from the chronicle or episode continuity data and pasted at the end of the character's file. This would help with each character's memory and continuity dynamics per chronicle and episode. Any suggestions to develop this strategy for optimal effectiveness and efficiency for each chronicle and episode is welcome.
 
-11. Only use the title of each daily chronicle without the date and prefixed with the part number. For instance, S00_CH05_E02.05-The Copies That Agreed for Friday November 5th would be labeled as:
+11. Only use the title of each daily chronicle prefixed with the part number and without the date. For instance, S00_CH05_E02.05-The Copies That Agreed for Friday November 5th would be labeled as:
 
 Part 5: The Copies That Agreed
 
-The date could, however, be mentioned during the part if necessary.
+No date labels anywhere around the tiltle. This way it reads more like a story with parts instead of reading like a dated journal. The date could, however, be mentioned during narration of the part if necessary.
 
 12. The reader should feel as though the chronicles are real so there should be no mention of imaginary Koware headquarter, fictional roles or characters.
 
