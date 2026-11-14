@@ -169,7 +169,9 @@ No date labels anywhere around the tiltle. This way it reads more like a story w
 
 16. Pick one key Verses of the Day that was shared in the chronicles and is most relevant to the entire episode. Integrate the selected Verse of the Day into the episode's storytelling so that it relates with the entire episode. The episode storytelling can be adjusted and modified as necessary.
 
-17. Identify the key Health & Safety topic, lesson or course that is related to the episode. 
+17. Identify the key Health & Safety topic, lesson or course that is related to the episode.
+
+18. The challenge must be a challenging game built of the challenges posed in each daily chronicle. This means it should be very difficult to complete or solve the challenge without completing or solving the challenges presented at the end of each daily chronicle. Completing or solving each daily chronicle challenge unlock tips, hints, tools and techniques that could be used to solve or complete the episode's challenge. Solving or completing the episode's challenge also unlocks tips, hints, tools and techniques that could be used to solve or complete the chapter's challenge. This challenging game must be entertaining, engaging and support team-ups with Palmier points and Buzzjuice score rewards that would be integrated later (TODO).
 
 <<STOP NOTES>>
 
@@ -184,3 +186,13 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/
 <<STOP PLATFORM RESPONSES>>
 
 Consider all the feasible recommendations, corrections and suggested modifications from all platforms then implement them to generate the fully refactored and updated functional version with no truncated data or data placeholders.
+
+
+
+
+
+
+
+
+
+Referencing the previously generated comi pages, produce the comic pages for this Classies Chronicles episode using the Master_Comic_Generation_Prompt SET.
