@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-22T23:15:48+00:00"}
+{"iso":"2003-07-23T08:38:00+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"2108-04-26T02:40:42Z","now_iso":"2026-11-13T19:35:18Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.034478399999999999325783761605634936131536960601806640625,"amplitude_days":76700.366489599997294135391712188720703125,"probe_value_days":29748.29541444810092798434197902679443359375}
+{"probe_iso":"1994-03-21T02:17:04Z","now_iso":"2026-11-19T15:48:17Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0234532999999999998419486502143627149052917957305908203125,"amplitude_days":75882.921475199997075833380222320556640625,"probe_value_days":-11931.563346943317810655571520328521728515625}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -99,7 +99,18 @@ Note the following:
 
 <<START NOTES>>
 
-NULL
+1. If exact daily verse for Eternal Dreamfall cannot be verified, get the related content for that week from the file:
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Eternal_Dreamfall_Bible_Study/list_of_biblical_texts-5_year_reading_plan-1.txt
+
+Part the identified reading for the week into 5 reasonably equal parts then assign the content appropriately. For instance, after dividing the weekly content into 5 parts, part 1 references content for the Monday of that week, part 2 references Tuesday, part 3 Wednesday, part 4 Thursday, part 5 Friday.
+
+2. The verse of the day is acquired from the following: https://www.bible.com/verse-of-the-day
+
+3. Reasonably using all resources available, you are authorized to proceed with generating a provisional draft for the daily chronicle. Continue with the most reasonable logic but make a report in any of the following cases:
+
+3.i. Calendar authorization fails
+3.ii. Approve character cannons with draft status, no verified consent or approved public portrayals.
 
 <<STOP NOTES>>
 
