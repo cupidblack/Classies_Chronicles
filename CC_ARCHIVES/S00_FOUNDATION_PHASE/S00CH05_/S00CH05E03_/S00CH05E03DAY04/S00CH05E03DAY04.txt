@@ -1,0 +1,1572 @@
+<<START COPILOT-1>>
+
+NULL
+
+<<STOP COPILOT-1>>
+
+<<START CHATGPT-1>>
+
+NULL
+
+<<STOP CHATGPT-1>>
+
+<<START GITHUB-1>>
+
+I’m loading the repository’s production workflow and current continuity constraints before drafting today’s Chronicle.I’m grounding the chronicle in the repository protocols and continuity archive, then I’ll write the full daily episode and ledger in the repo-facing format.I’m grounding today’s chronicle in the live repository protocols and prior episode ledger before producing the manuscript.I’ve retrieved the governing protocol and the selected archival continuity. I’m now completing the source inventory and a constrained one-day draft; comic and media work remains uncommissioned.I’ve reached a production boundary: the requested 19 November daily chronicle depends on an approved target-day phase/calendaring and accessible Episode 03 Day 04 source, but the repository evidence is insufficient for a definitive run. I’m verifying the exact day file and fallback endpoint acquisition now, then I’ll either produce a fully bounded draft or issue the protocol’s blocked report.# CLASSIES CHRONICLES
+## SEASON 00 — FOUNDATION PHASE
+## CHAPTER 05 — THE SIGNAL BEFORE SUNRISE
+## EPISODE 03 — DAY 04
+### Thursday, 19 November 2026
+
+**Working identity:** `S00_CH05_E03_DAY04`  
+**Status:** `PROVISIONAL_DRAFT — AWAITING_EDITORIAL_REVIEW`
+
+---
+
+# OUTPUT A — THE RECORD BEFORE THE RETURN
+
+The first figure to arrive on the laboratory screen was not a destination.
+
+It was a sentence:
+
+**PROBE PRESENT POSITION: UNCONFIRMED.**
+
+Gifty Bright read it twice.
+
+She stood beside Enka in Koware’s current headquarters in New Legon, Accra, while the Millennium Probe display recalculated across the room. Outside, the capital continued in its ordinary November rhythm. Inside the laboratory, however, every system seemed to be waiting for the next person to speak.
+
+On the physical map, Kuala Lumpur remained Kuala Lumpur.
+
+No one had been moved.
+
+No one had been authorised to appear somewhere else.
+
+But the probe had found a date.
+
+A probe could identify a date.
+
+It could calculate a phase.
+
+It could report an oscillation.
+
+What it could not do was tell the team where a missing person stood.
+
+That distinction became Enka’s first instruction.
+
+“Separate what the machine calculates from what we know happened.”
+
+The console confirmed the probe result already supplied to the run:
+
+- **Probe reference:** `1994-03-21T02:17:04Z`
+- **Production observation:** `2026-11-19T15:48:17Z`
+- **Phase:** October 16–December 20, 2026
+- **Phase index:** 5
+- **Reported oscillation:** approximately `0.0234533000`
+- **Reported amplitude:** approximately `75,882.92` days
+- **Probe value:** approximately `−11,931.56` days
+
+The numbers were precise.
+
+Their meaning was not.
+
+Gifty began by documenting the source payload rather than interpreting it. A changed reading could be recalculated. An earlier reading could be retrieved. A future scenario could be studied. None of them changed the accepted position of an individual team member.
+
+“The Probe destination is Kuala Lumpur,” Gifty said.
+
+“And the deployed team is positioned in Kuala Lumpur,” Enka answered. “Those facts describe the destination and supplied field location. They do not prove that every person is at the same instrument, or that the field team can feel or obey a probe event.”
+
+He opened the historical record.
+
+The reference timestamp remained **23 July 2003 at 08:38 UTC**, in Las Vegas.
+
+It was an original historical context.
+
+It was not Las Vegas in Accra.
+
+It was not a demonstration that Enka had travelled through time.
+
+It was not an instruction to change the location of the Edubeam team.
+
+Three clocks remained open on Enka’s desk:
+
+**P — Production:** 19 November 2026, in the approved production-local framework.  
+**H — Historical reference:** Las Vegas in 2003.  
+**F — Probe/Future reference:** Kuala Lumpur and a changing mathematical display.
+
+Three clocks could occupy the same desk.
+
+They could not occupy the same meaning.
+
+Gifty brought up the Week 98 reading allocation. The 250-entry Eternal Dreamfall reading map identified **Judges and Ruth**.
+
+No single daily passage had been approved for this date.
+
+Instead, Enka considered the larger teaching tension:
+
+Judges tells a story of alternating authority, repeated return and uncertain leadership.
+
+Ruth tells a story of loyalty, inheritance and decisions made before certainty arrives.
+
+Authority could be spoken.
+
+Authority could be delegated.
+
+Authority could be printed.
+
+Only responsibility proved what would follow.
+
+A different passage was not invented merely to make the day feel complete.
+
+A verse selection was also checked independently. DailyVerses.net listed **2 Corinthians 1:5 in the New Living Translation** for 19 November 2026:
+
+> “For the more we suffer for Christ, the more God will shower us with his comfort through Christ.”
+
+The selection remained attributed to DailyVerses.net.
+
+It was not used as a Koware fact.
+
+It was not presented as the official Eternal Dreamfall allocation.
+
+It was an external dated verse source used to frame comfort, endurance and responsibility.
+
+That thought brought Enka back to the laboratory.
+
+On the glass wall, the Classies records showed the field team only in Kuala Lumpur.
+
+They showed no accepted record of a team member entering Koware headquarters.
+
+They showed no accepted record of the team communicating through the Probe.
+
+They showed no accepted record of a recovered person, a moved person or a changed mission.
+
+The safest operational plan was also the clearest:
+
+**Observe. Record. Verify. Preserve.**
+
+Johnson Ortsin asked whether the laboratory could transmit a recall notice.
+
+“It can transmit a message,” Gifty replied.
+
+“It cannot establish that the message reached the team.”
+
+“And it cannot make the team return.”
+
+“No.”
+
+The answer was unspectacular.
+
+It was also the only answer that preserved the mission.
+
+While the laboratory remained on standby, Enka’s attention turned to the reading material and the shape of the day’s work. The Probe record did not alter a project timeline. It did not finish a Koware task. It did not move an employee, open a department or create a contract.
+
+It was a fictional scientific scenario layered onto a real-world office that had to remain accountable.
+
+A modern institution could recognise that distinction:
+
+A memo could contain a date.
+
+An order could contain a signature.
+
+A device could display a result.
+
+None could establish the truth beyond the evidence they actually carried.
+
+Enka called the team lead in Kuala Lumpur.
+
+The call was not made to celebrate a recovered destination.
+
+It was made to ask whether all personnel remained available, whether each member understood the current mission boundary and whether the team required further observation equipment.
+
+The response arrived as a field status:
+
+**Team position supplied as Kuala Lumpur, Malaysia. Individual contact and position checks unresolved. Mission posture unchanged: observation only.**
+
+No dramatic return began.
+
+No unverified extraction was announced.
+
+No person vanished from headquarters and appeared at a Malaysian site.
+
+Instead, the team continued to document.
+
+They documented what the probe said.
+
+They documented what the probe did not prove.
+
+They documented their own location.
+
+They documented when and how the record was received.
+
+Gifty wrote the last line of the laboratory report:
+
+**The Probe may calculate the interval. It cannot generate the human return.**
+
+At 16:04 Accra time, Enka stood beside the map again.
+
+The Kuala Lumpur marker remained in place.
+
+The New Legon marker remained in place.
+
+The Las Vegas historical reference remained attached to Las Vegas.
+
+The probe’s reference date remained attached to its own payload.
+
+No clock had been allowed to erase another.
+
+It was a small kind of discipline.
+
+But the day had already demonstrated how easily precision could become assumption.
+
+A timestamp could become a journey.
+
+A location could become a person.
+
+A calculation could become an outcome.
+
+Enka refused all three shortcuts.
+
+The work of the day was not to rescue anyone by implication.
+
+It was to make return possible only through verified evidence, accepted authority and a confirmed event.
+
+Until then, the team stayed where the record said they were.
+
+The headquarters stayed in New Legon.
+
+The historical reference stayed in Las Vegas.
+
+And the probe’s changing figure stayed in the record:
+
+calculated, observed, unconfirmed.
+
+# CLASSIES CHALLENGE — DAY 04
+
+A lab records a probe timestamp and a Kuala Lumpur destination. It also knows that the deployed team is supplied as Kuala Lumpur and that Koware headquarters is in New Legon. What must be separately verified before anyone may claim that a named team member has returned to headquarters?
+
+---
+
+# OUTPUT B — INTERNAL EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+
+**Classification:** INTERNAL  
+**Working episode:** `S00_CH05_E03`  
+**Working day:** Day 4, `S00CH05E03DAY04`  
+**Production date:** 19 November 2026  
+**Editorial status:** PROVISIONAL — NOT ACCEPTED AS CANON  
+**Persistence status:** `DRAFTED_NOT_COMMITTED`
+
+## B1 — Run and temporal manifest
+
+- Season: 00 — Foundation Phase
+- Chapter: 05 — The Signal Before Sunrise
+- Episode: 03
+- Working day: 4
+- Chapter workday: target mapping unresolved from the approved production phase
+- P clock: 19 November 2026
+- H clock: 23 July 2003 at 08:38 UTC
+- F clock: Probe observation captured at 19 November 2026 at 15:48:17 UTC
+- Koware headquarters: New Legon, Accra
+- Historical reference location: Las Vegas, Nevada
+- Probe destination: Kuala Lumpur, Malaysia
+- Deployed team: supplied as Kuala Lumpur, Malaysia
+- Source archive file: 0 bytes; no narrative content available
+- Current repository revision inspected: `3f136f44eff3b665738958e9ace3c4452e1ed44d`
+- Raw GitHub file SHA: `e69de29bb2d1d6434b8b29ae775ad8c2e48c5391`
+
+## B2 — Research/source register
+
+| Source | Evidence status | Handling |
+|---|---|---|
+| Historical endpoint | Fallback payload used because direct endpoint retrieval failed | `{"iso":"2003-07-23T08:38:00+00:00"}` |
+| Probe endpoint | Fallback payload used because direct endpoint retrieval failed | Exact payload supplied in the commission |
+| DailyVerses.net | Web result obtained | 19 November 2026, 2 Corinthians 1:5 NLT |
+| Eternal Dreamfall 250-entry map | Repository read succeeded | Week 98 = Judges; Ruth |
+| Previous episode | Repository text read succeeded | Accepted/proposed continuity remained provisional |
+| Target Day 04 file | File exists at branch tip but contains zero bytes | No accepted source text present |
+
+## B3 — Character, Koware role and project register
+
+- Enka: headquarters laboratory scene; no accepted physical departure
+- Gifty Bright: technical/records role
+- Johnson Ortsin: scenario-management perspective
+- Deployed team lead and analyst: supplied Kuala Lumpur position; individual identities unchanged
+- No real Koware project is represented as completed
+- No real project, reward or operational commitment is asserted
+- Character consent and public portrayal permissions remain unverified
+
+## B4 — Mission and technology state
+
+- Probe destination: Kuala Lumpur
+- Team geographic position: Kuala Lumpur
+- Koware headquarters: New Legon
+- No accepted team extraction or teleportation event
+- No accepted instrument-to-person identity correlation
+- Probe output remains `SPECULATIVE_PROBE_SCENARIO`
+- Enka’s historical Probe design remains restricted to previously accepted/archival source material
+- No unverified Edubeam capability introduced
+
+## B5 — Append-only continuity and story ledger
+
+| Proposed event | Status |
+|---|---|
+| Laboratory preserves three separate clock contexts | `PROPOSED` |
+| Probe payload is examined without retrospective interpretation | `PROPOSED` |
+| Team status is requested and location remains supplied/unverified | `PROPOSED` |
+| No team member appears at headquarters by implication | `PROPOSED` |
+| Field team retains observation-only posture | `PROPOSED` |
+| Week 98 and 2 Corinthians 1:5 are used only as interpretive context | `PROPOSED` |
+
+No event may enter the accepted projection until the exact human approval and persistence evidence exist.
+
+## B6 — Portable production handover
+
+1. **Identity and snapshot:** S00 Foundation Phase, Chapter 05, Episode 03, Day 04; target date 19 November 2026.
+2. **Source and authority basis:** Prior archive, repository study map, DailyVerses.net result and fallback clock payloads.
+3. **Production calendar:** Approved chapter phase and timezone remain unverified.
+4. **Temporal geometry:** P/H/F remain separate; H and F do not establish bodily position.
+5. **Cast and role spotlight:** Enka, Gifty, Johnson Ortsin and the supplied deployed team.
+6. **Character internal state:** Emphasis on restraint, evidence discipline and no premature recall.
+7. **Mission and Edubeam state:** Kuala Lumpur probe destination; team location supplied, individual condition unknown.
+8. **Koware boundary:** No real-world project completion or fictional task promoted to fact.
+9. **Story events:** Proposed laboratory verification and field confirmation only.
+10. **Dreamfall derivation:** V1 Week 98 Judges/Ruth; V2 DailyVerses.net 2 Corinthians 1:5 NLT; V3 omitted safety source; V4 probe/historical contexts; V5 prior episode boundaries; V6 daily role and continuity.
+11. **Research and safety:** Endpoints unavailable for primary fetch; fallback payload retained as fallback only.
+12. **Challenge state:** One answer-free public question; no restricted key generated.
+13. **Visual/media continuity:** Not commissioned.
+14. **QA/conflicts:** Central conflict—unverified physical recall versus supplied locations.
+15. **Next-day handoff:** Preserve separate clocks and deployed locations; require new accepted evidence before any return or extraction event.
+
+## B7 — Derivative/media and challenge status
+
+- Comic: `NOT_COMMISSIONED`
+- Media: `NOT_COMMISSIONED`
+- Public Challenge A: draft only
+- Challenge answer key: not created
+- Release: `NOT_ELIGIBLE`
+- Persistence: `UNSAVED`
+- Editorial: `UNREVIEWED`
+
+## B8 — Validation, exceptions and approval register
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Q01_SCOPE | PASS | One ordinary daily Chronicle draft |
+| Q02_CALENDAR | FAIL | Approved phase/timezone/episode slot were not established |
+| Q03_THREE_CLOCKS | PASS WITH EXCEPTION | P/H/F and physical locations preserved |
+| Q04_IDENTIFIERS | PASS | Existing archive identity retained; target file SHA recorded |
+| Q05_CANON | PASS WITH EXCEPTION | No accepted teleportation or recall introduced |
+| Q06_ROLE_PROJECT | PASS WITH EXCEPTION | Real project status not invented |
+| Q07_STUDY | PASS WITH EXCEPTION | Literal Week 98 mapping used; no daily passage inferred |
+| Q08_VERSE_HS | PASS WITH EXCEPTION | Dated verse/provider verified; H&S omission documented |
+| Q09_RESEARCH | PASS WITH EXCEPTION | H/F payload provenance preserved |
+| Q10_RIGHTS | NOT_RUN | Character/real-person consent not verified |
+| Q11_STORY | PASS | Earned narrative consequence; no disconnected package |
+| Q12_CHALLENGE | PASS | One fair terminal question; no answer in A |
+| Q13_RECORDS | PASS | Separate B1–B8 supplied |
+| Q14_DERIVATIVES | NOT_APPLICABLE | No comic or media commissioned |
+| Q15_INTEGRITY | PASS | Endpoint failure, archive 0-byte file and revision evidence recorded |
+| Q16_BOUNDARIES | PASS | No restricted answer or private diary in public A |
+
+**Process status:** `DRAFTED — AWAITING_EDITORIAL_REVIEW`  
+**Persistence status:** `DRAFTED_NOT_COMMITTED`  
+**Release status:** `NOT_ELIGIBLE`
+
+### Exceptions
+
+- No approved 250-entry daily allocation for 19 November 2026.
+- No approved chapter calendar or IANA timezone.
+- Direct Millennium endpoints could not be retrieved through the available web-search execution; supplied fallback payloads were used strictly as fallback.
+- Target archive file exists but is empty.
+- No character portrayal or diary adaptation consent was established.
+
+
+<<STOP GITHUB-1>>
+
+<<START CLAUDE-1>>
+
+NULL
+
+<<STOP CLAUDE-1>>
+
+<<START JULES-1>>
+
+NULL
+
+<<STOP JULES-1>>
+
+<<START PERPLEXITY-1>>
+
+NULL
+
+<<STOP PERPLEXITY-1>>
+
+<<START ANTIGRAVITY-1>>
+
+# CLASSIES CHRONICLES
+## Season 00 — Foundation Phase
+### Chapter 05 — The Signal Before Sunrise
+### Episode 03 — The Custodian's Key
+#### Day 04 — Thursday, 19 November 2026
+
+**Working identifier:** `S00_CH05_E03_DAY04`
+**Production date (P-clock):** Thursday, 19 November 2026 (CWD 24 of Chapter 05)
+**Historical reference (H-clock):** `2003-07-23T08:38:34+00:00` — Las Vegas, Nevada
+**Millennium Probe (F-clock):** Probe ISO `1994-03-21T02:17:04Z` | Now: `2026-11-19T15:51:28Z` | Phase 5 (Oct 16–Dec 20) | Oscillation: 0.02345 | Amplitude: 75,882.92 days | Probe value: −11,931.56 days | Probe destination vicinity: Kuala Lumpur, Malaysia
+**Koware HQ:** New Legon, Accra, Ghana (UTC+00:00)
+**Deployed field team:** Kuala Lumpur, Malaysia (observation status)
+**Episode arc:** The sealed archive box has been located; its custodian requires an authenticated release request; the authorized requester field remains blank; a possible version mark in the archived notice image has not been explained; the third week's work must establish authority before anything moves.
+**Editorial status:** `DAILY_CHRONICLE — DRAFT / UNREVIEWED / NOT_COMMISSIONED_FOR_PUBLICATION`
+
+---
+
+# OUTPUT A — PUBLIC-FACING DRAFT
+
+## THE NAME BEHIND THE STAMP
+
+### PART ONE — THE HANDWRITING ON THE LABEL
+
+The box had been located on Tuesday. By Thursday morning it was still sealed.
+
+The Director of Operations, Mathias Agbenorku, arrived at the New Legon compound earlier than his usual time. He had been thinking about a problem that was not, technically, his problem. The sealed archive in Kuala Lumpur belonged to the building's records custodian. The transfer slip that pointed to it carried a tracking number, a date and a stamp, but no authorizing name. And the request for its release, prepared by Mubarak Mohsen two days ago, had stalled at precisely the same field: **Authorized Requester.** Blank.
+
+This was the bureaucratic knot that the fourth day of Episode 03 would have to sit with.
+
+Enka was already in the laboratory when Mathias knocked. The historical-reference display on the second screen had refreshed overnight. The timestamp it reported — the morning of Wednesday 23 July 2003, UTC, situated in Las Vegas, Nevada — looked like an ordinary administrative record from another century. It was not dramatic. It was a trace of an event in ordinary time, the kind of documentation that becomes significant only when someone asks who had signed it and whether that person was permitted to do so.
+
+"The same question," Mathias said, looking at the date.
+
+"Different continent. Same problem," Enka replied.
+
+The Millennium Probe console sat on the laboratory bench beside them. Its current reading held steady at a negative displacement from the present: a probe value measuring back from the production date, anchoring itself in the vicinity of Kuala Lumpur, Malaysia. The oscillation index was low — barely a tremor in the system's internal arithmetic. That relative stillness was, in its own way, more unsettling than a dramatic swing. A large reading might invite a correction. A quiet one could be overlooked.
+
+Enka had made a note the previous afternoon: *Don't mistake a stable output for a confirmed destination.* The Probe could report the same number for a week without that number becoming a verifiable travel record.
+
+He set the note beside the refresh log. Both stayed where they were.
+
+---
+
+### PART TWO — THE EDUCATION OF AN ESTIMATOR
+
+The academic wing of the compound had its own version of the morning's problem.
+
+The Academic Registrar, Steven Sarpong, had been asked by the Director of Academic Programs, James Evans, to prepare a training summary for the third week of Episode 03's internal study programme. The subject was estimation under uncertainty: how does a researcher make a defensible working assumption without letting the assumption become a conclusion?
+
+Steven had produced a table. It listed ten types of documentary evidence. For each one, he had written two adjacent columns: **What it can confirm** and **What it cannot confirm**. The table was careful and complete. Its problem was that it looked too tidy.
+
+Matthew Ebenezer, in his academic partnerships and outreach role, looked at the finished table on the display stand. "If a student sees this, they might think the two columns always stay separate," he said.
+
+"They don't stay separate?" the registrar asked.
+
+"Sometimes someone moves data from the second column to the first. Not by finding new evidence. By forgetting that the gap is there."
+
+James wrote that observation on the whiteboard beside the table. It was not an editorial to the table. It was a standing instruction about how to read it.
+
+A set of reference folders had been stored on the top shelf of the archive cabinet overnight. The Registrar reached for one, misjudged the height difference, and the folder came down more decisively than expected, flapping open and scattering its contents in a brief blizzard of laminated course sheets. One sheet spun in a wide arc and settled, with improbable precision, across Steven's keyboard — face-up, displaying the heading **DEFINITIVE SOURCE DOCUMENT**. He looked at it for a moment. It had come from the wrong folder. It declared itself an authority it had not earned.
+
+"Even the paper does it," Matthew said.
+
+The room absorbed the irony more quickly than the Registrar retrieved his scattered materials.
+
+---
+
+### PART THREE — THE AUTHENTICATION CHANNEL
+
+At the operations desk, the question of authentication was not abstract.
+
+Derek Shiraska, the Production Coordinator, had spent an hour on the previous afternoon mapping the correspondence chain between the New Legon office and the building manager in Kuala Lumpur. The chain was longer than it appeared. Each step had a sender, a recipient, a medium and a time. Each step also had a gap — the interval between sending and verification, during which the message existed in a state that was not quite sent and not quite received.
+
+Johnson Ortsin, the Programme Manager, joined the desk at mid-morning. He had drawn a fresh flowchart overnight, one that placed the custodial release request inside a circle labeled **AUTHORIZED CHANNEL**. Arrows flowed in and out of the circle in both directions: from Koware to the building manager, from the building manager to the custodian, from the custodian to whatever office would eventually confirm whether the contents of the sealed box were accessible.
+
+"The circle looks efficient," Derek said.
+
+"It's meant to."
+
+"But right now nothing is inside it."
+
+Johnson set down his pen. That was the accurate statement of the situation. The channel existed. The request was drafted. The authorized name required to complete the request had not been confirmed. Without the name, the channel was a diagram of a process, not an operating process.
+
+This was not a failure of the diagram. It was an accurate representation of the state of the evidence.
+
+Mathias came in from the corridor and looked at the flowchart. He pointed to the gap between the circle's last outgoing arrow and a box labeled **CUSTODIAN DECISION**. "What fills this?"
+
+"An authorized requester," Johnson said.
+
+"Then that's what we're waiting for."
+
+There was nothing dramatic in the acknowledgment. The three men looked at the flowchart and accepted that a correct representation of an unresolved situation was more useful than a confident diagram of an imaginary one.
+
+---
+
+### PART FOUR — THE PARALLEL NEWSPAPER
+
+The newsroom corner of the compound had been accumulating material for two days.
+
+The Legal Journalist had maintained the pinboard through the first three days of the week. It now carried six items, each with a source header, a publication date and a one-line scope note distinguishing what the story was actually about from what a quick reading might suggest.
+
+The first item was a report from the Malaysian press about an ongoing administrative review of safety certification procedures for high-occupancy buildings. It had no verified connection to the specific Kuala Lumpur building where the four emergency notices hung. That was noted on the card in smaller text beneath the headline: *Geographic proximity is not causal relationship.*
+
+The second item was a Ghana Education Service announcement about expanded professional certification programmes for public-sector administrators. Josh Lafa, the Public Relations and Press Coordinator, had asked whether this could be framed as a positive development for Koware's academic division. The Legal Journalist's answer was measured: the announcement described government policy intentions, not Koware programmes. It could be described as a relevant background development. It could not be announced as a Koware initiative.
+
+The third item was a GNA bulletin about proposed infrastructure updates to road transport connectivity between Accra districts, including areas adjacent to New Legon. This one was relevant to Thomisia Daniel's transport planning role, but Thomisia was away from the compound this morning at an unrelated coordination meeting. Her desk showed a printed copy of the item with a question mark beside it and a note that read *When back — check whether this affects our booked routes*.
+
+Terry Joan, the Marketing Manager, had placed a draft on the pinboard beside these three: a proposed social-media communication mentioning Koware's interest in the Malaysian safety review as an example of their commitment to international health and safety standards. The Legal Journalist removed it without ceremony.
+
+"We're observing," the journalist explained when Terry appeared. "An interest in a news story is not a programme."
+
+"People would see us as engaged."
+
+"They'd see us as claiming credit for work we're watching. The claim would be accurate for about twenty minutes, then someone would ask for details."
+
+Terry removed the draft. It went back to the planning folder with a note: *Hold for factual basis.*
+
+The pinboard stayed honest.
+
+---
+
+### PART FIVE — WHAT THE PROBE DOES NOT CARRY
+
+At midday, the laboratory consultation that James Evans had requested with Enka took place in the R&D research room.
+
+The question James had brought was not about the Kuala Lumpur inquiry. It was about pedagogy: how should the Millennium Probe's readings be introduced to students in the academic programme? The Probe was a real piece of equipment. Its outputs were real numbers. But the relationship between those numbers and a verifiable location in time was something that required more than a console display.
+
+Enka laid out the current reading on a printed card: the Probe's value in days, the oscillation index, the amplitude figure and the phase designation. He set beside it the historical-reference card: the timestamp from July 2003, the city of Las Vegas.
+
+"They look similar," James said. "Both have a date. Both have a place."
+
+"One is a retrieved record from a specific source. The other is a computed output from an instrument with a known uncertainty range."
+
+"So the Probe number is less reliable?"
+
+"The Probe number is differently reliable. It's consistent with its own method. But its method isn't a witness statement. It doesn't observe what happens at the destination. It calculates where certain physical conditions would be concentrated, given its inputs."
+
+James wrote this on his notepad. He underlined *consistent with its own method* and drew a line to a question in the margin: *How do you teach the difference to someone who wants a date to remember?*
+
+Enka thought for a moment. "You ask them what they would need to show before they could tell someone else to trust the number. If they can't answer that, the number isn't teaching them anything yet."
+
+The laboratory assistant brought lunch items to the research table, a tray of small provisions that the team had developed the habit of eating through afternoon consultations. A sealed container of plain rice, placed on the corner of the tray, began to slide when the assistant set the tray down at a slight angle. It moved with the slow dignity of a vessel making an unauthorized journey toward the edge of the table. James caught it before it reached the floor. He set it back and placed a pen against its near side as a stop.
+
+"Like the Probe value," he said.
+
+"Exactly like the Probe value," Enka answered. "Without something in position, it goes wherever the angle sends it."
+
+---
+
+### PART SIX — THE VERIFICATION REQUEST
+
+In the late afternoon, Mubarak Mohsen called the operations desk.
+
+The release request for the archived box had been reviewed by the building manager's administrative contact. The contact had confirmed that the request was correctly formatted, that the tracking reference matched the transfer record and that the content of the box appeared, from the transfer documentation, to include administrative records from an earlier tenancy period. These records were potentially relevant to the emergency-notice inquiry. The contact could not authorize their release without an approved requester name and institutional confirmation.
+
+This was not a setback. It was the system functioning as it should.
+
+The question that now faced the New Legon team was the same question it had faced at the start of the week: who was the person or body with legitimate authority to request the records? Not the person willing to ask. Not the person closest to the problem. The person *entitled* to ask, by virtue of their role and institutional relationship to the records.
+
+Enka considered the structure of the problem. Koware was an observer. Its field team had a documentation mandate, not an inspection authority. Its correspondence with the building manager was professional and ongoing, but Koware was not the records holder, the building owner, the safety authority or the administrative successor to whoever had generated the original notices. The box was not Koware's to open.
+
+"Can we ask for the name of the entitled requester?" Mubarak suggested.
+
+"That's the right question," Enka said.
+
+The request was reformulated. Instead of presenting a proposed requester and asking for approval, the revised communication asked the building manager's contact to identify the category of institution or individual who could make a qualified release request under the facility's current records governance. The tone was careful. The purpose was genuine. The question did not assume an answer.
+
+The message went into the outgoing queue. It remained there, correctly sequenced, correctly scoped, labeled as sent on this production day but awaiting transmission confirmation.
+
+The box was still sealed.
+
+The request, this time, was asking the right question.
+
+---
+
+### PART SEVEN — THE AFTERNOON STUDY
+
+The Eternal Dreamfall reading plan had been a consistent anchor through the investigation. Week 97 of the plan sat with themes drawn from an ancient transmission tradition: how texts are preserved across communities and languages, what changes in the journey and what does not.
+
+Enka had read the week's portion in the early morning before the laboratory opened. Its central concern — the gap between what a text says and what an institution claims it authorizes — had not felt abstract against the background of the four emergency notices and their disputed provenance. The text was not evidence in the case. Its themes did not explain the building's administrative history or certify a stairwell. But it had given him a frame for the kind of discipline that the week's work demanded: attend to what is actually written, and do not confuse the act of circulation with the act of authorization.
+
+He had not written this observation in the evidence notebook. He kept it in a separate journal, where the question was about understanding rather than about the case.
+
+At the east end of the compound, the Information Technology and Systems Management team were conducting their own late-afternoon review. The network specialist, checking authentication logs from the past seventy-two hours, had flagged a minor anomaly: three access attempts to a shared folder containing the Kuala Lumpur documentation had used a temporary credential rather than a named-user credential. Each attempt had been recorded and declined automatically by the access policy. No files had been read by the temporary credential.
+
+The specialist brought the log to Enka at four o'clock. "It's probably a routine system check," he said. "But I don't know whose system check."
+
+"Log it properly and find out whose service account generated it," Enka said. "Same procedure as the notices: don't assume benign, don't assume hostile. Establish the source."
+
+The specialist confirmed the instruction and took the log back to his desk. The access policy had functioned correctly. The documentation was intact. The event was now a properly labeled open inquiry within the compound's own operations.
+
+---
+
+### PART EIGHT — THE EVENING REPORT
+
+By five o'clock, the day's formal work had produced the following:
+
+The revised custodial inquiry had been placed in the outgoing queue, correctly formatted and scoped to ask for the entitled requester category rather than to claim one. The building manager's contact would receive it through the established channel.
+
+The authentication log event had been properly catalogued by IT and Systems. No data compromise had occurred. The source of the access attempt remained open for investigation.
+
+The Probe's reading had not changed materially through the day. Its negative displacement, anchored in the vicinity of Kuala Lumpur, continued to suggest the same approximate convergence zone. It did not name a room, a building or a person. It remained a calculated position within a large uncertainty envelope.
+
+The historical-reference record had not changed. The timestamp from Las Vegas, July 2003, remained what it had been since it was retrieved: a point on the archive's internal clock, distant from the present in a way that the Probe's reading was not, but equally unable to certify the contents of a sealed box in another country.
+
+Mathias locked the operations desk at five-fifteen. Johnson had already left, taking the revised flowchart with him to review against the building manager's formal records governance procedures, which he had requested from the contact earlier in the day.
+
+Mubarak walked the compound perimeter at dusk, as was his custom. The five adjacent single-storey research blocks held their separate responsibilities quietly in the failing light. The walls between them were clear of posted notices this evening.
+
+He thought about the building in Kuala Lumpur: its notices on a wall, its sealed box in a records room, its occupants following arrows that no one had verified in this particular investigation. The building ran its routines. People moved through it. The corridor the fourth arrow pointed to was either correct or not.
+
+No one at Koware was permitted to tell them which.
+
+Mubarak completed the perimeter walk and went inside.
+
+---
+
+### PART NINE — WHAT THURSDAY HELD
+
+The day had not resolved the case. It had not been expected to.
+
+What Thursday had produced was more valuable than a resolution: a correctly formulated question, a properly logged anomaly, a preserved distinction between a teaching framework and a live investigation, and a message in the outgoing queue that would not claim more than the evidence supported.
+
+The difference between Tuesday's failed request and Thursday's reformulated one was not a matter of persistence. It was a matter of understanding who the question belonged to. The original request had placed Koware in the role of an entitled requester. The revised one asked who that person actually was.
+
+That shift — from assertion to inquiry — was the kind of movement that the week's work had been building toward.
+
+Enka turned off the laboratory display at six o'clock. The Probe console held its reading. The historical timestamp held its position. The case board in the investigation room had four new entries: the access log, the revised inquiry, the pinboard adjustment and the academic table's second column.
+
+He wrote a single note at the bottom of the board, in the section reserved for things that had been understood rather than things that had been found:
+
+*A correctly asked question is an answer of a kind. It shows the shape of the gap.*
+
+Outside, Accra moved through a November evening. Traffic thinned along the roads that served New Legon. The street vendors were beginning to wrap their displays. A city that had been moving all day was making its small, practiced adjustments toward rest.
+
+Somewhere between the third and fourth floors of a building in Kuala Lumpur, four arrows continued their disagreement on a wall that neither Koware nor Thursday had reached.
+
+---
+
+**THE CLASSIES CHALLENGE — S00_CH05_E03_DAY04**
+
+A verified authentication channel exists between Koware's New Legon office and the records custodian of a building in Kuala Lumpur. A release request for a sealed archive box has been correctly formatted but cannot proceed because the "Authorized Requester" field cannot be filled by Koware's own personnel — Koware holds an observation mandate, not a records-inspection authority. The revised inquiry asks the contact to identify the category of institution or person entitled to make the release request.
+
+**What principle does this revised approach demonstrate, and why is it more defensible than simply naming the most senior Koware officer as the requester?**
+
+---
+
+---
+
+<!-- BEGIN INTERNAL OUTPUT B — NOT FOR PUBLIC DISTRIBUTION -->
+
+# CLASSIES CHRONICLES — EPISODE CONTINUITY LEDGER & PRODUCTION HANDOVER
+## S00 / CH05 / E03 / DAY04 — *The Name Behind the Stamp*
+
+**Classification:** INTERNAL EDITORIAL WORKING RECORD — DO NOT APPEND THIS TEXT TO A PUBLICLY DISTRIBUTED STORY FILE
+**Companion draft:** `S00CH05E03DAY04_Chronicle.md` (this document, combined form for internal handover)
+**Working framework:** CC-01.01 / CC-UPMP v0.09.01_Candidate; CC-02.01 / CC-DCGP v0.09.03_Candidate; CC-02.02 / CC-ECLPM v0.09.03_Candidate; CC-05.01 / CC-CME v0.02.01_Candidate
+**Status:** `DAILY_CHRONICLE — DRAFTED / UNREVIEWED / DRAFTED_NOT_COMMITTED / NOT_ELIGIBLE / NOT_COMMISSIONED`
+**Record principle:** Every described story event is a proposed fictional episode event, not accepted franchise canon, not a factual report about real employees, and not a real Koware management action.
+
+---
+
+## B1 — Run and Temporal Manifest
+
+### B1.1 Operation and Controlling Interpretation
+
+| Field | Value or Qualified State |
+|---|---|
+| Operation performed | `DAILY_CHRONICLE` — commissioned single working-day story plus internal B1–B8 handover |
+| Working identifier | `S00_CH05_E03_DAY04` |
+| Season / Chapter / Episode | Season 00 Foundation Phase / Chapter 05 The Signal Before Sunrise / Episode 03 The Custodian's Key |
+| Day within Episode 03 | Day 04 of 10 possible working days |
+| Chapter working day | CWD 24 (Episode 03 opens CWD 21 on 16 Nov 2026; Day 04 = 19 Nov) |
+| Calendar date (P-clock) | Thursday, 19 November 2026 |
+| Production UTC timestamp | `2026-11-19T15:51:28Z` (live endpoint acquisition) |
+| Framework versions used | CC-UPMP v0.09.01_Candidate; CC-DCGP v0.09.03_Candidate; CC-ECLPM v0.09.03_Candidate; CC-CME v0.02.01_Candidate — all candidate editions, not owner-ratified |
+| Downstream commission | Comic: NOT COMMISSIONED. Media: NOT COMMISSIONED. |
+| Prior Day 04 platform responses | ALL NULL (COPILOT-1, CHATGPT-1, GITHUB-1, CLAUDE-1, JULES-1, PERPLEXITY-1, ANTIGRAVITY-1, KIROCREW-1, OTHER-1 all NULL) |
+
+### B1.2 Three-Clock and Spatial Custody
+
+| Clock / Location | Live-acquired value | Boundaries applied |
+|---|---|---|
+| P — Production clock | `2026-11-19T15:51:28Z` (UTC); Story date Thursday 19 November 2026 | Story chronology only; not asserted as exact real-time action by real employees |
+| H — Historical clock | `2003-07-23T08:38:34+00:00` **LIVE-ACQUIRED** from buzzjuice.net | Location: Las Vegas, Nevada (Enka's historical reference per framework). Used as background evidence-discipline mirror; no flashback, no travel asserted |
+| F — Millennium Probe | Probe ISO: `1994-03-21T02:17:04Z` **LIVE-ACQUIRED** | Phase 5 (Oct 16–Dec 20 2026); Oscillation: 0.02345; Amplitude: 75,882.92 days; Probe value: −11,931.56 days; Destination vicinity: Kuala Lumpur, Malaysia. Used as a stable-but-unverified instrument reading in-story; no travel, no displacement, no route asserted |
+| Koware HQ | New Legon, Accra, Ghana (UTC+00:00) | Fictional story setting; not verified real-property attendance |
+| Deployed field team | Kuala Lumpur, Malaysia (user-supplied framework constant) | Observation-only mandate; no route inspection; individual identities, wellbeing and device status NOT VERIFIED |
+| H-clock geography | Las Vegas, Nevada (Enka's historical reference per framework) | Historical context only; Enka not physically present in 2003 Las Vegas during this episode |
+
+### B1.3 Episode 03 Calendar Alignment
+
+Episode 03 provisional calendar (CWD 21–30 from first Monday 19 Oct 2026):
+
+| Day | Date | CWD | Status at this production run |
+|---|---|---|---|
+| Day 01 | Mon 16 Nov 2026 | 21 | Prior installment (not produced this run) |
+| Day 02 | Tue 17 Nov 2026 | 22 | Prior installment (not produced this run) |
+| Day 03 | Wed 18 Nov 2026 | 23 | Prior installment (not produced this run) |
+| **Day 04** | **Thu 19 Nov 2026** | **24** | **THIS CHRONICLE — PRODUCED** |
+| Day 05 | Fri 20 Nov 2026 | 25 | PENDING |
+| Day 06 | Mon 23 Nov 2026 | 26 | PENDING |
+| Day 07 | Tue 24 Nov 2026 | 27 | PENDING |
+| Day 08 | Wed 25 Nov 2026 | 28 | PENDING |
+| Day 09 | Thu 26 Nov 2026 | 29 | PENDING |
+| Day 10 | Fri 27 Nov 2026 | 30 | PENDING |
+
+**Note:** Days 01–03 of Episode 03 have no archived source installments in the local workspace. This Day 04 chronicle is produced as a standalone daily installment drawing from the accepted Episode 02 continuity ledger. The absence of Days 01–03 source archives means no episode-wide narrative precedent has been read for Episode 03 prior to Day 04, except the Episode 02 handover projection.
+
+---
+
+## B2 — Research / Source Register
+
+### B2.1 Source Acquisition Outcomes
+
+| Source | Acquisition status | Use in this chronicle |
+|---|---|---|
+| CC-01.01 / CC-UPMP v0.09.01_Candidate | **READ** via GitHub raw (research subagent) | Governing framework; mode routing; Q gates; three clocks; B1–B8 structure |
+| CC-01.01_Comic_Default_Alignment_Amendment_v0.09.04_PROPOSED | **READ** | N=8 comic default amendment (noted; comic NOT commissioned) |
+| CC-01.02 / Convergence QA v0.09.01 | **READ** | QA gate verification approach |
+| CC-01.03 / Convergence Review v0.09.01 | **READ** | Decision traceability, evidence class vocabulary |
+| CC-02.01 / CC-DCGP v0.09.03_Candidate | **READ** | Daily protocol runbook; phase lifecycle |
+| CC-02.02 / CC-ECLPM v0.09.03_Candidate | **READ** | B1–B8 schema; 15-element B6; ledger record families |
+| CC-02.03 / CC-ALIGN v0.09.03_Candidate | **READ** | Convergence decisions; AT01–AT60 alignment |
+| CC-02.04 / Daily Chronicle QA v0.09.03 | **READ** | QA manifest; 88-check pass record |
+| CC-05.01 / CC-CME v0.02.01_Candidate | **READ** | Context Merge Engine; V1–V6 cumulative pipeline; 8 canonical operations |
+| CC-05.02 / CME Review v0.02.01_Candidate | **READ** | CME-C01–CME-C24 decisions; REJECTED_FOR_STORY conditions |
+| S00_CH05_E02 — The Authority Behind the Arrow (compiled episode) | **READ** (local file `S00_CH05_E02-The_Authority_Behind_the_Arrow.txt`) | Full Episode 02 continuity; accepted events P01–P08C; open threads; B6 handover |
+| S00_CH05_E02 — Four Arrows No Signature (compilation+ledger) | **READ** (local file `S00_CH05_E02-Compilation_w_Ledger.txt`) | Secondary episode reference; character interactions; external news register |
+| S00CH05E03DAY04.txt (local platform responses) | **READ** — ALL PLATFORM BLOCKS NULL | No prior platform content to integrate; fresh production |
+| Historical endpoint (live) | **LIVE-ACQUIRED** `2003-07-23T08:38:34+00:00` | Used directly in B1.2 and story |
+| Millennium Probe endpoint (live) | **LIVE-ACQUIRED** full JSON | Used directly in B1.2 and story |
+| Eternal Dreamfall Week 97 | REFERENCED by theme; exact verse/passage mapping for specific dates NOT independently verified | General theme of textual transmission used in story fabric; no specific daily verse invented or attributed |
+| External news (Ghana/Malaysia, 19 Nov 2026) | NOT independently retrieved for today's specific date; prior Episode 02 news register used as continuity baseline | No new external events invented; references in story use thematic extension of established pinboard items |
+| Character canons (Mathias, Johnson, Derek, Steven, James, Matthew, Josh, Terry, Mubarak, Enka, Edliex) | ROLE-CHART SOURCED; individual canon files NOT fully verified | Names and roles from Episode 02 ledger; no consent/likeness assertions |
+
+### B2.2 Context Merge Engine — Six-Stage V1→V6 Trace
+
+The following describes the cumulative narrative construction under CC-05.01 / CC-CME v0.02.01:
+
+| Stage | Domain | Merge function | Chronicle integration |
+|---|---|---|---|
+| **V1** Structural-Spiritual Foundation | Eternal Dreamfall Week 97; thematic anchor | READ → LOCK → PRESERVE | Textual transmission theme; "what changes in the journey and what does not" — woven into Enka's morning note; not an invented verse |
+| **V2** Safety and Accountability Layer | H&S accountability; Mubarak's perimeter; access log | CONNECT → PRESERVE | Authentication channel; IT log anomaly; correct procedure vs shortcut; observation-only mandate reiterated |
+| **V3** Historical Grounding | H-clock `2003-07-23T08:38:34` Las Vegas | TRANSFORM → REGISTER | Juxtaposed with Probe reading; Mathias comments on shared problem across time; not a flashback; no travel |
+| **V4** Contemporary Relevance | Accra compound routines; pinboard; news items | CONNECT → TRANSFORM | GES certification announcement; infrastructure news; Malaysia safety review report; Terry's draft removed; Thomisia absent |
+| **V5** Speculative/Probe Dimension | F-clock Probe value −11,931.56 days; Kuala Lumpur vicinity | TRANSFORM → VALIDATE | Laboratory consultation; rice-container metaphor; Enka's pedagogical framing; no travel asserted |
+| **V6** Business and Community Integration | Koware operations; sealed box; revised inquiry; Accra evening | PRESERVE → REGISTER | Revised custodial inquiry placed in queue; correct question vs assertion; city-at-dusk closure; challenge crystallizes |
+
+### B2.3 External News / Reference Register
+
+| Item | Use in chronicle | Scope |
+|---|---|---|
+| Malaysian building safety certification review (reported in-story) | Pinboard item; not causally linked to Kuala Lumpur notice case | Thematic background only |
+| Ghana Education Service — professional certification announcements | Josh asks framing question; journalist declines misrepresentation | Correctly handled as background policy item |
+| GNA — Accra district infrastructure/transport updates | Referenced at Thomisia's absent desk | Not asserted as a Koware event |
+| Terry Joan's draft social-media claim | Removed from pinboard by journalist | Demonstrates editorial discipline; no claim about Koware programmes published |
+
+**Note:** No specific dated GNA/external URL was independently retrieved for 19 November 2026. The pinboard items are thematically consistent extensions of the Episode 02 news-register approach, not fabricated claims. If the production editor wishes to substitute real 19 November 2026 news items, they should be retrieved, dated and scoped per the B2.2 evidence-class standards.
+
+---
+
+## B3 — Character, Koware Role and Project Register
+
+### B3.1 Role Spotlight — CWD 24 (Thursday, 19 November 2026)
+
+| Role | Character (aliased) | Day 04 function | Rights/canon status |
+|---|---|---|---|
+| Director of Operations | Mathias Agbenorku | Morning anchor; flowchart review; compound perimeter | Role sourced from E02; consent NOT verified |
+| Programme Manager | Johnson Ortsin | Flowchart; records governance request; leaves at end of day | Role sourced; canon NOT fully verified |
+| Production Coordinator | Derek Shiraska | Authentication chain mapping; scope discipline | Role sourced; personal canon NOT verified |
+| Academic Registrar | Steven Sarpong | Estimation-under-uncertainty table; folder slapstick beat | Role sourced; canon NOT verified |
+| Director of Academic Programs | James Evans | Pedagogy consultation with Enka; Probe framing | Role sourced; canon NOT verified |
+| Academic Partnerships & Outreach | Matthew Ebenezer | Observation about second-column forgetting | Role sourced; canon NOT verified |
+| Public Relations & Press Coordinator | Josh Lafa | Framing question on GES announcement | Role sourced; canon NOT verified |
+| Marketing Manager | Terry Joan | Draft social-media claim removed | Role sourced; canon NOT verified |
+| Facility Manager | Mubarak Mohsen | Custodial release review; perimeter walk | Role sourced from E02; canon NOT verified |
+| Enka | — | Laboratory anchor; inquiry reformulation; study note | Franchise protagonist; clearance NOT verified |
+| Edliex | — | Referenced as compound presence; not foregrounded this day | In-universe AI; depiction proposed |
+| IT / Systems Specialist | Unnamed | Access log flagging; correct procedure | Role-chart functional; individual NOT named |
+| Thomisia Daniel | Events & Tours Coordinator | Absent; desk note about transport item | Role sourced; presence correctly absent |
+
+### B3.2 Character State Projections (Proposed, Not Canon)
+
+| Character | Knowledge gained Day 04 | Relationship/state delta | Status |
+|---|---|---|---|
+| Enka | Revised inquiry correctly formulated; Probe pedagogy articulated; IT log correctly handled | More disciplined about question ownership; respectful of Mubarak's custodial precision | PROPOSED |
+| Mathias | Accepts the "waiting for authorized requester" state without manufacturing a solution | Calm discipline; professional solidarity with Johnson and Derek | PROPOSED |
+| Johnson | Revised flowchart accepted; records governance request submitted | Reduced friction with Derek; learning to work with the gap honestly | PROPOSED |
+| Derek | Authentication chain document prepared; scope maintained | Consistent; reliable boundary-keeper | PROPOSED |
+| Steven | Estimation table created; second-column lesson learned from Matthew; folder mishap | Humbled by Matthew's observation; more attentive to column-boundary slippage | PROPOSED |
+| James | Probe pedagogy with Enka deepened; "rice-container" metaphor formulated | Richer analytical vocabulary; engaged with teaching implications | PROPOSED |
+| Terry Joan | Draft social-media claim withdrawn | Accepts journalist's correction; places claim in planning folder for factual basis | PROPOSED |
+| Mubarak | Revised inquiry submitted; IT anomaly correctly escalated | Maintains custody boundaries; evening reflection deepens understanding of observation limits | PROPOSED |
+
+**No personal, private, family, health, intimate or financial details invented for any character.**
+
+---
+
+## B4 — Mission and Technology State
+
+| Dimension | State entering Day 04 | Proposed state after Day 04 |
+|---|---|---|
+| Kuala Lumpur notice inquiry | OPEN; sealed box located but not released; authorized requester blank | OPEN; revised inquiry placed in queue asking for entitled requester category |
+| Field team mandate | Observation only | UNCHANGED; no route inspection, no occupant instruction |
+| Sealed archive box | Located; awaiting authenticated release request | STILL SEALED; revised inquiry outgoing |
+| Millennium Probe | Stable at −11,931.56 days displacement; Kuala Lumpur vicinity | UNCHANGED; reading noted; no travel, displacement or mission change |
+| Historical reference | `2003-07-23T08:38:34+00:00` Las Vegas | UNCHANGED; used as evidence-discipline analogy |
+| IT access log anomaly | NOT PRESENT before Day 04 | NEW OPEN ITEM: three declined access attempts by temp credential; no data compromise; source investigation in progress |
+| Outgoing verification request | Tuesday's request stalled at "Authorized Requester" blank | REVISED AND QUEUED: now asks for entitled-requester category |
+| Pinboard | Active with sourced external items | Terry's unfounded social-media draft REMOVED; pinboard integrity maintained |
+| Edubeam device status | Unknown; not referenced Day 04 | UNKNOWN; no change asserted |
+| Field team wellbeing | Unknown | UNKNOWN; no invented conditions |
+
+---
+
+## B5 — Continuity and Story Ledger
+
+### B5.1 Proposed Day 04 Events (Append-Only; Not Canon)
+
+| Event label | Scene | Proposed fictional event | Continuity implication | Lifecycle |
+|---|---|---|---|---|
+| `E03D04:01` | Part 1, morning | Mathias arrives early; H-clock and Probe reading reviewed; shared problem across time noted | Mathias's methodical character established for E03 | PROPOSED |
+| `E03D04:02` | Part 2, academic wing | Steven's estimation table produced; Matthew observes second-column slippage; folder slapstick beat | Academic epistemology subplot deepened | PROPOSED |
+| `E03D04:03` | Part 3, operations desk | Johnson's flowchart reviewed with Derek; Mathias joins; "nothing inside the circle" acknowledged | Johnson's reduced friction with Derek; honest representation accepted | PROPOSED |
+| `E03D04:04` | Part 4, newsroom | Terry's social-media draft removed; pinboard adjusted; Josh's framing question resolved | Editorial discipline maintained; Terry corrected without humiliation | PROPOSED |
+| `E03D04:05` | Part 5, laboratory | Enka–James pedagogy session; Probe explained as "consistent with method not witness"; rice-container slapstick beat | Probe framing clarified; James gains teaching vocabulary | PROPOSED |
+| `E03D04:06` | Part 6, operations | Building manager contact confirms correct formatting; identifies authorized-requester gap; revised inquiry submitted | Case advances correctly; assertion→inquiry shift | PROPOSED |
+| `E03D04:07` | Part 7, IT desk | IT specialist flags three declined temp-credential access attempts to Kuala Lumpur documentation folder | New internal open item; compound security correctly handled | PROPOSED |
+| `E03D04:08` | Part 7–8, end of day | Day's formal outputs documented; Probe stable; H-clock unchanged; Mubarak perimeter walk; Enka's board note | Day closes with correct questions, not false answers | PROPOSED |
+
+### B5.2 Open Threads Carried Forward
+
+1. **Authorized requester identity:** `OPEN` — revised inquiry asks for entitled-requester category; answer not yet received
+2. **Sealed archive box contents:** `OPEN` — not opened; contents unknown
+3. **Lower line beneath fourth arrow:** `OPEN` — wording not yet authenticated
+4. **IT access log anomaly:** `NEW OPEN` — source of three temp-credential attempts under investigation
+5. **Field team identity / wellbeing:** `NOT VERIFIED` — observation mandate only; individual conditions unknown
+6. **Probe destination precision:** `OPEN` — reading stable but not a verified travel record
+7. **Outgoing revised inquiry:** `QUEUED — AWAITING CONFIRMATION` — not yet confirmed received by building contact
+8. **Days 01–03 of Episode 03:** `NOT ARCHIVED LOCALLY` — no installment files exist; continuity drawn from E02 B6 handover only
+9. **Thomisia's transport item:** `DEFERRED` — she was absent Day 04; item flagged at her desk
+
+### B5.3 Humor Invariant
+
+**One physical slapstick beat per daily installment, correctly placed:**
+- Day 04: Steven Sarpong's reference folder falls and scatters, with one sheet landing on his keyboard declaring itself **DEFINITIVE SOURCE DOCUMENT** — irony deployed as editorial commentary, not disrupting any safety procedure or operational decision.
+- Subsidiary light beat: James catches the sliding rice container and uses it as a Probe analogy — physical but not classified as the primary slapstick beat.
+
+### B5.4 Eternal Dreamfall Integration
+
+- **Week 97** thematic reference: preservation of texts across communities and languages; the gap between what a text says and what an institution claims it authorizes
+- Exact assigned passage and YouVersion daily verse for 19 November 2026 **NOT independently verified** — theme used without inventing specific scripture quotation
+- Study maintained as a separate personal journal entry for Enka; not placed in the evidence notebook
+
+---
+
+## B6 — Portable Production Handover (15 Mandatory Elements)
+
+1. **Identity and revisions.** S00 Foundation Phase / CH05 *The Signal Before Sunrise* / E03 *The Custodian's Key* / Day 04. Daily draft title: *The Name Behind the Stamp*. Working identifier `S00_CH05_E03_DAY04`. Candidate frameworks CC-UPMP v0.09.01, CC-DCGP v0.09.03, CC-ECLPM v0.09.03, CC-CME v0.02.01 — all candidate editions, none ratified. Prior Day 04 platform responses: ALL NULL. This is the first substantive production for Day 04.
+
+2. **Calendar.** Thursday, 19 November 2026 = CWD 24 of Chapter 05. Episode 03 provisional window: Mon 16 Nov–Fri 27 Nov 2026, CWD 21–30. Derived from first Monday after Phase 5 start (16 Oct 2026 → first Mon 19 Oct → Episode 03 opens Mon 16 Nov). No owner-verified calendar authority established. Days 01–03 of E03 have no local archive installments.
+
+3. **Temporal/spatial snapshot.** P: Thursday 19 November 2026, UTC, New Legon Accra (UTC+00:00). H: `2003-07-23T08:38:34+00:00`, Las Vegas Nevada — LIVE ACQUIRED. F: Probe ISO `1994-03-21T02:17:04Z`, now `2026-11-19T15:51:28Z`, Phase 5, probe value −11,931.56 days, Kuala Lumpur vicinity — LIVE ACQUIRED. Field team location: Kuala Lumpur (framework constant, not independently authenticated for Day 04). Historical scene place: Las Vegas (mirror analogy only, no Enka travel). Probe destination: Kuala Lumpur vicinity (calculation, not verified physical presence).
+
+4. **What happened.** Day 04 produced: Mathias's early morning review; Steven's estimation table with Matthew's second-column observation; Johnson/Derek/Mathias flowchart review; newsroom pinboard audit and Terry's draft removal; Enka–James Probe pedagogy session; building manager contact's confirmation and authorized-requester gap identification; revised inquiry placed in outgoing queue; IT access log anomaly flagged and catalogued; Mubarak's evening perimeter walk; Enka's board note about correctly asked questions. The box remains sealed. The revised inquiry is correctly formulated but not yet confirmed received.
+
+5. **Character projection.** Enka: increasingly precise about question ownership. Mathias: steady acceptance of unresolved state without manufacturing solutions. Johnson: further reduced friction with Derek; learning. Derek: consistent scope-keeper. Steven: humbled by Matthew; more careful. James: richer Probe pedagogy. Terry: withdraws overclaim without humiliation. Mubarak: maintains custodial precision; reflective perimeter walk. All are PROPOSED fictional states; no real-person actions, consent or employment verified.
+
+6. **Mission projection.** Kuala Lumpur inquiry: OPEN. Field team: observation-only, wellbeing UNKNOWN. Sealed archive: STILL SEALED. Revised inquiry: QUEUED. Probe: STABLE — not a travel record. IT log anomaly: NEW OPEN ITEM. No new travel, device, roster change, mission expansion or Edubeam action asserted.
+
+7. **Organization and projects.** CWD 24 role chart: Director of Operations, Programme Manager, Production Coordinator, Academic Registrar, Director of Academic Programs, Academic Partnerships, PR & Press, Marketing, Facility Manager, IT/Systems (unnamed). Enka as continuing anchor. All in fictional story roles only. No real project completions, procurement, field travel, publication or booking verified.
+
+8. **Study / learning.** Eternal Dreamfall Week 97 theme: textual transmission and the gap between text and institutional claim. Used thematically in Enka's private journal; no invented daily verse or attributed scripture. No completed course credential or H&S lesson certificate asserted.
+
+9. **Research provenance.** Live endpoints acquired: H `2003-07-23T08:38:34+00:00`, Probe JSON with phase 5 data. Prior E02 news register used as continuity baseline. No specific 19 November 2026 external news independently retrieved; pinboard items are thematic extensions, not fabricated claims. Production editor should substitute real 19 Nov 2026 sourced items if available.
+
+10. **Storyline and events.** Events E03D04:01–E03D04:08 proposed. All open threads from Episode 02 B5.2 carried forward. New open item: IT access log anomaly. Core mysteries unchanged: notice origin, authorization, translations, sealed box, entitled requester, Probe precision, field team. Fair visit deferred.
+
+11. **Challenge.** Single public question at literal end of standalone Output A: principle demonstrated by reformulating release request from assertion to inquiry about entitled-requester category; why more defensible than naming senior Koware officer. No answer, rationale or revealing hint in public output. Restricted challenge key custody: NOT ESTABLISHED — HUMAN SECURE CUSTODY REQUIRED.
+
+12. **Derivatives / cards.** Comic pages: NOT COMMISSIONED / NOT GENERATED. Character reference collages: NOT GENERATED. Media platform prompts, video, audio, narration: NOT COMMISSIONED / NOT GENERATED. Service Cards, competition, rewards, answer keys: NOT COMMISSIONED.
+
+13. **Open exceptions and decisions.** (a) Days 01–03 E03 have no local archive installments — production editor must decide whether to generate retroactively or treat Day 04 as a fresh daily. (b) Calendar and canonical source-ID authority not established. (c) No external news independently retrieved for 19 Nov 2026 — editor should supply real items. (d) IT access log anomaly is a new narrative thread — editor decides whether to advance or close. (e) All character canons and rights unverified. (f) Challenge restricted custody not established.
+
+14. **Next eligible working day.** Friday, 20 November 2026 = CWD 25 / E03 Day 05. Carry-forward items: await building manager contact's response to revised inquiry; resolve IT access log source; advance Steven's estimation framework toward case application; consider whether Thomisia's transport item becomes relevant for fair-visit planning. All carry-forwards conditional on starting from the ACCEPTED episode ledger, not this unaccepted draft.
+
+15. **Operational truth.** This package is locally generated Markdown. No verified GitHub write, authorized character-state append, challenge secure storage, human editorial acceptance, public release, image render, comic plan, media prompt, clip generation or video edit has occurred. Output A ends with the challenge and nothing after it. Output B is this internal section. The combined file is for internal editorial handover only; do not distribute the combined file publicly.
+
+---
+
+## B7 — Derivative / Media and Challenge Status
+
+| Surface | Recorded status | Control |
+|---|---|---|
+| Day 04 public chronicle draft | `DRAFTED` — first production, no prior platform content | Human editorial acceptance required |
+| Day 04 public challenge | Draft question present as final material of standalone A | No answer, rationale or revealing hint created |
+| Restricted challenge key | NOT CREATED — HUMAN SECURE CUSTODY REQUIRED | Never in chat, public output, images or repository |
+| Comics / page art | NOT_COMMISSIONED / NOT_GENERATED | Await separately commissioned CC-03 production after editorial acceptance |
+| Character reference collages | NOT_GENERATED | Character asset/canon/approval audit incomplete |
+| Media platform prompts, video, narration | NOT_COMMISSIONED / NOT_GENERATED | Await comic stage and subsequently commissioned CC-04 stage |
+| Service Cards / competition / awards | NOT_COMMISSIONED | No quiz answer or reward transaction |
+| Repository archive / canon write | DRAFTED_NOT_COMMITTED | No authenticated write / readback |
+
+---
+
+## B8 — Validation, Exceptions and Approval Register
+
+### B8.1 Q01–Q16 Gate Results
+
+| Gate | Result | Evidence / limit |
+|---|---|---|
+| `Q01_SCOPE` | `PASS` | Exactly one daily chronicle produced for 19 Nov 2026; comic/media not initiated; no sequel or multi-day extension |
+| `Q02_CALENDAR` | `PASS_PROVISIONAL` | Mathematical alignment CWD 24 = Thu 19 Nov 2026 from Episode 02 ledger calendar; owner-verified calendar authority not established |
+| `Q03_THREE_CLOCKS` | `PASS` | H-clock LIVE ACQUIRED `2003-07-23T08:38:34+00:00`; Probe LIVE ACQUIRED `−11,931.56 days` Phase 5; P-clock `2026-11-19T15:51:28Z`; all three distinct and correctly labeled; no false readings; locations correctly bounded |
+| `Q04_IDENTIFIERS` | `PASS_PROVISIONAL` | Working identifier `S00_CH05_E03_DAY04` assigned; legacy crosswalk and canonical episode ID not independently ratified |
+| `Q05_CANON` | `FAIL` | Character canons not exhaustively verified; E03 prior-day archives not available; accepted mission history drawn from E02 provisional ledger only |
+| `Q06_ROLE_PROJECT` | `PASS` | CWD 24 role chart mapped; real organizational activity explicitly not asserted |
+| `Q07_STUDY` | `FAIL` | Week 97 Eternal Dreamfall thematic reference only; exact daily verse for 19 Nov 2026 not independently verified; no invented verse |
+| `Q08_VERSE_HS` | `NOT_RUN` | Specific dated passage not independently retrieved; no fabricated scripture or course completion |
+| `Q09_RESEARCH` | `PASS_PROVISIONAL` | No specific 19 Nov 2026 external news independently retrieved; pinboard items thematically consistent with E02 register; no fabricated events; editor should supply real items |
+| `Q10_RIGHTS` | `FAIL` | Named character portrayal consent, visual rights, diary permissions and public release authorization not established |
+| `Q11_STORY` | `PASS` | Nine scene sections covering full working day; chain of evidence advances correctly; sealed box still sealed; revised inquiry correctly formulated; one primary slapstick beat; challenge crystallizes at end |
+| `Q12_CHALLENGE` | `PASS` | One public question at literal end of Output A; no answer key supplied |
+| `Q13_RECORDS` | `PASS` | Physically separate complete B1–B8 internal record; 15-element B6; proposed events listed; no persistence claimed |
+| `Q14_DERIVATIVES` | `PASS` | No premature comic, video, collage, narration or rewards generated |
+| `Q15_INTEGRITY` | `PASS` | Missing E03 Days 01–03 archives disclosed; prior platform NULLs noted; proposal status clear; no GitHub write claimed |
+| `Q16_BOUNDARIES` | `PASS` | Standalone A ends with challenge; B is this internal section; combined file marked internal; no Output C or restricted answer |
+
+### B8.2 Exceptions Register
+
+| Severity | Issue | Required disposition |
+|---|---|---|
+| **BLOCKER — definitive release** | Days 01–03 of Episode 03 have no local archive installments | Editor decides: generate retroactively or accept Day 04 as Episode 03's first produced installment |
+| **BLOCKER — public portrayal** | Named character canons and permissions not fully verified | Verify rights and effective character approvals before any public release |
+| **REVIEW** | No specific 19 Nov 2026 external news retrieved | Production editor should source and substitute real items for pinboard references |
+| **REVIEW** | IT access log anomaly is a new narrative thread | Editor decides whether to develop, resolve or close in Day 05 |
+| **REVIEW** | Revised custodial inquiry outgoing but not confirmed received | Day 05 chronicle should track response status |
+| **INFORMATION** | Challenge restricted key custody not established | Requires secure editorial action before any scored contest |
+
+### B8.3 Context Merge Engine Verification
+
+Applying CC-05.01 / CC-CME v0.02.01 eight canonical operation check:
+
+| Operation | Applied in this chronicle | Outcome |
+|---|---|---|
+| READ | H-clock, Probe, Episode 02 ledger, all protocol documents | Complete |
+| DECOMPOSE | Three-clock separation; character arcs; pinboard items; sealed-box vs inquiry logic | Complete |
+| LOCK | Observation-only mandate; Kuala Lumpur locality; no route instruction | Locked |
+| CONNECT | H-clock ↔ evidence-discipline analogy; Probe ↔ pedagogy session; news ↔ pinboard; IT log ↔ correct procedure | Connected causally |
+| TRANSFORM | V1→V6 cumulative: spiritural → safety → historical → contemporary → speculative → business | V6 achieved; story is integrated not concatenated |
+| PRESERVE | Sealed box still sealed; revised inquiry not yet confirmed; Probe reading not asserted as travel; slapstick does not direct safety action | All hard anchors preserved |
+| VALIDATE | Q01–Q16 run; B6 15-element check; slapstick invariant; challenge terminal placement | Completed |
+| REGISTER | B5.1 event table; B6 portable capsule; B8.2 exceptions | Registered |
+
+**CME result:** V6 Output A is a single integrated original daily story. All eight operations completed. No source pasted; every context transformed story stakes or character knowledge. No missing source fabricated.
+
+---
+
+**END — S00_CH05_E03_DAY04 Episode Continuity Ledger & Production Handover**
+
+**RESTRICTED OUTPUT NOT CREATED; HUMAN SECURE CUSTODY REQUIRED.**
+
+*This internal ledger must not be appended to or published with the public-facing Output A. Combined form is for internal editorial handover only.*
+
+
+<<STOP ANTIGRAVITY-1>>
+
+<<START KIROCREW-1>>
+
+<!-- OUTPUT A — PUBLIC DRAFT. This file is the audience-facing chronicle only.
+     Do not publish until editorial review and human acceptance. -->
+
+# CLASSIES CHRONICLES
+
+## Season 00 — Foundation Phase
+### Chapter 05 — The Signal Before Sunrise
+## Episode 03 | Chronicle 04 of 10
+
+**Working identifier:** `S00_CH05_E03_DAY04`
+**Narrative title:** *The Condition of What Was Never Opened*
+**Canonical chapter working day:** 24
+**Story date:** Thursday, 19 November 2026
+**Production timestamp (P):** 2026-11-19T15:48:17Z (Koware HQ, New Legon Estates, Accra, Ghana)
+**Historical reference timestamp (H):** 2003-07-23T08:38:00+00:00 (Las Vegas, Nevada reference)
+**Probe destination timestamp (F):** 1994-03-21T02:17:04Z *(SPECULATIVE_PROBE_SCENARIO — probe displaced backward approximately 32.7 years from P; not empirical travel or location fact)*
+**Probe phase:** 5 of cycle (Oct 16 – Dec 20 2026); oscillation_index: 0.023453; probe_value_days: −11,931.56
+**Episode arc:** The box in Kuala Lumpur storage has been located but not opened. A condition report was requested before access could be authorized. This chronicle covers the Thursday on which that report was expected.
+**Primary role focus:** Legal Journalist (Pastor Michael McCauley) · Corporate Manager (Enka Yamoah) · Liaison Officer (NSS Personnel-1) · Liaison Assistant (NSS Personnel-2)
+**Editorial status:** DRAFTED / AWAITING_EDITORIAL_REVIEW
+**Persistence:** DRAFTED_NOT_COMMITTED
+
+---
+
+## OUTPUT A — THE CHRONICLE
+
+---
+
+### Part I: The Paper That Preceded the Answer
+
+The report had not arrived by morning.
+
+Pastor Michael McCauley placed his phone face-down on the reception table, waited a measured moment, then turned it back over. The screen had not changed.
+
+He made a note in the margin of his working copy: *Expected Wednesday. Now Thursday. Neither is a failure — both are facts.*
+
+The Legal Journalist had long since stopped treating time the way a dramatist does, as proof of urgency. Time, in his experience, was simply a coordinate. A document that was late was not a document that was lost. A document that had not yet arrived was not a document that had never existed. These distinctions seemed obvious until the moment someone needed to decide something, at which point they became the most contested territory in any investigation.
+
+The box was in Kuala Lumpur. It had been located in a storage unit adjacent to the building's secondary records annex during the previous week's field investigation. The team had observed it, logged it, photographed it and left it precisely where they found it. Opening the box without an authorized condition report was not an option anyone had proposed — which Pastor McCauley considered the clearest sign yet that the team understood its role correctly.
+
+He opened the pinboard's incoming folder.
+
+Three items:
+
+One was a Kuala Lumpur port authority circular about documentation standards for archived physical transfers — not related, but worth filing.
+
+One was a forwarded press summary from the Malaysian Parliament session: the House had been discussing transparency measures following a school-related inquiry in Perak. The article, published that morning by [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/19/prime-minister-joins-calls-for-transparency-in-perak-school-death-probe/243826), reported that the Prime Minister had joined calls for a thorough and transparent investigation process.
+
+The word *transparency* appeared four times in the article.
+
+Pastor McCauley did not circle it. He simply noted, in the margin, that the word had appeared four times and that two of those appearances meant different things.
+
+The third item was the one that mattered.
+
+It was a holding notice from the facility's authorized records custodian in Kuala Lumpur.
+
+The condition report had been prepared. It was under review by the two authorized signatories. It would be transmitted no later than close of business Thursday — this day.
+
+Pastor McCauley read the notice twice. Then he printed it, initialled the top right corner with the time and date, and placed it in the physical file.
+
+He wrote in his margin notes: *Holding notice received. Condition report in final review. Expected today.*
+
+Then he went to find Enka.
+
+---
+
+### Part II: The Three Clocks That Did Not Agree
+
+Enka was at the main operations desk when the Legal Journalist arrived, studying three windows on a single monitor.
+
+The first window showed the historical reference endpoint. The returned timestamp read **2003-07-23T08:38:00+00:00** — an anchor in Las Vegas, Nevada, a reference coordinate from more than twenty-three years ago. It was not today's reading of anything current. It was a record of what had been, frozen at the moment it was last measured, faithful to its own date and nothing beyond it.
+
+The second window showed the production timestamp. The clock there read **2026-11-19T15:48:17Z** — the present, as precisely as the system could express it. Koware headquarters. New Legon Estates. The desk where Enka was sitting.
+
+The third window showed the Probe's computed destination.
+
+The figure read **1994-03-21T02:17:04Z**.
+
+Pastor McCauley looked at it without speaking for a moment.
+
+"Backward this time," Enka said.
+
+"By how much?"
+
+"Approximately thirty-two years, seven months. The oscillation crossed a phase threshold in October. The index is very small — close to zero — but the amplitude is wide enough that even a small index produces a large displacement."
+
+The Legal Journalist studied the figure. "So the Probe is currently pointing somewhere in the mid-1990s."
+
+"The Probe's computed output currently evaluates to that date. Where the Probe's physical receiver would interpret that value, what it would mean for anyone actually using it in the field — those remain separate questions. The number is a calculation. The calculation is real. What the calculation points to is a specific date in the past, not a confirmed physical destination."
+
+"Has the field team been informed of the phase transition?"
+
+"They've been given the updated telemetry. They've been told what it represents and what it doesn't." Enka paused. "They've been here through several phase crossings by now. They understand that the Probe doesn't tell you where you are. It tells you what it computed, and what it computed may point anywhere on the timeline."
+
+The Legal Journalist placed the holding notice on the desk beside the monitor.
+
+"The condition report is expected today," he said. "Close of business."
+
+Enka read the notice once, then set it down. "Good."
+
+He reached for a fresh index card and wrote on it in his careful hand: *Box: condition report incoming — 19 Nov 2026 COB*. He placed the card at the head of the investigation's physical stack.
+
+He had a habit of maintaining a parallel paper trail for the central decisions in a case. Not because he didn't trust the digital records — the digital records were better in almost every respect — but because paper moved through the room in a way a screen did not. It sat on a desk. It ended up under a coffee cup. Someone glanced at it who wasn't looking for it and found something they needed.
+
+He had recovered several important facts that way.
+
+The index card sat at the head of the stack.
+
+The three clocks continued to run.
+
+---
+
+### Part III: The Work of the Day
+
+The Liaison Officer arrived at half past nine with the morning's scheduling requests.
+
+The Liaison Assistant arrived a few minutes behind, slightly out of breath, carrying a tray on which a coffee mug had developed an apparent plan to migrate to the floor. The mug was retrieved, the tray was set down with the careful deliberateness of someone who has just prevented a minor disaster, and the Assistant arranged the morning's incoming correspondence in silence.
+
+Both were NSS placements, still learning the particular rhythms of the Legal Journalist's desk. Both had, by this point, absorbed the core principle: a document was not the same as the fact it described. A received letter was not the same as a confirmed arrangement. A title printed on a form was not the same as the authority to act on what the form requested.
+
+This principle, once understood, made the work considerably slower and considerably more reliable.
+
+The Liaison Officer presented a request form from the building management company in Kuala Lumpur. It asked whether Koware wished to formalize its access request for the archive storage unit so that it could be included in the facility's official visitor schedule.
+
+"That's a different question from the condition report," the Legal Journalist observed. "One asks what state the box is in. The other asks whether we're authorized to visit the place it's kept."
+
+"They want both completed before access is granted," the Liaison Officer confirmed.
+
+"Then we need both. The condition report is already in motion. This form starts the access authorization chain. They're parallel, not competing."
+
+He read the form through once. It asked for the requesting organization's name, its authority basis for the request, its nominated authorized representative, and the specific purpose of the requested access.
+
+He completed the first three fields without hesitation. The fourth he left blank for a moment.
+
+Purpose: *To inspect the physical condition of an archived document container described in the internal records of Koware Group and to determine, in consultation with the building's custodian, the appropriate next steps for its authorized examination.*
+
+He read it back. It said exactly what was true and nothing that wasn't. He signed it and handed it to the Liaison Officer.
+
+"Get it transmitted before lunch."
+
+---
+
+### Part IV: What the Journalist Recorded
+
+By mid-morning, the Ghana Parliament debate had reached the pinboard.
+
+Members of Parliament were discussing the 2027 Budget, specifically the government's New Economy agenda. The [reporting](https://www.modernghana.com/news/1545774/majority-minority-clash-over-mahamas-new-economy.html) described opposing positions from the Majority and Minority caucuses on its scope and financing. President Mahama had, separately, pledged macroeconomic stability and fiscal discipline to the business community.
+
+The Legal Journalist added the item with two lines of annotation:
+
+*Budget debate: 2027. New Economy agenda contested. Macroeconomic stability pledged. Event date: 19 November 2026. Retrieval date: 19 November 2026.*
+
+He separated the fact of the debate from the fact of the pledge.
+
+He had a rule: a statement was always from a speaker, and a speaker's position was always at a point in time. The same person could hold a different position later. The same Parliament could pass a different budget. Recording what was said, by whom, and when was not pessimism. It was the minimum architecture for a usable record.
+
+The pinboard also carried the Malaysia story: 5.5% GDP growth reported for the third quarter of 2026. The [ringgit had opened higher](https://www.malaymail.com/news/money/2026/11/19/ringgit-gains-ground-against-us-dollar-major-currencies-after-malaysia-posts-55pc-gdp-growth/243838) against the US dollar. Malaysia had separately announced the doubling of AI learning passes to 50,000 in response to increased demand for digital skills.
+
+He added these items. They had no direct connection to the investigation. They had every connection to the city where the investigation's field team was based, and to the economic and administrative environment in which the building they were observing operated. A building did not exist outside its context. A notice on a wall did not appear outside the administrative culture that produced it.
+
+He pinned both items in the section marked: *Kuala Lumpur — current context.*
+
+Then he looked at the investigation stack again.
+
+The box had been located. The condition report was coming. The access authorization form had been transmitted. The field team was waiting.
+
+The Legal Journalist wrote one final margin note for the day:
+
+*Thursday, 19 November 2026. All active threads advancing. No thread closed. No thread invented.*
+
+---
+
+### Part V: The Verse That Arrived Without Being Asked For
+
+It had become a practice among the team at the Legal Journalist's desk to look at the morning verse together, not as a devotional exercise but as a form of orientation. The verse was not asked to explain the investigation. The investigation was not expected to illustrate the verse. They were two independent readings of the same day, and their coincidences, when they occurred, were noted and not forced.
+
+The verse for 19 November 2026, as listed on [YouVersion (Bible.com)](https://www.bible.com/verse-of-the-day) for that date, was:
+
+> *Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.*
+> — 1 Thessalonians 5:16–18 (NIV)
+
+The Liaison Assistant, reading it on the shared pinboard, said: "Give thanks in all circumstances. Even when the report hasn't arrived yet."
+
+The Legal Journalist considered this. "The verse doesn't say the circumstances are good," he said. "It says give thanks in them. That's a different instruction."
+
+"Waiting is a circumstance," the Liaison Officer offered.
+
+"Waiting with accurate records is a better circumstance than waiting without them."
+
+Nobody disagreed.
+
+The day's reading in the Eternal Dreamfall corpus for the week of 19 November 2026 was **Week 98**, covering the Septuagint LXX treatment of *Judges* and *Ruth*. The Judges reading traced the recurring pattern of the community failing, calling for help and receiving it — without the intervening years being remembered properly. The Ruth reading traced an act of steadfast loyalty by someone with no institutional obligation to demonstrate it.
+
+The Legal Journalist wrote in his notes: *Judges/Ruth: memory versus faithfulness. The record fails; the commitment holds.*
+
+He did not apply this to the investigation. He kept it in the study column.
+
+---
+
+### Part VI: Close of Business
+
+The condition report arrived at 4:47 PM.
+
+It was transmitted as a secured PDF attachment from the authorized records custodian at the Kuala Lumpur facility. The covering note confirmed that both required signatories had reviewed and approved the document. The attachment was timestamped and carried an alphanumeric identifier consistent with the building's official documentation system.
+
+The condition report stated the following:
+
+The archived container designated in the access request had been physically inspected by an authorized facility officer on 18 November 2026 — the day before. Its external condition was intact. No visible damage, moisture exposure, insect activity or unauthorized entry marks were recorded. The container's seal, applied at the time of original deposit, remained unbroken.
+
+The last recorded authorized access entry for the container was dated and attributed to the original depositing organization.
+
+No subsequent access entry existed.
+
+The Legal Journalist read the report three times.
+
+He added a summary to the physical stack: *Condition report received 19 Nov 2026, 16:47 local. External condition: intact. Seal: unbroken. Last authorized access: original deposit date. No subsequent entry recorded.*
+
+He called Enka.
+
+"The report is here," he said. "The seal is unbroken. The last access was the original deposit."
+
+Enka's voice was level. "So whatever is in that box has not been seen since it was placed there."
+
+"That's what the condition report says."
+
+A short silence.
+
+"File it. Mark it verified-received. We'll determine next steps in the morning."
+
+The Legal Journalist filed it.
+
+He updated the pinboard.
+
+He wrote the last line of the day's margin notes: *Condition report received. Seal unbroken. Original deposit is the last access. No one has looked inside.*
+
+He switched off the desk lamp.
+
+The pinboard remained lit by the room's main light.
+
+Three clocks. Three cities. One sealed box.
+
+And now, for the first time since the investigation began, an exact and verified description of what had not yet been touched.
+
+---
+
+**CHALLENGE — Thursday's Question**
+
+The condition report on the archived box in Kuala Lumpur has arrived. It confirms the external container is intact, the seal is unbroken, and the only recorded authorized access is from the original deposit. The investigation team at Koware has verified the report and informed the field team of its contents.
+
+**What is the most responsible next step for the Koware team?**
+
+A. Authorize the field team to open the box immediately, since the condition report confirms it is undamaged.
+B. Request formal access authorization from the building custodian before proceeding, using the condition report as supporting documentation.
+C. Have the Legal Journalist publish a summary of the investigation so far, noting that the box is confirmed intact and awaiting access.
+D. Treat the condition report's silence on the box's contents as confirmation that the box contains nothing of investigative value.
+E. Contact the original depositing organization to establish whether they retain any claim, instruction or custody record for the container.
+
+---
+
+*End of Output A — Public Chronicle*
+*S00_CH05_E03_DAY04 | Thursday, 19 November 2026*
+*Editorial status: DRAFTED / AWAITING_EDITORIAL_REVIEW*
+*Persistence: DRAFTED_NOT_COMMITTED | No repository commit performed*
+
+>>>>
+
+<!-- INTERNAL / PRE-RELEASE EDITORIAL PACKAGE.
+     This file contains production-only continuity notes and B1–B8 handover.
+     Do NOT publish this file. Use the separate PUBLIC_DRAFT file for audience-facing review. -->
+
+# CLASSIES CHRONICLES — INTERNAL HANDOVER
+## S00_CH05_E03_DAY04 — Episode 03, Chronicle 04
+### Thursday, 19 November 2026 | Chapter Working Day 24
+
+**Internal revision ID:** `E03-DAY04-DRAFT-20261119-01`
+**Framework versions used:** CC-01.01/CC-UPMP v0.09.01 Candidate; CC-01.01 Comic Alignment Amendment v0.09.04 PROPOSED; CC-02.01/CC-DCGP v0.09.03 Candidate; CC-02.02/CC-ECLPM v0.09.03 Candidate
+**Production operator:** KiroCrew / Kiro (19 November 2026)
+**Governing edition:** Candidate — not ratified; effective only on explicit owner selection
+
+---
+
+## B1 — Production Identity and Source State
+
+### B1.1 Document control
+
+| Field | Value |
+|---|---|
+| Season | 00 — Foundation Phase |
+| Chapter | 05 — The Signal Before Sunrise |
+| Episode | 03 (candidate) |
+| Chronicle slot | 04 of 10 |
+| Chapter working day | 24 |
+| Story date | Thursday, 19 November 2026 |
+| Working archive identity | `S00_CH05_E03_DAY04` |
+| Narrative title | *The Condition of What Was Never Opened* |
+| Editorial status | DRAFTED / AWAITING_EDITORIAL_REVIEW |
+| Persistence | DRAFTED_NOT_COMMITTED |
+| Repository commit | None; no write attempted |
+| Release | NOT_ELIGIBLE until independent editorial acceptance |
+| Comic/media | NOT_COMMISSIONED; awaiting separate instruction |
+
+### B1.2 Framework and source retrieval log
+
+| Source | Retrieval result | Status |
+|---|---|---|
+| CC-01.01 UPMP v0.09.01 Candidate | Retrieved via GitHub blob/main | CANDIDATE — not ratified |
+| CC-01.01 Comic Default Alignment Amendment v0.09.04 PROPOSED | Retrieved | PROPOSED CHANGE ONLY — no effect date |
+| CC-02.01 DCGP v0.09.03 Candidate | Retrieved full text | CANDIDATE |
+| CC-02.02 ECLPM v0.09.03 Candidate | Retrieved full text | CANDIDATE |
+| CC-02.03 ALIGN v0.09.03 Candidate | Referenced; not fully loaded | CANDIDATE |
+| CC-02.04 DCQA v0.09.03 Candidate | Referenced | CANDIDATE |
+| CC-05.01 CME v0.02.01 Candidate | Referenced | CANDIDATE |
+| Organizational Chart | Retrieved full text from Koware_Management repo | READ |
+| Eternal Dreamfall reading list | Retrieved full text | READ |
+| Millennium Probe live endpoint | Retrieved — fallback data used (provided by user) | FALLBACK_SNAPSHOT |
+| Historical endpoint | Retrieved — fallback data used (provided by user) | FALLBACK_SNAPSHOT |
+| YouVersion verse of the day | Retrieved from bible.com | VERIFIED_REAL_WORLD_FACT |
+| E02 compilation (S00_CH05_E02.txt) | Retrieved from GitHub | READ — source for carry-forward |
+| E02 combined handover | Retrieved from GitHub | READ — B6 source |
+| E03 DAY04 platform responses file | Retrieved — 0 bytes (empty) | NULL — no prior platform responses |
+| Malaysia news (19 Nov 2026) | Retrieved from malaymail.com | VERIFIED_REAL_WORLD_FACT — publication date confirmed |
+| Ghana news (19 Nov 2026) | Retrieved from modernghana.com / gna.org.gh | VERIFIED_REAL_WORLD_FACT — publication dates confirmed |
+
+### B1.3 Three-clock snapshot
+
+| Clock | Value | Location context | Classification |
+|---|---|---|---|
+| H — Historical reference | 2003-07-23T08:38:00+00:00 | Las Vegas, Nevada (Enka historical reference) | HISTORICAL_INTERPRETATION |
+| P — Production time | 2026-11-19T15:48:17Z | Koware HQ, New Legon Estates, Accra, Ghana | VERIFIED_REAL_WORLD_FACT |
+| F — Probe destination | 1994-03-21T02:17:04Z | SPECULATIVE_PROBE_SCENARIO — probe displaced backward ~32.7 years | SPECULATIVE_PROBE_SCENARIO |
+
+**Probe phase data:** phase_index=5, phase_label="Oct 16–Dec 20", oscillation_index=0.023453, amplitude_days=75,882.92, probe_value_days=−11,931.56
+
+**Probe direction note:** Probe is currently pointing backward in time (probe_value_days is negative). This is a phase crossing from the large forward displacement seen in October–early November 2026. The oscillation index is small and positive, indicating the system is near a zero crossing. Displacement is large due to amplitude; small index × large amplitude still produces ~11,931-day backward shift. This narrative fact is treated as SPECULATIVE_PROBE_SCENARIO and not used as evidence of physical travel.
+
+**Location independence:** Enka's physical present = Koware HQ, New Legon Estates, Accra. Deployed field team = Kuala Lumpur, Malaysia. H timestamp location = Las Vegas, Nevada (historical reference only, not Enka's current position). These three are distinct and are not conflated in the narrative.
+
+---
+
+## B2 — Research and Source Register
+
+### B2.1 Dated verse
+
+| Provider | Date confirmed | Verse | Reference | Used in narrative |
+|---|---|---|---|---|
+| YouVersion (Bible.com) | 19 November 2026 | "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus." | 1 Thessalonians 5:16–18 (NIV) | YES — Part V |
+
+**Attribution:** YouVersion / Bible.com, Verse of the Day, November 19, 2026. Confirmed by direct retrieval at https://www.bible.com/verse-of-the-day during this production session.
+
+### B2.2 Eternal Dreamfall study
+
+| Week | Content | Calculation basis | Used in narrative |
+|---|---|---|---|
+| 98 | Septuagint (LXX) cont. — Judges; Ruth | Arithmetic: days from first full reading Sunday 2025-01-05 ÷ 7 + 1 = Week 98. Confirmed by UPMP master A16 explicit fixture: "19 November 2026 (reading Week 98, Judges/Ruth)" | YES — Part V, thematic only |
+
+**Classification:** PROVISIONAL_ENTRY_EQUALS_WEEK applied per DCGP 12.1. No daily passage invented within the weekly entry. Thematic use only: memory vs faithfulness motif. Original classification preserved: canonical scripture (Judges) + canonical scripture (Ruth) in LXX Greek translation tradition.
+
+### B2.3 Health & Safety
+
+| Reference | Use | Status |
+|---|---|---|
+| HS programme outline | Not directly cited in this chronicle | H&S themes present through document/record-handling discipline and verification practice as general professional conduct | BACKGROUND — not misrepresented as specific course code |
+
+No specific HS course code is cited in the narrative. No course completion is claimed.
+
+### B2.4 Current news
+
+| Headline | Source | Publication date | Retrieval date | Narrative use |
+|---|---|---|---|---|
+| Malaysia PM joins calls for transparency in Perak school death probe | Malay Mail | 19 November 2026 | 19 November 2026 | Pinboard background — referenced as published article, not as evidence in the investigation |
+| Majority, Minority clash over Mahama's New Economy agenda during 2027 Budget debate | Modern Ghana | 19 November 2026 | 19 November 2026 | Pinboard background — Ghana economic context |
+| Ringgit gains ground after Malaysia posts 5.5% GDP growth | Malay Mail | 19 November 2026 | 19 November 2026 | Pinboard background — KL economic context |
+| Malaysia doubles AI learning passes to 50,000 | Malay Mail | 19 November 2026 | 19 November 2026 | Pinboard background — KL context |
+| Mahama pledges fiscal discipline and macroeconomic stability | Modern Ghana | 19 November 2026 | 19 November 2026 | Pinboard background — Ghana economic context |
+
+**Classification for all above:** VERIFIED_REAL_WORLD_FACT for the fact of publication and reporting. Narrative use is thematic background only. No article is used as direct evidence in the in-story investigation. No article is backdated, misattributed or used to establish in-story facts.
+
+### B2.5 Story-versus-evidence boundary
+
+- `VERIFIED_REAL_WORLD_FACT`: All five news items above, the YouVersion verse, the confirmed reading week from DCGP arithmetic.
+- `HISTORICAL_INTERPRETATION`: H timestamp (2003-07-23 Las Vegas reference).
+- `SPECULATIVE_PROBE_SCENARIO`: F timestamp and all Probe destination claims.
+- `CANON_ACCEPTED`: Role chart assignments; E02 carry-forward continuity (box located but sealed; condition report requested).
+- `FICTIONAL_DRAFT`: All narrative action, dialogue, the in-story condition report, its contents, the holding notice, the access authorization form, and all character actions in this installment.
+- `FICTION_ONLY`: In-story Probe observations, in-story building interactions, any claim that the box has been opened or its contents determined.
+- `UNVERIFIED`: Individual deployed team member positions and temporal states beyond "Kuala Lumpur, Malaysia".
+
+---
+
+## B3 — Character, Koware Role and Project Register
+
+### B3.1 Role spotlight characters — Chapter Day 24
+
+| Role (organizational chart) | Alias | Day assignment | Chronicle function |
+|---|---|---|---|
+| Legal Journalist (Law Degree vested Pastor/Theologian) | Pastor Michael McCauley (ACICIA GIMPA) | Days 4–5, 24–25 | Primary spotlight — drives the documentation and verification arc |
+| Corporate Manager | Enka Yamoah (Founder Owner) | Day 4, 24 | Secondary — Probe data custodian; final decision authority |
+| Liaison Officer | NSS Personnel-1 | Day 4, 24 | Support — receives and transmits the access form |
+| Liaison Assistant | NSS Personnel-2 | Day 4, 24 | Support — managing correspondence; comic beat |
+
+**Day 25 preview:** Legal Journalist / Liaison Intern (NSS Personnel-3) / Liaison Personnel (NSS Personnel-4 & 5) continue. Next scheduled action: determine next steps on box access authorization, following receipt of condition report.
+
+### B3.2 Canon restrictions
+
+- Role chart aliases are used as fictional story functions. No action described in this chronicle is represented as a verified real Koware work event.
+- Enka Yamoah's physical location is confirmed as Koware HQ, New Legon Estates, Accra. No claim of travel or historical relocation is made.
+- No new character biography, relationship state or behavioral file update is authorized by this draft.
+- Individual consent and photographic character appearance are not asserted.
+
+### B3.3 Active characters not in spotlight
+
+| Character | Status in this chronicle |
+|---|---|
+| Field analyst / team lead (KL) | Referenced as "field team" — not named; KL location maintained; no independent action described |
+| Mubarak Mohsen (Facility Manager) | Not in spotlight — Day 17 character; mentioned only in carry-forward context |
+| Elijah Peters / Lovemore Saiga | Not in spotlight — Day 17 characters; uncatalogued box thread at HQ passes to this chronicle's secondary track |
+| Robert Amegashie (Liaison Tutor, Day 15) | Drafted letter dispatched E02.07; not spotlighted today |
+
+**HQ uncatalogued box thread:** From E02 B6 and episodic memory — Mubarak Mohsen assigned Lovemore Saiga to inventory the three uncatalogued boxes at HQ. This thread is noted but not advanced in this installment. It remains an open carry-forward item for Day 25 or later.
+
+---
+
+## B4 — Mission and Technology State
+
+### B4.1 Edubeam / Millennium Probe
+
+| Field | Value |
+|---|---|
+| probe_iso (F) | 1994-03-21T02:17:04Z |
+| now_iso (P) | 2026-11-19T15:48:17Z |
+| phase_index | 5 |
+| phase_label | Oct 16 – Dec 20 |
+| phase_start_iso | 2026-10-16T00:00:00Z |
+| phase_end_iso | 2026-12-20T23:59:59Z |
+| oscillation_index | 0.0234532999... |
+| amplitude_days | 75,882.921475 |
+| probe_value_days | −11,931.563346... |
+| H endpoint | 2003-07-23T08:38:00+00:00 |
+| Data source | User-supplied fallback (retrieved timestamp: ~15:48 UTC 19 Nov 2026) |
+| Confidence | FALLBACK_SNAPSHOT — as-of value, not a newly measured live reading |
+
+**Probe oscillation narrative significance:** The displacement has reversed direction compared to the last session memory entry (E02.07, Nov 10 2026, when F ≈ 2167). By Nov 19 the probe_value_days has gone deeply negative (−11,931 days ≈ −32.7 years from P), placing F in March 1994. The oscillation_index is small (0.023) but amplitude is large (75,882 days ≈ 207 years), so even a small index value near zero crossing produces a large displacement. This directional reversal is treated as SPECULATIVE_PROBE_SCENARIO in the narrative — no physical travel or mission state change is implied.
+
+**Previous comparative reading (from memory):** E02.07 (10 Nov 2026): H=2003-07-21T04:21:02Z, P=2026-11-10T08:06:13Z, F=2167-12-30T15:54:17Z. Today's H has advanced slightly (Jul 21 → Jul 23); F has reversed dramatically. These are recorded as separate observations and not collapsed into one claim.
+
+### B4.2 Deployed field team
+
+- **Supplied geographic position:** Kuala Lumpur, Malaysia
+- **Mission posture:** Observation and reporting. Condition report received passively from local custodian.
+- **No unauthorized access to the box.** No route testing. No contact with building occupants beyond official documentation channels.
+- **Rescue obligation:** Maintained. No extraction or return claimed.
+- **Individual temporal/physical state:** UNVERIFIED — not asserted in narrative.
+
+---
+
+## B5 — Append-Only Continuity and Story Ledger
+
+### B5.1 Accepted pre-state (carry-forward from E02 / E03 DAY 01–03)
+
+The following represent the accepted or proposed carry-forward state entering this chronicle. Items marked PROPOSED are from E02 drafts and have not been editorially accepted:
+
+| Event ID | Event | Status |
+|---|---|---|
+| `E02-EVT-009` | An archive box was located in Kuala Lumpur storage but remained sealed. | PROPOSED (E02 draft) |
+| `E02-EVT-010` | A formal release request requires a properly authorized requester. | PROPOSED |
+| `E02-EVT-014` | A draft message was withheld; more than the evidence established was not claimed. | PROPOSED |
+| `E03-D01-EVT-001` | Robert Amegashie's condition report request letter dispatched. *(From episodic memory)* | CANON_ACCEPTED (per session memory) |
+| `E03-D01-EVT-002` | Authorized office ordered condition report before box access. *(From episodic memory)* | CANON_ACCEPTED (per session memory) |
+| `E03-D02-EVT-001` | Wednesday morning identified as next in-story milestone for condition report. *(From episodic memory)* | CANON_ACCEPTED (per session memory) |
+
+**Note on E03 DAY 01–03:** No archived platform responses exist for E03 DAY01–03 (all prior DAY files empty or absent at GitHub). The episodic memory entries above are carried forward as the best available continuity state. Human editorial acceptance of DAY 01–03 events would supersede this.
+
+### B5.2 Proposed new events — this chronicle (FICTIONAL_DRAFT)
+
+| Event ID | Proposed event | Classification |
+|---|---|---|
+| `E03-D04-EVT-001` | A holding notice from the KL facility custodian was received, confirming the condition report is in final review. | FICTIONAL_DRAFT |
+| `E03-D04-EVT-002` | The condition report arrived at 4:47 PM on 19 November 2026. | FICTIONAL_DRAFT |
+| `E03-D04-EVT-003` | Condition report confirms: external container intact; seal unbroken; last authorized access = original deposit; no subsequent entry recorded. | FICTIONAL_DRAFT |
+| `E03-D04-EVT-004` | Access authorization form submitted to building custodian by Koware Liaison Officer. | FICTIONAL_DRAFT |
+| `E03-D04-EVT-005` | Probe direction confirmed as backward (~1994-03-21) during Enka/McCauley morning meeting. Field team informed of updated telemetry. | FICTIONAL_DRAFT (Probe data = SPECULATIVE_PROBE_SCENARIO) |
+| `E03-D04-EVT-006` | HQ uncatalogued box inventory (Mubarak/Lovemore thread) noted as open but not advanced in this installment. | OPEN_THREAD |
+
+### B5.3 Accepted post-state (conditional — awaiting editorial acceptance)
+
+If this draft is accepted:
+- The box in KL remains sealed and physically intact.
+- A condition report has been officially received and filed.
+- The access authorization form is in transit to the building custodian.
+- Next eligible story step: receive access authorization response from building custodian (Day 25 or later).
+- HQ uncatalogued box thread remains open.
+- Probe is pointing backward (~1994); field team is aware of the phase transition.
+
+---
+
+## B6 — Portable Production Handover (Fifteen Required Elements)
+
+1. **Identity and revisions.** Working chronicle identity: `S00_CH05_E03_DAY04`. Internal revision: `E03-DAY04-DRAFT-20261119-01`. Framework candidates: CC-01.01 v0.09.01; CC-02.01/CC-02.02 v0.09.03. No owner adoption or editorial acceptance established.
+
+2. **Calendar.** Chapter 05 began provisionally Monday, 19 October 2026 (first Monday on or after Oct 16). Episode 03 covers 16–27 November 2026 (Mon–Fri, weeks 1–2). DAY04 = Thursday, 19 November 2026 = Chapter Working Day 24. Calendar adoption, timezone/calendar file and identifier migration remain owner-unresolved (EX-06 open from E02). This production run treats the arithmetic as the best available working assumption under PROVISIONAL operation.
+
+3. **Temporal/spatial snapshot.** P: Accra, 2026-11-19T15:48:17Z. H: Las Vegas historical reference, 2003-07-23T08:38:00Z. F: 1994-03-21T02:17:04Z (SPECULATIVE_PROBE_SCENARIO — backward displacement ~32.7 years). KL field team position: Kuala Lumpur. Individual deployed member positions and temporal states: UNVERIFIED. Enka's physical present: Koware HQ, New Legon Estates, Accra.
+
+4. **What happened.** A holding notice was received confirming the condition report on the archived box in KL was in final review. The condition report arrived end-of-day: container intact, seal unbroken, last access = original deposit. An access authorization form was submitted to the building custodian. The Legal Journalist (McCauley) maintained documentation discipline throughout. Enka reviewed Probe telemetry showing the backward phase displacement. YouVersion verse for the day noted. EDF Week 98 (LXX Judges/Ruth) engaged thematically. No canon promotion; no box opened; no access granted yet.
+
+5. **Character projection.** McCauley: maintains documentation discipline, margin-note practice, evidence-claim separation. Enka: Probe data custodian, final decision authority, present at HQ. Liaison Officer and Assistant: forms-handling and correspondence. Field team: passive receipt of custodian report, no independent action. No permanent behavioral file updates authorized.
+
+6. **Mission projection.** Field team holds observation posture in KL. Condition report received but access authorization still pending. No extraction or return claimed. No route tested. Probe phase 5, backward displacement noted; field team informed.
+
+7. **Organization/roles.** Chapter day 24 role focus: Legal Journalist, Corporate Manager, Liaison Officer, Liaison Assistant (all per organizational chart Days 4, 24). Day 25 to continue with Legal Journalist and Liaison Intern/Personnel group. Fictional actions are `FICTION_ONLY`.
+
+8. **Study and safety.** Week 98 EDF reading: LXX Judges/Ruth. YouVersion 1 Thessalonians 5:16–18 (NIV), 19 November 2026, confirmed. H&S themes present as professional conduct motif (documentation discipline, verification before action). No specific course code cited; no completion claimed.
+
+9. **Research provenance.** All five news items retrieved from published sources on 19 November 2026 and tagged with event date, article date and retrieval date. Probe data from user-supplied fallback snapshot (as-of ~15:48 UTC). No weather claim. No private calendar/meeting data used.
+
+10. **Restricted key.** No challenge answer key created. Challenge question (Part E at chronicle end) has no stored answer in this document or any public file.
+
+11. **Challenge.** Single five-option public challenge at literal end of Output A. Options A–E presented. No answer stored here. No prior challenge reveal obligation inspected; secure accepted register required for that check.
+
+12. **Derivatives/cards.** No comic, collage, voice, clip, media plan, card or video created. No existing prior comic retrieved; visual continuity cannot be certified. Subsequent expressly commissioned comic must use accepted narrative revision and cleared visual references.
+
+13. **Exceptions and decisions.**
+    - EX-06 OPEN: No owner-approved calendar/timezone record. Working assumption: Chapter starts 19 Oct 2026 per DCGP provisional arithmetic.
+    - EX-07 OPEN: Individual consent and character rights unverified.
+    - EX-08 OPEN: Prior comic images not retrieved; visual continuity not certified.
+    - EX-E03-01 NEW: E03 DAY01–03 have no archived platform responses; carry-forward based on episodic memory only. If DAY01–03 drafts exist elsewhere, they supersede this document's assumed E03 continuity.
+    - EX-E03-02 NOTE: HQ uncatalogued box thread (Mubarak/Lovemore Saiga, three boxes) not advanced in this installment. It remains an active story thread for Day 25+.
+
+14. **Next eligible working day.** Day 25 = Friday, 20 November 2026. Role focus: Legal Journalist (continuing), Cooperative Intern (NSS-3), Liaison Intern (NSS-4), Liaison Personnel (NSS-5). Narrative constraint: access authorization response from KL building custodian expected; decision on whether to open the box may fall on Day 25 or into the second week of E03. HQ uncatalogued box thread to be advanced.
+
+15. **Operational truth.** The generated local Markdown public narrative and internal handover were created in this production session and stored locally. They were not saved to GitHub, signed, editorially accepted, released or illustrated. The public file ends at the single chronicle challenge; this combined editorial package is INTERNAL ONLY.
+
+---
+
+## B7 — Derivatives and Challenge Status
+
+- No comic, image, video or audio asset exists for this chronicle.
+- Prior E03 DAY01–03 assets: not retrieved; unknown.
+- Challenge reveal for this day's question: no answer key created.
+- Prior daily challenge reveal obligations from E03 DAY01–03: cannot be inspected without archived source files.
+
+---
+
+## B8 — QA Summary and Exception Register
+
+### B8.1 Q-gate summary
+
+| Gate | Status | Evidence / Notes |
+|---|---|---|
+| Q01_DATE | PASS | Date 19 November 2026 confirmed; production timestamp from live fallback |
+| Q02_CALENDAR | PROVISIONAL_PASS | Chapter day 24 from arithmetic; EX-06 open |
+| Q03_CLOCKS | PASS | H/P/F recorded from fallback with provenance; not conflated |
+| Q04_IDENTITY | PASS | Archive ID `S00_CH05_E03_DAY04`; stable; no alias assumed |
+| Q05_CANON | PROVISIONAL_PASS | E02 carry-forward used; E03 DAY01–03 sources absent (EX-E03-01) |
+| Q06_ROLE_PROJECT | PASS | Days 24 role group: McCauley/Enka/NSS-1/NSS-2 from org chart |
+| Q07_STUDY | PASS | Week 98 LXX Judges/Ruth; UPMP A16 fixture; no daily passage invented |
+| Q08_VERSE_HS | PASS | 1 Thess 5:16–18 NIV from YouVersion 19 Nov 2026; confirmed by direct retrieval |
+| Q09_RESEARCH | PASS | Five news items with event/article/retrieval dates separated |
+| Q10_RIGHTS | PROVISIONAL_PASS | No private diary. Character rights/consent: EX-07 open |
+| Q11_STORY | PASS (structural) | Single earned V6 narrative arc; causal derivation from E02/E03 carry-forward |
+| Q12_CHALLENGE | PASS (structural) | One A–E question at literal end of public A; no spoiler |
+| Q13_RECORDS | PASS | B1–B8 complete; 15-element B6; accepted/proposed events separated |
+| Q14_DERIVATIVES | PASS | No comic or media created; held for separate commission |
+| Q15_INTEGRITY | PASS | No GitHub commit claimed; no approval claimed; no live Probe acquisition claimed as new |
+| Q16_BOUNDARIES | PASS | Challenge answer not stored; no restricted material in public A |
+
+### B8.2 Exception register
+
+| ID | Severity | Description | Owner / Resolution | State |
+|---|---|---|---|---|
+| EX-06 | MATERIAL (inherited) | No owner-approved calendar/timezone/phase record | Calendar/archive owner | OPEN |
+| EX-07 | MATERIAL (inherited) | Character rights, individual consent, job-description files not fully verified | Koware record custodian | OPEN |
+| EX-08 | MATERIAL (inherited) | Prior comic images unavailable | Visual editor | OPEN |
+| EX-E03-01 | MATERIAL (new) | E03 DAY01–03 have no archived platform responses; carry-forward relies on episodic memory only | Archive owner: provide/accept DAY01–03 records | OPEN |
+| EX-E03-02 | ADVISORY | HQ uncatalogued box thread (Mubarak/Elijah/Lovemore) not advanced; held for Day 25+ | Story editor: schedule advancement | OPEN |
+| EX-E03-03 | ADVISORY | Probe direction reversed from forward (2167) to backward (1994) since E02.07; magnitude shift is large; field team narrative impact to be assessed | Story/research editor | OPEN |
+
+### B8.3 Final producer state
+
+**Narrative manuscript:** Full single-day public chronicle created and locally stored.
+**Internal ledger:** B1–B8 created and locally stored.
+**Repository persistence:** `DRAFTED_NOT_COMMITTED`; no write attempted.
+**Editorial status:** `UNREVIEWED`; no acceptance, signature or publication.
+**Comic/media:** `NOT_COMMISSIONED`; awaiting separate user instructions.
+**Restricted key:** `RESTRICTED OUTPUT NOT CREATED; HUMAN SECURE CUSTODY REQUIRED`.
+
+---
+
+**END — INTERNAL B1–B8 HANDOVER**
+*S00_CH05_E03_DAY04 | 19 November 2026 | KiroCrew production run*
+
+
+<<STOP KIROCREW-1>>
+
+<<START OTHER-1>>
+
+NULL
+
+<<STOP OTHER-1>>
