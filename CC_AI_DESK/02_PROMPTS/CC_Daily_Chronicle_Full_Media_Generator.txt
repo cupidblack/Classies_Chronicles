@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-23T08:38:00+00:00"}
+{"iso":"2003-07-23T09:47:16+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"1994-03-21T02:17:04Z","now_iso":"2026-11-19T15:48:17Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0234532999999999998419486502143627149052917957305908203125,"amplitude_days":75882.921475199997075833380222320556640625,"probe_value_days":-11931.563346943317810655571520328521728515625}
+{"probe_iso":"1988-08-08T03:56:50Z","now_iso":"2026-11-19T22:43:55Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0232201999999999998680610957535463967360556125640869140625,"amplitude_days":75865.638508799995179288089275360107421875,"probe_value_days":-13982.782693319035388412885367870330810546875}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -24,8 +24,6 @@ The following is the Unified_Production_Master_Prompt set for the Classies Chron
 <<START Unified_Production_Master_Prompt SET>>
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01-Unified_Production_Master_Prompt_v0.09.01_Candidate.md
-
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.01_Comic_Default_Alignment_Amendment_v0.09.04_PROPOSED.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-01.02-Convergence_QA_and_File_Manifest_v0.09.01_Candidate.md
 
