@@ -50,7 +50,7 @@ After generating the Classies Chronicles episode, wait for my prompt to use the 
 
 <<START Master_Comic_Generation_Prompt SET>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.00.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.01.md
 
 https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.08.00.md
 
@@ -196,13 +196,13 @@ Consider all the feasible recommendations, corrections and suggested modificatio
 
 
 
-The following graphic is the main Koware Group's logo:
+The following graphic is the main Koware Group's logo to be used in the comics where appropriate but not to appear with the Classies Chronicles title:
 https://github.com/cupidblack/Koware_Management/blob/main/Koware-Logo_Text-plain.png
 
 The following graphics in the repository folder have been considered to represent the Classies Chronicles. Review and analyze the graphics to set an appropriate graphic/logo for the chronicle or episode:
 https://github.com/cupidblack/Classies_Chronicles/tree/main/Identity_Logos
 
-Referencing the following previously generated comic pages from some of the previously produced Daily Classies Chronicles, produce the comic pages for this Classies Chronicles episode using the Master_Comic_Generation_Prompt SET:
+Use the https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.08.01.md SET to produce the comic pages for this Classies Chronicles episode. Referencing the following previously generated comic pages from some of the previously produced Daily Classies Chronicles:
 
 <<START PREVIOUS COMICS>>
 
@@ -226,4 +226,4 @@ https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_EPISODE_ARCHIVES/
 
 <<STOP PREVIOUS COMICS>>
 
-Modify the Master_Comic_Generation_Prompt to generate four comic pages per 2x2 graphic collage instead of the previously proposed 16 comic pages per 4x4 graphic collage setup. The purposed is to improve the quality of the comic graphics.
+There must be four comic pages per 2x2 graphic collage instead of the previously proposed 16 comic pages per 4x4 graphic collage setup. The purpose is to improve the quality of the comic graphics. Additionally ensure that the 9:16 aspect ratio is enforced for each generated comic page. Make sure comic pages acts and scenes are not repeated and produced only once.
