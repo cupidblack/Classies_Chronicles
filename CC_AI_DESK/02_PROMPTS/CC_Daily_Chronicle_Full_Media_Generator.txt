@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-23T09:47:16+00:00"}
+{"iso":"2003-07-23T21:31:41+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"1988-08-08T03:56:50Z","now_iso":"2026-11-19T22:43:55Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.0232201999999999998680610957535463967360556125640869140625,"amplitude_days":75865.638508799995179288089275360107421875,"probe_value_days":-13982.782693319035388412885367870330810546875}
+{"probe_iso":"1980-03-18T02:51:32Z","now_iso":"2026-11-20T09:10:25Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.022617100000000001092104184863273985683917999267578125,"amplitude_days":75820.922262399995815940201282501220703125,"probe_value_days":-17048.2631188559389556758105754852294921875}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
@@ -53,11 +53,11 @@ After generating the daily Classies Chronicle, wait for my prompt to use the fol
 
 <<START Master_Comic_Generation_Prompt SET>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.09.04_Candidate.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.01-Master_Comic_Generation_Prompt_v0.09.05_Candidate.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.09.04_Candidate.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.02-Comic_Refactor_Review_Conflict_Register_and_Change_Traceability_v0.09.05_Candidate.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-Comic_QA_and_File_Manifest_v0.09.04_Candidate.md
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/CC-03.03-Comic_QA_and_File_Manifest_v0.09.05_Candidate.md
 
 <<STOP Master_Comic_Generation_Prompt SET>>
 
@@ -111,6 +111,22 @@ The Eternal Dreamfall Bible Study Five-year reading-plan is key to the chronicle
 
 3.i. Calendar authorization fails
 3.ii. Approve character cannons with draft status, no verified consent or no approved public portrayals.
+
+4. Note the following update to the Koware Headquarters: The Koware Group occupies 5 single story 3 bedroom apartment blocks clustered in a group so that all the blocks share a boundary line with at least one other department in another 3 bedroom apartment block. The clustered apartment blocks are located in the New Legon Estates in Accra. Each apartment block is managed by one Koware Group department. The governing committee usually hires a conference hall at a convenient location in Accra for its quarterly governance meetings with some stakeholders, shareholders, Board of directors, two representatives from God as CEO, member representatives, and all top level managers. Video calls are managed for those who cannot be there. It is compulsory for leading top level job roles to be present.
+
+5. The following graphic is the main logo for the Koware Group:
+
+https://github.com/cupidblack/Koware_Management/blob/main/Koware-Logo_Text-plain.png
+
+6. Logos and graphics that should represent the Classies Chronicles an be found in the following folder:
+
+https://github.com/cupidblack/Classies_Chronicles/tree/main/Identity_Logos
+
+7. The Probing team deployed by the Edubeam cannot communicate on live streams with the Koware Group in the present. Messages can be left or sent through the Edubeam when necessary and usually urgent. For example, this would mean that the observations from Kuala Lumpar are not live streams but rather a review of reports, data and media delivered by the previous Edubeam team on their return.
+
+8. When a team is deployed through the Edubeam to probe, usually during the 1st or second chronicle of an episode, the historical, current and probing times are logged. These logged deployment times should be saved in the continuity ledger so that so that the same times can be used to for their return in the ninth chronicle. Depending on their deployment time, their return time would be calculated by adding the number of days that have passed since their deployment to their time of deployment. This way the tem is not beamed back as soon as they arrive at their probing destination.
+
+9. The probing team should feature in about 20% to 33% of each daily chronicle, although they cannot communicate with the Koware Group. The idea is to give the audience a peak at the conditions, environment, lifestyles and other factors at the team's probing time and location. Any experiences, encounters and challenges they have would be key takeaways for the audience and would be reported on their return. Something like a history lesson where students learn the key events that made history. In case of the probe deploying the team to the past through the Edubeam, the team might not encounter the key players who made the history but may encounter locals where were living in the area at the time the history was made. Their lifestyles, reactions to the history and more could be covered to make it more entertaining and educative for the audience.
 
 <<STOP NOTES>>
 
