@@ -124,9 +124,11 @@ https://github.com/cupidblack/Classies_Chronicles/tree/main/Identity_Logos
 
 7. The Probing team deployed by the Edubeam cannot communicate on live streams with the Koware Group in the present. Messages can be left or sent through the Edubeam when necessary and usually urgent. For example, this would mean that the observations from Kuala Lumpar are not live streams but rather a review of reports, data and media delivered by the previous Edubeam team on their return.
 
-8. When a team is deployed through the Edubeam to probe, usually during the 1st or second chronicle of an episode, the historical, current and probing times are logged. These logged deployment times should be saved in the continuity ledger so that so that the same times can be used to for their return in the ninth chronicle. Depending on their deployment time, their return time would be calculated by adding the number of days that have passed since their deployment to their time of deployment. This way the tem is not beamed back as soon as they arrive at their probing destination.
+8. When a team is deployed through the Edubeam to probe, usually during the 1st or second chronicle of an episode, the historical, current and probing times are logged. These logged deployment times should be saved in the continuity ledger so that so that the same times can be used to for their return in the ninth chronicle. Depending on their deployment time, their return time would be calculated by adding the number of days that have passed since their deployment to their time of deployment. This way the team is not beamed back as soon as they arrive at their probing destination.
 
-9. The probing team should feature in about 20% to 33% of each daily chronicle, although they cannot communicate with the Koware Group. The idea is to give the audience a peak at the conditions, environment, lifestyles and other factors at the team's probing time and location. Any experiences, encounters and challenges they have would be key takeaways for the audience and would be reported on their return. Something like a history lesson where students learn the key events that made history. In case of the probe deploying the team to the past through the Edubeam, the team might not encounter the key players who made the history but may encounter locals where were living in the area at the time the history was made. Their lifestyles, reactions to the history and more could be covered to make it more entertaining and educative for the audience.
+9. The probing team should feature in about 20% to 33% of each daily chronicle, although they cannot communicate with the Koware Group. The idea is to give the audience a peak at the conditions, environment, lifestyles and other factors at the team's probing time and location. Any experiences, encounters and challenges they have would be key takeaways for the audience and would be reported on their return. Something like a history lesson where students learn the key events that made history. In case of the probe deploying the team to the past through the Edubeam, the team might not encounter the key players who made the history but may encounter locals where were living in the area at the time the history was made. Their lifestyles, reactions to the history, popular music, movies, tv shows or series at that time could feature, events, activities, concerts and more could be covered to make it more entertaining, informative and educative for the audience.
+
+10. Acquire as many relevant news headlines as possible form the current, historical and probing times. The idea is to keep the audience informed about the news. The news can be integrated as just a mention on the tv, radio, someone commenting on a news headline, the AI reporting news requested by someone and through other modes. This would be a non-invasive way to help the main theme of the chronicle to continue whilst only affected by relevant news that might affect the decisions of characters in the chronicles.
 
 <<STOP NOTES>>
 
@@ -136,11 +138,9 @@ The following previous responses from this and other platforms must be reviewed 
 
 <<START PLATFORM RESPONSES>>
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_ARCHIVES/S00_FOUNDATION_PHASE/S00CH05_/S00CH05E03_/S00CH05E03DAY04/S00CH05E03DAY04.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_ARCHIVES/S00_FOUNDATION_PHASE/S00CH05_/S00CH05E03_/S00CH05E03DAY05/S00CH05E03DAY05.txt
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_ARCHIVES/S00_FOUNDATION_PHASE/S00CH05_/S00CH05E03_/S00CH05E03DAY04/S00CH05E03DAY04_COMBINED_INTERNAL_provisional_v2.md
-
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_ARCHIVES/S00_FOUNDATION_PHASE/S00CH05_/S00CH05E03_/S00CH05E03DAY04/S00CH05E03DAY04_Chronicle.md
+https://github.com/cupidblack/Classies_Chronicles/tree/main/CC_ARCHIVES/S00_FOUNDATION_PHASE/S00CH05_/S00CH05E03_
 
 <<STOP PLATFORM RESPONSES>>
 
