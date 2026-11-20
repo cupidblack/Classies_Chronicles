@@ -1,0 +1,198 @@
+{
+  "source_file": "S00CH05E03DAY04_STORY_refactored_provisional_v3.md",
+  "source_sha256": "2673973b3222eddf55d1f55219a46a54273e0798e2cbd9ad0f52e51687de6c5a",
+  "mode": "COMIC_GENERATE",
+  "source_status": "PROVISIONAL_DRAFT",
+  "asset_status": "PROVISIONAL_COMPOSITE_RENDERED",
+  "count_selection": "N16 as CC-UPMP v0.09.01 §42 (new N8 policy proposed only)",
+  "page_size_px": [
+    1080,
+    1920
+  ],
+  "sheet_size_px": [
+    2160,
+    3840
+  ],
+  "rights": "NOT_CLEARED_FOR_PUBLICATION",
+  "visual_notes": "Original generated image fragments were lower resolution and were resampled; they are generic illustrative backgrounds and must not be treated as accurate accepted character designs or factual archive evidence. Visual source artifacts may contain stray inaccurate text: final release requires controlled reillustration/relettering.",
+  "pages": [
+    {
+      "id": "P01",
+      "name": "S00CH05E03DAY04_P01_PROVISIONAL.png",
+      "bytes": 846409,
+      "sha256": "1fb7ca69a8c87659230d67a9ff8b67c1b40945742d03f196c3bcc3e44a390691",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P02",
+      "name": "S00CH05E03DAY04_P02_PROVISIONAL.png",
+      "bytes": 724102,
+      "sha256": "19e67474145f18363ec7d58e01656401cf0c2b480c52161191d0e503f63891c9",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P03",
+      "name": "S00CH05E03DAY04_P03_PROVISIONAL.png",
+      "bytes": 792711,
+      "sha256": "b970d10d96c5c6a6068b3c608533b94556b9fadc7cf890c380df1c5c5f57a892",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P04",
+      "name": "S00CH05E03DAY04_P04_PROVISIONAL.png",
+      "bytes": 834235,
+      "sha256": "edf928ad48631cb25950015af0984cb67536ad6eef369817c1f9f3a3ba7b88c1",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P05",
+      "name": "S00CH05E03DAY04_P05_PROVISIONAL.png",
+      "bytes": 794436,
+      "sha256": "9642c531f7e0b0a9e55490025fc3956faf10af8bdd268d226bdaafaa8170139b",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P06",
+      "name": "S00CH05E03DAY04_P06_PROVISIONAL.png",
+      "bytes": 854954,
+      "sha256": "2d5e87b220bcc462d8e0a2826de0ddd909862f0be6d9eb543de64a7488b75cd8",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P07",
+      "name": "S00CH05E03DAY04_P07_PROVISIONAL.png",
+      "bytes": 783554,
+      "sha256": "df356b416cb994f25992df4f13111b040b51504062badf0185bd8e361892761a",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P08",
+      "name": "S00CH05E03DAY04_P08_PROVISIONAL.png",
+      "bytes": 804755,
+      "sha256": "2ff6a8306ff299fdd321e208126e8941b1598aa3baa25b3301a093bb0e065e3e",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P09",
+      "name": "S00CH05E03DAY04_P09_PROVISIONAL.png",
+      "bytes": 795421,
+      "sha256": "89a306884753af024c531aa37e7c56b1000a0417749f6b3daa6cce57d1acbc07",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P10",
+      "name": "S00CH05E03DAY04_P10_PROVISIONAL.png",
+      "bytes": 841720,
+      "sha256": "8ffb71c605b75cfb0c85c35ea93e7ee6edad959e9b41a2b8061601951e95e360",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P11",
+      "name": "S00CH05E03DAY04_P11_PROVISIONAL.png",
+      "bytes": 745328,
+      "sha256": "f48f230e791bfa4645fcc147b7e931128f9504a36d1290604320aaccc0458a44",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P12",
+      "name": "S00CH05E03DAY04_P12_PROVISIONAL.png",
+      "bytes": 723071,
+      "sha256": "08cf1568f2bb552944d54ee5c98b81b11abe559f37dee0f2b98f0c38fdc337c8",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P13",
+      "name": "S00CH05E03DAY04_P13_PROVISIONAL.png",
+      "bytes": 723944,
+      "sha256": "5f961b129320bac995e63dd7c9076c286904890fefd3d1b3f027828b7fe4d8f6",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P14",
+      "name": "S00CH05E03DAY04_P14_PROVISIONAL.png",
+      "bytes": 837051,
+      "sha256": "f9a7c546b8594216dad20961ec015c0e5605711fd4b8a4e7139a7f513a06185f",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P15",
+      "name": "S00CH05E03DAY04_P15_PROVISIONAL.png",
+      "bytes": 870776,
+      "sha256": "a5b6cec27b97a7a183bccf0a84d1bc92364f5e04d03d7d79af2a3517b5281b9b",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "P16",
+      "name": "S00CH05E03DAY04_P16_PROVISIONAL.png",
+      "bytes": 558981,
+      "sha256": "85303d13baaa83c30a026fc450c39b746a1f9d87f08be4fb5eb525d22f38dfed",
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "sheets": [
+    {
+      "id": "S01",
+      "name": "S00CH05E03DAY04_S01_P01-P04_PROVISIONAL.png",
+      "bytes": 3112921,
+      "sha256": "47f15057bb4e6401be0a36b01a795b4d7f71a63d671dc3e6a2211ebe6e950f8e",
+      "pages": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "S00CH05E03DAY04_S02_P05-P08_PROVISIONAL.png",
+      "bytes": 3137981,
+      "sha256": "b3aa632aade64491dd8af032c5a4119500bb53bcf5084adf673d58496de1b1d2",
+      "pages": [
+        "P05",
+        "P06",
+        "P07",
+        "P08"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "S00CH05E03DAY04_S03_P09-P12_PROVISIONAL.png",
+      "bytes": 24894946,
+      "sha256": "fe206ae6f98ebfb01702135363afbe544302c01566a6c28eeee43afcdb0ead34",
+      "pages": [
+        "P09",
+        "P10",
+        "P11",
+        "P12"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "S00CH05E03DAY04_S04_P13-P16_PROVISIONAL.png",
+      "bytes": 3518719,
+      "sha256": "822460d7a23387232ce40cce6fe124a1a70f9c8e614570c5e1faed01ccc6665e",
+      "pages": [
+        "P13",
+        "P14",
+        "P15",
+        "P16"
+      ]
+    }
+  ]
+}
