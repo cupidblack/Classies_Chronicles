@@ -4,12 +4,12 @@ The following resources should only be used as a fallback in case they fail to b
 1. Historical Reference Endpoint:
 https://buzzjuice.net/shared/millennium-timezone/millennium-timezone.php?endpoint=historical
 
-{"iso":"2003-07-23T21:31:41+00:00"}
+{"iso":"2003-07-23T21:53:29+00:00"}
 
 2. Millennium Probe's current endpoint raw response:
 https://buzzjuice.net/shared/millennium-timezone/millennium-probe.php?probe=now
 
-{"probe_iso":"1980-03-18T02:51:32Z","now_iso":"2026-11-20T09:10:25Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.022617100000000001092104184863273985683917999267578125,"amplitude_days":75820.922262399995815940201282501220703125,"probe_value_days":-17048.2631188559389556758105754852294921875}
+{"probe_iso":"1980-03-18T02:51:32Z","now_iso":"2026-11-20T11:21:19Z","phase_index":5,"phase_label":"Oct 16 \u2013 Dec 20","phase_start_iso":"2026-10-16T00:00:00Z","phase_end_iso":"2026-12-20T23:59:59Z","oscillation_index":0.022617100000000001092104184863273985683917999267578125,"amplitude_days":75820.922262399995815940201282501220703125,"probe_value_days":-17048.2631188559389556758105754852294921875}
 
 3. Locations:
 Enka's historical location: Las Vegas, Nevada
