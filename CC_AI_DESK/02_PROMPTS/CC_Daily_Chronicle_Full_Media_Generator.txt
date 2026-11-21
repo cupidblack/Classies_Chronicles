@@ -152,6 +152,12 @@ Consider all the feasible recommendations, corrections and suggested modificatio
 
 
 
+Implement the Master_Comic_Generation_Prompt SET to produce the comic pages for the produced chronicle.
+
+
+
+
+
 
 
 

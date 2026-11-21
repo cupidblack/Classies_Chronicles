@@ -1,0 +1,334 @@
+{
+  "run_id": "S00CH05E03DAY05_COMIC_v0.09.05_CANDIDATE_PROVISIONAL",
+  "source_path": "/mnt/data/classies_2026-11-20/S00CH05E03DAY05_STORY_refactored_provisional_v4.md",
+  "source_sha256": "619985b010b208b95582dcca78a7908617b763b57b134c537c2ce84f1a528eb1",
+  "date_utc": "2026-11-20T13:09:28.536121+00:00",
+  "total_pages": 16,
+  "sheet_count": 4,
+  "render_mode": "SHEET_STEP",
+  "source_provider": "image_gen",
+  "actual_native_sheet_resolution": [
+    1024,
+    1536
+  ],
+  "actual_extracted_cell_resolution": [
+    512,
+    768
+  ],
+  "required_page_aspect_ratio": "9:16",
+  "actual_page_aspect_ratio": "2:3",
+  "geometry_qa": "FAIL (strict 9:16); source-generated sheet pixels are 1024x1536 and cropped pages are 512x768; no resampling or synthetic padding applied",
+  "creative_assets_status": "RENDERED_DRAFT, editorial acceptance unverified",
+  "public_release_authorized": false,
+  "rights_review": "UNVERIFIED — provisional fictional representations",
+  "challenge_page": "P16",
+  "challenge_check": "Visually appears on P16 only; exact typography and fidelity requires final editorial check",
+  "sheets": [
+    {
+      "sheet_id": "S01",
+      "file": "S00CH05E03DAY05_S01_P01-P04_r01.png",
+      "sha256": "e6a763f2bd7fe5d7171c7cb63a88e213fb7da9bac9ce522db8646a4adb28c86f",
+      "source_image_file": "a_detailed_comic_book_style_page_with_four_comic_p.png",
+      "resolution": [
+        1024,
+        1536
+      ],
+      "page_ids": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ]
+    },
+    {
+      "sheet_id": "S02",
+      "file": "S00CH05E03DAY05_S02_P05-P08_r01.png",
+      "sha256": "cfa91609d97830f9d74bca25e15ed905c2df79ae9abd3629c0caf0b61f514727",
+      "source_image_file": "a_detailed_comic_style_comic_page_collage_4_panel.png",
+      "resolution": [
+        1024,
+        1536
+      ],
+      "page_ids": [
+        "P05",
+        "P06",
+        "P07",
+        "P08"
+      ]
+    },
+    {
+      "sheet_id": "S03",
+      "file": "S00CH05E03DAY05_S03_P09-P12_r01.png",
+      "sha256": "792726042a94eb840bac323b34519060442f53ae4ccaa13befb854f8eb4bbc8d",
+      "source_image_file": "a_detailed_comic_style_collage_image_four_comic_p.png",
+      "resolution": [
+        1024,
+        1536
+      ],
+      "page_ids": [
+        "P09",
+        "P10",
+        "P11",
+        "P12"
+      ]
+    },
+    {
+      "sheet_id": "S04",
+      "file": "S00CH05E03DAY05_S04_P13-P16_r01.png",
+      "sha256": "9bcc5828088e8ac2b81c5d2225ea3667da5a0f5b2db51a7593e968b3a7f08595",
+      "source_image_file": "a_detailed_comic_book_style_composite_illustratio.png",
+      "resolution": [
+        1024,
+        1536
+      ],
+      "page_ids": [
+        "P13",
+        "P14",
+        "P15",
+        "P16"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "P01",
+      "file": "S00CH05E03DAY05_P01_r01.png",
+      "sha256": "671729d2424c510eb68b001a2db720c9a072f408e084ca4569b64cf97eec1af9",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        0,
+        512,
+        768
+      ],
+      "sheet_id": "S01"
+    },
+    {
+      "page_id": "P02",
+      "file": "S00CH05E03DAY05_P02_r01.png",
+      "sha256": "03dca181372e8dd9c918961cba7983ce30ff95a19f178beedf114fab6064c3ad",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        0,
+        1024,
+        768
+      ],
+      "sheet_id": "S01"
+    },
+    {
+      "page_id": "P03",
+      "file": "S00CH05E03DAY05_P03_r01.png",
+      "sha256": "46d503082e9f2a57e8aa150b4448fa60631c6e7c936a40fc3e71fab516202cd8",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        768,
+        512,
+        1536
+      ],
+      "sheet_id": "S01"
+    },
+    {
+      "page_id": "P04",
+      "file": "S00CH05E03DAY05_P04_r01.png",
+      "sha256": "254c378ad56ca8910203edddc3b7f99f150dd1f25d329229c7da4b5627cf27c3",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        768,
+        1024,
+        1536
+      ],
+      "sheet_id": "S01"
+    },
+    {
+      "page_id": "P05",
+      "file": "S00CH05E03DAY05_P05_r01.png",
+      "sha256": "0ce219a1361f1df72027e6638c9ffb321f98de805bca74f5f41a070778d55987",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        0,
+        512,
+        768
+      ],
+      "sheet_id": "S02"
+    },
+    {
+      "page_id": "P06",
+      "file": "S00CH05E03DAY05_P06_r01.png",
+      "sha256": "0f41a425441f1d74684aac20427b65a02c3a902e422fb97a16f20ec28b73e7d2",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        0,
+        1024,
+        768
+      ],
+      "sheet_id": "S02"
+    },
+    {
+      "page_id": "P07",
+      "file": "S00CH05E03DAY05_P07_r01.png",
+      "sha256": "43e246865a4e2b761aef0a7dc054bb1fc6b0a625e2591bfeddb6f83f051b1883",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        768,
+        512,
+        1536
+      ],
+      "sheet_id": "S02"
+    },
+    {
+      "page_id": "P08",
+      "file": "S00CH05E03DAY05_P08_r01.png",
+      "sha256": "15d8fcd95b82675174e375697d26ebd842b2373d69af8ad0f802e6fffe0a2682",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        768,
+        1024,
+        1536
+      ],
+      "sheet_id": "S02"
+    },
+    {
+      "page_id": "P09",
+      "file": "S00CH05E03DAY05_P09_r01.png",
+      "sha256": "e38d2dec346c0e6e5df441aa0182811fbc6136911c2e465d1687a1b04f872f10",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        0,
+        512,
+        768
+      ],
+      "sheet_id": "S03"
+    },
+    {
+      "page_id": "P10",
+      "file": "S00CH05E03DAY05_P10_r01.png",
+      "sha256": "ee2d7365d3f9a9b7cef3ea4e7a2f9c950888c088cc8aeb17975996c90f6b3036",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        0,
+        1024,
+        768
+      ],
+      "sheet_id": "S03"
+    },
+    {
+      "page_id": "P11",
+      "file": "S00CH05E03DAY05_P11_r01.png",
+      "sha256": "88896465e35b2de01470328aed6a530fe105ad7422db3c6290fd14c71d4ffdf0",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        768,
+        512,
+        1536
+      ],
+      "sheet_id": "S03"
+    },
+    {
+      "page_id": "P12",
+      "file": "S00CH05E03DAY05_P12_r01.png",
+      "sha256": "cb01861e5832832826a0879aec35e59da0629a284d45e59208ab8e482fc43b36",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        768,
+        1024,
+        1536
+      ],
+      "sheet_id": "S03"
+    },
+    {
+      "page_id": "P13",
+      "file": "S00CH05E03DAY05_P13_r01.png",
+      "sha256": "8a421dba1aea2ee2d6506c0361b8e9973cf9635d6a313f1d1d5df30afb02dbff",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        0,
+        512,
+        768
+      ],
+      "sheet_id": "S04"
+    },
+    {
+      "page_id": "P14",
+      "file": "S00CH05E03DAY05_P14_r01.png",
+      "sha256": "dbc2561d0bd6cdd528656bf61e54545e622718de9c54f8f4423cc18ff6859a07",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        0,
+        1024,
+        768
+      ],
+      "sheet_id": "S04"
+    },
+    {
+      "page_id": "P15",
+      "file": "S00CH05E03DAY05_P15_r01.png",
+      "sha256": "1ea413b23affe071b0d44b38070171ad635d82344cfe59b8781e22990ed2f6fe",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        0,
+        768,
+        512,
+        1536
+      ],
+      "sheet_id": "S04"
+    },
+    {
+      "page_id": "P16",
+      "file": "S00CH05E03DAY05_P16_r01.png",
+      "sha256": "7af0a76dbe4d19b7ef265f3f4dbb80f410479446dd761d28e328a12a97bfb765",
+      "native_or_extracted": "extracted without resampling from source collage",
+      "width": 512,
+      "height": 768,
+      "cell_crop_rect": [
+        512,
+        768,
+        1024,
+        1536
+      ],
+      "sheet_id": "S04"
+    }
+  ]
+}
